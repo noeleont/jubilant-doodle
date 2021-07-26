@@ -14,11 +14,18 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v2
-      - name: Fetch newest
-        uses: githubocto/flat@v2
-        with:
-          http_url: https://lobste.rs/newest.json
-          downloaded_filename: newest.json
+      - name: Fetch latest data
+        run: |-
+          curl https://lobste.rs/newest.json | jq . > newest.json
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Latest data: ${timestamp}" || exit 0
+          git push
+
       - name: Neo4j import
         uses: johnymontana/flat-graph@v1.2
         with:
