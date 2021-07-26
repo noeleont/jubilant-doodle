@@ -1,13 +1,68 @@
 [
   {
+    "short_id": "f1cchk",
+    "short_id_url": "https://lobste.rs/s/f1cchk",
+    "created_at": "2021-07-26T12:17:50.000-05:00",
+    "title": "Time Travel: Running Python 3.7 on XP",
+    "url": "https://ntcore.com/?p=458",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/f1cchk/time_travel_running_python_3_7_on_xp",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 80808,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "reversing",
+      "windows"
+    ]
+  },
+  {
+    "short_id": "xivnsc",
+    "short_id_url": "https://lobste.rs/s/xivnsc",
+    "created_at": "2021-07-26T11:51:13.000-05:00",
+    "title": "What's bad about Julia?",
+    "url": "https://viralinstruction.com/posts/badjulia/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xivnsc/what_s_bad_about_julia",
+    "submitter_user": {
+      "username": "arp242",
+      "created_at": "2018-12-26T20:42:03.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 11107,
+      "avatar_url": "/avatars/arp242-100.png",
+      "invited_by_user": "Lulu",
+      "github_username": "arp242",
+      "twitter_username": "arp242_martin"
+    },
+    "tags": [
+      "plt",
+      "programming"
+    ]
+  },
+  {
     "short_id": "wcbjuq",
     "short_id_url": "https://lobste.rs/s/wcbjuq",
     "created_at": "2021-07-26T11:04:16.000-05:00",
     "title": "Building a 'billion dollar' startup with Crystal and Lucky",
     "url": "https://www.youtube.com/watch?v=XRl-it1-ruI&list=PLe1-A91ZPTpBBrrIV-N_fMmCWbFM4Uj4v",
-    "score": 0,
+    "score": 1,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/wcbjuq/building_billion_dollar_startup_with",
     "submitter_user": {
@@ -16,7 +71,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35635,
+      "karma": 35638,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -31,9 +86,9 @@
     "created_at": "2021-07-26T10:57:36.000-05:00",
     "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
     "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 1,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ulfglv/how_i_built_cross_platform_desktop",
     "submitter_user": {
@@ -42,7 +97,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 9,
+      "karma": 12,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -57,7 +112,7 @@
     "created_at": "2021-07-26T10:22:05.000-05:00",
     "title": "OP-TEE TrustZone bypass on multiple NXP i.MX models",
     "url": "https://labs.f-secure.com/advisories/op-tee-trustzone-bypass-on-multiple-nxp-i-mx-models/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +123,7 @@
       "is_admin": false,
       "about": "❤️ crypto ❤️ security ❤️",
       "is_moderator": false,
-      "karma": 248,
+      "karma": 249,
       "avatar_url": "/avatars/apromixately-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -140,9 +195,9 @@
     "created_at": "2021-07-26T08:30:01.000-05:00",
     "title": "Haskell Social Fediverse Nodes",
     "url": "https://www.haskell.social",
-    "score": 6,
+    "score": 8,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/rouvnn/haskell_social_fediverse_nodes",
     "submitter_user": {
@@ -151,7 +206,7 @@
       "is_admin": false,
       "about": "Founder & CEO of Bitnomial. Previously Partner at Allston Trading. Member of Chicago Haskell.\r\n",
       "is_moderator": false,
-      "karma": 95,
+      "karma": 98,
       "avatar_url": "/avatars/luke-100.png",
       "invited_by_user": "jcs",
       "github_username": "lukehoersten",
@@ -179,7 +234,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80806,
+      "karma": 80808,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -195,7 +250,7 @@
     "created_at": "2021-07-26T07:27:28.000-05:00",
     "title": "The Haiku Project Celebrates the Release of Beta 3",
     "url": "https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/",
-    "score": 6,
+    "score": 9,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -206,7 +261,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2028,
+      "karma": 2032,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -221,9 +276,9 @@
     "created_at": "2021-07-26T05:38:12.000-05:00",
     "title": "Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel",
     "url": "https://twitter.com/alyssarzg/status/1419469011734073347",
-    "score": 19,
-    "flags": 0,
-    "comment_count": 0,
+    "score": 25,
+    "flags": 1,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/vgirn9/debian_gnu_linux_running_bare_metal_on",
     "submitter_user": {
@@ -232,7 +287,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 328,
+      "karma": 334,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -275,7 +330,7 @@
     "created_at": "2021-07-26T03:50:09.000-05:00",
     "title": "Agile at 20: The Failed Rebellion",
     "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
-    "score": 12,
+    "score": 15,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -286,7 +341,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1084,
+      "karma": 1087,
       "avatar_url": "/avatars/idrougge-100.png",
       "invited_by_user": "gerikson"
     },
@@ -338,7 +393,7 @@
       "is_admin": false,
       "about": "a pseudo-introvert, a web developer, and a maker",
       "is_moderator": false,
-      "karma": 6,
+      "karma": 7,
       "avatar_url": "/avatars/theabbie-100.png",
       "invited_by_user": "mhausenblas",
       "github_username": "theabbie",
@@ -372,7 +427,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80806,
+      "karma": 80808,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -387,7 +442,7 @@
     "created_at": "2021-07-25T22:32:16.000-05:00",
     "title": "Understanding Rust futures by going way too deep",
     "url": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -398,7 +453,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80806,
+      "karma": 80808,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -415,7 +470,7 @@
     "url": "https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html",
     "score": 8,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/xskv4r/from_laptop_lambda_outsourcing_everyday",
     "submitter_user": {
@@ -424,7 +479,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80806,
+      "karma": 80808,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -441,7 +496,7 @@
     "url": "https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/",
     "score": 5,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/cmevok/heuristics_for_effective_software",
     "submitter_user": {
@@ -491,7 +546,7 @@
     "created_at": "2021-07-25T09:48:09.000-05:00",
     "title": "Decoded: OpenTTD",
     "url": "http://www.maizure.org/projects/decoded-openttd/index.html",
-    "score": 32,
+    "score": 33,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -502,7 +557,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11433,
+      "karma": 11434,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -599,9 +654,9 @@
     "created_at": "2021-07-25T04:24:25.000-05:00",
     "title": "Ncdu 2: Less hungry and more Ziggy",
     "url": "https://dev.yorhel.nl/doc/ncdu2",
-    "score": 67,
+    "score": 70,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/639gon/ncdu_2_less_hungry_more_ziggy",
     "submitter_user": {
@@ -610,7 +665,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 166,
+      "karma": 169,
       "avatar_url": "/avatars/Miaourt-100.png",
       "invited_by_user": "jvoisin",
       "github_username": "Miaourt",
@@ -619,58 +674,6 @@
     "tags": [
       "release",
       "zig"
-    ]
-  },
-  {
-    "short_id": "irc3gw",
-    "short_id_url": "https://lobste.rs/s/irc3gw",
-    "created_at": "2021-07-24T21:13:51.000-05:00",
-    "title": "patu is a ClojureScript game library built on Kaboom.js",
-    "url": "https://github.com/learnuidev/patu",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/irc3gw/patu_is_clojurescript_game_library_built",
-    "submitter_user": {
-      "username": "Yogthos",
-      "created_at": "2017-05-26T15:31:12.000-05:00",
-      "is_admin": false,
-      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
-      "is_moderator": false,
-      "karma": 6980,
-      "avatar_url": "/avatars/Yogthos-100.png",
-      "invited_by_user": "gered"
-    },
-    "tags": [
-      "clojure",
-      "games",
-      "web"
-    ]
-  },
-  {
-    "short_id": "ivdxbz",
-    "short_id_url": "https://lobste.rs/s/ivdxbz",
-    "created_at": "2021-07-24T20:02:31.000-05:00",
-    "title": "Use Your SNES as a MIDI Synthesizer",
-    "url": "https://www.supermidipak.com",
-    "score": 16,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ivdxbz/use_your_snes_as_midi_synthesizer",
-    "submitter_user": {
-      "username": "candle",
-      "created_at": "2019-03-14T16:04:29.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 117,
-      "avatar_url": "/avatars/candle-100.png",
-      "invited_by_user": "river"
-    },
-    "tags": [
-      "hardware"
     ]
   }
 ]
