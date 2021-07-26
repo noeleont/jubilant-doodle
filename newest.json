@@ -1,13 +1,64 @@
 [
   {
+    "short_id": "kd4qyx",
+    "short_id_url": "https://lobste.rs/s/kd4qyx",
+    "created_at": "2021-07-26T13:02:16.000-05:00",
+    "title": "Scanning your iPhone for Pegasus, NSO Group's malware",
+    "url": "https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kd4qyx/scanning_your_iphone_for_pegasus_nso",
+    "submitter_user": {
+      "username": "arkadiyt",
+      "created_at": "2017-11-19T18:50:57.000-06:00",
+      "is_admin": false,
+      "about": "https://twitter.com/arkadiyt",
+      "is_moderator": false,
+      "karma": 117,
+      "avatar_url": "/avatars/arkadiyt-100.png",
+      "invited_by_user": "zpojqwfejwfhiunz"
+    },
+    "tags": [
+      "ios",
+      "security"
+    ]
+  },
+  {
+    "short_id": "6k2stq",
+    "short_id_url": "https://lobste.rs/s/6k2stq",
+    "created_at": "2021-07-26T12:42:45.000-05:00",
+    "title": "Join the East Const revolution",
+    "url": "https://mariusbancila.ro/blog/2018/11/23/join-the-east-const-revolution/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/6k2stq/join_east_const_revolution",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11434,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++"
+    ]
+  },
+  {
     "short_id": "f1cchk",
     "short_id_url": "https://lobste.rs/s/f1cchk",
     "created_at": "2021-07-26T12:17:50.000-05:00",
     "title": "Time Travel: Running Python 3.7 on XP",
     "url": "https://ntcore.com/?p=458",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/f1cchk/time_travel_running_python_3_7_on_xp",
     "submitter_user": {
@@ -16,7 +67,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80808,
+      "karma": 80812,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -32,9 +83,9 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/xivnsc/what_s_bad_about_julia",
     "submitter_user": {
@@ -43,7 +94,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11107,
+      "karma": 11110,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -137,7 +188,7 @@
     "created_at": "2021-07-26T09:27:24.000-05:00",
     "title": "Taking Months to Bits",
     "url": "https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -148,7 +199,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 645,
+      "karma": 646,
       "avatar_url": "/avatars/mtnygard-100.png",
       "invited_by_user": "carinmeier",
       "github_username": "mtnygard"
@@ -164,8 +215,8 @@
     "created_at": "2021-07-26T08:56:09.000-05:00",
     "title": "xmake v2.5.6 released, Improve compatibility of pre-compiled binary package",
     "url": "https://github.com/xmake-io/xmake/wiki/xmake-v2.5.6-released,-Improve-compatibility-of-pre-compiled-binary-package",
-    "score": 2,
-    "flags": 0,
+    "score": 1,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/7qetog/xmake_v2_5_6_released_improve",
@@ -175,7 +226,7 @@
       "is_admin": false,
       "about": "C/C++,Lua,Java,Python,Android,iOS,Reverse Engineering\r\n\r\nContacts:\r\n--------------------------------------------------------\r\nGithub: https://github.com/waruqi\r\nWebsite: https://tboox.org\r\nXMake: https://xmake.io\r\nEmail: waruqi@gmail.com",
       "is_moderator": false,
-      "karma": 374,
+      "karma": 373,
       "avatar_url": "/avatars/ruki-100.png",
       "invited_by_user": "friendlysock",
       "github_username": "waruqi",
@@ -195,9 +246,9 @@
     "created_at": "2021-07-26T08:30:01.000-05:00",
     "title": "Haskell Social Fediverse Nodes",
     "url": "https://www.haskell.social",
-    "score": 8,
+    "score": 11,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/rouvnn/haskell_social_fediverse_nodes",
     "submitter_user": {
@@ -206,7 +257,7 @@
       "is_admin": false,
       "about": "Founder & CEO of Bitnomial. Previously Partner at Allston Trading. Member of Chicago Haskell.\r\n",
       "is_moderator": false,
-      "karma": 98,
+      "karma": 105,
       "avatar_url": "/avatars/luke-100.png",
       "invited_by_user": "jcs",
       "github_username": "lukehoersten",
@@ -223,7 +274,7 @@
     "created_at": "2021-07-26T08:12:08.000-05:00",
     "title": "Finding Windows HANDLE leaks, in Chromium and others",
     "url": "https://randomascii.wordpress.com/2021/07/25/finding-windows-handle-leaks-in-chromium-and-others/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -234,7 +285,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80808,
+      "karma": 80812,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -276,9 +327,9 @@
     "created_at": "2021-07-26T05:38:12.000-05:00",
     "title": "Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel",
     "url": "https://twitter.com/alyssarzg/status/1419469011734073347",
-    "score": 25,
+    "score": 26,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/vgirn9/debian_gnu_linux_running_bare_metal_on",
     "submitter_user": {
@@ -287,7 +338,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 334,
+      "karma": 335,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -330,9 +381,9 @@
     "created_at": "2021-07-26T03:50:09.000-05:00",
     "title": "Agile at 20: The Failed Rebellion",
     "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/zdzsdf/agile_at_20_failed_rebellion",
     "submitter_user": {
@@ -341,7 +392,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1087,
+      "karma": 1088,
       "avatar_url": "/avatars/idrougge-100.png",
       "invited_by_user": "gerikson"
     },
@@ -393,7 +444,7 @@
       "is_admin": false,
       "about": "a pseudo-introvert, a web developer, and a maker",
       "is_moderator": false,
-      "karma": 7,
+      "karma": 8,
       "avatar_url": "/avatars/theabbie-100.png",
       "invited_by_user": "mhausenblas",
       "github_username": "theabbie",
@@ -427,7 +478,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80808,
+      "karma": 80812,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -442,7 +493,7 @@
     "created_at": "2021-07-25T22:32:16.000-05:00",
     "title": "Understanding Rust futures by going way too deep",
     "url": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-    "score": 25,
+    "score": 26,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -453,7 +504,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80808,
+      "karma": 80812,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -479,7 +530,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80808,
+      "karma": 80812,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -572,7 +623,7 @@
     "created_at": "2021-07-25T06:27:17.000-05:00",
     "title": "epilys/sic: link aggregator community organised by tags",
     "url": "https://github.com/epilys/sic",
-    "score": 14,
+    "score": 16,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -583,7 +634,7 @@
       "is_admin": false,
       "about": "NTUA student\r\n\r\nhttps://chaos.social/@epilys\r\nhttps://github.com/epilys\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 728,
+      "karma": 730,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -601,7 +652,7 @@
     "url": "https://www.silvestar.codes/articles/you-don-t-need-react-for-building-websites/",
     "score": 23,
     "flags": 0,
-    "comment_count": 45,
+    "comment_count": 46,
     "description": "",
     "comments_url": "https://lobste.rs/s/oowhu2/you_don_t_need_react_for_building_websites",
     "submitter_user": {
@@ -619,61 +670,6 @@
     "tags": [
       "rant",
       "web"
-    ]
-  },
-  {
-    "short_id": "rsj8wg",
-    "short_id_url": "https://lobste.rs/s/rsj8wg",
-    "created_at": "2021-07-25T04:52:22.000-05:00",
-    "title": "CSS: Avoid horizontal scrolling",
-    "url": "https://3fx.ch/blog/2021/07/25/css-avoid-horizontal-scrolling/",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rsj8wg/css_avoid_horizontal_scrolling",
-    "submitter_user": {
-      "username": "bfiedler",
-      "created_at": "2020-08-07T17:49:16.000-05:00",
-      "is_admin": false,
-      "about": "Computer Science Master's student at ETH Zurich.\r\n\r\nThere's no Mastodon link support so here you go: https://mastodon.3fx.ch/@bfiedler",
-      "is_moderator": false,
-      "karma": 560,
-      "avatar_url": "/avatars/bfiedler-100.png",
-      "invited_by_user": "pushcx"
-    },
-    "tags": [
-      "css",
-      "rant",
-      "web"
-    ]
-  },
-  {
-    "short_id": "639gon",
-    "short_id_url": "https://lobste.rs/s/639gon",
-    "created_at": "2021-07-25T04:24:25.000-05:00",
-    "title": "Ncdu 2: Less hungry and more Ziggy",
-    "url": "https://dev.yorhel.nl/doc/ncdu2",
-    "score": 70,
-    "flags": 0,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/639gon/ncdu_2_less_hungry_more_ziggy",
-    "submitter_user": {
-      "username": "Miaourt",
-      "created_at": "2020-12-28T05:22:34.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 169,
-      "avatar_url": "/avatars/Miaourt-100.png",
-      "invited_by_user": "jvoisin",
-      "github_username": "Miaourt",
-      "twitter_username": "Miaourt"
-    },
-    "tags": [
-      "release",
-      "zig"
     ]
   }
 ]
