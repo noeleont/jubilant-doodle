@@ -1,5 +1,56 @@
 [
   {
+    "short_id": "sp9gmg",
+    "short_id_url": "https://lobste.rs/s/sp9gmg",
+    "created_at": "2021-07-26T14:45:26.000-05:00",
+    "title": "Harmonica: a simple, physics-based spring animation library for Go",
+    "url": "https://github.com/charmbracelet/harmonica",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/sp9gmg/harmonica_simple_physics_based_spring",
+    "submitter_user": {
+      "username": "meowgorithm",
+      "created_at": "2020-10-11T22:17:07.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/meowgorithm-100.png",
+      "invited_by_user": "muesli"
+    },
+    "tags": [
+      "go"
+    ]
+  },
+  {
+    "short_id": "beymtx",
+    "short_id_url": "https://lobste.rs/s/beymtx",
+    "created_at": "2021-07-26T14:44:27.000-05:00",
+    "title": "We need to talk about testing",
+    "url": "https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/beymtx/we_need_talk_about_testing",
+    "submitter_user": {
+      "username": "soulcutter",
+      "created_at": "2014-02-18T10:29:29.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 2898,
+      "avatar_url": "/avatars/soulcutter-100.png",
+      "invited_by_user": "gabriel",
+      "twitter_username": "soulcutter"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "hpbyge",
     "short_id_url": "https://lobste.rs/s/hpbyge",
     "created_at": "2021-07-26T14:11:52.000-05:00",
@@ -32,9 +83,9 @@
     "created_at": "2021-07-26T13:41:04.000-05:00",
     "title": "You can't tell people anything",
     "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
-    "score": 1,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ysnfyu/you_can_t_tell_people_anything",
     "submitter_user": {
@@ -43,7 +94,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 47,
+      "karma": 51,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -58,7 +109,7 @@
     "created_at": "2021-07-26T13:29:37.000-05:00",
     "title": "Lessons learned from 15 years of SumatraPDF, an open source Windows app",
     "url": "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +120,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11435,
+      "karma": 11436,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -84,7 +135,7 @@
     "created_at": "2021-07-26T13:02:16.000-05:00",
     "title": "Scanning your iPhone for Pegasus, NSO Group's malware",
     "url": "https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +146,7 @@
       "is_admin": false,
       "about": "https://twitter.com/arkadiyt",
       "is_moderator": false,
-      "karma": 119,
+      "karma": 122,
       "avatar_url": "/avatars/arkadiyt-100.png",
       "invited_by_user": "zpojqwfejwfhiunz"
     },
@@ -121,7 +172,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11435,
+      "karma": 11436,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -146,7 +197,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80814,
+      "karma": 80816,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -162,9 +213,9 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 12,
+    "score": 16,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/xivnsc/what_s_bad_about_julia",
     "submitter_user": {
@@ -173,7 +224,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11116,
+      "karma": 11120,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -216,7 +267,7 @@
     "created_at": "2021-07-26T10:57:36.000-05:00",
     "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
     "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -227,7 +278,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 15,
+      "karma": 16,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -325,7 +376,7 @@
     "created_at": "2021-07-26T08:30:01.000-05:00",
     "title": "Haskell Social Fediverse Nodes",
     "url": "https://www.haskell.social",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -336,7 +387,7 @@
       "is_admin": false,
       "about": "Founder & CEO of Bitnomial. Previously Partner at Allston Trading. Member of Chicago Haskell.\r\n",
       "is_moderator": false,
-      "karma": 109,
+      "karma": 110,
       "avatar_url": "/avatars/luke-100.png",
       "invited_by_user": "jcs",
       "github_username": "lukehoersten",
@@ -364,7 +415,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80814,
+      "karma": 80816,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -406,7 +457,7 @@
     "created_at": "2021-07-26T05:38:12.000-05:00",
     "title": "Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel",
     "url": "https://twitter.com/alyssarzg/status/1419469011734073347",
-    "score": 27,
+    "score": 29,
     "flags": 1,
     "comment_count": 4,
     "description": "",
@@ -417,7 +468,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 336,
+      "karma": 338,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -434,7 +485,7 @@
     "url": "",
     "score": 6,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 14,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/crejp0/what_are_you_doing_this_week",
     "submitter_user": {
@@ -487,7 +538,7 @@
     "url": "https://arkadiyt.com/2021/07/09/getting-partial-aws-account-ids-for-any-cloudfront-website/",
     "score": 5,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/q43tkl/getting_partial_aws_account_ids_for_any",
     "submitter_user": {
@@ -496,7 +547,7 @@
       "is_admin": false,
       "about": "https://twitter.com/arkadiyt",
       "is_moderator": false,
-      "karma": 119,
+      "karma": 122,
       "avatar_url": "/avatars/arkadiyt-100.png",
       "invited_by_user": "zpojqwfejwfhiunz"
     },
@@ -546,7 +597,7 @@
     "created_at": "2021-07-25T22:34:12.000-05:00",
     "title": "Facebook's Tectonic Filesystem:Efficiency from Exascale",
     "url": "https://paulcavallaro.com/blog/facebook-tectonic-filesystem/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -557,7 +608,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80814,
+      "karma": 80816,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -583,7 +634,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80814,
+      "karma": 80816,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -598,7 +649,7 @@
     "created_at": "2021-07-25T19:12:28.000-05:00",
     "title": "From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers",
     "url": "https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -609,65 +660,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80814,
+      "karma": 80816,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "devops"
-    ]
-  },
-  {
-    "short_id": "cmevok",
-    "short_id_url": "https://lobste.rs/s/cmevok",
-    "created_at": "2021-07-25T15:20:52.000-05:00",
-    "title": "Heuristics for Effective Software Development: A continuously evolving list",
-    "url": "https://holub.com/heuristics-for-effective-software-development-a-continuously-evolving-list/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/cmevok/heuristics_for_effective_software",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 1864,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "practices"
-    ]
-  },
-  {
-    "short_id": "ephsre",
-    "short_id_url": "https://lobste.rs/s/ephsre",
-    "created_at": "2021-07-25T12:37:26.000-05:00",
-    "title": "Entropy and Diversity: The Axiomatic Approach",
-    "url": "https://arxiv.org/abs/2012.02113",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ephsre/entropy_diversity_axiomatic_approach",
-    "submitter_user": {
-      "username": "Corbin",
-      "created_at": "2018-10-13T21:40:32.000-05:00",
-      "is_admin": false,
-      "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
-      "is_moderator": false,
-      "karma": 2658,
-      "avatar_url": "/avatars/Corbin-100.png",
-      "invited_by_user": "infinisil"
-    },
-    "tags": [
-      "book",
-      "math"
     ]
   }
 ]
