@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "3ou3kv",
+    "short_id_url": "https://lobste.rs/s/3ou3kv",
+    "created_at": "2021-07-26T09:27:24.000-05:00",
+    "title": "Taking Months to Bits",
+    "url": "https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3ou3kv/taking_months_bits",
+    "submitter_user": {
+      "username": "mtnygard",
+      "created_at": "2016-02-16T09:18:35.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 645,
+      "avatar_url": "/avatars/mtnygard-100.png",
+      "invited_by_user": "carinmeier",
+      "github_username": "mtnygard"
+    },
+    "tags": [
+      "c",
+      "python"
+    ]
+  },
+  {
     "short_id": "7qetog",
     "short_id_url": "https://lobste.rs/s/7qetog",
     "created_at": "2021-07-26T08:56:09.000-05:00",
@@ -36,7 +63,7 @@
     "created_at": "2021-07-26T08:30:01.000-05:00",
     "title": "Haskell Social Fediverse Nodes",
     "url": "https://www.haskell.social",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -47,7 +74,7 @@
       "is_admin": false,
       "about": "Founder & CEO of Bitnomial. Previously Partner at Allston Trading. Member of Chicago Haskell.\r\n",
       "is_moderator": false,
-      "karma": 89,
+      "karma": 91,
       "avatar_url": "/avatars/luke-100.png",
       "invited_by_user": "jcs",
       "github_username": "lukehoersten",
@@ -75,7 +102,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80795,
+      "karma": 80797,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -91,7 +118,7 @@
     "created_at": "2021-07-26T07:27:28.000-05:00",
     "title": "The Haiku Project Celebrates the Release of Beta 3",
     "url": "https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -102,7 +129,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2023,
+      "karma": 2025,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -117,7 +144,7 @@
     "created_at": "2021-07-26T05:38:12.000-05:00",
     "title": "Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel",
     "url": "https://twitter.com/alyssarzg/status/1419469011734073347",
-    "score": 10,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -128,7 +155,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 319,
+      "karma": 324,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -143,9 +170,9 @@
     "created_at": "2021-07-26T04:30:16.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/crejp0/what_are_you_doing_this_week",
     "submitter_user": {
@@ -154,7 +181,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6363,
+      "karma": 6364,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -171,9 +198,9 @@
     "created_at": "2021-07-26T03:50:09.000-05:00",
     "title": "Agile at 20: The Failed Rebellion",
     "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
-    "score": 8,
+    "score": 10,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/zdzsdf/agile_at_20_failed_rebellion",
     "submitter_user": {
@@ -182,7 +209,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1080,
+      "karma": 1082,
       "avatar_url": "/avatars/idrougge-100.png",
       "invited_by_user": "gerikson"
     },
@@ -196,9 +223,9 @@
     "created_at": "2021-07-26T01:26:13.000-05:00",
     "title": "Getting Partial AWS Account IDs for any Cloudfront Website",
     "url": "https://arkadiyt.com/2021/07/09/getting-partial-aws-account-ids-for-any-cloudfront-website/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/q43tkl/getting_partial_aws_account_ids_for_any",
     "submitter_user": {
@@ -207,7 +234,7 @@
       "is_admin": false,
       "about": "https://twitter.com/arkadiyt",
       "is_moderator": false,
-      "karma": 116,
+      "karma": 117,
       "avatar_url": "/avatars/arkadiyt-100.png",
       "invited_by_user": "zpojqwfejwfhiunz"
     },
@@ -223,9 +250,9 @@
     "created_at": "2021-07-26T00:39:44.000-05:00",
     "title": "Hashing Phone Numbers For 2-Factor Authentication",
     "url": "https://theabbie.github.io/blog/2FA-phone-number-hashing",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 13,
+    "score": 6,
+    "flags": 1,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/d6a7ad/hashing_phone_numbers_for_2_factor",
     "submitter_user": {
@@ -234,7 +261,7 @@
       "is_admin": false,
       "about": "a pseudo-introvert, a web developer, and a maker",
       "is_moderator": false,
-      "karma": 8,
+      "karma": 6,
       "avatar_url": "/avatars/theabbie-100.png",
       "invited_by_user": "mhausenblas",
       "github_username": "theabbie",
@@ -268,7 +295,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80795,
+      "karma": 80797,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -283,7 +310,7 @@
     "created_at": "2021-07-25T22:32:16.000-05:00",
     "title": "Understanding Rust futures by going way too deep",
     "url": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-    "score": 19,
+    "score": 21,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -294,7 +321,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80795,
+      "karma": 80797,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -311,7 +338,7 @@
     "url": "https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html",
     "score": 8,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/xskv4r/from_laptop_lambda_outsourcing_everyday",
     "submitter_user": {
@@ -320,7 +347,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80795,
+      "karma": 80797,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -442,7 +469,7 @@
     "url": "https://www.silvestar.codes/articles/you-don-t-need-react-for-building-websites/",
     "score": 23,
     "flags": 0,
-    "comment_count": 41,
+    "comment_count": 43,
     "description": "",
     "comments_url": "https://lobste.rs/s/oowhu2/you_don_t_need_react_for_building_websites",
     "submitter_user": {
@@ -497,7 +524,7 @@
     "url": "https://dev.yorhel.nl/doc/ncdu2",
     "score": 66,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/639gon/ncdu_2_less_hungry_more_ziggy",
     "submitter_user": {
@@ -586,7 +613,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80795,
+      "karma": 80797,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -627,7 +654,7 @@
     "created_at": "2021-07-24T15:12:49.000-05:00",
     "title": "Inserting 130M SQLite Rows per Minute...from a Scripting Language",
     "url": "https://blog.metaobject.com/2021/07/inserting-130m-sqlite-rows-per.html",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -638,7 +665,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 909,
+      "karma": 910,
       "avatar_url": "/avatars/mpweiher-100.png",
       "invited_by_user": "mulle_nat",
       "github_username": "mpw",
@@ -648,34 +675,6 @@
       "databases",
       "ios",
       "mac"
-    ]
-  },
-  {
-    "short_id": "c21o1q",
-    "short_id_url": "https://lobste.rs/s/c21o1q",
-    "created_at": "2021-07-24T14:45:53.000-05:00",
-    "title": "The FTC Votes Unanimously to Enforce Right to Repair",
-    "url": "https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/",
-    "score": 33,
-    "flags": 2,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/c21o1q/ftc_votes_unanimously_enforce_right",
-    "submitter_user": {
-      "username": "kjensenxz",
-      "created_at": "2017-06-10T14:35:39.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 322,
-      "avatar_url": "/avatars/kjensenxz-100.png",
-      "invited_by_user": "aleph",
-      "github_username": "kjensenxz",
-      "twitter_username": "kjensenxz"
-    },
-    "tags": [
-      "hardware",
-      "law"
     ]
   }
 ]
