@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "xtm0bq",
+    "short_id_url": "https://lobste.rs/s/xtm0bq",
+    "created_at": "2021-07-26T07:27:28.000-05:00",
+    "title": "The Haiku Project Celebrates the Release of Beta 3",
+    "url": "https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xtm0bq/haiku_project_celebrates_release_beta_3",
+    "submitter_user": {
+      "username": "SoapDog",
+      "created_at": "2018-01-28T14:45:55.000-06:00",
+      "is_admin": false,
+      "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
+      "is_moderator": false,
+      "karma": 2022,
+      "avatar_url": "/avatars/SoapDog-100.png",
+      "invited_by_user": "vladikoff"
+    },
+    "tags": [
+      "osdev",
+      "release"
+    ]
+  },
+  {
     "short_id": "vgirn9",
     "short_id_url": "https://lobste.rs/s/vgirn9",
     "created_at": "2021-07-26T05:38:12.000-05:00",
     "title": "Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel",
     "url": "https://twitter.com/alyssarzg/status/1419469011734073347",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 310,
+      "karma": 312,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -33,7 +59,7 @@
     "url": "",
     "score": 2,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/crejp0/what_are_you_doing_this_week",
     "submitter_user": {
@@ -59,7 +85,7 @@
     "created_at": "2021-07-26T03:50:09.000-05:00",
     "title": "Agile at 20: The Failed Rebellion",
     "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +96,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1074,
+      "karma": 1076,
       "avatar_url": "/avatars/idrougge-100.png",
       "invited_by_user": "gerikson"
     },
@@ -84,7 +110,7 @@
     "created_at": "2021-07-26T01:26:13.000-05:00",
     "title": "Getting Partial AWS Account IDs for any Cloudfront Website",
     "url": "https://arkadiyt.com/2021/07/09/getting-partial-aws-account-ids-for-any-cloudfront-website/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -95,7 +121,7 @@
       "is_admin": false,
       "about": "https://twitter.com/arkadiyt",
       "is_moderator": false,
-      "karma": 114,
+      "karma": 115,
       "avatar_url": "/avatars/arkadiyt-100.png",
       "invited_by_user": "zpojqwfejwfhiunz"
     },
@@ -111,9 +137,9 @@
     "created_at": "2021-07-26T00:39:44.000-05:00",
     "title": "Hashing Phone Numbers For 2-Factor Authentication",
     "url": "https://theabbie.github.io/blog/2FA-phone-number-hashing",
-    "score": 3,
+    "score": 5,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/d6a7ad/hashing_phone_numbers_for_2_factor",
     "submitter_user": {
@@ -122,7 +148,7 @@
       "is_admin": false,
       "about": "a pseudo-introvert, a web developer, and a maker",
       "is_moderator": false,
-      "karma": 3,
+      "karma": 5,
       "avatar_url": "/avatars/theabbie-100.png",
       "invited_by_user": "mhausenblas",
       "github_username": "theabbie",
@@ -145,7 +171,7 @@
     "created_at": "2021-07-25T22:34:12.000-05:00",
     "title": "Facebook's Tectonic Filesystem:Efficiency from Exascale",
     "url": "https://paulcavallaro.com/blog/facebook-tectonic-filesystem/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -156,7 +182,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80789,
+      "karma": 80794,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -171,7 +197,7 @@
     "created_at": "2021-07-25T22:32:16.000-05:00",
     "title": "Understanding Rust futures by going way too deep",
     "url": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-    "score": 16,
+    "score": 19,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -182,7 +208,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80789,
+      "karma": 80794,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -199,7 +225,7 @@
     "url": "https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html",
     "score": 8,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/xskv4r/from_laptop_lambda_outsourcing_everyday",
     "submitter_user": {
@@ -208,7 +234,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80789,
+      "karma": 80794,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -275,7 +301,7 @@
     "created_at": "2021-07-25T09:48:09.000-05:00",
     "title": "Decoded: OpenTTD",
     "url": "http://www.maizure.org/projects/decoded-openttd/index.html",
-    "score": 28,
+    "score": 29,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -286,7 +312,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11429,
+      "karma": 11430,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -356,7 +382,7 @@
     "created_at": "2021-07-25T04:52:22.000-05:00",
     "title": "CSS: Avoid horizontal scrolling",
     "url": "https://3fx.ch/blog/2021/07/25/css-avoid-horizontal-scrolling/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -367,7 +393,7 @@
       "is_admin": false,
       "about": "Computer Science Master's student at ETH Zurich.\r\n\r\nThere's no Mastodon link support so here you go: https://mastodon.3fx.ch/@bfiedler",
       "is_moderator": false,
-      "karma": 559,
+      "karma": 560,
       "avatar_url": "/avatars/bfiedler-100.png",
       "invited_by_user": "pushcx"
     },
@@ -383,7 +409,7 @@
     "created_at": "2021-07-25T04:24:25.000-05:00",
     "title": "Ncdu 2: Less hungry and more Ziggy",
     "url": "https://dev.yorhel.nl/doc/ncdu2",
-    "score": 62,
+    "score": 63,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -394,7 +420,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 161,
+      "karma": 162,
       "avatar_url": "/avatars/Miaourt-100.png",
       "invited_by_user": "jvoisin",
       "github_username": "Miaourt",
@@ -474,7 +500,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80789,
+      "karma": 80794,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -500,7 +526,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4862,
+      "karma": 4863,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -544,7 +570,7 @@
     "created_at": "2021-07-24T14:45:53.000-05:00",
     "title": "The FTC Votes Unanimously to Enforce Right to Repair",
     "url": "https://www.wired.com/story/ftc-votes-to-enforce-right-to-repair/",
-    "score": 31,
+    "score": 32,
     "flags": 2,
     "comment_count": 6,
     "description": "",
@@ -555,7 +581,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 320,
+      "karma": 321,
       "avatar_url": "/avatars/kjensenxz-100.png",
       "invited_by_user": "aleph",
       "github_username": "kjensenxz",
@@ -649,32 +675,6 @@
     "tags": [
       "ai",
       "programming"
-    ]
-  },
-  {
-    "short_id": "qkyxlo",
-    "short_id_url": "https://lobste.rs/s/qkyxlo",
-    "created_at": "2021-07-24T09:51:56.000-05:00",
-    "title": "Set up FTP server on NetBSD using ftpd",
-    "url": "https://www.unitedbsd.com/d/551-set-up-a-ftp-server-on-netbsd-using-ftpd8",
-    "score": 1,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/qkyxlo/set_up_ftp_server_on_netbsd_using_ftpd",
-    "submitter_user": {
-      "username": "jaypatelani",
-      "created_at": "2020-08-26T22:43:27.000-05:00",
-      "is_admin": false,
-      "about": "BSD hobbyist. NetBSD/OS108 user",
-      "is_moderator": false,
-      "karma": 417,
-      "avatar_url": "/avatars/jaypatelani-100.png",
-      "invited_by_user": "qbit"
-    },
-    "tags": [
-      "netbsd",
-      "unix"
     ]
   }
 ]
