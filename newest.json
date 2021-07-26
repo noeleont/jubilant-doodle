@@ -1,13 +1,39 @@
 [
   {
+    "short_id": "vgirn9",
+    "short_id_url": "https://lobste.rs/s/vgirn9",
+    "created_at": "2021-07-26T05:38:12.000-05:00",
+    "title": "Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel",
+    "url": "https://twitter.com/alyssarzg/status/1419469011734073347",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/vgirn9/debian_gnu_linux_running_bare_metal_on",
+    "submitter_user": {
+      "username": "nixcraft",
+      "created_at": "2017-12-19T07:46:27.000-06:00",
+      "is_admin": false,
+      "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
+      "is_moderator": false,
+      "karma": 310,
+      "avatar_url": "/avatars/nixcraft-100.png",
+      "invited_by_user": "kintoandar"
+    },
+    "tags": [
+      "linux",
+      "mac"
+    ]
+  },
+  {
     "short_id": "crejp0",
     "short_id_url": "https://lobste.rs/s/crejp0",
     "created_at": "2021-07-26T04:30:16.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/crejp0/what_are_you_doing_this_week",
     "submitter_user": {
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6361,
+      "karma": 6362,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -33,7 +59,7 @@
     "created_at": "2021-07-26T03:50:09.000-05:00",
     "title": "Agile at 20: The Failed Rebellion",
     "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -44,7 +70,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1073,
+      "karma": 1074,
       "avatar_url": "/avatars/idrougge-100.png",
       "invited_by_user": "gerikson"
     },
@@ -85,7 +111,7 @@
     "created_at": "2021-07-26T00:39:44.000-05:00",
     "title": "Hashing Phone Numbers For 2-Factor Authentication",
     "url": "https://theabbie.github.io/blog/2FA-phone-number-hashing",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -96,7 +122,7 @@
       "is_admin": false,
       "about": "a pseudo-introvert, a web developer, and a maker",
       "is_moderator": false,
-      "karma": 2,
+      "karma": 3,
       "avatar_url": "/avatars/theabbie-100.png",
       "invited_by_user": "mhausenblas",
       "github_username": "theabbie",
@@ -119,7 +145,7 @@
     "created_at": "2021-07-25T22:34:12.000-05:00",
     "title": "Facebook's Tectonic Filesystem:Efficiency from Exascale",
     "url": "https://paulcavallaro.com/blog/facebook-tectonic-filesystem/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -130,7 +156,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80785,
+      "karma": 80789,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -145,7 +171,7 @@
     "created_at": "2021-07-25T22:32:16.000-05:00",
     "title": "Understanding Rust futures by going way too deep",
     "url": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
-    "score": 13,
+    "score": 16,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -156,7 +182,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80785,
+      "karma": 80789,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -173,7 +199,7 @@
     "url": "https://www.micahlerner.com/2021/07/24/from-laptop-to-lambda-outsourcing-everyday-jobs-to-thousands-of-transient-functional-containers.html",
     "score": 8,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/xskv4r/from_laptop_lambda_outsourcing_everyday",
     "submitter_user": {
@@ -182,7 +208,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80785,
+      "karma": 80789,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -249,7 +275,7 @@
     "created_at": "2021-07-25T09:48:09.000-05:00",
     "title": "Decoded: OpenTTD",
     "url": "http://www.maizure.org/projects/decoded-openttd/index.html",
-    "score": 27,
+    "score": 28,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -260,7 +286,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11428,
+      "karma": 11429,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -332,7 +358,7 @@
     "url": "https://3fx.ch/blog/2021/07/25/css-avoid-horizontal-scrolling/",
     "score": 11,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/rsj8wg/css_avoid_horizontal_scrolling",
     "submitter_user": {
@@ -414,7 +440,7 @@
     "url": "https://www.supermidipak.com",
     "score": 15,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ivdxbz/use_your_snes_as_midi_synthesizer",
     "submitter_user": {
@@ -448,7 +474,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80785,
+      "karma": 80789,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -604,7 +630,7 @@
     "created_at": "2021-07-24T10:32:57.000-05:00",
     "title": "Is GitHub Copilot a blessing, or a curse?",
     "url": "https://www.fast.ai/2021/07/19/copilot/",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -615,7 +641,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 101,
+      "karma": 102,
       "avatar_url": "/avatars/kir0ul-100.png",
       "invited_by_user": "Lomanic",
       "github_username": "kir0ul"
@@ -649,31 +675,6 @@
     "tags": [
       "netbsd",
       "unix"
-    ]
-  },
-  {
-    "short_id": "yk79bh",
-    "short_id_url": "https://lobste.rs/s/yk79bh",
-    "created_at": "2021-07-24T07:24:05.000-05:00",
-    "title": "FreeBSD Quarterly Status Report 2021 Q2",
-    "url": "https://www.freebsd.org/status/report-2021-04-2021-06/",
-    "score": 15,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yk79bh/freebsd_quarterly_status_report_2021_q2",
-    "submitter_user": {
-      "username": "vermaden",
-      "created_at": "2018-04-13T03:53:33.000-05:00",
-      "is_admin": false,
-      "about": "Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.\r\n\r\nOn the VERMADEN.WORDPRESS.COM I share knowledge and experience that I gathered by working 10+ years as sysadmin (now architect) at IT industry.\r\n\r\nCountless times various articles or blog posts helped me, so its time to give back.\r\n",
-      "is_moderator": false,
-      "karma": 3513,
-      "avatar_url": "/avatars/vermaden-100.png",
-      "invited_by_user": "gerikson"
-    },
-    "tags": [
-      "freebsd"
     ]
   }
 ]
