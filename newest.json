@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "0cnxfb",
+    "short_id_url": "https://lobste.rs/s/0cnxfb",
+    "created_at": "2021-07-26T22:14:45.000-05:00",
+    "title": "WebContent->EL1 LPE: OOBR in AppleCLCD / IOMobileFrameBuffer",
+    "url": "https://saaramar.github.io/IOMobileFrameBuffer_LPE_POC/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/0cnxfb/webcontent_el1_lpe_oobr_appleclcd",
+    "submitter_user": {
+      "username": "fro",
+      "created_at": "2016-04-13T15:27:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1324,
+      "avatar_url": "/avatars/fro-100.png",
+      "invited_by_user": "xero"
+    },
+    "tags": [
+      "ios",
+      "security"
+    ]
+  },
+  {
     "short_id": "ah0k2a",
     "short_id_url": "https://lobste.rs/s/ah0k2a",
     "created_at": "2021-07-26T19:13:16.000-05:00",
@@ -193,7 +219,7 @@
     "created_at": "2021-07-26T13:41:04.000-05:00",
     "title": "You can't tell people anything",
     "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
-    "score": 26,
+    "score": 30,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -204,7 +230,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 74,
+      "karma": 79,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -219,7 +245,7 @@
     "created_at": "2021-07-26T13:29:37.000-05:00",
     "title": "Lessons learned from 15 years of SumatraPDF, an open source Windows app",
     "url": "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -230,7 +256,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11451,
+      "karma": 11453,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -245,7 +271,7 @@
     "created_at": "2021-07-26T13:02:16.000-05:00",
     "title": "Scanning your iPhone for Pegasus, NSO Group's malware",
     "url": "https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/",
-    "score": 11,
+    "score": 12,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -256,7 +282,7 @@
       "is_admin": false,
       "about": "https://twitter.com/arkadiyt",
       "is_moderator": false,
-      "karma": 126,
+      "karma": 127,
       "avatar_url": "/avatars/arkadiyt-100.png",
       "invited_by_user": "zpojqwfejwfhiunz"
     },
@@ -282,7 +308,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11451,
+      "karma": 11453,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -323,9 +349,9 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 26,
+    "score": 28,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/xivnsc/what_s_bad_about_julia",
     "submitter_user": {
@@ -334,7 +360,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11130,
+      "karma": 11132,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -377,7 +403,7 @@
     "created_at": "2021-07-26T10:57:36.000-05:00",
     "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
     "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -388,7 +414,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 23,
+      "karma": 24,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -414,7 +440,7 @@
       "is_admin": false,
       "about": "❤️ crypto ❤️ security ❤️",
       "is_moderator": false,
-      "karma": 249,
+      "karma": 250,
       "avatar_url": "/avatars/apromixately-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -439,7 +465,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 649,
+      "karma": 650,
       "avatar_url": "/avatars/mtnygard-100.png",
       "invited_by_user": "carinmeier",
       "github_username": "mtnygard"
@@ -488,7 +514,7 @@
     "url": "https://www.haskell.social",
     "score": 19,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/rouvnn/haskell_social_fediverse_nodes",
     "submitter_user": {
@@ -567,7 +593,7 @@
     "created_at": "2021-07-26T05:38:12.000-05:00",
     "title": "Debian GNU/Linux running bare metal on the Apple M1 with a mainline kernel",
     "url": "https://twitter.com/alyssarzg/status/1419469011734073347",
-    "score": 35,
+    "score": 36,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -578,7 +604,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 344,
+      "karma": 345,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -638,33 +664,6 @@
     },
     "tags": [
       "practices"
-    ]
-  },
-  {
-    "short_id": "q43tkl",
-    "short_id_url": "https://lobste.rs/s/q43tkl",
-    "created_at": "2021-07-26T01:26:13.000-05:00",
-    "title": "Getting Partial AWS Account IDs for any Cloudfront Website",
-    "url": "https://arkadiyt.com/2021/07/09/getting-partial-aws-account-ids-for-any-cloudfront-website/",
-    "score": 4,
-    "flags": 1,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/q43tkl/getting_partial_aws_account_ids_for_any",
-    "submitter_user": {
-      "username": "arkadiyt",
-      "created_at": "2017-11-19T18:50:57.000-06:00",
-      "is_admin": false,
-      "about": "https://twitter.com/arkadiyt",
-      "is_moderator": false,
-      "karma": 126,
-      "avatar_url": "/avatars/arkadiyt-100.png",
-      "invited_by_user": "zpojqwfejwfhiunz"
-    },
-    "tags": [
-      "crypto",
-      "ruby",
-      "security"
     ]
   }
 ]
