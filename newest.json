@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "frnnq4",
+    "short_id_url": "https://lobste.rs/s/frnnq4",
+    "created_at": "2021-07-27T04:16:35.000-05:00",
+    "title": "Bridging a typed and an untyped world",
+    "url": "https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/frnnq4/bridging_typed_untyped_world",
+    "submitter_user": {
+      "username": "michaelglass",
+      "created_at": "2015-08-21T17:40:22.000-05:00",
+      "is_admin": false,
+      "about": "work at noredink.com. interested in elm & ops & feelings",
+      "is_moderator": false,
+      "karma": 28,
+      "avatar_url": "/avatars/michaelglass-100.png",
+      "invited_by_user": "adit"
+    },
+    "tags": [
+      "haskell",
+      "plt"
+    ]
+  },
+  {
     "short_id": "wz8l7o",
     "short_id_url": "https://lobste.rs/s/wz8l7o",
     "created_at": "2021-07-26T23:17:00.000-05:00",
@@ -88,7 +114,7 @@
     "url": "https://www.charlieharrington.com/smart-phone-dumb-terminal",
     "score": 2,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/gfnlsf/smart_phone_dumb_terminal",
     "submitter_user": {
@@ -247,9 +273,9 @@
     "created_at": "2021-07-26T13:41:04.000-05:00",
     "title": "You can't tell people anything",
     "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
-    "score": 37,
+    "score": 38,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/ysnfyu/you_can_t_tell_people_anything",
     "submitter_user": {
@@ -258,7 +284,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 87,
+      "karma": 88,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -273,9 +299,9 @@
     "created_at": "2021-07-26T13:29:37.000-05:00",
     "title": "Lessons learned from 15 years of SumatraPDF, an open source Windows app",
     "url": "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html",
-    "score": 30,
+    "score": 31,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/lols2v/lessons_learned_from_15_years_sumatrapdf",
     "submitter_user": {
@@ -284,7 +310,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11465,
+      "karma": 11466,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -336,7 +362,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11465,
+      "karma": 11466,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -377,7 +403,7 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 34,
+    "score": 36,
     "flags": 0,
     "comment_count": 16,
     "description": "",
@@ -388,7 +414,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11138,
+      "karma": 11140,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -431,7 +457,7 @@
     "created_at": "2021-07-26T10:57:36.000-05:00",
     "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
     "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 22,
+    "score": 24,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -442,7 +468,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 30,
+      "karma": 32,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -639,34 +665,6 @@
     "tags": [
       "linux",
       "mac"
-    ]
-  },
-  {
-    "short_id": "crejp0",
-    "short_id_url": "https://lobste.rs/s/crejp0",
-    "created_at": "2021-07-26T04:30:16.000-05:00",
-    "title": "What are you doing this week?",
-    "url": "",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 17,
-    "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
-    "comments_url": "https://lobste.rs/s/crejp0/what_are_you_doing_this_week",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6368,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "ask",
-      "programming"
     ]
   }
 ]
