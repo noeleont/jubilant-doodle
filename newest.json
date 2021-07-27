@@ -1,13 +1,39 @@
 [
   {
+    "short_id": "uoeoco",
+    "short_id_url": "https://lobste.rs/s/uoeoco",
+    "created_at": "2021-07-27T05:31:14.000-05:00",
+    "title": "Mobian is an open-source project aimed at bringing Debian GNU/Linux to mobile devices",
+    "url": "https://wiki.mobian-project.org/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/uoeoco/mobian_is_open_source_project_aimed_at",
+    "submitter_user": {
+      "username": "nixcraft",
+      "created_at": "2017-12-19T07:46:27.000-06:00",
+      "is_admin": false,
+      "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
+      "is_moderator": false,
+      "karma": 349,
+      "avatar_url": "/avatars/nixcraft-100.png",
+      "invited_by_user": "kintoandar"
+    },
+    "tags": [
+      "linux",
+      "mobile"
+    ]
+  },
+  {
     "short_id": "aao489",
     "short_id_url": "https://lobste.rs/s/aao489",
     "created_at": "2021-07-27T05:12:35.000-05:00",
     "title": "We Need To Talk About The Insecurity Industry",
     "url": "https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
+    "score": 0,
+    "flags": 1,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/aao489/we_need_talk_about_insecurity_industry",
     "submitter_user": {
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 64,
+      "karma": 63,
       "avatar_url": "/avatars/jvoisin-100.png",
       "invited_by_user": "friendlysock",
       "github_username": "jvoisin",
@@ -33,7 +59,7 @@
     "created_at": "2021-07-27T04:16:35.000-05:00",
     "title": "Bridging a typed and an untyped world",
     "url": "https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -44,7 +70,7 @@
       "is_admin": false,
       "about": "work at noredink.com. interested in elm & ops & feelings",
       "is_moderator": false,
-      "karma": 30,
+      "karma": 31,
       "avatar_url": "/avatars/michaelglass-100.png",
       "invited_by_user": "adit",
       "github_username": "michaelglass"
@@ -71,7 +97,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80826,
+      "karma": 80827,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -141,7 +167,7 @@
     "created_at": "2021-07-26T18:42:28.000-05:00",
     "title": "Smart Phone, Dumb Terminal",
     "url": "https://www.charlieharrington.com/smart-phone-dumb-terminal",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -152,7 +178,7 @@
       "is_admin": false,
       "about": "software engineer at Cruise",
       "is_moderator": false,
-      "karma": 166,
+      "karma": 167,
       "avatar_url": "/avatars/whatrocks-100.png",
       "invited_by_user": "ozan"
     },
@@ -304,7 +330,7 @@
     "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
     "score": 41,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/ysnfyu/you_can_t_tell_people_anything",
     "submitter_user": {
@@ -313,7 +339,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 91,
+      "karma": 92,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -416,7 +442,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80826,
+      "karma": 80827,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -432,7 +458,7 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 39,
+    "score": 40,
     "flags": 0,
     "comment_count": 18,
     "description": "",
@@ -443,7 +469,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11143,
+      "karma": 11144,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -486,9 +512,9 @@
     "created_at": "2021-07-26T10:57:36.000-05:00",
     "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
     "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 25,
+    "score": 26,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/ulfglv/how_i_built_cross_platform_desktop",
     "submitter_user": {
@@ -497,7 +523,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 33,
+      "karma": 34,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -512,7 +538,7 @@
     "created_at": "2021-07-26T10:22:05.000-05:00",
     "title": "OP-TEE TrustZone bypass on multiple NXP i.MX models",
     "url": "https://labs.f-secure.com/advisories/op-tee-trustzone-bypass-on-multiple-nxp-i-mx-models/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -523,7 +549,7 @@
       "is_admin": false,
       "about": "❤️ crypto ❤️ security ❤️",
       "is_moderator": false,
-      "karma": 250,
+      "karma": 251,
       "avatar_url": "/avatars/apromixately-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -623,7 +649,7 @@
     "created_at": "2021-07-26T08:12:08.000-05:00",
     "title": "Finding Windows HANDLE leaks, in Chromium and others",
     "url": "https://randomascii.wordpress.com/2021/07/25/finding-windows-handle-leaks-in-chromium-and-others/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -634,7 +660,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80826,
+      "karma": 80827,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -642,32 +668,6 @@
     "tags": [
       "debugging",
       "windows"
-    ]
-  },
-  {
-    "short_id": "xtm0bq",
-    "short_id_url": "https://lobste.rs/s/xtm0bq",
-    "created_at": "2021-07-26T07:27:28.000-05:00",
-    "title": "The Haiku Project Celebrates the Release of Beta 3",
-    "url": "https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/",
-    "score": 20,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xtm0bq/haiku_project_celebrates_release_beta_3",
-    "submitter_user": {
-      "username": "SoapDog",
-      "created_at": "2018-01-28T14:45:55.000-06:00",
-      "is_admin": false,
-      "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
-      "is_moderator": false,
-      "karma": 2044,
-      "avatar_url": "/avatars/SoapDog-100.png",
-      "invited_by_user": "vladikoff"
-    },
-    "tags": [
-      "osdev",
-      "release"
     ]
   }
 ]
