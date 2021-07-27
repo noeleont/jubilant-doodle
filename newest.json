@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "wz8l7o",
+    "short_id_url": "https://lobste.rs/s/wz8l7o",
+    "created_at": "2021-07-26T23:17:00.000-05:00",
+    "title": "Testing assumptions about over-fetching from the database",
+    "url": "https://www.lazy-electron.com/2021/07/26/overfetching-performance.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wz8l7o/testing_assumptions_about_over_fetching",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 80825,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "databases",
+      "dotnet",
+      "performance"
+    ]
+  },
+  {
     "short_id": "0cnxfb",
     "short_id_url": "https://lobste.rs/s/0cnxfb",
     "created_at": "2021-07-26T22:14:45.000-05:00",
@@ -58,7 +86,7 @@
     "created_at": "2021-07-26T18:42:28.000-05:00",
     "title": "Smart Phone, Dumb Terminal",
     "url": "https://www.charlieharrington.com/smart-phone-dumb-terminal",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -69,7 +97,7 @@
       "is_admin": false,
       "about": "software engineer at Cruise",
       "is_moderator": false,
-      "karma": 164,
+      "karma": 165,
       "avatar_url": "/avatars/whatrocks-100.png",
       "invited_by_user": "ozan"
     },
@@ -141,7 +169,7 @@
     "created_at": "2021-07-26T14:45:26.000-05:00",
     "title": "Harmonica: a simple, physics-based spring animation library for Go",
     "url": "https://github.com/charmbracelet/harmonica",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -152,7 +180,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 4,
+      "karma": 5,
       "avatar_url": "/avatars/meowgorithm-100.png",
       "invited_by_user": "muesli"
     },
@@ -256,7 +284,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11453,
+      "karma": 11454,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -271,7 +299,7 @@
     "created_at": "2021-07-26T13:02:16.000-05:00",
     "title": "Scanning your iPhone for Pegasus, NSO Group's malware",
     "url": "https://arkadiyt.com/2021/07/25/scanning-your-iphone-for-nso-group-pegasus-malware/",
-    "score": 12,
+    "score": 15,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -282,7 +310,7 @@
       "is_admin": false,
       "about": "https://twitter.com/arkadiyt",
       "is_moderator": false,
-      "karma": 127,
+      "karma": 130,
       "avatar_url": "/avatars/arkadiyt-100.png",
       "invited_by_user": "zpojqwfejwfhiunz"
     },
@@ -308,7 +336,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11453,
+      "karma": 11454,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -333,7 +361,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80824,
+      "karma": 80825,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -349,9 +377,9 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 28,
+    "score": 30,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/xivnsc/what_s_bad_about_julia",
     "submitter_user": {
@@ -360,7 +388,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11132,
+      "karma": 11134,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -551,7 +579,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80824,
+      "karma": 80825,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -567,7 +595,7 @@
     "created_at": "2021-07-26T07:27:28.000-05:00",
     "title": "The Haiku Project Celebrates the Release of Beta 3",
     "url": "https://www.haiku-os.org/news/2021-07-26_media_release_the_haiku_project_celebrates_the_release_of_beta_3/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -578,7 +606,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2038,
+      "karma": 2040,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -639,31 +667,6 @@
     "tags": [
       "ask",
       "programming"
-    ]
-  },
-  {
-    "short_id": "zdzsdf",
-    "short_id_url": "https://lobste.rs/s/zdzsdf",
-    "created_at": "2021-07-26T03:50:09.000-05:00",
-    "title": "Agile at 20: The Failed Rebellion",
-    "url": "https://www.simplethread.com/agile-at-20-the-failed-rebellion/",
-    "score": 18,
-    "flags": 0,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/zdzsdf/agile_at_20_failed_rebellion",
-    "submitter_user": {
-      "username": "idrougge",
-      "created_at": "2020-03-20T09:40:53.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1090,
-      "avatar_url": "/avatars/idrougge-100.png",
-      "invited_by_user": "gerikson"
-    },
-    "tags": [
-      "practices"
     ]
   }
 ]
