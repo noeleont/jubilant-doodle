@@ -1,13 +1,149 @@
 [
   {
+    "short_id": "n80z9b",
+    "short_id_url": "https://lobste.rs/s/n80z9b",
+    "created_at": "2021-07-27T10:06:53.000-05:00",
+    "title": "Speed up your Clojure test builds using Koacha and CircleCI",
+    "url": "https://www.juxt.pro/blog/parallel-kaocha",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/n80z9b/speed_up_your_clojure_test_builds_using",
+    "submitter_user": {
+      "username": "deobald",
+      "created_at": "2018-12-23T10:45:05.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 94,
+      "avatar_url": "/avatars/deobald-100.png",
+      "invited_by_user": "rdivyanshu",
+      "github_username": "deobald",
+      "twitter_username": "deobald",
+      "keybase_signatures": [
+        {
+          "kb_username": "deobald",
+          "sig_hash": "8f1ec286abb9eddcda5ce199db1c34fd000163001c3f2d8c227f63b217f24f4f0f"
+        }
+      ]
+    },
+    "tags": [
+      "clojure"
+    ]
+  },
+  {
+    "short_id": "pqhfcp",
+    "short_id_url": "https://lobste.rs/s/pqhfcp",
+    "created_at": "2021-07-27T09:38:41.000-05:00",
+    "title": "Composable Data Validation with Haskell",
+    "url": "https://www.foxhound.systems/blog/composable-data-validation/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/pqhfcp/composable_data_validation_with_haskell",
+    "submitter_user": {
+      "username": "christian",
+      "created_at": "2017-09-04T17:47:01.000-05:00",
+      "is_admin": false,
+      "about": "https://charukiewi.cz",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/christian-100.png",
+      "invited_by_user": "singpolyma",
+      "github_username": "charukiewicz",
+      "twitter_username": "charukiewicz"
+    },
+    "tags": [
+      "haskell"
+    ]
+  },
+  {
+    "short_id": "9pik4x",
+    "short_id_url": "https://lobste.rs/s/9pik4x",
+    "created_at": "2021-07-27T09:37:52.000-05:00",
+    "title": "The Funhouse Mirror of Perl Criticism",
+    "url": "https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/9pik4x/funhouse_mirror_perl_criticism",
+    "submitter_user": {
+      "username": "mjgardner",
+      "created_at": "2021-07-21T09:27:46.000-05:00",
+      "is_admin": false,
+      "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
+      "is_moderator": false,
+      "karma": 1,
+      "avatar_url": "/avatars/mjgardner-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "perl",
+      "rant"
+    ]
+  },
+  {
+    "short_id": "fh98ul",
+    "short_id_url": "https://lobste.rs/s/fh98ul",
+    "created_at": "2021-07-27T09:31:00.000-05:00",
+    "title": "Netcat - All you need to know",
+    "url": "https://blog.ikuamike.io/posts/2021/netcat/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fh98ul/netcat_all_you_need_know",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Software developer. Dad. Tinkerer. he/they.",
+      "is_moderator": false,
+      "karma": 1723,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
+    "short_id": "hfnmnd",
+    "short_id_url": "https://lobste.rs/s/hfnmnd",
+    "created_at": "2021-07-27T09:25:14.000-05:00",
+    "title": "The Fall of the SKI Civilization",
+    "url": "https://bartoszmilewski.com/2020/09/06/the-fall-of-the-ski-civilization/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hfnmnd/fall_ski_civilization",
+    "submitter_user": {
+      "username": "rs86",
+      "created_at": "2017-07-19T13:59:03.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 198,
+      "avatar_url": "/avatars/rs86-100.png",
+      "invited_by_user": "hao"
+    },
+    "tags": [
+      "math"
+    ]
+  },
+  {
     "short_id": "4vhjvf",
     "short_id_url": "https://lobste.rs/s/4vhjvf",
     "created_at": "2021-07-27T08:48:06.000-05:00",
     "title": "For developers, Apple’s Safari is crap and outdated",
     "url": "https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap",
     "submitter_user": {
@@ -16,7 +152,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80828,
+      "karma": 80833,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -86,7 +222,7 @@
     "created_at": "2021-07-27T07:13:03.000-05:00",
     "title": "OtterCast is an open-source audio streaming device running Linux",
     "url": "https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -97,7 +233,7 @@
       "is_admin": false,
       "about": "Electronic engineer and software developer interested in open source hardware, open science and user interfaces.\r\n\r\nI created and continue to maintain the electronics sharing platform [kitspace.org](https://kitspace.org). I also work on [OpenFlexure](https://openflexure.org/) an open source 3d-printable microscope and precision positioning system. ",
       "is_moderator": false,
-      "karma": 111,
+      "karma": 113,
       "avatar_url": "/avatars/kaspar-100.png",
       "invited_by_user": "river"
     },
@@ -112,7 +248,7 @@
     "created_at": "2021-07-27T07:07:18.000-05:00",
     "title": "Collision Detection is Hard: The Story of Alf",
     "url": "https://nicole.express/2021/remember-alf.html",
-    "score": 4,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -123,7 +259,7 @@
       "is_admin": false,
       "about": "I work at [Stripe](https://stripe.com).",
       "is_moderator": false,
-      "karma": 3393,
+      "karma": 3398,
       "avatar_url": "/avatars/antifuchs-100.png",
       "invited_by_user": "silentbicycle"
     },
@@ -138,7 +274,7 @@
     "created_at": "2021-07-27T05:31:14.000-05:00",
     "title": "Mobian is an open-source project aimed at bringing Debian GNU/Linux to mobile devices",
     "url": "https://wiki.mobian-project.org/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -149,7 +285,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 349,
+      "karma": 350,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -164,7 +300,7 @@
     "created_at": "2021-07-27T04:16:35.000-05:00",
     "title": "Bridging a typed and an untyped world",
     "url": "https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -175,7 +311,7 @@
       "is_admin": false,
       "about": "work at noredink.com. interested in elm & ops & feelings",
       "is_moderator": false,
-      "karma": 35,
+      "karma": 37,
       "avatar_url": "/avatars/michaelglass-100.png",
       "invited_by_user": "adit",
       "github_username": "michaelglass"
@@ -191,7 +327,7 @@
     "created_at": "2021-07-26T23:17:00.000-05:00",
     "title": "Testing assumptions about over-fetching from the database",
     "url": "https://www.lazy-electron.com/2021/07/26/overfetching-performance.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -202,7 +338,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80828,
+      "karma": 80833,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -272,7 +408,7 @@
     "created_at": "2021-07-26T18:42:28.000-05:00",
     "title": "Smart Phone, Dumb Terminal",
     "url": "https://www.charlieharrington.com/smart-phone-dumb-terminal",
-    "score": 6,
+    "score": 9,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -283,7 +419,7 @@
       "is_admin": false,
       "about": "software engineer at Cruise",
       "is_moderator": false,
-      "karma": 169,
+      "karma": 172,
       "avatar_url": "/avatars/whatrocks-100.png",
       "invited_by_user": "ozan"
     },
@@ -380,7 +516,7 @@
     "created_at": "2021-07-26T14:44:27.000-05:00",
     "title": "We need to talk about testing",
     "url": "https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -391,7 +527,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2911,
+      "karma": 2912,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -433,7 +569,7 @@
     "created_at": "2021-07-26T13:41:04.000-05:00",
     "title": "You can't tell people anything",
     "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
-    "score": 50,
+    "score": 51,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -444,7 +580,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 103,
+      "karma": 106,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -459,7 +595,7 @@
     "created_at": "2021-07-26T13:29:37.000-05:00",
     "title": "Lessons learned from 15 years of SumatraPDF, an open source Windows app",
     "url": "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html",
-    "score": 40,
+    "score": 42,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -470,7 +606,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11477,
+      "karma": 11479,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -522,144 +658,12 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11477,
+      "karma": 11479,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
     "tags": [
       "c++"
-    ]
-  },
-  {
-    "short_id": "f1cchk",
-    "short_id_url": "https://lobste.rs/s/f1cchk",
-    "created_at": "2021-07-26T12:17:50.000-05:00",
-    "title": "Time Travel: Running Python 3.7 on XP",
-    "url": "https://ntcore.com/?p=458",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/f1cchk/time_travel_running_python_3_7_on_xp",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 80828,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "reversing",
-      "windows"
-    ]
-  },
-  {
-    "short_id": "xivnsc",
-    "short_id_url": "https://lobste.rs/s/xivnsc",
-    "created_at": "2021-07-26T11:51:13.000-05:00",
-    "title": "What's bad about Julia?",
-    "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 46,
-    "flags": 0,
-    "comment_count": 18,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xivnsc/what_s_bad_about_julia",
-    "submitter_user": {
-      "username": "arp242",
-      "created_at": "2018-12-26T20:42:03.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 11150,
-      "avatar_url": "/avatars/arp242-100.png",
-      "invited_by_user": "Lulu",
-      "github_username": "arp242",
-      "twitter_username": "arp242_martin"
-    },
-    "tags": [
-      "plt",
-      "programming"
-    ]
-  },
-  {
-    "short_id": "wcbjuq",
-    "short_id_url": "https://lobste.rs/s/wcbjuq",
-    "created_at": "2021-07-26T11:04:16.000-05:00",
-    "title": "Building a 'billion dollar' startup with Crystal and Lucky",
-    "url": "https://www.youtube.com/watch?v=XRl-it1-ruI&list=PLe1-A91ZPTpBBrrIV-N_fMmCWbFM4Uj4v",
-    "score": 2,
-    "flags": 1,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wcbjuq/building_billion_dollar_startup_with",
-    "submitter_user": {
-      "username": "friendlysock",
-      "created_at": "2014-02-20T00:43:41.000-06:00",
-      "is_admin": false,
-      "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
-      "is_moderator": false,
-      "karma": 35641,
-      "avatar_url": "/avatars/friendlysock-100.png",
-      "invited_by_user": "MasonJar"
-    },
-    "tags": [
-      "culture",
-      "video"
-    ]
-  },
-  {
-    "short_id": "ulfglv",
-    "short_id_url": "https://lobste.rs/s/ulfglv",
-    "created_at": "2021-07-26T10:57:36.000-05:00",
-    "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
-    "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 30,
-    "flags": 0,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ulfglv/how_i_built_cross_platform_desktop",
-    "submitter_user": {
-      "username": "deejayy",
-      "created_at": "2021-07-12T16:23:45.000-05:00",
-      "is_admin": false,
-      "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
-      "is_moderator": false,
-      "karma": 38,
-      "avatar_url": "/avatars/deejayy-100.png",
-      "invited_by_user": "indigo"
-    },
-    "tags": [
-      "programming",
-      "web"
-    ]
-  },
-  {
-    "short_id": "3grwiz",
-    "short_id_url": "https://lobste.rs/s/3grwiz",
-    "created_at": "2021-07-26T10:22:05.000-05:00",
-    "title": "OP-TEE TrustZone bypass on multiple NXP i.MX models",
-    "url": "https://labs.f-secure.com/advisories/op-tee-trustzone-bypass-on-multiple-nxp-i-mx-models/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3grwiz/op_tee_trustzone_bypass_on_multiple_nxp_i",
-    "submitter_user": {
-      "username": "apromixately",
-      "created_at": "2019-11-21T14:22:49.000-06:00",
-      "is_admin": false,
-      "about": "❤️ crypto ❤️ security ❤️",
-      "is_moderator": false,
-      "karma": 251,
-      "avatar_url": "/avatars/apromixately-100.png",
-      "invited_by_user": "JordiGH"
-    },
-    "tags": [
-      "security"
     ]
   }
 ]
