@@ -1,5 +1,108 @@
 [
   {
+    "short_id": "gbm3j8",
+    "short_id_url": "https://lobste.rs/s/gbm3j8",
+    "created_at": "2021-07-27T13:16:59.000-05:00",
+    "title": "iglunix: Linux (and other kernels) distro with no GNU components",
+    "url": "https://github.com/iglunix/iglunix",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gbm3j8/iglunix_linux_other_kernels_distro_with",
+    "submitter_user": {
+      "username": "moony",
+      "created_at": "2021-07-03T17:58:56.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/moony-100.png",
+      "invited_by_user": "alyx"
+    },
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "short_id": "lbzwnm",
+    "short_id_url": "https://lobste.rs/s/lbzwnm",
+    "created_at": "2021-07-27T13:14:19.000-05:00",
+    "title": "Intel drops a bomb on the semiconductor industry",
+    "url": "https://seekingalpha.com/article/4441640-intel-drops-bomb-on-semiconductor-industry",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lbzwnm/intel_drops_bomb_on_semiconductor",
+    "submitter_user": {
+      "username": "jaytaylor",
+      "created_at": "2013-06-06T15:28:13.000-05:00",
+      "is_admin": false,
+      "about": "http://jaytaylor.com",
+      "is_moderator": false,
+      "karma": 6,
+      "avatar_url": "/avatars/jaytaylor-100.png",
+      "invited_by_user": "conroy"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
+    "short_id": "lfhzrj",
+    "short_id_url": "https://lobste.rs/s/lfhzrj",
+    "created_at": "2021-07-27T12:59:31.000-05:00",
+    "title": "The Scientist and Engineer's Guide to Digital Signal Processing",
+    "url": "http://www.dspguide.com/pdfbook.htm",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lfhzrj/scientist_engineer_s_guide_digital",
+    "submitter_user": {
+      "username": "cyberia",
+      "created_at": "2021-05-11T06:41:47.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 109,
+      "avatar_url": "/avatars/cyberia-100.png",
+      "invited_by_user": "ren"
+    },
+    "tags": [
+      "audio",
+      "book",
+      "math"
+    ]
+  },
+  {
+    "short_id": "kl0aso",
+    "short_id_url": "https://lobste.rs/s/kl0aso",
+    "created_at": "2021-07-27T12:54:44.000-05:00",
+    "title": "Cleaning Up Git History",
+    "url": "https://blog.sulami.xyz/posts/cleaning-up-git-history/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kl0aso/cleaning_up_git_history",
+    "submitter_user": {
+      "username": "stig",
+      "created_at": "2014-01-16T11:53:22.000-06:00",
+      "is_admin": false,
+      "about": "Multilingual software developer. Author of SBJson. Husband. Dad. Feminist. Guitarist. Remote work enthusiast. ",
+      "is_moderator": false,
+      "karma": 2240,
+      "avatar_url": "/avatars/stig-100.png",
+      "invited_by_user": "kellogh",
+      "github_username": "stig"
+    },
+    "tags": [
+      "vcs"
+    ]
+  },
+  {
     "short_id": "z27v1e",
     "short_id_url": "https://lobste.rs/s/z27v1e",
     "created_at": "2021-07-27T12:02:14.000-05:00",
@@ -165,7 +268,7 @@
     "created_at": "2021-07-27T09:38:41.000-05:00",
     "title": "Composable Data Validation with Haskell",
     "url": "https://www.foxhound.systems/blog/composable-data-validation/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -176,7 +279,7 @@
       "is_admin": false,
       "about": "https://charukiewi.cz",
       "is_moderator": false,
-      "karma": 0,
+      "karma": 1,
       "avatar_url": "/avatars/christian-100.png",
       "invited_by_user": "singpolyma",
       "github_username": "charukiewicz",
@@ -194,7 +297,7 @@
     "url": "https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/",
     "score": 3,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/9pik4x/funhouse_mirror_perl_criticism",
     "submitter_user": {
@@ -243,7 +346,7 @@
     "created_at": "2021-07-27T09:25:14.000-05:00",
     "title": "The Fall of the SKI Civilization",
     "url": "https://bartoszmilewski.com/2020/09/06/the-fall-of-the-ski-civilization/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -254,7 +357,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 200,
+      "karma": 202,
       "avatar_url": "/avatars/rs86-100.png",
       "invited_by_user": "hao"
     },
@@ -270,7 +373,7 @@
     "url": "https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/",
     "score": 2,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap",
     "submitter_user": {
@@ -279,7 +382,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80835,
+      "karma": 80836,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -296,7 +399,7 @@
     "created_at": "2021-07-27T08:38:27.000-05:00",
     "title": "How many x86 instructions are there? (2016)",
     "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -307,7 +410,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1864,
+      "karma": 1865,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -349,9 +452,9 @@
     "created_at": "2021-07-27T07:13:03.000-05:00",
     "title": "OtterCast is an open-source audio streaming device running Linux",
     "url": "https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/",
-    "score": 13,
+    "score": 16,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/5dtypy/ottercast_is_open_source_audio_streaming",
     "submitter_user": {
@@ -360,7 +463,7 @@
       "is_admin": false,
       "about": "Electronic engineer and software developer interested in open source hardware, open science and user interfaces.\r\n\r\nI created and continue to maintain the electronics sharing platform [kitspace.org](https://kitspace.org). I also work on [OpenFlexure](https://openflexure.org/) an open source 3d-printable microscope and precision positioning system. ",
       "is_moderator": false,
-      "karma": 118,
+      "karma": 121,
       "avatar_url": "/avatars/kaspar-100.png",
       "invited_by_user": "river"
     },
@@ -375,7 +478,7 @@
     "created_at": "2021-07-27T07:07:18.000-05:00",
     "title": "Collision Detection is Hard: The Story of Alf",
     "url": "https://nicole.express/2021/remember-alf.html",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -386,7 +489,7 @@
       "is_admin": false,
       "about": "I work at [Stripe](https://stripe.com).",
       "is_moderator": false,
-      "karma": 3399,
+      "karma": 3400,
       "avatar_url": "/avatars/antifuchs-100.png",
       "invited_by_user": "silentbicycle"
     },
@@ -412,7 +515,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 350,
+      "karma": 351,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -427,7 +530,7 @@
     "created_at": "2021-07-27T04:16:35.000-05:00",
     "title": "Bridging a typed and an untyped world",
     "url": "https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world",
-    "score": 13,
+    "score": 17,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -438,7 +541,7 @@
       "is_admin": false,
       "about": "work at noredink.com. interested in elm & ops & feelings",
       "is_moderator": false,
-      "karma": 40,
+      "karma": 44,
       "avatar_url": "/avatars/michaelglass-100.png",
       "invited_by_user": "adit",
       "github_username": "michaelglass"
@@ -465,7 +568,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80835,
+      "karma": 80836,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -535,9 +638,9 @@
     "created_at": "2021-07-26T18:42:28.000-05:00",
     "title": "Smart Phone, Dumb Terminal",
     "url": "https://www.charlieharrington.com/smart-phone-dumb-terminal",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/gfnlsf/smart_phone_dumb_terminal",
     "submitter_user": {
@@ -546,121 +649,12 @@
       "is_admin": false,
       "about": "software engineer at Cruise",
       "is_moderator": false,
-      "karma": 173,
+      "karma": 174,
       "avatar_url": "/avatars/whatrocks-100.png",
       "invited_by_user": "ozan"
     },
     "tags": [
       "mobile"
-    ]
-  },
-  {
-    "short_id": "yoplfc",
-    "short_id_url": "https://lobste.rs/s/yoplfc",
-    "created_at": "2021-07-26T16:32:17.000-05:00",
-    "title": "A Linux Kernel Implementation of the Homa Transport Protocol",
-    "url": "https://www.usenix.org/system/files/atc21_slides_ousterhout.pdf",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p>Homa/Linux is a Linux kernel module that implements the Homa transport protocol. Measurements of Homa/Linux reconfirm Homa’s superior performance compared to TCP and DCTCP. In a cluster benchmark with 40 nodes, Homa/Linux provided lower latency than both TCP and DCTCP for all message sizes; for short messages, Homa’s 99th percentile tail latency was 7–83x lower than TCP and DCTCP. The benchmarks also show that Homa has eliminated network congestion as a significant performance limitation. Both tail latency and throughput are now limited by software overheads, particularly software congestion caused by imperfect load balancing of the protocol stack across cores. Another factor of 5–10x in performance can be achieved if software overheads can be eliminated in the future.</p>\n<p>Paper: <a href=\"https://www.usenix.org/conference/atc21/presentation/ousterhout\" rel=\"ugc\">https://www.usenix.org/conference/atc21/presentation/ousterhout</a></p>\n",
-    "comments_url": "https://lobste.rs/s/yoplfc/linux_kernel_implementation_homa",
-    "submitter_user": {
-      "username": "knl",
-      "created_at": "2017-07-21T07:12:24.000-05:00",
-      "is_admin": false,
-      "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
-      "is_moderator": false,
-      "karma": 3460,
-      "avatar_url": "/avatars/knl-100.png",
-      "invited_by_user": "james",
-      "github_username": "knl",
-      "keybase_signatures": [
-        {
-          "kb_username": "knl",
-          "sig_hash": "cb1fe17fead6d360f9abca902132b2407ee736f1a243f615ad9757dfe8d17e3b0f"
-        }
-      ]
-    },
-    "tags": [
-      "networking",
-      "pdf"
-    ]
-  },
-  {
-    "short_id": "orf1b7",
-    "short_id_url": "https://lobste.rs/s/orf1b7",
-    "created_at": "2021-07-26T15:42:01.000-05:00",
-    "title": "Building a simple application with Spec2",
-    "url": "https://rakshit-p.medium.com/building-a-simple-application-with-spec2-36fa4b0ffb38",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/orf1b7/building_simple_application_with_spec2",
-    "submitter_user": {
-      "username": "jmiven",
-      "created_at": "2014-04-27T18:35:23.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 478,
-      "avatar_url": "/avatars/jmiven-100.png",
-      "invited_by_user": "kev009"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "sp9gmg",
-    "short_id_url": "https://lobste.rs/s/sp9gmg",
-    "created_at": "2021-07-26T14:45:26.000-05:00",
-    "title": "Harmonica: a simple, physics-based spring animation library for Go",
-    "url": "https://github.com/charmbracelet/harmonica",
-    "score": 7,
-    "flags": 1,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sp9gmg/harmonica_simple_physics_based_spring",
-    "submitter_user": {
-      "username": "meowgorithm",
-      "created_at": "2020-10-11T22:17:07.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 6,
-      "avatar_url": "/avatars/meowgorithm-100.png",
-      "invited_by_user": "muesli"
-    },
-    "tags": [
-      "go"
-    ]
-  },
-  {
-    "short_id": "beymtx",
-    "short_id_url": "https://lobste.rs/s/beymtx",
-    "created_at": "2021-07-26T14:44:27.000-05:00",
-    "title": "We need to talk about testing",
-    "url": "https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/beymtx/we_need_talk_about_testing",
-    "submitter_user": {
-      "username": "soulcutter",
-      "created_at": "2014-02-18T10:29:29.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 2914,
-      "avatar_url": "/avatars/soulcutter-100.png",
-      "invited_by_user": "gabriel",
-      "twitter_username": "soulcutter"
-    },
-    "tags": [
-      "practices"
     ]
   }
 ]
