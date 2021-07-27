@@ -1,11 +1,92 @@
 [
   {
+    "short_id": "4vhjvf",
+    "short_id_url": "https://lobste.rs/s/4vhjvf",
+    "created_at": "2021-07-27T08:48:06.000-05:00",
+    "title": "For developers, Apple’s Safari is crap and outdated",
+    "url": "https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 2,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 80828,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "browsers",
+      "ios",
+      "rant"
+    ]
+  },
+  {
+    "short_id": "bz9qgf",
+    "short_id_url": "https://lobste.rs/s/bz9qgf",
+    "created_at": "2021-07-27T08:38:27.000-05:00",
+    "title": "How many x86 instructions are there? (2016)",
+    "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bz9qgf/how_many_x86_instructions_are_there_2016",
+    "submitter_user": {
+      "username": "dbremner",
+      "created_at": "2012-09-06T19:01:18.000-05:00",
+      "is_admin": false,
+      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
+      "is_moderator": false,
+      "karma": 1864,
+      "avatar_url": "/avatars/dbremner-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "dbremner"
+    },
+    "tags": [
+      "assembly",
+      "hardware"
+    ]
+  },
+  {
+    "short_id": "q1mbmq",
+    "short_id_url": "https://lobste.rs/s/q1mbmq",
+    "created_at": "2021-07-27T08:31:31.000-05:00",
+    "title": "Picture in Picture Across All Platforms",
+    "url": "https://www.raywenderlich.com/24247382-picture-in-picture-across-all-platforms",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/q1mbmq/picture_picture_across_all_platforms",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Software developer. Dad. Tinkerer. he/they.",
+      "is_moderator": false,
+      "karma": 1723,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "ios",
+      "mac"
+    ]
+  },
+  {
     "short_id": "5dtypy",
     "short_id_url": "https://lobste.rs/s/5dtypy",
     "created_at": "2021-07-27T07:13:03.000-05:00",
     "title": "OtterCast is an open-source audio streaming device running Linux",
     "url": "https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +97,7 @@
       "is_admin": false,
       "about": "Electronic engineer and software developer interested in open source hardware, open science and user interfaces.\r\n\r\nI created and continue to maintain the electronics sharing platform [kitspace.org](https://kitspace.org). I also work on [OpenFlexure](https://openflexure.org/) an open source 3d-printable microscope and precision positioning system. ",
       "is_moderator": false,
-      "karma": 108,
+      "karma": 111,
       "avatar_url": "/avatars/kaspar-100.png",
       "invited_by_user": "river"
     },
@@ -31,7 +112,7 @@
     "created_at": "2021-07-27T07:07:18.000-05:00",
     "title": "Collision Detection is Hard: The Story of Alf",
     "url": "https://nicole.express/2021/remember-alf.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +123,7 @@
       "is_admin": false,
       "about": "I work at [Stripe](https://stripe.com).",
       "is_moderator": false,
-      "karma": 3392,
+      "karma": 3393,
       "avatar_url": "/avatars/antifuchs-100.png",
       "invited_by_user": "silentbicycle"
     },
@@ -83,7 +164,7 @@
     "created_at": "2021-07-27T04:16:35.000-05:00",
     "title": "Bridging a typed and an untyped world",
     "url": "https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -94,7 +175,7 @@
       "is_admin": false,
       "about": "work at noredink.com. interested in elm & ops & feelings",
       "is_moderator": false,
-      "karma": 34,
+      "karma": 35,
       "avatar_url": "/avatars/michaelglass-100.png",
       "invited_by_user": "adit",
       "github_username": "michaelglass"
@@ -191,7 +272,7 @@
     "created_at": "2021-07-26T18:42:28.000-05:00",
     "title": "Smart Phone, Dumb Terminal",
     "url": "https://www.charlieharrington.com/smart-phone-dumb-terminal",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -202,7 +283,7 @@
       "is_admin": false,
       "about": "software engineer at Cruise",
       "is_moderator": false,
-      "karma": 168,
+      "karma": 169,
       "avatar_url": "/avatars/whatrocks-100.png",
       "invited_by_user": "ozan"
     },
@@ -352,7 +433,7 @@
     "created_at": "2021-07-26T13:41:04.000-05:00",
     "title": "You can't tell people anything",
     "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
-    "score": 49,
+    "score": 50,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -363,7 +444,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 102,
+      "karma": 103,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -378,7 +459,7 @@
     "created_at": "2021-07-26T13:29:37.000-05:00",
     "title": "Lessons learned from 15 years of SumatraPDF, an open source Windows app",
     "url": "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html",
-    "score": 35,
+    "score": 40,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -389,7 +470,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11472,
+      "karma": 11477,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -441,7 +522,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11472,
+      "karma": 11477,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -482,7 +563,7 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 43,
+    "score": 46,
     "flags": 0,
     "comment_count": 18,
     "description": "",
@@ -493,7 +574,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11147,
+      "karma": 11150,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -536,7 +617,7 @@
     "created_at": "2021-07-26T10:57:36.000-05:00",
     "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
     "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 29,
+    "score": 30,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -547,7 +628,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 37,
+      "karma": 38,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -579,92 +660,6 @@
     },
     "tags": [
       "security"
-    ]
-  },
-  {
-    "short_id": "3ou3kv",
-    "short_id_url": "https://lobste.rs/s/3ou3kv",
-    "created_at": "2021-07-26T09:27:24.000-05:00",
-    "title": "Taking Months to Bits",
-    "url": "https://kevlinhenney.medium.com/taking-months-to-bits-f66f3eb2476a",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3ou3kv/taking_months_bits",
-    "submitter_user": {
-      "username": "mtnygard",
-      "created_at": "2016-02-16T09:18:35.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 652,
-      "avatar_url": "/avatars/mtnygard-100.png",
-      "invited_by_user": "carinmeier",
-      "github_username": "mtnygard"
-    },
-    "tags": [
-      "c",
-      "python"
-    ]
-  },
-  {
-    "short_id": "7qetog",
-    "short_id_url": "https://lobste.rs/s/7qetog",
-    "created_at": "2021-07-26T08:56:09.000-05:00",
-    "title": "xmake v2.5.6 released, Improve compatibility of pre-compiled binary package",
-    "url": "https://github.com/xmake-io/xmake/wiki/xmake-v2.5.6-released,-Improve-compatibility-of-pre-compiled-binary-package",
-    "score": -2,
-    "flags": 4,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/7qetog/xmake_v2_5_6_released_improve",
-    "submitter_user": {
-      "username": "ruki",
-      "created_at": "2016-06-21T20:26:22.000-05:00",
-      "is_admin": false,
-      "about": "C/C++,Lua,Java,Python,Android,iOS,Reverse Engineering\r\n\r\nContacts:\r\n--------------------------------------------------------\r\nGithub: https://github.com/waruqi\r\nWebsite: https://tboox.org\r\nXMake: https://xmake.io\r\nEmail: waruqi@gmail.com",
-      "is_moderator": false,
-      "karma": 370,
-      "avatar_url": "/avatars/ruki-100.png",
-      "invited_by_user": "friendlysock",
-      "github_username": "waruqi",
-      "twitter_username": "waruqi"
-    },
-    "tags": [
-      "c",
-      "c++",
-      "lua",
-      "programming",
-      "release"
-    ]
-  },
-  {
-    "short_id": "rouvnn",
-    "short_id_url": "https://lobste.rs/s/rouvnn",
-    "created_at": "2021-07-26T08:30:01.000-05:00",
-    "title": "Haskell Social Fediverse Nodes",
-    "url": "https://www.haskell.social",
-    "score": 20,
-    "flags": 0,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rouvnn/haskell_social_fediverse_nodes",
-    "submitter_user": {
-      "username": "luke",
-      "created_at": "2012-09-03T21:02:51.000-05:00",
-      "is_admin": false,
-      "about": "Founder & CEO of Bitnomial. Previously Partner at Allston Trading. Member of Chicago Haskell.\r\n",
-      "is_moderator": false,
-      "karma": 117,
-      "avatar_url": "/avatars/luke-100.png",
-      "invited_by_user": "jcs",
-      "github_username": "lukehoersten",
-      "twitter_username": "LukeHoersten"
-    },
-    "tags": [
-      "culture",
-      "haskell"
     ]
   }
 ]
