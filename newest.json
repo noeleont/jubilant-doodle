@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "5dtypy",
+    "short_id_url": "https://lobste.rs/s/5dtypy",
+    "created_at": "2021-07-27T07:13:03.000-05:00",
+    "title": "OtterCast is an open-source audio streaming device running Linux",
+    "url": "https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/5dtypy/ottercast_is_open_source_audio_streaming",
+    "submitter_user": {
+      "username": "kaspar",
+      "created_at": "2019-02-09T05:50:57.000-06:00",
+      "is_admin": false,
+      "about": "Electronic engineer and software developer interested in open source hardware, open science and user interfaces.\r\n\r\nI created and continue to maintain the electronics sharing platform [kitspace.org](https://kitspace.org). I also work on [OpenFlexure](https://openflexure.org/) an open source 3d-printable microscope and precision positioning system. ",
+      "is_moderator": false,
+      "karma": 107,
+      "avatar_url": "/avatars/kaspar-100.png",
+      "invited_by_user": "river"
+    },
+    "tags": [
+      "hardware",
+      "linux"
+    ]
+  },
+  {
+    "short_id": "fdk1ce",
+    "short_id_url": "https://lobste.rs/s/fdk1ce",
+    "created_at": "2021-07-27T07:07:18.000-05:00",
+    "title": "Collision Detection is Hard: The Story of Alf",
+    "url": "https://nicole.express/2021/remember-alf.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fdk1ce/collision_detection_is_hard_story_alf",
+    "submitter_user": {
+      "username": "antifuchs",
+      "created_at": "2012-12-30T15:56:55.000-06:00",
+      "is_admin": false,
+      "about": "I work at [Stripe](https://stripe.com).",
+      "is_moderator": false,
+      "karma": 3390,
+      "avatar_url": "/avatars/antifuchs-100.png",
+      "invited_by_user": "silentbicycle"
+    },
+    "tags": [
+      "games",
+      "historical"
+    ]
+  },
+  {
     "short_id": "uoeoco",
     "short_id_url": "https://lobste.rs/s/uoeoco",
     "created_at": "2021-07-27T05:31:14.000-05:00",
@@ -26,40 +78,12 @@
     ]
   },
   {
-    "short_id": "aao489",
-    "short_id_url": "https://lobste.rs/s/aao489",
-    "created_at": "2021-07-27T05:12:35.000-05:00",
-    "title": "We Need To Talk About The Insecurity Industry",
-    "url": "https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal",
-    "score": 0,
-    "flags": 1,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/aao489/we_need_talk_about_insecurity_industry",
-    "submitter_user": {
-      "username": "jvoisin",
-      "created_at": "2019-07-05T14:54:51.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 63,
-      "avatar_url": "/avatars/jvoisin-100.png",
-      "invited_by_user": "friendlysock",
-      "github_username": "jvoisin",
-      "twitter_username": "dustriorg"
-    },
-    "tags": [
-      "privacy",
-      "security"
-    ]
-  },
-  {
     "short_id": "frnnq4",
     "short_id_url": "https://lobste.rs/s/frnnq4",
     "created_at": "2021-07-27T04:16:35.000-05:00",
     "title": "Bridging a typed and an untyped world",
     "url": "https://blog.noredink.com/post/657844755189972992/bridging-a-typed-and-an-untyped-world",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +94,7 @@
       "is_admin": false,
       "about": "work at noredink.com. interested in elm & ops & feelings",
       "is_moderator": false,
-      "karma": 31,
+      "karma": 33,
       "avatar_url": "/avatars/michaelglass-100.png",
       "invited_by_user": "adit",
       "github_username": "michaelglass"
@@ -275,7 +299,7 @@
     "created_at": "2021-07-26T14:44:27.000-05:00",
     "title": "We need to talk about testing",
     "url": "https://dannorth.net/2021/07/26/we-need-to-talk-about-testing/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -286,7 +310,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2908,
+      "karma": 2909,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -328,7 +352,7 @@
     "created_at": "2021-07-26T13:41:04.000-05:00",
     "title": "You can't tell people anything",
     "url": "http://habitatchronicles.com/2004/04/you-cant-tell-people-anything/",
-    "score": 41,
+    "score": 48,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -339,7 +363,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 92,
+      "karma": 101,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -354,7 +378,7 @@
     "created_at": "2021-07-26T13:29:37.000-05:00",
     "title": "Lessons learned from 15 years of SumatraPDF, an open source Windows app",
     "url": "https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html",
-    "score": 31,
+    "score": 34,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -365,7 +389,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11467,
+      "karma": 11471,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -406,7 +430,7 @@
     "created_at": "2021-07-26T12:42:45.000-05:00",
     "title": "Join the East Const revolution",
     "url": "https://mariusbancila.ro/blog/2018/11/23/join-the-east-const-revolution/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -417,7 +441,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11467,
+      "karma": 11471,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -458,7 +482,7 @@
     "created_at": "2021-07-26T11:51:13.000-05:00",
     "title": "What's bad about Julia?",
     "url": "https://viralinstruction.com/posts/badjulia/",
-    "score": 40,
+    "score": 42,
     "flags": 0,
     "comment_count": 18,
     "description": "",
@@ -469,7 +493,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 11144,
+      "karma": 11146,
       "avatar_url": "/avatars/arp242-100.png",
       "invited_by_user": "Lulu",
       "github_username": "arp242",
@@ -512,7 +536,7 @@
     "created_at": "2021-07-26T10:57:36.000-05:00",
     "title": "How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust",
     "url": "https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/",
-    "score": 26,
+    "score": 27,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -523,7 +547,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 34,
+      "karma": 35,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -641,33 +665,6 @@
     "tags": [
       "culture",
       "haskell"
-    ]
-  },
-  {
-    "short_id": "zspuks",
-    "short_id_url": "https://lobste.rs/s/zspuks",
-    "created_at": "2021-07-26T08:12:08.000-05:00",
-    "title": "Finding Windows HANDLE leaks, in Chromium and others",
-    "url": "https://randomascii.wordpress.com/2021/07/25/finding-windows-handle-leaks-in-chromium-and-others/",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/zspuks/finding_windows_handle_leaks_chromium",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 80827,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "debugging",
-      "windows"
     ]
   }
 ]
