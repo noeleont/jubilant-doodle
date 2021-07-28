@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "ov4khp",
+    "short_id_url": "https://lobste.rs/s/ov4khp",
+    "created_at": "2021-07-28T05:40:25.000-05:00",
+    "title": "How to Measure Execution Time of a Program",
+    "url": "https://serhack.me/articles/measure-execution-time-program/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ov4khp/how_measure_execution_time_program",
+    "submitter_user": {
+      "username": "serhack",
+      "created_at": "2020-07-21T09:01:02.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 41,
+      "avatar_url": "/avatars/serhack-100.png",
+      "invited_by_user": "asymptotically"
+    },
+    "tags": [
+      "compsci"
+    ]
+  },
+  {
     "short_id": "cosdzw",
     "short_id_url": "https://lobste.rs/s/cosdzw",
     "created_at": "2021-07-28T04:51:19.000-05:00",
     "title": "Revisiting Prechelt’s paper and follow-ups comparing Java, Lisp, C/C++, Rust and scripting languages",
     "url": "https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Switched from Python to Common Lisp. Member of the Next browser team. I danse and read real books.\r\n\r\nhttps://github.com/vindarel\r\n",
       "is_moderator": false,
-      "karma": 274,
+      "karma": 275,
       "avatar_url": "/avatars/vindarel-100.png",
       "invited_by_user": "varjag"
     },
@@ -34,7 +59,7 @@
     "created_at": "2021-07-28T03:58:12.000-05:00",
     "title": "FreeDOS running Windows 3.1",
     "url": "https://virtuallyfun.com/wordpress/2021/07/27/freedos-running-windows-3-1/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -45,7 +70,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11489,
+      "karma": 11491,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -59,7 +84,7 @@
     "created_at": "2021-07-28T03:44:54.000-05:00",
     "title": "Why you should build on Kubernetes from day one",
     "url": "https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-from-day-one/",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -70,7 +95,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 990,
+      "karma": 993,
       "avatar_url": "/avatars/hauleth-100.png",
       "invited_by_user": "skrzyp",
       "github_username": "hauleth",
@@ -88,7 +113,7 @@
     "created_at": "2021-07-28T03:19:20.000-05:00",
     "title": "AWS’s Egregious Egress",
     "url": "https://blog.cloudflare.com/aws-egregious-egress/",
-    "score": 6,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -99,7 +124,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 468,
+      "karma": 471,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -218,7 +243,7 @@
     "created_at": "2021-07-27T18:36:42.000-05:00",
     "title": "Installing A Home Network",
     "url": "https://www.youtube.com/watch?v=zC_naXcfTIE",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -229,7 +254,7 @@
       "is_admin": false,
       "about": "Programmer by trade and avocation in the SF Bay Area. ",
       "is_moderator": false,
-      "karma": 3797,
+      "karma": 3798,
       "avatar_url": "/avatars/Hail_Spacecake-100.png",
       "invited_by_user": "awal"
     },
@@ -277,7 +302,7 @@
     "created_at": "2021-07-27T13:16:59.000-05:00",
     "title": "iglunix: Linux (and other kernels) distro with no GNU components",
     "url": "https://github.com/iglunix/iglunix",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 20,
     "description": "",
@@ -288,7 +313,7 @@
       "is_admin": false,
       "about": "hi am a person",
       "is_moderator": false,
-      "karma": 24,
+      "karma": 25,
       "avatar_url": "/avatars/moony-100.png",
       "invited_by_user": "alyx"
     },
@@ -429,7 +454,7 @@
     "created_at": "2021-07-27T11:49:25.000-05:00",
     "title": "The Dogged Pursuit of Bug-Free C Programs: The Frama-C Software Analysis Platform",
     "url": "https://cacm.acm.org/magazines/2021/8/254311-the-dogged-pursuit-of-bug-free-c-programs/fulltext",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -440,7 +465,7 @@
       "is_admin": false,
       "about": "Dad. Partner. Scientist. Activist. Maker.",
       "is_moderator": false,
-      "karma": 26,
+      "karma": 27,
       "avatar_url": "/avatars/kiniry-100.png",
       "invited_by_user": "rrwright"
     },
@@ -483,7 +508,7 @@
     "url": "https://www.djm.org.uk/posts/writing-extensible-elixir-with-behaviours-adapters-pluggable-backends/",
     "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ecaz9v/writing_extensible_elixir_with",
     "submitter_user": {
@@ -592,7 +617,7 @@
     "created_at": "2021-07-27T09:31:00.000-05:00",
     "title": "Netcat - All you need to know",
     "url": "https://blog.ikuamike.io/posts/2021/netcat/",
-    "score": 22,
+    "score": 23,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -603,7 +628,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1744,
+      "karma": 1745,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -617,7 +642,7 @@
     "created_at": "2021-07-27T09:25:14.000-05:00",
     "title": "The Fall of the SKI Civilization",
     "url": "https://bartoszmilewski.com/2020/09/06/the-fall-of-the-ski-civilization/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -628,40 +653,12 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 208,
+      "karma": 209,
       "avatar_url": "/avatars/rs86-100.png",
       "invited_by_user": "hao"
     },
     "tags": [
       "math"
-    ]
-  },
-  {
-    "short_id": "4vhjvf",
-    "short_id_url": "https://lobste.rs/s/4vhjvf",
-    "created_at": "2021-07-27T08:48:06.000-05:00",
-    "title": "For developers, Apple’s Safari is crap and outdated",
-    "url": "https://blog.perrysun.com/2021/07/15/for-developers-safari-is-crap-and-outdated/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4vhjvf/for_developers_apple_s_safari_is_crap",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 80848,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "browsers",
-      "ios",
-      "rant"
     ]
   }
 ]
