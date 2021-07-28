@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "ec24rg",
+    "short_id_url": "https://lobste.rs/s/ec24rg",
+    "created_at": "2021-07-27T22:41:24.000-05:00",
+    "title": "Is ModSecurity's SecRules Turing Complete?",
+    "url": "https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/is-modsecuritys-secrules-turing-complete/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ec24rg/is_modsecurity_s_secrules_turing",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 80845,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "compsci"
+    ]
+  },
+  {
     "short_id": "fcnfcd",
     "short_id_url": "https://lobste.rs/s/fcnfcd",
     "created_at": "2021-07-27T21:58:35.000-05:00",
@@ -31,9 +57,9 @@
     "created_at": "2021-07-27T20:05:56.000-05:00",
     "title": "Striking new Beeping Busy Beaver champion",
     "url": "https://www.scottaaronson.com/blog/?p=5661",
-    "score": 2,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/awobw3/striking_new_beeping_busy_beaver",
     "submitter_user": {
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2663,
+      "karma": 2666,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -143,7 +169,7 @@
     "created_at": "2021-07-27T13:16:59.000-05:00",
     "title": "iglunix: Linux (and other kernels) distro with no GNU components",
     "url": "https://github.com/iglunix/iglunix",
-    "score": 12,
+    "score": 15,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -154,7 +180,7 @@
       "is_admin": false,
       "about": "hi am a person",
       "is_moderator": false,
-      "karma": 12,
+      "karma": 16,
       "avatar_url": "/avatars/moony-100.png",
       "invited_by_user": "alyx"
     },
@@ -295,7 +321,7 @@
     "created_at": "2021-07-27T11:49:25.000-05:00",
     "title": "The Dogged Pursuit of Bug-Free C Programs: The Frama-C Software Analysis Platform",
     "url": "https://cacm.acm.org/magazines/2021/8/254311-the-dogged-pursuit-of-bug-free-c-programs/fulltext",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -306,7 +332,7 @@
       "is_admin": false,
       "about": "Dad. Partner. Scientist. Activist. Maker.",
       "is_moderator": false,
-      "karma": 24,
+      "karma": 25,
       "avatar_url": "/avatars/kiniry-100.png",
       "invited_by_user": "rrwright"
     },
@@ -458,7 +484,7 @@
     "created_at": "2021-07-27T09:31:00.000-05:00",
     "title": "Netcat - All you need to know",
     "url": "https://blog.ikuamike.io/posts/2021/netcat/",
-    "score": 13,
+    "score": 15,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -469,7 +495,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1735,
+      "karma": 1737,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -574,7 +600,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1735,
+      "karma": 1737,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -615,7 +641,7 @@
     "created_at": "2021-07-27T07:07:18.000-05:00",
     "title": "Collision Detection is Hard: The Story of Alf",
     "url": "https://nicole.express/2021/remember-alf.html",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -626,39 +652,13 @@
       "is_admin": false,
       "about": "I work at [Stripe](https://stripe.com).",
       "is_moderator": false,
-      "karma": 3408,
+      "karma": 3409,
       "avatar_url": "/avatars/antifuchs-100.png",
       "invited_by_user": "silentbicycle"
     },
     "tags": [
       "games",
       "historical"
-    ]
-  },
-  {
-    "short_id": "uoeoco",
-    "short_id_url": "https://lobste.rs/s/uoeoco",
-    "created_at": "2021-07-27T05:31:14.000-05:00",
-    "title": "Mobian is an open-source project aimed at bringing Debian GNU/Linux to mobile devices",
-    "url": "https://wiki.mobian-project.org/",
-    "score": 1,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uoeoco/mobian_is_open_source_project_aimed_at",
-    "submitter_user": {
-      "username": "nixcraft",
-      "created_at": "2017-12-19T07:46:27.000-06:00",
-      "is_admin": false,
-      "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
-      "is_moderator": false,
-      "karma": 352,
-      "avatar_url": "/avatars/nixcraft-100.png",
-      "invited_by_user": "kintoandar"
-    },
-    "tags": [
-      "linux",
-      "mobile"
     ]
   }
 ]
