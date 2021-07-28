@@ -186,9 +186,9 @@
     "created_at": "2021-07-28T03:58:12.000-05:00",
     "title": "FreeDOS running Windows 3.1",
     "url": "https://virtuallyfun.com/wordpress/2021/07/27/freedos-running-windows-3-1/",
-    "score": 9,
+    "score": 13,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/rnqs37/freedos_running_windows_3_1",
     "submitter_user": {
@@ -197,7 +197,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11498,
+      "karma": 11502,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -211,9 +211,9 @@
     "created_at": "2021-07-28T03:44:54.000-05:00",
     "title": "Why you should build on Kubernetes from day one",
     "url": "https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-from-day-one/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/oh9gdp/why_you_should_build_on_kubernetes_from",
     "submitter_user": {
@@ -222,7 +222,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 998,
+      "karma": 1001,
       "avatar_url": "/avatars/hauleth-100.png",
       "invited_by_user": "skrzyp",
       "github_username": "hauleth",
@@ -232,31 +232,6 @@
       "audio",
       "devops",
       "practices"
-    ]
-  },
-  {
-    "short_id": "nov2xv",
-    "short_id_url": "https://lobste.rs/s/nov2xv",
-    "created_at": "2021-07-28T03:19:20.000-05:00",
-    "title": "AWS’s Egregious Egress",
-    "url": "https://blog.cloudflare.com/aws-egregious-egress/",
-    "score": 17,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nov2xv/aws_s_egregious_egress",
-    "submitter_user": {
-      "username": "Siosm",
-      "created_at": "2019-04-13T07:02:25.000-05:00",
-      "is_admin": false,
-      "about": "See my README at https://github.com/travier and Twitter @siosm",
-      "is_moderator": false,
-      "karma": 479,
-      "avatar_url": "/avatars/Siosm-100.png",
-      "invited_by_user": "lthms"
-    },
-    "tags": [
-      "networking"
     ]
   },
   {
@@ -292,7 +267,7 @@
     "title": "Naval Architecture",
     "url": "https://ciechanow.ski/naval-architecture/",
     "score": 8,
-    "flags": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/fcnfcd/naval_architecture",
@@ -317,7 +292,7 @@
     "created_at": "2021-07-27T20:05:56.000-05:00",
     "title": "Striking new Beeping Busy Beaver champion",
     "url": "https://www.scottaaronson.com/blog/?p=5661",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -328,7 +303,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2668,
+      "karma": 2669,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -429,9 +404,9 @@
     "created_at": "2021-07-27T13:16:59.000-05:00",
     "title": "iglunix: Linux (and other kernels) distro with no GNU components",
     "url": "https://github.com/iglunix/iglunix",
-    "score": 29,
+    "score": 30,
     "flags": 0,
-    "comment_count": 24,
+    "comment_count": 25,
     "description": "",
     "comments_url": "https://lobste.rs/s/gbm3j8/iglunix_linux_other_kernels_distro_with",
     "submitter_user": {
@@ -440,7 +415,7 @@
       "is_admin": false,
       "about": "hi am a person",
       "is_moderator": false,
-      "karma": 33,
+      "karma": 34,
       "avatar_url": "/avatars/moony-100.png",
       "invited_by_user": "alyx"
     },
@@ -505,7 +480,7 @@
     "created_at": "2021-07-27T12:54:44.000-05:00",
     "title": "Cleaning Up Git History",
     "url": "https://blog.sulami.xyz/posts/cleaning-up-git-history/",
-    "score": 12,
+    "score": 14,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -516,7 +491,7 @@
       "is_admin": false,
       "about": "Multilingual software developer. Author of SBJson. Husband. Dad. Feminist. Guitarist. Remote work enthusiast. ",
       "is_moderator": false,
-      "karma": 2254,
+      "karma": 2256,
       "avatar_url": "/avatars/stig-100.png",
       "invited_by_user": "kellogh",
       "github_username": "stig"
@@ -650,6 +625,39 @@
     },
     "tags": [
       "elixir"
+    ]
+  },
+  {
+    "short_id": "n80z9b",
+    "short_id_url": "https://lobste.rs/s/n80z9b",
+    "created_at": "2021-07-27T10:06:53.000-05:00",
+    "title": "Speed up your Clojure test builds using Koacha and CircleCI",
+    "url": "https://www.juxt.pro/blog/parallel-kaocha",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/n80z9b/speed_up_your_clojure_test_builds_using",
+    "submitter_user": {
+      "username": "deobald",
+      "created_at": "2018-12-23T10:45:05.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 96,
+      "avatar_url": "/avatars/deobald-100.png",
+      "invited_by_user": "rdivyanshu",
+      "github_username": "deobald",
+      "twitter_username": "deobald",
+      "keybase_signatures": [
+        {
+          "kb_username": "deobald",
+          "sig_hash": "8f1ec286abb9eddcda5ce199db1c34fd000163001c3f2d8c227f63b217f24f4f0f"
+        }
+      ]
+    },
+    "tags": [
+      "clojure"
     ]
   }
 ]
