@@ -1,11 +1,40 @@
 [
   {
+    "short_id": "cosdzw",
+    "short_id_url": "https://lobste.rs/s/cosdzw",
+    "created_at": "2021-07-28T04:51:19.000-05:00",
+    "title": "Revisiting Prechelt’s paper and follow-ups comparing Java, Lisp, C/C++, Rust and scripting languages",
+    "url": "https://renato.athaydes.com/posts/revisiting-prechelt-paper-comparing-languages.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cosdzw/revisiting_prechelt_s_paper_follow_ups",
+    "submitter_user": {
+      "username": "vindarel",
+      "created_at": "2019-08-06T14:46:27.000-05:00",
+      "is_admin": false,
+      "about": "Switched from Python to Common Lisp. Member of the Next browser team. I danse and read real books.\r\n\r\nhttps://github.com/vindarel\r\n",
+      "is_moderator": false,
+      "karma": 274,
+      "avatar_url": "/avatars/vindarel-100.png",
+      "invited_by_user": "varjag"
+    },
+    "tags": [
+      "c++",
+      "java",
+      "lisp",
+      "performance",
+      "rust"
+    ]
+  },
+  {
     "short_id": "rnqs37",
     "short_id_url": "https://lobste.rs/s/rnqs37",
     "created_at": "2021-07-28T03:58:12.000-05:00",
     "title": "FreeDOS running Windows 3.1",
     "url": "https://virtuallyfun.com/wordpress/2021/07/27/freedos-running-windows-3-1/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +45,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11486,
+      "karma": 11489,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -30,9 +59,9 @@
     "created_at": "2021-07-28T03:44:54.000-05:00",
     "title": "Why you should build on Kubernetes from day one",
     "url": "https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-from-day-one/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/oh9gdp/why_you_should_build_on_kubernetes_from",
     "submitter_user": {
@@ -41,7 +70,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 989,
+      "karma": 990,
       "avatar_url": "/avatars/hauleth-100.png",
       "invited_by_user": "skrzyp",
       "github_username": "hauleth",
@@ -59,7 +88,7 @@
     "created_at": "2021-07-28T03:19:20.000-05:00",
     "title": "AWS’s Egregious Egress",
     "url": "https://blog.cloudflare.com/aws-egregious-egress/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +99,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 465,
+      "karma": 468,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -110,7 +139,7 @@
     "created_at": "2021-07-27T21:58:35.000-05:00",
     "title": "Naval Architecture",
     "url": "https://ciechanow.ski/naval-architecture/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -121,7 +150,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1054,
+      "karma": 1055,
       "avatar_url": "/avatars/kevinc-100.png",
       "invited_by_user": "Jesseract"
     },
@@ -189,7 +218,7 @@
     "created_at": "2021-07-27T18:36:42.000-05:00",
     "title": "Installing A Home Network",
     "url": "https://www.youtube.com/watch?v=zC_naXcfTIE",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -200,7 +229,7 @@
       "is_admin": false,
       "about": "Programmer by trade and avocation in the SF Bay Area. ",
       "is_moderator": false,
-      "karma": 3796,
+      "karma": 3797,
       "avatar_url": "/avatars/Hail_Spacecake-100.png",
       "invited_by_user": "awal"
     },
@@ -248,7 +277,7 @@
     "created_at": "2021-07-27T13:16:59.000-05:00",
     "title": "iglunix: Linux (and other kernels) distro with no GNU components",
     "url": "https://github.com/iglunix/iglunix",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 20,
     "description": "",
@@ -259,7 +288,7 @@
       "is_admin": false,
       "about": "hi am a person",
       "is_moderator": false,
-      "karma": 23,
+      "karma": 24,
       "avatar_url": "/avatars/moony-100.png",
       "invited_by_user": "alyx"
     },
@@ -309,7 +338,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 123,
+      "karma": 125,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -375,7 +404,7 @@
     "created_at": "2021-07-27T11:56:30.000-05:00",
     "title": "Postgres Full-Text Search: A Search Engine in a Database",
     "url": "https://blog.crunchydata.com/blog/postgres-full-text-search-a-search-engine-in-a-database",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -386,7 +415,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6987,
+      "karma": 6989,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -565,7 +594,7 @@
     "url": "https://blog.ikuamike.io/posts/2021/netcat/",
     "score": 22,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/fh98ul/netcat_all_you_need_know",
     "submitter_user": {
@@ -633,33 +662,6 @@
       "browsers",
       "ios",
       "rant"
-    ]
-  },
-  {
-    "short_id": "bz9qgf",
-    "short_id_url": "https://lobste.rs/s/bz9qgf",
-    "created_at": "2021-07-27T08:38:27.000-05:00",
-    "title": "How many x86 instructions are there? (2016)",
-    "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bz9qgf/how_many_x86_instructions_are_there_2016",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 1870,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "assembly",
-      "hardware"
     ]
   }
 ]
