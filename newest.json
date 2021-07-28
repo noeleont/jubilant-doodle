@@ -1,11 +1,65 @@
 [
   {
+    "short_id": "rnqs37",
+    "short_id_url": "https://lobste.rs/s/rnqs37",
+    "created_at": "2021-07-28T03:58:12.000-05:00",
+    "title": "FreeDOS running Windows 3.1",
+    "url": "https://virtuallyfun.com/wordpress/2021/07/27/freedos-running-windows-3-1/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rnqs37/freedos_running_windows_3_1",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11486,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "historical"
+    ]
+  },
+  {
+    "short_id": "oh9gdp",
+    "short_id_url": "https://lobste.rs/s/oh9gdp",
+    "created_at": "2021-07-28T03:44:54.000-05:00",
+    "title": "Why you should build on Kubernetes from day one",
+    "url": "https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-from-day-one/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 2,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/oh9gdp/why_you_should_build_on_kubernetes_from",
+    "submitter_user": {
+      "username": "hauleth",
+      "created_at": "2019-05-15T14:34:07.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 989,
+      "avatar_url": "/avatars/hauleth-100.png",
+      "invited_by_user": "skrzyp",
+      "github_username": "hauleth",
+      "twitter_username": "hauleth"
+    },
+    "tags": [
+      "audio",
+      "devops",
+      "practices"
+    ]
+  },
+  {
     "short_id": "nov2xv",
     "short_id_url": "https://lobste.rs/s/nov2xv",
     "created_at": "2021-07-28T03:19:20.000-05:00",
     "title": "AWS’s Egregious Egress",
     "url": "https://blog.cloudflare.com/aws-egregious-egress/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +70,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 463,
+      "karma": 465,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -41,7 +95,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80847,
+      "karma": 80848,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -118,7 +172,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80847,
+      "karma": 80848,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -135,7 +189,7 @@
     "created_at": "2021-07-27T18:36:42.000-05:00",
     "title": "Installing A Home Network",
     "url": "https://www.youtube.com/watch?v=zC_naXcfTIE",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -146,7 +200,7 @@
       "is_admin": false,
       "about": "Programmer by trade and avocation in the SF Bay Area. ",
       "is_moderator": false,
-      "karma": 3795,
+      "karma": 3796,
       "avatar_url": "/avatars/Hail_Spacecake-100.png",
       "invited_by_user": "awal"
     },
@@ -194,7 +248,7 @@
     "created_at": "2021-07-27T13:16:59.000-05:00",
     "title": "iglunix: Linux (and other kernels) distro with no GNU components",
     "url": "https://github.com/iglunix/iglunix",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 20,
     "description": "",
@@ -205,7 +259,7 @@
       "is_admin": false,
       "about": "hi am a person",
       "is_moderator": false,
-      "karma": 21,
+      "karma": 23,
       "avatar_url": "/avatars/moony-100.png",
       "invited_by_user": "alyx"
     },
@@ -272,7 +326,7 @@
     "url": "https://blog.sulami.xyz/posts/cleaning-up-git-history/",
     "score": 11,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/kl0aso/cleaning_up_git_history",
     "submitter_user": {
@@ -509,7 +563,7 @@
     "created_at": "2021-07-27T09:31:00.000-05:00",
     "title": "Netcat - All you need to know",
     "url": "https://blog.ikuamike.io/posts/2021/netcat/",
-    "score": 20,
+    "score": 22,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -520,7 +574,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1742,
+      "karma": 1744,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -570,7 +624,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80847,
+      "karma": 80848,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -606,58 +660,6 @@
     "tags": [
       "assembly",
       "hardware"
-    ]
-  },
-  {
-    "short_id": "q1mbmq",
-    "short_id_url": "https://lobste.rs/s/q1mbmq",
-    "created_at": "2021-07-27T08:31:31.000-05:00",
-    "title": "Picture in Picture Across All Platforms",
-    "url": "https://www.raywenderlich.com/24247382-picture-in-picture-across-all-platforms",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/q1mbmq/picture_picture_across_all_platforms",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1742,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "ios",
-      "mac"
-    ]
-  },
-  {
-    "short_id": "5dtypy",
-    "short_id_url": "https://lobste.rs/s/5dtypy",
-    "created_at": "2021-07-27T07:13:03.000-05:00",
-    "title": "OtterCast is an open-source audio streaming device running Linux",
-    "url": "https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/",
-    "score": 35,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/5dtypy/ottercast_is_open_source_audio_streaming",
-    "submitter_user": {
-      "username": "kaspar",
-      "created_at": "2019-02-09T05:50:57.000-06:00",
-      "is_admin": false,
-      "about": "Electronic engineer and software developer interested in open source hardware, open science and user interfaces.\r\n\r\nI created and continue to maintain the electronics sharing platform [kitspace.org](https://kitspace.org). I also work on [OpenFlexure](https://openflexure.org/) an open source 3d-printable microscope and precision positioning system. ",
-      "is_moderator": false,
-      "karma": 140,
-      "avatar_url": "/avatars/kaspar-100.png",
-      "invited_by_user": "river"
-    },
-    "tags": [
-      "hardware",
-      "linux"
     ]
   }
 ]
