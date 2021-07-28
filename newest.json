@@ -1,5 +1,85 @@
 [
   {
+    "short_id": "fcyynz",
+    "short_id_url": "https://lobste.rs/s/fcyynz",
+    "created_at": "2021-07-28T17:15:19.000-05:00",
+    "title": "There’s more to it, Dr Marshall",
+    "url": "https://microkerneldude.wordpress.com/2021/07/27/theres-more-to-it-dr-marshall/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fcyynz/there_s_more_it_dr_marshall",
+    "submitter_user": {
+      "username": "ethoh",
+      "created_at": "2019-08-14T20:04:05.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 4077,
+      "avatar_url": "/avatars/ethoh-100.png",
+      "invited_by_user": "dwaite"
+    },
+    "tags": [
+      "osdev",
+      "person"
+    ]
+  },
+  {
+    "short_id": "mmbgqp",
+    "short_id_url": "https://lobste.rs/s/mmbgqp",
+    "created_at": "2021-07-28T17:04:23.000-05:00",
+    "title": "Agent Based Modelling and Simulation tools: A review of the state-of-art software",
+    "url": "http://www2.econ.iastate.edu/tesfatsi/ABMSoftwareReview.AbarEtAl2017.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/mmbgqp/agent_based_modelling_simulation_tools",
+    "submitter_user": {
+      "username": "breck",
+      "created_at": "2019-04-15T00:02:13.000-05:00",
+      "is_admin": false,
+      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
+      "is_moderator": false,
+      "karma": 1004,
+      "avatar_url": "/avatars/breck-100.png",
+      "invited_by_user": "ec",
+      "github_username": "breck7",
+      "twitter_username": "breckyunits"
+    },
+    "tags": [
+      "math",
+      "pdf"
+    ]
+  },
+  {
+    "short_id": "chlrvl",
+    "short_id_url": "https://lobste.rs/s/chlrvl",
+    "created_at": "2021-07-28T16:19:27.000-05:00",
+    "title": "Evil tip: avoid \"easy\" things",
+    "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/chlrvl/evil_tip_avoid_easy_things",
+    "submitter_user": {
+      "username": "varjag",
+      "created_at": "2017-01-09T08:29:16.000-06:00",
+      "is_admin": false,
+      "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
+      "is_moderator": false,
+      "karma": 2546,
+      "avatar_url": "/avatars/varjag-100.png",
+      "invited_by_user": "flyingfisch",
+      "github_username": "varjagg"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "uqe2ww",
     "short_id_url": "https://lobste.rs/s/uqe2ww",
     "created_at": "2021-07-28T15:04:09.000-05:00",
@@ -7,7 +87,7 @@
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
     "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -89,9 +169,9 @@
     "created_at": "2021-07-28T12:08:27.000-05:00",
     "title": "passerine: A small extensible programming language designed for concise expression with little code",
     "url": "https://github.com/vrtbl/passerine",
-    "score": 17,
+    "score": 18,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/tdhfed/passerine_small_extensible_programming",
     "submitter_user": {
@@ -100,7 +180,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2406,
+      "karma": 2408,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -173,7 +253,7 @@
     "created_at": "2021-07-28T11:40:15.000-05:00",
     "title": "Introducing Triton: Open-Source GPU Programming for Neural Networks",
     "url": "https://openai.com/blog/triton/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -184,7 +264,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1458,
+      "karma": 1459,
       "avatar_url": "/avatars/GrayGnome-100.png",
       "invited_by_user": "kev009"
     },
@@ -229,7 +309,7 @@
     "url": "https://raevskymichail.medium.com/why-golang-bad-for-smart-programmers-4535fce4210c",
     "score": 12,
     "flags": 1,
-    "comment_count": 19,
+    "comment_count": 24,
     "description": "",
     "comments_url": "https://lobste.rs/s/prveqd/why_golang_is_bad_for_smart_programmers",
     "submitter_user": {
@@ -340,7 +420,7 @@
     "created_at": "2021-07-28T08:25:44.000-05:00",
     "title": "P-CNC Plotter Disguised As a Quadruped Robot",
     "url": "https://www.instructables.com/P-CNC-Plotter-Disguised-As-a-Quadruped-Robot/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -351,7 +431,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1761,
+      "karma": 1762,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -376,7 +456,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1761,
+      "karma": 1762,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -401,7 +481,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1761,
+      "karma": 1762,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -426,7 +506,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1761,
+      "karma": 1762,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -557,7 +637,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1019,
+      "karma": 1021,
       "avatar_url": "/avatars/hauleth-100.png",
       "invited_by_user": "skrzyp",
       "github_username": "hauleth",
@@ -593,85 +673,6 @@
     },
     "tags": [
       "compsci"
-    ]
-  },
-  {
-    "short_id": "awobw3",
-    "short_id_url": "https://lobste.rs/s/awobw3",
-    "created_at": "2021-07-27T20:05:56.000-05:00",
-    "title": "Striking new Beeping Busy Beaver champion",
-    "url": "https://www.scottaaronson.com/blog/?p=5661",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/awobw3/striking_new_beeping_busy_beaver",
-    "submitter_user": {
-      "username": "Corbin",
-      "created_at": "2018-10-13T21:40:32.000-05:00",
-      "is_admin": false,
-      "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
-      "is_moderator": false,
-      "karma": 2671,
-      "avatar_url": "/avatars/Corbin-100.png",
-      "invited_by_user": "infinisil"
-    },
-    "tags": [
-      "compsci"
-    ]
-  },
-  {
-    "short_id": "cgveid",
-    "short_id_url": "https://lobste.rs/s/cgveid",
-    "created_at": "2021-07-27T19:12:15.000-05:00",
-    "title": "Memory profiling on windows for C++",
-    "url": "https://thatonegamedev.com/cpp/memory-profiling-on-windows-for-c/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/cgveid/memory_profiling_on_windows_for_c",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 80853,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "c++",
-      "performance",
-      "windows"
-    ]
-  },
-  {
-    "short_id": "rsgxbu",
-    "short_id_url": "https://lobste.rs/s/rsgxbu",
-    "created_at": "2021-07-27T18:36:42.000-05:00",
-    "title": "Installing A Home Network",
-    "url": "https://www.youtube.com/watch?v=zC_naXcfTIE",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rsgxbu/installing_home_network",
-    "submitter_user": {
-      "username": "Hail_Spacecake",
-      "created_at": "2016-06-07T16:07:14.000-05:00",
-      "is_admin": false,
-      "about": "Programmer by trade and avocation in the SF Bay Area. ",
-      "is_moderator": false,
-      "karma": 3805,
-      "avatar_url": "/avatars/Hail_Spacecake-100.png",
-      "invited_by_user": "awal"
-    },
-    "tags": [
-      "hardware",
-      "video"
     ]
   }
 ]
