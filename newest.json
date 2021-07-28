@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "nov2xv",
+    "short_id_url": "https://lobste.rs/s/nov2xv",
+    "created_at": "2021-07-28T03:19:20.000-05:00",
+    "title": "AWS’s Egregious Egress",
+    "url": "https://blog.cloudflare.com/aws-egregious-egress/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/nov2xv/aws_s_egregious_egress",
+    "submitter_user": {
+      "username": "Siosm",
+      "created_at": "2019-04-13T07:02:25.000-05:00",
+      "is_admin": false,
+      "about": "See my README at https://github.com/travier and Twitter @siosm",
+      "is_moderator": false,
+      "karma": 463,
+      "avatar_url": "/avatars/Siosm-100.png",
+      "invited_by_user": "lthms"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
     "short_id": "ec24rg",
     "short_id_url": "https://lobste.rs/s/ec24rg",
     "created_at": "2021-07-27T22:41:24.000-05:00",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80846,
+      "karma": 80847,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -31,7 +56,7 @@
     "created_at": "2021-07-27T21:58:35.000-05:00",
     "title": "Naval Architecture",
     "url": "https://ciechanow.ski/naval-architecture/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1053,
+      "karma": 1054,
       "avatar_url": "/avatars/kevinc-100.png",
       "invited_by_user": "Jesseract"
     },
@@ -82,7 +107,7 @@
     "created_at": "2021-07-27T19:12:15.000-05:00",
     "title": "Memory profiling on windows for C++",
     "url": "https://thatonegamedev.com/cpp/memory-profiling-on-windows-for-c/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -93,7 +118,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80846,
+      "karma": 80847,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -110,7 +135,7 @@
     "created_at": "2021-07-27T18:36:42.000-05:00",
     "title": "Installing A Home Network",
     "url": "https://www.youtube.com/watch?v=zC_naXcfTIE",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -121,7 +146,7 @@
       "is_admin": false,
       "about": "Programmer by trade and avocation in the SF Bay Area. ",
       "is_moderator": false,
-      "karma": 3794,
+      "karma": 3795,
       "avatar_url": "/avatars/Hail_Spacecake-100.png",
       "invited_by_user": "awal"
     },
@@ -169,7 +194,7 @@
     "created_at": "2021-07-27T13:16:59.000-05:00",
     "title": "iglunix: Linux (and other kernels) distro with no GNU components",
     "url": "https://github.com/iglunix/iglunix",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 20,
     "description": "",
@@ -180,7 +205,7 @@
       "is_admin": false,
       "about": "hi am a person",
       "is_moderator": false,
-      "karma": 19,
+      "karma": 21,
       "avatar_url": "/avatars/moony-100.png",
       "invited_by_user": "alyx"
     },
@@ -196,7 +221,7 @@
     "url": "https://seekingalpha.com/article/4441640-intel-drops-bomb-on-semiconductor-industry",
     "score": -5,
     "flags": 6,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/lbzwnm/intel_drops_bomb_on_semiconductor",
     "submitter_user": {
@@ -219,7 +244,7 @@
     "created_at": "2021-07-27T12:59:31.000-05:00",
     "title": "The Scientist and Engineer's Guide to Digital Signal Processing",
     "url": "http://www.dspguide.com/pdfbook.htm",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -230,7 +255,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 122,
+      "karma": 123,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -321,7 +346,7 @@
     "created_at": "2021-07-27T11:49:25.000-05:00",
     "title": "The Dogged Pursuit of Bug-Free C Programs: The Frama-C Software Analysis Platform",
     "url": "https://cacm.acm.org/magazines/2021/8/254311-the-dogged-pursuit-of-bug-free-c-programs/fulltext",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -332,7 +357,7 @@
       "is_admin": false,
       "about": "Dad. Partner. Scientist. Activist. Maker.",
       "is_moderator": false,
-      "karma": 25,
+      "karma": 26,
       "avatar_url": "/avatars/kiniry-100.png",
       "invited_by_user": "rrwright"
     },
@@ -484,9 +509,9 @@
     "created_at": "2021-07-27T09:31:00.000-05:00",
     "title": "Netcat - All you need to know",
     "url": "https://blog.ikuamike.io/posts/2021/netcat/",
-    "score": 17,
+    "score": 20,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/fh98ul/netcat_all_you_need_know",
     "submitter_user": {
@@ -495,7 +520,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1739,
+      "karma": 1742,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -509,7 +534,7 @@
     "created_at": "2021-07-27T09:25:14.000-05:00",
     "title": "The Fall of the SKI Civilization",
     "url": "https://bartoszmilewski.com/2020/09/06/the-fall-of-the-ski-civilization/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -520,7 +545,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 207,
+      "karma": 208,
       "avatar_url": "/avatars/rs86-100.png",
       "invited_by_user": "hao"
     },
@@ -545,7 +570,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80846,
+      "karma": 80847,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -600,7 +625,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1739,
+      "karma": 1742,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -615,9 +640,9 @@
     "created_at": "2021-07-27T07:13:03.000-05:00",
     "title": "OtterCast is an open-source audio streaming device running Linux",
     "url": "https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/",
-    "score": 33,
+    "score": 35,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/5dtypy/ottercast_is_open_source_audio_streaming",
     "submitter_user": {
@@ -626,39 +651,13 @@
       "is_admin": false,
       "about": "Electronic engineer and software developer interested in open source hardware, open science and user interfaces.\r\n\r\nI created and continue to maintain the electronics sharing platform [kitspace.org](https://kitspace.org). I also work on [OpenFlexure](https://openflexure.org/) an open source 3d-printable microscope and precision positioning system. ",
       "is_moderator": false,
-      "karma": 138,
+      "karma": 140,
       "avatar_url": "/avatars/kaspar-100.png",
       "invited_by_user": "river"
     },
     "tags": [
       "hardware",
       "linux"
-    ]
-  },
-  {
-    "short_id": "fdk1ce",
-    "short_id_url": "https://lobste.rs/s/fdk1ce",
-    "created_at": "2021-07-27T07:07:18.000-05:00",
-    "title": "Collision Detection is Hard: The Story of Alf",
-    "url": "https://nicole.express/2021/remember-alf.html",
-    "score": 20,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fdk1ce/collision_detection_is_hard_story_alf",
-    "submitter_user": {
-      "username": "antifuchs",
-      "created_at": "2012-12-30T15:56:55.000-06:00",
-      "is_admin": false,
-      "about": "I work at [Stripe](https://stripe.com).",
-      "is_moderator": false,
-      "karma": 3409,
-      "avatar_url": "/avatars/antifuchs-100.png",
-      "invited_by_user": "silentbicycle"
-    },
-    "tags": [
-      "games",
-      "historical"
     ]
   }
 ]
