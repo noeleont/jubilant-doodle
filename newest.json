@@ -16,7 +16,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80845,
+      "karma": 80846,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -93,7 +93,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80845,
+      "karma": 80846,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -169,9 +169,9 @@
     "created_at": "2021-07-27T13:16:59.000-05:00",
     "title": "iglunix: Linux (and other kernels) distro with no GNU components",
     "url": "https://github.com/iglunix/iglunix",
-    "score": 17,
+    "score": 18,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/gbm3j8/iglunix_linux_other_kernels_distro_with",
     "submitter_user": {
@@ -180,7 +180,7 @@
       "is_admin": false,
       "about": "hi am a person",
       "is_moderator": false,
-      "karma": 18,
+      "karma": 19,
       "avatar_url": "/avatars/moony-100.png",
       "invited_by_user": "alyx"
     },
@@ -458,7 +458,7 @@
     "created_at": "2021-07-27T09:37:52.000-05:00",
     "title": "The Funhouse Mirror of Perl Criticism",
     "url": "https://phoenixtrap.com/2021/07/27/the-funhouse-mirror-of-perl-criticism/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -469,7 +469,7 @@
       "is_admin": false,
       "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
       "is_moderator": false,
-      "karma": 3,
+      "karma": 5,
       "avatar_url": "/avatars/mjgardner-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -545,7 +545,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80845,
+      "karma": 80846,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -562,7 +562,7 @@
     "created_at": "2021-07-27T08:38:27.000-05:00",
     "title": "How many x86 instructions are there? (2016)",
     "url": "https://fgiesen.wordpress.com/2016/08/25/how-many-x86-instructions-are-there/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -573,7 +573,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1869,
+      "karma": 1870,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -617,7 +617,7 @@
     "url": "https://kitspace.org/boards/github.com/ottercast/ottercastaudiov2/",
     "score": 32,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/5dtypy/ottercast_is_open_source_audio_streaming",
     "submitter_user": {
