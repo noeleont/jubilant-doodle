@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "v7ipr7",
+    "short_id_url": "https://lobste.rs/s/v7ipr7",
+    "created_at": "2021-07-29T07:38:27.000-05:00",
+    "title": "Async/Await - The challenges besides syntax - Cancellation (2019)",
+    "url": "https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/v7ipr7/async_await_challenges_besides_syntax",
+    "submitter_user": {
+      "username": "peter",
+      "created_at": "2014-04-15T16:35:12.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 4719,
+      "avatar_url": "/avatars/peter-100.png",
+      "invited_by_user": "lauris"
+    },
+    "tags": [
+      "rust"
+    ]
+  },
+  {
     "short_id": "tlimip",
     "short_id_url": "https://lobste.rs/s/tlimip",
     "created_at": "2021-07-29T07:02:37.000-05:00",
@@ -84,7 +109,7 @@
     "url": "https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/3pjvwo/perils_large_files_elixir",
     "submitter_user": {
@@ -110,7 +135,7 @@
     "created_at": "2021-07-29T03:16:03.000-05:00",
     "title": "Rust on GraalVM using bitcode",
     "url": "https://michaelbh.com/blog/graalvm-and-rust-1/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -121,7 +146,7 @@
       "is_admin": false,
       "about": "seg_lol@protonmail.com",
       "is_moderator": false,
-      "karma": 130,
+      "karma": 131,
       "avatar_url": "/avatars/seg_lol-100.png",
       "invited_by_user": "animatronic"
     },
@@ -137,7 +162,7 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -148,7 +173,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3223,
+      "karma": 3224,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -189,7 +214,7 @@
     "created_at": "2021-07-29T00:04:33.000-05:00",
     "title": "Memory Management in Lobster",
     "url": "https://aardappel.github.io/lobster/memory_management.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -200,7 +225,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10427,
+      "karma": 10428,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -240,7 +265,7 @@
     "created_at": "2021-07-28T22:09:15.000-05:00",
     "title": "A Tour of the Fuchsia Operating System",
     "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -251,7 +276,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80875,
+      "karma": 80878,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -304,7 +329,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80875,
+      "karma": 80878,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -319,7 +344,7 @@
     "created_at": "2021-07-28T18:06:55.000-05:00",
     "title": "The C++ Type Loophole (C++14)",
     "url": "http://alexpolt.github.io/type-loophole.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -330,7 +355,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80875,
+      "karma": 80878,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -399,7 +424,7 @@
     "created_at": "2021-07-28T16:19:27.000-05:00",
     "title": "Evil tip: avoid \"easy\" things",
     "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -410,7 +435,7 @@
       "is_admin": false,
       "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
       "is_moderator": false,
-      "karma": 2560,
+      "karma": 2562,
       "avatar_url": "/avatars/varjag-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "varjagg"
@@ -427,7 +452,7 @@
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
     "score": 10,
     "flags": 0,
-    "comment_count": 20,
+    "comment_count": 25,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -604,7 +629,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1467,
+      "karma": 1468,
       "avatar_url": "/avatars/GrayGnome-100.png",
       "invited_by_user": "kev009"
     },
@@ -639,33 +664,6 @@
     },
     "tags": [
       "elixir"
-    ]
-  },
-  {
-    "short_id": "prveqd",
-    "short_id_url": "https://lobste.rs/s/prveqd",
-    "created_at": "2021-07-28T10:56:10.000-05:00",
-    "title": "Why Golang Is Bad for Smart Programmers",
-    "url": "https://raevskymichail.medium.com/why-golang-bad-for-smart-programmers-4535fce4210c",
-    "score": 20,
-    "flags": 3,
-    "comment_count": 48,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/prveqd/why_golang_is_bad_for_smart_programmers",
-    "submitter_user": {
-      "username": "soulcutter",
-      "created_at": "2014-02-18T10:29:29.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 2939,
-      "avatar_url": "/avatars/soulcutter-100.png",
-      "invited_by_user": "gabriel",
-      "twitter_username": "soulcutter"
-    },
-    "tags": [
-      "go",
-      "rant"
     ]
   }
 ]
