@@ -1,11 +1,67 @@
 [
   {
+    "short_id": "uwfozb",
+    "short_id_url": "https://lobste.rs/s/uwfozb",
+    "created_at": "2021-07-29T16:33:02.000-05:00",
+    "title": "ConnectorX: accelerate data loading from databases to dataframes",
+    "url": "https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "<p>ConnectorX is the fastest tool that helps you to load data from databases to dataframes in Python. You will get up to 10x speed up as well as with 3x less memory consumption for loading data from databases to Pandas, by simply changing <code>pandas.read_sql</code> to <code>connectorx.read_sql</code>!</p>\n<p>Check out more information on our project here:</p>\n<p>Github: <a href=\"https://github.com/sfu-db/connector-x\" rel=\"ugc\">https://github.com/sfu-db/connector-x</a></p>\n<p>Blog: <a href=\"https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5\" rel=\"ugc\">https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5</a></p>\n<p>PyPI: <a href=\"https://pypi.org/project/connectorx/\" rel=\"ugc\">https://pypi.org/project/connectorx/</a></p>\n<p>crates.io: <a href=\"https://crates.io/crates/connectorx\" rel=\"ugc\">https://crates.io/crates/connectorx</a></p>\n<p>Here are some questions that we hope to hear the answers from you:</p>\n<ul>\n<li>Do you want us to cache the query results onto the disk so that the second time you load the same table will be much faster, at the cost of some disk spaces?</li>\n<li>Do you have the need to load data from different data sources and join / concat them together into a single dataframe?</li>\n<li>Other than relational databases, what other data sources do you want us to support?</li>\n<li>Other than dataframes, what other destinations do you want us to support?</li>\n<li>What other features do you want us to support?</li>\n</ul>\n<p>If you have any other feedback or questions, please let us know!</p>\n",
+    "comments_url": "https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from",
+    "submitter_user": {
+      "username": "dovahcrow",
+      "created_at": "2021-07-28T01:03:15.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1,
+      "avatar_url": "/avatars/dovahcrow-100.png",
+      "invited_by_user": "houqp",
+      "github_username": "dovahcrow",
+      "twitter_username": "dovahcrow"
+    },
+    "tags": [
+      "databases",
+      "python",
+      "rust"
+    ]
+  },
+  {
+    "short_id": "wd9ccd",
+    "short_id_url": "https://lobste.rs/s/wd9ccd",
+    "created_at": "2021-07-29T16:25:43.000-05:00",
+    "title": "Hunting a bug in the i40e Intel driver",
+    "url": "https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/",
+    "score": 5,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wd9ccd/hunting_bug_i40e_intel_driver",
+    "submitter_user": {
+      "username": "j4m3s",
+      "created_at": "2020-07-06T10:05:03.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 16,
+      "avatar_url": "/avatars/j4m3s-100.png",
+      "invited_by_user": "alarsyo"
+    },
+    "tags": [
+      "linux",
+      "networking",
+      "performance"
+    ]
+  },
+  {
     "short_id": "z95mzp",
     "short_id_url": "https://lobste.rs/s/z95mzp",
     "created_at": "2021-07-29T16:03:22.000-05:00",
     "title": "Increase Performance by Fitting In the Initial TCP Slow Start Window",
     "url": "https://sirupsen.com/napkin/problem-15/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +72,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 666,
+      "karma": 667,
       "avatar_url": "/avatars/Tenzer-100.png",
       "invited_by_user": "jamesog",
       "keybase_signatures": [
@@ -37,7 +93,7 @@
     "created_at": "2021-07-29T12:31:52.000-05:00",
     "title": "i3 or Sway? Why not both?",
     "url": "https://stel.codes/blog-posts/i3-or-sway-why-not-both/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -48,7 +104,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2094,
+      "karma": 2095,
       "avatar_url": "/avatars/akavel-100.png",
       "invited_by_user": "TeMPOraL",
       "github_username": "akavel",
@@ -69,9 +125,9 @@
     "created_at": "2021-07-29T12:25:27.000-05:00",
     "title": "Announcing Rust 1.54.0",
     "url": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
-    "score": 6,
+    "score": 8,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/wa1ux4/announcing_rust_1_54_0",
     "submitter_user": {
@@ -80,7 +136,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 445,
+      "karma": 447,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -122,7 +178,7 @@
     "url": "http://catern.com/constructive.html",
     "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/6c9sez/give_constructive_proofs_your_ideas",
     "submitter_user": {
@@ -172,7 +228,7 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 22,
+    "score": 23,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -183,7 +239,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80903,
+      "karma": 80906,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -209,7 +265,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 872,
+      "karma": 873,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -285,7 +341,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2449,
+      "karma": 2450,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -382,7 +438,7 @@
     "url": "https://chrisman.github.io/9.html",
     "score": 27,
     "flags": 0,
-    "comment_count": 40,
+    "comment_count": 41,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -391,7 +447,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3249,
+      "karma": 3250,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -407,7 +463,7 @@
     "url": "https://blog.metaobject.com/2021/07/glue-code-is-success-condition.html",
     "score": 4,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/y4ox79/glue_code_is_success_condition",
     "submitter_user": {
@@ -432,7 +488,7 @@
     "created_at": "2021-07-29T00:04:33.000-05:00",
     "title": "Memory Management in Lobster",
     "url": "https://aardappel.github.io/lobster/memory_management.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -443,7 +499,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10435,
+      "karma": 10436,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -483,7 +539,7 @@
     "created_at": "2021-07-28T22:09:15.000-05:00",
     "title": "A Tour of the Fuchsia Operating System",
     "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -494,7 +550,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80903,
+      "karma": 80906,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -547,7 +603,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80903,
+      "karma": 80906,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -562,7 +618,7 @@
     "created_at": "2021-07-28T18:06:55.000-05:00",
     "title": "The C++ Type Loophole (C++14)",
     "url": "http://alexpolt.github.io/type-loophole.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -573,7 +629,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80903,
+      "karma": 80906,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -606,60 +662,6 @@
     "tags": [
       "osdev",
       "person"
-    ]
-  },
-  {
-    "short_id": "mmbgqp",
-    "short_id_url": "https://lobste.rs/s/mmbgqp",
-    "created_at": "2021-07-28T17:04:23.000-05:00",
-    "title": "Agent Based Modelling and Simulation tools: A review of the state-of-art software",
-    "url": "http://www2.econ.iastate.edu/tesfatsi/ABMSoftwareReview.AbarEtAl2017.pdf",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/mmbgqp/agent_based_modelling_simulation_tools",
-    "submitter_user": {
-      "username": "breck",
-      "created_at": "2019-04-15T00:02:13.000-05:00",
-      "is_admin": false,
-      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
-      "is_moderator": false,
-      "karma": 1000,
-      "avatar_url": "/avatars/breck-100.png",
-      "invited_by_user": "ec",
-      "github_username": "breck7",
-      "twitter_username": "breckyunits"
-    },
-    "tags": [
-      "math",
-      "pdf"
-    ]
-  },
-  {
-    "short_id": "chlrvl",
-    "short_id_url": "https://lobste.rs/s/chlrvl",
-    "created_at": "2021-07-28T16:19:27.000-05:00",
-    "title": "Evil tip: avoid \"easy\" things (2016)",
-    "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "score": 21,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/chlrvl/evil_tip_avoid_easy_things_2016",
-    "submitter_user": {
-      "username": "varjag",
-      "created_at": "2017-01-09T08:29:16.000-06:00",
-      "is_admin": false,
-      "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
-      "is_moderator": false,
-      "karma": 2566,
-      "avatar_url": "/avatars/varjag-100.png",
-      "invited_by_user": "flyingfisch",
-      "github_username": "varjagg"
-    },
-    "tags": [
-      "practices"
     ]
   }
 ]
