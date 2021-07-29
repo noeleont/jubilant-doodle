@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "sp36de",
+    "short_id_url": "https://lobste.rs/s/sp36de",
+    "created_at": "2021-07-29T18:03:41.000-05:00",
+    "title": "Emulating The IBM PC On An ESP32",
+    "url": "https://hackaday.com/2021/07/28/emulating-the-ibm-pc-on-an-esp32/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/sp36de/emulating_ibm_pc_on_esp32",
+    "submitter_user": {
+      "username": "wezm",
+      "created_at": "2017-03-13T19:52:34.000-05:00",
+      "is_admin": false,
+      "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
+      "is_moderator": false,
+      "karma": 2581,
+      "avatar_url": "/avatars/wezm-100.png",
+      "invited_by_user": "alfiedotwtf",
+      "github_username": "wezm",
+      "twitter_username": "wezm"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
     "short_id": "uwfozb",
     "short_id_url": "https://lobste.rs/s/uwfozb",
     "created_at": "2021-07-29T16:33:02.000-05:00",
@@ -7,7 +34,7 @@
     "url": "https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5",
     "score": 2,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "<p>ConnectorX is the fastest tool that helps you to load data from databases to dataframes in Python. You will get up to 10x speed up as well as with 3x less memory consumption for loading data from databases to Pandas, by simply changing <code>pandas.read_sql</code> to <code>connectorx.read_sql</code>!</p>\n<p>Check out more information on our project here:</p>\n<p>Github: <a href=\"https://github.com/sfu-db/connector-x\" rel=\"ugc\">https://github.com/sfu-db/connector-x</a></p>\n<p>Blog: <a href=\"https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5\" rel=\"ugc\">https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5</a></p>\n<p>PyPI: <a href=\"https://pypi.org/project/connectorx/\" rel=\"ugc\">https://pypi.org/project/connectorx/</a></p>\n<p>crates.io: <a href=\"https://crates.io/crates/connectorx\" rel=\"ugc\">https://crates.io/crates/connectorx</a></p>\n<p>Here are some questions that we hope to hear the answers from you:</p>\n<ul>\n<li>Do you want us to cache the query results onto the disk so that the second time you load the same table will be much faster, at the cost of some disk spaces?</li>\n<li>Do you have the need to load data from different data sources and join / concat them together into a single dataframe?</li>\n<li>Other than relational databases, what other data sources do you want us to support?</li>\n<li>Other than dataframes, what other destinations do you want us to support?</li>\n<li>What other features do you want us to support?</li>\n</ul>\n<p>If you have any other feedback or questions, please let us know!</p>\n",
     "comments_url": "https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from",
     "submitter_user": {
@@ -150,7 +177,7 @@
     "created_at": "2021-07-29T11:36:55.000-05:00",
     "title": "NixOS on the Framework",
     "url": "https://grahamc.com/blog/nixos-on-framework",
-    "score": 23,
+    "score": 26,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -161,7 +188,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2526,
+      "karma": 2529,
       "avatar_url": "/avatars/grahamc-100.png",
       "invited_by_user": "mgdm"
     },
@@ -178,7 +205,7 @@
     "url": "http://catern.com/constructive.html",
     "score": 4,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/6c9sez/give_constructive_proofs_your_ideas",
     "submitter_user": {
@@ -228,7 +255,7 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -239,7 +266,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80906,
+      "karma": 80908,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -254,7 +281,7 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -265,7 +292,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 873,
+      "karma": 876,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -355,7 +382,7 @@
     "created_at": "2021-07-29T06:14:16.000-05:00",
     "title": "Python behind the scenes #11: how the Python import system works",
     "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -366,7 +393,7 @@
       "is_admin": false,
       "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
       "is_moderator": false,
-      "karma": 1504,
+      "karma": 1505,
       "avatar_url": "/avatars/learnbyexample-100.png",
       "invited_by_user": "ngoldbaum",
       "twitter_username": "learn_byexample"
@@ -550,7 +577,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80906,
+      "karma": 80908,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -603,7 +630,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80906,
+      "karma": 80908,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -629,39 +656,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80906,
+      "karma": 80908,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "c++"
-    ]
-  },
-  {
-    "short_id": "fcyynz",
-    "short_id_url": "https://lobste.rs/s/fcyynz",
-    "created_at": "2021-07-28T17:15:19.000-05:00",
-    "title": "There’s more to it, Dr Marshall",
-    "url": "https://microkerneldude.wordpress.com/2021/07/27/theres-more-to-it-dr-marshall/",
-    "score": 5,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fcyynz/there_s_more_it_dr_marshall",
-    "submitter_user": {
-      "username": "ethoh",
-      "created_at": "2019-08-14T20:04:05.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 4082,
-      "avatar_url": "/avatars/ethoh-100.png",
-      "invited_by_user": "dwaite"
-    },
-    "tags": [
-      "osdev",
-      "person"
     ]
   }
 ]
