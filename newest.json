@@ -1,13 +1,38 @@
 [
   {
+    "short_id": "ygkrvq",
+    "short_id_url": "https://lobste.rs/s/ygkrvq",
+    "created_at": "2021-07-29T09:55:38.000-05:00",
+    "title": "fromMaybe is Just a fold",
+    "url": "https://danso.ca/blog/frommaybe-is-just-a-fold/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ygkrvq/frommaybe_is_just_fold",
+    "submitter_user": {
+      "username": "danso",
+      "created_at": "2017-01-03T14:49:43.000-06:00",
+      "is_admin": false,
+      "about": "[mastodon](https://fosstodon.org/@danso) | [gitlab](https://gitlab.com/danso) | [github](https://github.com/ninedotnine)",
+      "is_moderator": false,
+      "karma": 367,
+      "avatar_url": "/avatars/danso-100.png",
+      "invited_by_user": "flyingfisch"
+    },
+    "tags": [
+      "haskell"
+    ]
+  },
+  {
     "short_id": "agrmsw",
     "short_id_url": "https://lobste.rs/s/agrmsw",
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 1,
+    "score": 7,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/agrmsw/zip_how_not_design_file_format",
     "submitter_user": {
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80877,
+      "karma": 80885,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -31,7 +56,7 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 863,
+      "karma": 864,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -56,7 +81,7 @@
     "created_at": "2021-07-29T07:38:27.000-05:00",
     "title": "Async/Await - The challenges besides syntax - Cancellation (2019)",
     "url": "https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -67,7 +92,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 4720,
+      "karma": 4721,
       "avatar_url": "/avatars/peter-100.png",
       "invited_by_user": "lauris"
     },
@@ -118,7 +143,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2442,
+      "karma": 2445,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -132,7 +157,7 @@
     "created_at": "2021-07-29T06:14:16.000-05:00",
     "title": "Python behind the scenes #11: how the Python import system works",
     "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -143,7 +168,7 @@
       "is_admin": false,
       "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
       "is_moderator": false,
-      "karma": 1498,
+      "karma": 1499,
       "avatar_url": "/avatars/learnbyexample-100.png",
       "invited_by_user": "ngoldbaum",
       "twitter_username": "learn_byexample"
@@ -158,7 +183,7 @@
     "created_at": "2021-07-29T04:14:20.000-05:00",
     "title": "The Perils of Large Files in Elixir",
     "url": "https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -169,7 +194,7 @@
       "is_admin": false,
       "about": "BOFH, Unix, BSD, Elixir/Erlang/OTP, InfoSec, DNS, XMPP, CEO\r\n\r\nXMPP: antranigv [at] jabber [dot] am",
       "is_moderator": false,
-      "karma": 142,
+      "karma": 143,
       "avatar_url": "/avatars/antranigv-100.png",
       "invited_by_user": "GeoffWozniak",
       "github_username": "antranigv",
@@ -186,7 +211,7 @@
     "created_at": "2021-07-29T03:16:03.000-05:00",
     "title": "Rust on GraalVM using bitcode",
     "url": "https://michaelbh.com/blog/graalvm-and-rust-1/",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -197,7 +222,7 @@
       "is_admin": false,
       "about": "seg_lol@protonmail.com",
       "is_moderator": false,
-      "karma": 131,
+      "karma": 134,
       "avatar_url": "/avatars/seg_lol-100.png",
       "invited_by_user": "animatronic"
     },
@@ -213,9 +238,9 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 10,
+    "score": 14,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -224,7 +249,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3224,
+      "karma": 3230,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -265,7 +290,7 @@
     "created_at": "2021-07-29T00:04:33.000-05:00",
     "title": "Memory Management in Lobster",
     "url": "https://aardappel.github.io/lobster/memory_management.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -276,7 +301,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10428,
+      "karma": 10430,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -291,7 +316,7 @@
     "created_at": "2021-07-28T22:53:43.000-05:00",
     "title": "Think Like (a) Git",
     "url": "http://think-like-a-git.net/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -302,7 +327,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 137,
+      "karma": 138,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -316,7 +341,7 @@
     "created_at": "2021-07-28T22:09:15.000-05:00",
     "title": "A Tour of the Fuchsia Operating System",
     "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -327,7 +352,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80877,
+      "karma": 80885,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -343,9 +368,9 @@
     "created_at": "2021-07-28T22:05:50.000-05:00",
     "title": "The Baked Data architectural pattern",
     "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/lgvhbg/baked_data_architectural_pattern",
     "submitter_user": {
@@ -354,7 +379,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 123,
+      "karma": 124,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -380,7 +405,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80877,
+      "karma": 80885,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -406,7 +431,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80877,
+      "karma": 80885,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -503,7 +528,7 @@
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
     "score": 10,
     "flags": 0,
-    "comment_count": 28,
+    "comment_count": 31,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -569,7 +594,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4385,
+      "karma": 4386,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -585,7 +610,7 @@
     "created_at": "2021-07-28T12:08:27.000-05:00",
     "title": "passerine: A small extensible programming language designed for concise expression with little code",
     "url": "https://github.com/vrtbl/passerine",
-    "score": 47,
+    "score": 50,
     "flags": 0,
     "comment_count": 11,
     "description": "",
@@ -596,7 +621,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2442,
+      "karma": 2445,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -635,32 +660,6 @@
     },
     "tags": [
       "android"
-    ]
-  },
-  {
-    "short_id": "r6xg8q",
-    "short_id_url": "https://lobste.rs/s/r6xg8q",
-    "created_at": "2021-07-28T11:45:13.000-05:00",
-    "title": "Cloudtari - Cloud Based Atari 2600",
-    "url": "https://www.mikekohn.net/software/cloudtari.php",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/r6xg8q/cloudtari_cloud_based_atari_2600",
-    "submitter_user": {
-      "username": "drs",
-      "created_at": "2015-11-24T15:34:32.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 573,
-      "avatar_url": "/avatars/drs-100.png",
-      "invited_by_user": "brynet"
-    },
-    "tags": [
-      "devops",
-      "hardware"
     ]
   }
 ]
