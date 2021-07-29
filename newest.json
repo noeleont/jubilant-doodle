@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "3pjvwo",
+    "short_id_url": "https://lobste.rs/s/3pjvwo",
+    "created_at": "2021-07-29T04:14:20.000-05:00",
+    "title": "The Perils of Large Files in Elixir",
+    "url": "https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3pjvwo/perils_large_files_elixir",
+    "submitter_user": {
+      "username": "antranigv",
+      "created_at": "2019-09-09T18:15:42.000-05:00",
+      "is_admin": false,
+      "about": "BOFH, Unix, BSD, Elixir/Erlang/OTP, InfoSec, DNS, XMPP, CEO\r\n\r\nXMPP: antranigv [at] jabber [dot] am",
+      "is_moderator": false,
+      "karma": 142,
+      "avatar_url": "/avatars/antranigv-100.png",
+      "invited_by_user": "GeoffWozniak",
+      "github_username": "antranigv",
+      "twitter_username": "antranigv"
+    },
+    "tags": [
+      "elixir",
+      "erlang"
+    ]
+  },
+  {
     "short_id": "zlfyru",
     "short_id_url": "https://lobste.rs/s/zlfyru",
     "created_at": "2021-07-29T03:16:03.000-05:00",
@@ -34,7 +62,7 @@
     "url": "https://chrisman.github.io/9.html",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -95,7 +123,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10423,
+      "karma": 10424,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -135,7 +163,7 @@
     "created_at": "2021-07-28T22:09:15.000-05:00",
     "title": "A Tour of the Fuchsia Operating System",
     "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -146,7 +174,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80869,
+      "karma": 80870,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -162,7 +190,7 @@
     "created_at": "2021-07-28T22:05:50.000-05:00",
     "title": "The Baked Data architectural pattern",
     "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -173,7 +201,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 119,
+      "karma": 120,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -199,7 +227,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80869,
+      "karma": 80870,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -225,7 +253,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80869,
+      "karma": 80870,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -294,9 +322,9 @@
     "created_at": "2021-07-28T16:19:27.000-05:00",
     "title": "Evil tip: avoid \"easy\" things",
     "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "score": 10,
+    "score": 12,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/chlrvl/evil_tip_avoid_easy_things",
     "submitter_user": {
@@ -305,7 +333,7 @@
       "is_admin": false,
       "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
       "is_moderator": false,
-      "karma": 2555,
+      "karma": 2557,
       "avatar_url": "/avatars/varjag-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "varjagg"
@@ -322,7 +350,7 @@
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
     "score": 9,
     "flags": 0,
-    "comment_count": 14,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -347,7 +375,7 @@
     "created_at": "2021-07-28T14:38:56.000-05:00",
     "title": "Small Summaries for Big Data",
     "url": "http://dimacs.rutgers.edu/~graham/ssbd.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -358,7 +386,7 @@
       "is_admin": false,
       "about": "Graduate student in C.S. at McGill University. Interested in programming languages and machine learning.",
       "is_moderator": false,
-      "karma": 20,
+      "karma": 21,
       "avatar_url": "/avatars/breandan-100.png",
       "invited_by_user": "Hail_Spacecake",
       "github_username": "breandan",
@@ -404,9 +432,9 @@
     "created_at": "2021-07-28T12:08:27.000-05:00",
     "title": "passerine: A small extensible programming language designed for concise expression with little code",
     "url": "https://github.com/vrtbl/passerine",
-    "score": 35,
+    "score": 39,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/tdhfed/passerine_small_extensible_programming",
     "submitter_user": {
@@ -415,7 +443,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2429,
+      "karma": 2433,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -499,7 +527,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1462,
+      "karma": 1463,
       "avatar_url": "/avatars/GrayGnome-100.png",
       "invited_by_user": "kev009"
     },
@@ -542,9 +570,9 @@
     "created_at": "2021-07-28T10:56:10.000-05:00",
     "title": "Why Golang Is Bad for Smart Programmers",
     "url": "https://raevskymichail.medium.com/why-golang-bad-for-smart-programmers-4535fce4210c",
-    "score": 18,
+    "score": 20,
     "flags": 2,
-    "comment_count": 40,
+    "comment_count": 42,
     "description": "",
     "comments_url": "https://lobste.rs/s/prveqd/why_golang_is_bad_for_smart_programmers",
     "submitter_user": {
@@ -553,7 +581,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2937,
+      "karma": 2939,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -597,7 +625,7 @@
     "created_at": "2021-07-28T09:31:45.000-05:00",
     "title": "Open source Instagram viewer Barinsta hit with cease and desist letter by Facebook",
     "url": "https://github.com/austinhuang0131/austinhuang0131/issues/2",
-    "score": 7,
+    "score": 8,
     "flags": 3,
     "comment_count": 0,
     "description": "",
@@ -608,7 +636,7 @@
       "is_admin": false,
       "about": "http://fgaz.me\r\n\r\nCS student at chalmers.se | Haskeller",
       "is_moderator": false,
-      "karma": 41,
+      "karma": 42,
       "avatar_url": "/avatars/fgaz-100.png",
       "invited_by_user": "singpolyma",
       "github_username": "fgaz",
@@ -640,38 +668,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80869,
+      "karma": 80870,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "graphics"
-    ]
-  },
-  {
-    "short_id": "3hxtie",
-    "short_id_url": "https://lobste.rs/s/3hxtie",
-    "created_at": "2021-07-28T08:25:44.000-05:00",
-    "title": "P-CNC Plotter Disguised As a Quadruped Robot",
-    "url": "https://www.instructables.com/P-CNC-Plotter-Disguised-As-a-Quadruped-Robot/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3hxtie/p_cnc_plotter_disguised_as_quadruped",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1768,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "hardware"
     ]
   }
 ]
