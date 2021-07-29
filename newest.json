@@ -1,11 +1,38 @@
 [
   {
+    "short_id": "6c9sez",
+    "short_id_url": "https://lobste.rs/s/6c9sez",
+    "created_at": "2021-07-29T10:30:51.000-05:00",
+    "title": "Give constructive proofs of your ideas",
+    "url": "http://catern.com/constructive.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/6c9sez/give_constructive_proofs_your_ideas",
+    "submitter_user": {
+      "username": "catern",
+      "created_at": "2021-04-17T14:00:38.000-05:00",
+      "is_admin": false,
+      "about": "Hello, this is my lobste.rs account.",
+      "is_moderator": false,
+      "karma": 140,
+      "avatar_url": "/avatars/catern-100.png",
+      "invited_by_user": "janus",
+      "github_username": "catern",
+      "twitter_username": "zcatern"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "ygkrvq",
     "short_id_url": "https://lobste.rs/s/ygkrvq",
     "created_at": "2021-07-29T09:55:38.000-05:00",
     "title": "fromMaybe is Just a fold",
     "url": "https://danso.ca/blog/frommaybe-is-just-a-fold/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "[mastodon](https://fosstodon.org/@danso) | [gitlab](https://gitlab.com/danso) | [github](https://github.com/ninedotnine)",
       "is_moderator": false,
-      "karma": 367,
+      "karma": 369,
       "avatar_url": "/avatars/danso-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -30,9 +57,9 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 7,
+    "score": 11,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/agrmsw/zip_how_not_design_file_format",
     "submitter_user": {
@@ -41,7 +68,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80885,
+      "karma": 80889,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -56,7 +83,7 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -67,7 +94,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 864,
+      "karma": 865,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -143,7 +170,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2445,
+      "karma": 2447,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -183,7 +210,7 @@
     "created_at": "2021-07-29T04:14:20.000-05:00",
     "title": "The Perils of Large Files in Elixir",
     "url": "https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -194,7 +221,7 @@
       "is_admin": false,
       "about": "BOFH, Unix, BSD, Elixir/Erlang/OTP, InfoSec, DNS, XMPP, CEO\r\n\r\nXMPP: antranigv [at] jabber [dot] am",
       "is_moderator": false,
-      "karma": 143,
+      "karma": 144,
       "avatar_url": "/avatars/antranigv-100.png",
       "invited_by_user": "GeoffWozniak",
       "github_username": "antranigv",
@@ -238,9 +265,9 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 14,
+    "score": 18,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 23,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -249,7 +276,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3230,
+      "karma": 3237,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -263,7 +290,7 @@
     "created_at": "2021-07-29T02:09:18.000-05:00",
     "title": "Glue Code is the Success Condition",
     "url": "https://blog.metaobject.com/2021/07/glue-code-is-success-condition.html",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -274,7 +301,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 911,
+      "karma": 913,
       "avatar_url": "/avatars/mpweiher-100.png",
       "invited_by_user": "mulle_nat",
       "github_username": "mpw",
@@ -290,7 +317,7 @@
     "created_at": "2021-07-29T00:04:33.000-05:00",
     "title": "Memory Management in Lobster",
     "url": "https://aardappel.github.io/lobster/memory_management.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -301,7 +328,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10430,
+      "karma": 10432,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -352,7 +379,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80885,
+      "karma": 80889,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -405,7 +432,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80885,
+      "karma": 80889,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -431,7 +458,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80885,
+      "karma": 80889,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -500,7 +527,7 @@
     "created_at": "2021-07-28T16:19:27.000-05:00",
     "title": "Evil tip: avoid \"easy\" things",
     "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -511,7 +538,7 @@
       "is_admin": false,
       "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
       "is_moderator": false,
-      "karma": 2563,
+      "karma": 2564,
       "avatar_url": "/avatars/varjag-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "varjagg"
@@ -526,9 +553,9 @@
     "created_at": "2021-07-28T15:04:09.000-05:00",
     "title": "Kubernetes Maximalism",
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 31,
+    "comment_count": 34,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -537,7 +564,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 65,
+      "karma": 66,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -583,7 +610,7 @@
     "created_at": "2021-07-28T13:40:45.000-05:00",
     "title": "Let’s Talk OpenZFS Snapshots",
     "url": "https://klarasystems.com/articles/lets-talk-openzfs-snapshots/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -594,7 +621,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4386,
+      "karma": 4391,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -610,7 +637,7 @@
     "created_at": "2021-07-28T12:08:27.000-05:00",
     "title": "passerine: A small extensible programming language designed for concise expression with little code",
     "url": "https://github.com/vrtbl/passerine",
-    "score": 50,
+    "score": 52,
     "flags": 0,
     "comment_count": 11,
     "description": "",
@@ -621,45 +648,12 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2445,
+      "karma": 2447,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
     "tags": [
       "plt"
-    ]
-  },
-  {
-    "short_id": "efsks2",
-    "short_id_url": "https://lobste.rs/s/efsks2",
-    "created_at": "2021-07-28T12:04:07.000-05:00",
-    "title": "Jetpack Compose is now 1.0: announcing Android’s modern toolkit for building native UI",
-    "url": "https://android-developers.googleblog.com/2021/07/jetpack-compose-announcement.html",
-    "score": 2,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/efsks2/jetpack_compose_is_now_1_0_announcing",
-    "submitter_user": {
-      "username": "dayanruben",
-      "created_at": "2020-04-23T09:46:55.000-05:00",
-      "is_admin": false,
-      "about": "Mobile Software Engineer",
-      "is_moderator": false,
-      "karma": 612,
-      "avatar_url": "/avatars/dayanruben-100.png",
-      "invited_by_user": "jonhoo",
-      "github_username": "dayanruben",
-      "twitter_username": "dayanruben",
-      "keybase_signatures": [
-        {
-          "kb_username": "dayanruben",
-          "sig_hash": "3a38a509e16e82198c83a4bf8db711007c00607e45d96508bd1b76d82ecd343b0f"
-        }
-      ]
-    },
-    "tags": [
-      "android"
     ]
   }
 ]
