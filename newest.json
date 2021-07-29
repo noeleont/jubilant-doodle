@@ -1,11 +1,62 @@
 [
   {
+    "short_id": "agrmsw",
+    "short_id_url": "https://lobste.rs/s/agrmsw",
+    "created_at": "2021-07-29T08:57:31.000-05:00",
+    "title": "Zip - How not to design a file format",
+    "url": "https://games.greggman.com/game/zip-rant/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/agrmsw/zip_how_not_design_file_format",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 80877,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "short_id": "fwqmpw",
+    "short_id_url": "https://lobste.rs/s/fwqmpw",
+    "created_at": "2021-07-29T08:45:36.000-05:00",
+    "title": "Safari isn’t protecting the web, it’s killing it",
+    "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fwqmpw/safari_isn_t_protecting_web_it_s_killing_it",
+    "submitter_user": {
+      "username": "bdesham",
+      "created_at": "2018-11-16T17:30:49.000-06:00",
+      "is_admin": false,
+      "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
+      "is_moderator": false,
+      "karma": 863,
+      "avatar_url": "/avatars/bdesham-100.png",
+      "invited_by_user": "Hail_Spacecake"
+    },
+    "tags": [
+      "browsers"
+    ]
+  },
+  {
     "short_id": "v7ipr7",
     "short_id_url": "https://lobste.rs/s/v7ipr7",
     "created_at": "2021-07-29T07:38:27.000-05:00",
     "title": "Async/Await - The challenges besides syntax - Cancellation (2019)",
     "url": "https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +67,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 4719,
+      "karma": 4720,
       "avatar_url": "/avatars/peter-100.png",
       "invited_by_user": "lauris"
     },
@@ -67,7 +118,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2439,
+      "karma": 2442,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -164,7 +215,7 @@
     "url": "https://chrisman.github.io/9.html",
     "score": 10,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -189,7 +240,7 @@
     "url": "https://blog.metaobject.com/2021/07/glue-code-is-success-condition.html",
     "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/y4ox79/glue_code_is_success_condition",
     "submitter_user": {
@@ -276,7 +327,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80878,
+      "karma": 80877,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -292,7 +343,7 @@
     "created_at": "2021-07-28T22:05:50.000-05:00",
     "title": "The Baked Data architectural pattern",
     "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -303,7 +354,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 122,
+      "karma": 123,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -329,7 +380,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80878,
+      "karma": 80877,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -355,7 +406,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80878,
+      "karma": 80877,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -396,7 +447,7 @@
     "created_at": "2021-07-28T17:04:23.000-05:00",
     "title": "Agent Based Modelling and Simulation tools: A review of the state-of-art software",
     "url": "http://www2.econ.iastate.edu/tesfatsi/ABMSoftwareReview.AbarEtAl2017.pdf",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -407,7 +458,7 @@
       "is_admin": false,
       "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
       "is_moderator": false,
-      "karma": 1009,
+      "karma": 1010,
       "avatar_url": "/avatars/breck-100.png",
       "invited_by_user": "ec",
       "github_username": "breck7",
@@ -424,7 +475,7 @@
     "created_at": "2021-07-28T16:19:27.000-05:00",
     "title": "Evil tip: avoid \"easy\" things",
     "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -435,7 +486,7 @@
       "is_admin": false,
       "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
       "is_moderator": false,
-      "karma": 2562,
+      "karma": 2563,
       "avatar_url": "/avatars/varjag-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "varjagg"
@@ -452,7 +503,7 @@
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
     "score": 10,
     "flags": 0,
-    "comment_count": 25,
+    "comment_count": 28,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -507,7 +558,7 @@
     "created_at": "2021-07-28T13:40:45.000-05:00",
     "title": "Let’s Talk OpenZFS Snapshots",
     "url": "https://klarasystems.com/articles/lets-talk-openzfs-snapshots/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -518,7 +569,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4384,
+      "karma": 4385,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -534,7 +585,7 @@
     "created_at": "2021-07-28T12:08:27.000-05:00",
     "title": "passerine: A small extensible programming language designed for concise expression with little code",
     "url": "https://github.com/vrtbl/passerine",
-    "score": 44,
+    "score": 47,
     "flags": 0,
     "comment_count": 11,
     "description": "",
@@ -545,7 +596,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2439,
+      "karma": 2442,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -610,60 +661,6 @@
     "tags": [
       "devops",
       "hardware"
-    ]
-  },
-  {
-    "short_id": "17no2g",
-    "short_id_url": "https://lobste.rs/s/17no2g",
-    "created_at": "2021-07-28T11:40:15.000-05:00",
-    "title": "Introducing Triton: Open-Source GPU Programming for Neural Networks",
-    "url": "https://openai.com/blog/triton/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/17no2g/introducing_triton_open_source_gpu",
-    "submitter_user": {
-      "username": "GrayGnome",
-      "created_at": "2014-04-15T02:38:02.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1468,
-      "avatar_url": "/avatars/GrayGnome-100.png",
-      "invited_by_user": "kev009"
-    },
-    "tags": [
-      "ai",
-      "graphics",
-      "plt"
-    ]
-  },
-  {
-    "short_id": "llrgpv",
-    "short_id_url": "https://lobste.rs/s/llrgpv",
-    "created_at": "2021-07-28T11:28:07.000-05:00",
-    "title": "How Far Can I Push a GenServer?",
-    "url": "https://blog.brian-underwood.codes/elixir/2021/07/23/How-Far-Can-I-Push-a-GenServer",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/llrgpv/how_far_can_i_push_genserver",
-    "submitter_user": {
-      "username": "yonkeltron",
-      "created_at": "2018-07-09T19:03:57.000-05:00",
-      "is_admin": false,
-      "about": "https://twitter.com/yonkeltron",
-      "is_moderator": false,
-      "karma": 1476,
-      "avatar_url": "/avatars/yonkeltron-100.png",
-      "invited_by_user": "rocx",
-      "github_username": "yonkeltron",
-      "twitter_username": "yonkeltron"
-    },
-    "tags": [
-      "elixir"
     ]
   }
 ]
