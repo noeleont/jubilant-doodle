@@ -1,5 +1,56 @@
 [
   {
+    "short_id": "tlimip",
+    "short_id_url": "https://lobste.rs/s/tlimip",
+    "created_at": "2021-07-29T07:02:37.000-05:00",
+    "title": "PASERK: Platform Agnostic SERialized Keys",
+    "url": "https://github.com/paseto-standard/paserk",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/tlimip/paserk_platform_agnostic_serialized",
+    "submitter_user": {
+      "username": "fkooman",
+      "created_at": "2015-09-14T06:39:59.000-05:00",
+      "is_admin": false,
+      "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
+      "is_moderator": false,
+      "karma": 1389,
+      "avatar_url": "/avatars/fkooman-100.png",
+      "invited_by_user": "untitaker"
+    },
+    "tags": [
+      "crypto",
+      "security"
+    ]
+  },
+  {
+    "short_id": "eibfw2",
+    "short_id_url": "https://lobste.rs/s/eibfw2",
+    "created_at": "2021-07-29T06:45:31.000-05:00",
+    "title": "An Excellent Optimization Story",
+    "url": "https://www.nu42.com/2016/01/excellent-optimization-story.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/eibfw2/excellent_optimization_story",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2439,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "math"
+    ]
+  },
+  {
     "short_id": "tppmdu",
     "short_id_url": "https://lobste.rs/s/tppmdu",
     "created_at": "2021-07-29T06:14:16.000-05:00",
@@ -59,7 +110,7 @@
     "created_at": "2021-07-29T03:16:03.000-05:00",
     "title": "Rust on GraalVM using bitcode",
     "url": "https://michaelbh.com/blog/graalvm-and-rust-1/",
-    "score": 2,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +121,7 @@
       "is_admin": false,
       "about": "seg_lol@protonmail.com",
       "is_moderator": false,
-      "karma": 126,
+      "karma": 130,
       "avatar_url": "/avatars/seg_lol-100.png",
       "invited_by_user": "animatronic"
     },
@@ -86,9 +137,9 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 7,
+    "score": 9,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -97,7 +148,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3219,
+      "karma": 3223,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -111,7 +162,7 @@
     "created_at": "2021-07-29T02:09:18.000-05:00",
     "title": "Glue Code is the Success Condition",
     "url": "https://blog.metaobject.com/2021/07/glue-code-is-success-condition.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -122,7 +173,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 910,
+      "karma": 911,
       "avatar_url": "/avatars/mpweiher-100.png",
       "invited_by_user": "mulle_nat",
       "github_username": "mpw",
@@ -138,7 +189,7 @@
     "created_at": "2021-07-29T00:04:33.000-05:00",
     "title": "Memory Management in Lobster",
     "url": "https://aardappel.github.io/lobster/memory_management.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -149,7 +200,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10426,
+      "karma": 10427,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -189,7 +240,7 @@
     "created_at": "2021-07-28T22:09:15.000-05:00",
     "title": "A Tour of the Fuchsia Operating System",
     "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -200,7 +251,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80872,
+      "karma": 80875,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -216,7 +267,7 @@
     "created_at": "2021-07-28T22:05:50.000-05:00",
     "title": "The Baked Data architectural pattern",
     "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -227,7 +278,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 121,
+      "karma": 122,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -253,7 +304,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80872,
+      "karma": 80875,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -268,7 +319,7 @@
     "created_at": "2021-07-28T18:06:55.000-05:00",
     "title": "The C++ Type Loophole (C++14)",
     "url": "http://alexpolt.github.io/type-loophole.html",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -279,7 +330,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80872,
+      "karma": 80875,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -295,7 +346,7 @@
     "title": "There’s more to it, Dr Marshall",
     "url": "https://microkerneldude.wordpress.com/2021/07/27/theres-more-to-it-dr-marshall/",
     "score": 5,
-    "flags": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/fcyynz/there_s_more_it_dr_marshall",
@@ -374,9 +425,9 @@
     "created_at": "2021-07-28T15:04:09.000-05:00",
     "title": "Kubernetes Maximalism",
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -385,7 +436,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 63,
+      "karma": 65,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -458,9 +509,9 @@
     "created_at": "2021-07-28T12:08:27.000-05:00",
     "title": "passerine: A small extensible programming language designed for concise expression with little code",
     "url": "https://github.com/vrtbl/passerine",
-    "score": 42,
+    "score": 44,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/tdhfed/passerine_small_extensible_programming",
     "submitter_user": {
@@ -469,7 +520,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2437,
+      "karma": 2439,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -598,7 +649,7 @@
     "url": "https://raevskymichail.medium.com/why-golang-bad-for-smart-programmers-4535fce4210c",
     "score": 20,
     "flags": 3,
-    "comment_count": 47,
+    "comment_count": 48,
     "description": "",
     "comments_url": "https://lobste.rs/s/prveqd/why_golang_is_bad_for_smart_programmers",
     "submitter_user": {
@@ -615,66 +666,6 @@
     "tags": [
       "go",
       "rant"
-    ]
-  },
-  {
-    "short_id": "5ueagv",
-    "short_id_url": "https://lobste.rs/s/5ueagv",
-    "created_at": "2021-07-28T09:43:11.000-05:00",
-    "title": "Basic schema inference for arbitrary JavaScript data objects",
-    "url": "https://github.com/multiprocessio/shape",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/5ueagv/basic_schema_inference_for_arbitrary",
-    "submitter_user": {
-      "username": "eatonphil",
-      "created_at": "2019-09-01T20:23:02.000-05:00",
-      "is_admin": false,
-      "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
-      "is_moderator": false,
-      "karma": 1125,
-      "avatar_url": "/avatars/eatonphil-100.png",
-      "invited_by_user": "calvin",
-      "github_username": "eatonphil",
-      "twitter_username": "phil_eaton"
-    },
-    "tags": [
-      "javascript",
-      "show"
-    ]
-  },
-  {
-    "short_id": "0fryxb",
-    "short_id_url": "https://lobste.rs/s/0fryxb",
-    "created_at": "2021-07-28T09:31:45.000-05:00",
-    "title": "Open source Instagram viewer Barinsta hit with cease and desist letter by Facebook",
-    "url": "https://github.com/austinhuang0131/austinhuang0131/issues/2",
-    "score": 8,
-    "flags": 3,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/0fryxb/open_source_instagram_viewer_barinsta",
-    "submitter_user": {
-      "username": "fgaz",
-      "created_at": "2017-09-04T09:29:11.000-05:00",
-      "is_admin": false,
-      "about": "http://fgaz.me\r\n\r\nCS student at chalmers.se | Haskeller",
-      "is_moderator": false,
-      "karma": 42,
-      "avatar_url": "/avatars/fgaz-100.png",
-      "invited_by_user": "singpolyma",
-      "github_username": "fgaz",
-      "keybase_signatures": [
-        {
-          "kb_username": "fgaz",
-          "sig_hash": "fe3046e92bf8a7532c6cb483da0ce1534796fd0585e1cfd5a6fc8c8df7a178340f"
-        }
-      ]
-    },
-    "tags": [
-      "law"
     ]
   }
 ]
