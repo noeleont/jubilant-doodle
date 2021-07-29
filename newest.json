@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "zlfyru",
+    "short_id_url": "https://lobste.rs/s/zlfyru",
+    "created_at": "2021-07-29T03:16:03.000-05:00",
+    "title": "Rust on GraalVM using bitcode",
+    "url": "https://michaelbh.com/blog/graalvm-and-rust-1/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zlfyru/rust_on_graalvm_using_bitcode",
+    "submitter_user": {
+      "username": "seg_lol",
+      "created_at": "2020-10-02T19:51:39.000-05:00",
+      "is_admin": false,
+      "about": "seg_lol@protonmail.com",
+      "is_moderator": false,
+      "karma": 125,
+      "avatar_url": "/avatars/seg_lol-100.png",
+      "invited_by_user": "animatronic"
+    },
+    "tags": [
+      "compilers",
+      "java",
+      "rust"
+    ]
+  },
+  {
+    "short_id": "t0lilm",
+    "short_id_url": "https://lobste.rs/s/t0lilm",
+    "created_at": "2021-07-29T03:05:31.000-05:00",
+    "title": "m4 -   the one true templating language",
+    "url": "https://chrisman.github.io/9.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
+    "submitter_user": {
+      "username": "WilhelmVonWeiner",
+      "created_at": "2018-11-18T13:58:20.000-06:00",
+      "is_admin": false,
+      "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
+      "is_moderator": false,
+      "karma": 3213,
+      "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
+      "invited_by_user": "rocx"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "y4ox79",
     "short_id_url": "https://lobste.rs/s/y4ox79",
     "created_at": "2021-07-29T02:09:18.000-05:00",
@@ -58,7 +110,7 @@
     "created_at": "2021-07-28T22:53:43.000-05:00",
     "title": "Think Like (a) Git",
     "url": "http://think-like-a-git.net/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +121,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 135,
+      "karma": 136,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -83,7 +135,7 @@
     "created_at": "2021-07-28T22:09:15.000-05:00",
     "title": "A Tour of the Fuchsia Operating System",
     "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -94,7 +146,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80866,
+      "karma": 80869,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -110,7 +162,7 @@
     "created_at": "2021-07-28T22:05:50.000-05:00",
     "title": "The Baked Data architectural pattern",
     "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -121,7 +173,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 117,
+      "karma": 119,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -147,7 +199,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80866,
+      "karma": 80869,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -162,7 +214,7 @@
     "created_at": "2021-07-28T18:06:55.000-05:00",
     "title": "The C++ Type Loophole (C++14)",
     "url": "http://alexpolt.github.io/type-loophole.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -173,7 +225,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80866,
+      "karma": 80869,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -214,7 +266,7 @@
     "created_at": "2021-07-28T17:04:23.000-05:00",
     "title": "Agent Based Modelling and Simulation tools: A review of the state-of-art software",
     "url": "http://www2.econ.iastate.edu/tesfatsi/ABMSoftwareReview.AbarEtAl2017.pdf",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -225,7 +277,7 @@
       "is_admin": false,
       "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
       "is_moderator": false,
-      "karma": 1008,
+      "karma": 1009,
       "avatar_url": "/avatars/breck-100.png",
       "invited_by_user": "ec",
       "github_username": "breck7",
@@ -242,7 +294,7 @@
     "created_at": "2021-07-28T16:19:27.000-05:00",
     "title": "Evil tip: avoid \"easy\" things",
     "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -253,7 +305,7 @@
       "is_admin": false,
       "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
       "is_moderator": false,
-      "karma": 2552,
+      "karma": 2555,
       "avatar_url": "/avatars/varjag-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "varjagg"
@@ -270,7 +322,7 @@
     "url": "https://matt-rickard.com/kubernetes-maximalism/",
     "score": 9,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
     "submitter_user": {
@@ -325,7 +377,7 @@
     "created_at": "2021-07-28T13:40:45.000-05:00",
     "title": "Let’s Talk OpenZFS Snapshots",
     "url": "https://klarasystems.com/articles/lets-talk-openzfs-snapshots/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -336,7 +388,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4382,
+      "karma": 4383,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -490,9 +542,9 @@
     "created_at": "2021-07-28T10:56:10.000-05:00",
     "title": "Why Golang Is Bad for Smart Programmers",
     "url": "https://raevskymichail.medium.com/why-golang-bad-for-smart-programmers-4535fce4210c",
-    "score": 19,
-    "flags": 1,
-    "comment_count": 38,
+    "score": 18,
+    "flags": 2,
+    "comment_count": 40,
     "description": "",
     "comments_url": "https://lobste.rs/s/prveqd/why_golang_is_bad_for_smart_programmers",
     "submitter_user": {
@@ -501,7 +553,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2938,
+      "karma": 2937,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -545,8 +597,8 @@
     "created_at": "2021-07-28T09:31:45.000-05:00",
     "title": "Open source Instagram viewer Barinsta hit with cease and desist letter by Facebook",
     "url": "https://github.com/austinhuang0131/austinhuang0131/issues/2",
-    "score": 6,
-    "flags": 2,
+    "score": 7,
+    "flags": 3,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/0fryxb/open_source_instagram_viewer_barinsta",
@@ -556,7 +608,7 @@
       "is_admin": false,
       "about": "http://fgaz.me\r\n\r\nCS student at chalmers.se | Haskeller",
       "is_moderator": false,
-      "karma": 40,
+      "karma": 41,
       "avatar_url": "/avatars/fgaz-100.png",
       "invited_by_user": "singpolyma",
       "github_username": "fgaz",
@@ -588,7 +640,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80866,
+      "karma": 80869,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -620,56 +672,6 @@
     },
     "tags": [
       "hardware"
-    ]
-  },
-  {
-    "short_id": "8rex6n",
-    "short_id_url": "https://lobste.rs/s/8rex6n",
-    "created_at": "2021-07-28T08:20:13.000-05:00",
-    "title": "Yet Another DNA Storage Technique",
-    "url": "https://blog.dshr.org/2021/07/yet-another-dna-storage-technique.html",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/8rex6n/yet_another_dna_storage_technique",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1768,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "science"
-    ]
-  },
-  {
-    "short_id": "sjr5ei",
-    "short_id_url": "https://lobste.rs/s/sjr5ei",
-    "created_at": "2021-07-28T08:12:10.000-05:00",
-    "title": "Throwing and asynchronous Swift properties",
-    "url": "https://www.swiftbysundell.com/articles/throwing-async-properties",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sjr5ei/throwing_asynchronous_swift_properties",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1768,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "swift"
     ]
   }
 ]
