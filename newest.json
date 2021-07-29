@@ -1,5 +1,37 @@
 [
   {
+    "short_id": "z95mzp",
+    "short_id_url": "https://lobste.rs/s/z95mzp",
+    "created_at": "2021-07-29T16:03:22.000-05:00",
+    "title": "Increase Performance by Fitting In the Initial TCP Slow Start Window",
+    "url": "https://sirupsen.com/napkin/problem-15/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/z95mzp/increase_performance_by_fitting_initial",
+    "submitter_user": {
+      "username": "Tenzer",
+      "created_at": "2019-06-24T12:19:29.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 666,
+      "avatar_url": "/avatars/Tenzer-100.png",
+      "invited_by_user": "jamesog",
+      "keybase_signatures": [
+        {
+          "kb_username": "tenzer",
+          "sig_hash": "77963cbe68f998d5371c7cc09ae4bf0143ccef69d6a9cc74c8f8b0f1e3dc07c30f"
+        }
+      ]
+    },
+    "tags": [
+      "math",
+      "performance"
+    ]
+  },
+  {
     "short_id": "bnjtfw",
     "short_id_url": "https://lobste.rs/s/bnjtfw",
     "created_at": "2021-07-29T12:31:52.000-05:00",
@@ -37,7 +69,7 @@
     "created_at": "2021-07-29T12:25:27.000-05:00",
     "title": "Announcing Rust 1.54.0",
     "url": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -48,7 +80,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 444,
+      "karma": 445,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -62,7 +94,7 @@
     "created_at": "2021-07-29T11:36:55.000-05:00",
     "title": "NixOS on the Framework",
     "url": "https://grahamc.com/blog/nixos-on-framework",
-    "score": 19,
+    "score": 23,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -73,7 +105,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2522,
+      "karma": 2526,
       "avatar_url": "/avatars/grahamc-100.png",
       "invited_by_user": "mgdm"
     },
@@ -115,7 +147,7 @@
     "created_at": "2021-07-29T09:55:38.000-05:00",
     "title": "fromMaybe is Just a fold",
     "url": "https://danso.ca/blog/frommaybe-is-just-a-fold/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -126,7 +158,7 @@
       "is_admin": false,
       "about": "[mastodon](https://fosstodon.org/@danso) | [gitlab](https://gitlab.com/danso) | [github](https://github.com/ninedotnine)",
       "is_moderator": false,
-      "karma": 376,
+      "karma": 377,
       "avatar_url": "/avatars/danso-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -140,9 +172,9 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 21,
+    "score": 22,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/agrmsw/zip_how_not_design_file_format",
     "submitter_user": {
@@ -151,7 +183,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80901,
+      "karma": 80903,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -168,7 +200,7 @@
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
     "score": 7,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/fwqmpw/safari_isn_t_protecting_web_it_s_killing_it",
     "submitter_user": {
@@ -177,7 +209,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 870,
+      "karma": 872,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -348,9 +380,9 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 26,
+    "score": 27,
     "flags": 0,
-    "comment_count": 36,
+    "comment_count": 40,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -359,7 +391,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3248,
+      "karma": 3249,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -451,7 +483,7 @@
     "created_at": "2021-07-28T22:09:15.000-05:00",
     "title": "A Tour of the Fuchsia Operating System",
     "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -462,7 +494,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80901,
+      "karma": 80903,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -478,9 +510,9 @@
     "created_at": "2021-07-28T22:05:50.000-05:00",
     "title": "The Baked Data architectural pattern",
     "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/lgvhbg/baked_data_architectural_pattern",
     "submitter_user": {
@@ -489,7 +521,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 126,
+      "karma": 127,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -515,7 +547,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80901,
+      "karma": 80903,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -541,7 +573,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80901,
+      "karma": 80903,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -610,7 +642,7 @@
     "created_at": "2021-07-28T16:19:27.000-05:00",
     "title": "Evil tip: avoid \"easy\" things (2016)",
     "url": "http://yosefk.com/blog/evil-tip-avoid-easy-things.html",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -621,40 +653,13 @@
       "is_admin": false,
       "about": "Empty queue engineer.\r\n\r\nhttp://funcall.org",
       "is_moderator": false,
-      "karma": 2565,
+      "karma": 2566,
       "avatar_url": "/avatars/varjag-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "varjagg"
     },
     "tags": [
       "practices"
-    ]
-  },
-  {
-    "short_id": "uqe2ww",
-    "short_id_url": "https://lobste.rs/s/uqe2ww",
-    "created_at": "2021-07-28T15:04:09.000-05:00",
-    "title": "Kubernetes Maximalism",
-    "url": "https://matt-rickard.com/kubernetes-maximalism/",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 36,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
-    "submitter_user": {
-      "username": "mattr",
-      "created_at": "2016-12-09T13:54:15.000-06:00",
-      "is_admin": false,
-      "about": "Past: Kubernetes at Google",
-      "is_moderator": false,
-      "karma": 67,
-      "avatar_url": "/avatars/mattr-100.png",
-      "invited_by_user": "lm",
-      "twitter_username": "mattrickard"
-    },
-    "tags": [
-      "devops",
-      "rant"
     ]
   }
 ]
