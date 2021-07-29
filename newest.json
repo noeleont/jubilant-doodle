@@ -37,7 +37,7 @@
     "created_at": "2021-07-29T12:25:27.000-05:00",
     "title": "Announcing Rust 1.54.0",
     "url": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -48,7 +48,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 442,
+      "karma": 444,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -57,42 +57,14 @@
     ]
   },
   {
-    "short_id": "4zw5ty",
-    "short_id_url": "https://lobste.rs/s/4zw5ty",
-    "created_at": "2021-07-29T12:09:07.000-05:00",
-    "title": "The Theoretical Minimum",
-    "url": "https://theoreticalminimum.com/courses",
-    "score": -2,
-    "flags": 3,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4zw5ty/theoretical_minimum",
-    "submitter_user": {
-      "username": "breck",
-      "created_at": "2019-04-15T00:02:13.000-05:00",
-      "is_admin": false,
-      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
-      "is_moderator": false,
-      "karma": 1008,
-      "avatar_url": "/avatars/breck-100.png",
-      "invited_by_user": "ec",
-      "github_username": "breck7",
-      "twitter_username": "breckyunits"
-    },
-    "tags": [
-      "math",
-      "science"
-    ]
-  },
-  {
     "short_id": "jdbdyi",
     "short_id_url": "https://lobste.rs/s/jdbdyi",
     "created_at": "2021-07-29T11:36:55.000-05:00",
     "title": "NixOS on the Framework",
     "url": "https://grahamc.com/blog/nixos-on-framework",
-    "score": 15,
+    "score": 19,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/jdbdyi/nixos_on_framework",
     "submitter_user": {
@@ -101,7 +73,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2518,
+      "karma": 2522,
       "avatar_url": "/avatars/grahamc-100.png",
       "invited_by_user": "mgdm"
     },
@@ -116,9 +88,9 @@
     "created_at": "2021-07-29T10:30:51.000-05:00",
     "title": "Give constructive proofs of your ideas",
     "url": "http://catern.com/constructive.html",
-    "score": 2,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/6c9sez/give_constructive_proofs_your_ideas",
     "submitter_user": {
@@ -127,7 +99,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 141,
+      "karma": 143,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -143,7 +115,7 @@
     "created_at": "2021-07-29T09:55:38.000-05:00",
     "title": "fromMaybe is Just a fold",
     "url": "https://danso.ca/blog/frommaybe-is-just-a-fold/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -154,7 +126,7 @@
       "is_admin": false,
       "about": "[mastodon](https://fosstodon.org/@danso) | [gitlab](https://gitlab.com/danso) | [github](https://github.com/ninedotnine)",
       "is_moderator": false,
-      "karma": 375,
+      "karma": 376,
       "avatar_url": "/avatars/danso-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -168,7 +140,7 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -179,7 +151,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80899,
+      "karma": 80901,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -194,9 +166,9 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/fwqmpw/safari_isn_t_protecting_web_it_s_killing_it",
     "submitter_user": {
@@ -205,7 +177,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 868,
+      "karma": 870,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -255,7 +227,7 @@
       "is_admin": false,
       "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
       "is_moderator": false,
-      "karma": 1389,
+      "karma": 1390,
       "avatar_url": "/avatars/fkooman-100.png",
       "invited_by_user": "untitaker"
     },
@@ -295,7 +267,7 @@
     "created_at": "2021-07-29T06:14:16.000-05:00",
     "title": "Python behind the scenes #11: how the Python import system works",
     "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -306,7 +278,7 @@
       "is_admin": false,
       "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
       "is_moderator": false,
-      "karma": 1503,
+      "karma": 1504,
       "avatar_url": "/avatars/learnbyexample-100.png",
       "invited_by_user": "ngoldbaum",
       "twitter_username": "learn_byexample"
@@ -321,7 +293,7 @@
     "created_at": "2021-07-29T04:14:20.000-05:00",
     "title": "The Perils of Large Files in Elixir",
     "url": "https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -332,7 +304,7 @@
       "is_admin": false,
       "about": "BOFH, Unix, BSD, Elixir/Erlang/OTP, InfoSec, DNS, XMPP, CEO\r\n\r\nXMPP: antranigv [at] jabber [dot] am",
       "is_moderator": false,
-      "karma": 144,
+      "karma": 146,
       "avatar_url": "/avatars/antranigv-100.png",
       "invited_by_user": "GeoffWozniak",
       "github_username": "antranigv",
@@ -376,9 +348,9 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 25,
+    "score": 26,
     "flags": 0,
-    "comment_count": 34,
+    "comment_count": 36,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -387,7 +359,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3247,
+      "karma": 3248,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -454,7 +426,7 @@
     "created_at": "2021-07-28T22:53:43.000-05:00",
     "title": "Think Like (a) Git",
     "url": "http://think-like-a-git.net/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -465,7 +437,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 139,
+      "karma": 140,
       "avatar_url": "/avatars/cyberia-100.png",
       "invited_by_user": "ren"
     },
@@ -490,7 +462,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80899,
+      "karma": 80901,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -543,7 +515,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80899,
+      "karma": 80901,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -569,7 +541,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80899,
+      "karma": 80901,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -621,7 +593,7 @@
       "is_admin": false,
       "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
       "is_moderator": false,
-      "karma": 1008,
+      "karma": 1000,
       "avatar_url": "/avatars/breck-100.png",
       "invited_by_user": "ec",
       "github_username": "breck7",
@@ -656,6 +628,33 @@
     },
     "tags": [
       "practices"
+    ]
+  },
+  {
+    "short_id": "uqe2ww",
+    "short_id_url": "https://lobste.rs/s/uqe2ww",
+    "created_at": "2021-07-28T15:04:09.000-05:00",
+    "title": "Kubernetes Maximalism",
+    "url": "https://matt-rickard.com/kubernetes-maximalism/",
+    "score": 12,
+    "flags": 0,
+    "comment_count": 36,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/uqe2ww/kubernetes_maximalism",
+    "submitter_user": {
+      "username": "mattr",
+      "created_at": "2016-12-09T13:54:15.000-06:00",
+      "is_admin": false,
+      "about": "Past: Kubernetes at Google",
+      "is_moderator": false,
+      "karma": 67,
+      "avatar_url": "/avatars/mattr-100.png",
+      "invited_by_user": "lm",
+      "twitter_username": "mattrickard"
+    },
+    "tags": [
+      "devops",
+      "rant"
     ]
   }
 ]
