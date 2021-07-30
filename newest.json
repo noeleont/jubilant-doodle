@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "mc8wdb",
+    "short_id_url": "https://lobste.rs/s/mc8wdb",
+    "created_at": "2021-07-30T06:02:16.000-05:00",
+    "title": "What are you doing this weekend?",
+    "url": "",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+    "comments_url": "https://lobste.rs/s/mc8wdb/what_are_you_doing_this_weekend",
+    "submitter_user": {
+      "username": "caius",
+      "created_at": "2014-05-13T06:58:30.000-05:00",
+      "is_admin": false,
+      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
+      "is_moderator": false,
+      "karma": 6369,
+      "avatar_url": "/avatars/caius-100.png",
+      "invited_by_user": "lauris",
+      "github_username": "caius",
+      "twitter_username": "Caius"
+    },
+    "tags": [
+      "ask",
+      "programming"
+    ]
+  },
+  {
     "short_id": "felalp",
     "short_id_url": "https://lobste.rs/s/felalp",
     "created_at": "2021-07-30T04:08:40.000-05:00",
@@ -71,7 +99,7 @@
       "is_admin": false,
       "about": "seg_lol@protonmail.com",
       "is_moderator": false,
-      "karma": 135,
+      "karma": 136,
       "avatar_url": "/avatars/seg_lol-100.png",
       "invited_by_user": "animatronic"
     },
@@ -85,7 +113,7 @@
     "created_at": "2021-07-30T00:04:34.000-05:00",
     "title": "Ruby 3.1's new debugger",
     "url": "https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +124,7 @@
       "is_admin": false,
       "about": "http://libertree.org/",
       "is_moderator": false,
-      "karma": 658,
+      "karma": 660,
       "avatar_url": "/avatars/Pistos-100.png",
       "invited_by_user": "dlowe"
     },
@@ -110,9 +138,9 @@
     "created_at": "2021-07-29T23:02:37.000-05:00",
     "title": "700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "score": 15,
+    "score": 19,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/cr2owo/700_000_lines_code_20_years_one_developer",
     "submitter_user": {
@@ -121,7 +149,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80941,
+      "karma": 80945,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -242,7 +270,7 @@
     "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
     "score": 11,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/areca7/from_stolen_laptop_inside_company",
     "submitter_user": {
@@ -265,7 +293,7 @@
     "created_at": "2021-07-29T18:03:41.000-05:00",
     "title": "Emulating The IBM PC On An ESP32",
     "url": "https://hackaday.com/2021/07/28/emulating-the-ibm-pc-on-an-esp32/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -276,7 +304,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2585,
+      "karma": 2586,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -348,7 +376,7 @@
     "created_at": "2021-07-29T16:03:22.000-05:00",
     "title": "Increase Performance by Fitting In the Initial TCP Slow Start Window",
     "url": "https://sirupsen.com/napkin/problem-15/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -359,7 +387,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 668,
+      "karma": 669,
       "avatar_url": "/avatars/Tenzer-100.png",
       "invited_by_user": "jamesog",
       "keybase_signatures": [
@@ -412,7 +440,7 @@
     "created_at": "2021-07-29T12:25:27.000-05:00",
     "title": "Announcing Rust 1.54.0",
     "url": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -423,7 +451,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 451,
+      "karma": 452,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -527,7 +555,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80941,
+      "karma": 80945,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -569,7 +597,7 @@
     "url": "https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8",
     "score": 5,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/v7ipr7/async_await_challenges_besides_syntax",
     "submitter_user": {
@@ -635,32 +663,6 @@
     },
     "tags": [
       "math"
-    ]
-  },
-  {
-    "short_id": "tppmdu",
-    "short_id_url": "https://lobste.rs/s/tppmdu",
-    "created_at": "2021-07-29T06:14:16.000-05:00",
-    "title": "Python behind the scenes #11: how the Python import system works",
-    "url": "https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/tppmdu/python_behind_scenes_11_how_python_import",
-    "submitter_user": {
-      "username": "learnbyexample",
-      "created_at": "2020-06-15T09:51:10.000-05:00",
-      "is_admin": false,
-      "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
-      "is_moderator": false,
-      "karma": 1506,
-      "avatar_url": "/avatars/learnbyexample-100.png",
-      "invited_by_user": "ngoldbaum",
-      "twitter_username": "learn_byexample"
-    },
-    "tags": [
-      "python"
     ]
   }
 ]
