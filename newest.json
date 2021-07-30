@@ -1,5 +1,86 @@
 [
   {
+    "short_id": "x35udt",
+    "short_id_url": "https://lobste.rs/s/x35udt",
+    "created_at": "2021-07-30T10:05:45.000-05:00",
+    "title": "Ian Hickson proposes a new vector format",
+    "url": "https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/x35udt/ian_hickson_proposes_new_vector_format",
+    "submitter_user": {
+      "username": "carlmjohnson",
+      "created_at": "2021-07-19T11:55:18.000-05:00",
+      "is_admin": false,
+      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
+      "is_moderator": false,
+      "karma": 68,
+      "avatar_url": "/avatars/carlmjohnson-100.png",
+      "invited_by_user": "peterbourgon",
+      "github_username": "carlmjohnson",
+      "twitter_username": "carlmjohnson"
+    },
+    "tags": [
+      "graphics",
+      "web"
+    ]
+  },
+  {
+    "short_id": "yz6cva",
+    "short_id_url": "https://lobste.rs/s/yz6cva",
+    "created_at": "2021-07-30T09:46:20.000-05:00",
+    "title": "Path hints for B-trees can bring a performance increase of 150% - 300%",
+    "url": "https://github.com/tidwall/btree/blob/master/PATH_HINT.md",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yz6cva/path_hints_for_b_trees_can_bring",
+    "submitter_user": {
+      "username": "eatonphil",
+      "created_at": "2019-09-01T20:23:02.000-05:00",
+      "is_admin": false,
+      "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
+      "is_moderator": false,
+      "karma": 1130,
+      "avatar_url": "/avatars/eatonphil-100.png",
+      "invited_by_user": "calvin",
+      "github_username": "eatonphil",
+      "twitter_username": "phil_eaton"
+    },
+    "tags": [
+      "compsci",
+      "databases"
+    ]
+  },
+  {
+    "short_id": "uihvbr",
+    "short_id_url": "https://lobste.rs/s/uihvbr",
+    "created_at": "2021-07-30T09:24:50.000-05:00",
+    "title": "How I store my files and why you should not rely on fancy tools for backup",
+    "url": "https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/uihvbr/how_i_store_my_files_why_you_should_not_rely",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Software developer. Dad. Tinkerer. he/they.",
+      "is_moderator": false,
+      "karma": 1780,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
     "short_id": "gbhxla",
     "short_id_url": "https://lobste.rs/s/gbhxla",
     "created_at": "2021-07-30T08:54:47.000-05:00",
@@ -16,7 +97,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1772,
+      "karma": 1780,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -30,7 +111,7 @@
     "created_at": "2021-07-30T08:51:19.000-05:00",
     "title": "Performance vs Programming Effort between Rust and C on Multicore Architectures",
     "url": "https://arxiv.org/abs/2107.11912",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +122,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1772,
+      "karma": 1780,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -56,7 +137,7 @@
     "created_at": "2021-07-30T08:46:01.000-05:00",
     "title": "First steps with Rust declarative macros",
     "url": "https://dev.to/rogertorres/first-steps-with-rust-declarative-macros-1f8m",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -67,7 +148,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1772,
+      "karma": 1780,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -107,7 +188,7 @@
     "created_at": "2021-07-30T08:29:46.000-05:00",
     "title": "Mutable statics have scary superpowers! Do not use them",
     "url": "https://blog.kodewerx.org/2021/07/mutable-statics-have-scary-superpowers.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -118,7 +199,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1772,
+      "karma": 1780,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -132,7 +213,7 @@
     "created_at": "2021-07-30T08:27:22.000-05:00",
     "title": "Rust for Linux redux",
     "url": "https://lwn.net/Articles/862018/",
-    "score": 1,
+    "score": 2,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -143,7 +224,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1772,
+      "karma": 1780,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -157,7 +238,7 @@
     "created_at": "2021-07-30T08:24:15.000-05:00",
     "title": "Awesome Unstable Rust Features",
     "url": "https://lazy.codes/posts/awesome-unstable-rust-features/",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -168,7 +249,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1772,
+      "karma": 1780,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -193,7 +274,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1772,
+      "karma": 1780,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -207,7 +288,7 @@
     "created_at": "2021-07-30T07:04:08.000-05:00",
     "title": "Source for the Multics operating system",
     "url": "https://github.com/dancrossnyc/multics",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -218,7 +299,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1128,
+      "karma": 1130,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -235,7 +316,7 @@
     "created_at": "2021-07-30T06:30:42.000-05:00",
     "title": "Descriptorless files for io_uring",
     "url": "https://lwn.net/Articles/863071/",
-    "score": 3,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -246,7 +327,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7699,
+      "karma": 7703,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -268,7 +349,7 @@
     "created_at": "2021-07-30T06:17:08.000-05:00",
     "title": "The journey to controlling external monitors on M1 Macs",
     "url": "https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/",
-    "score": 5,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -279,7 +360,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 7,
+      "karma": 10,
       "avatar_url": "/avatars/alin-100.png",
       "invited_by_user": "ajeetdsouza",
       "github_username": "alin23",
@@ -297,7 +378,7 @@
     "url": "",
     "score": 4,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 11,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/mc8wdb/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -323,9 +404,9 @@
     "created_at": "2021-07-30T04:08:40.000-05:00",
     "title": "Canonicalization Attacks Against MACs and Signatures",
     "url": "https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/",
-    "score": 11,
+    "score": 15,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/felalp/canonicalization_attacks_against_macs",
     "submitter_user": {
@@ -334,7 +415,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 929,
+      "karma": 933,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -373,37 +454,12 @@
     ]
   },
   {
-    "short_id": "kfqfe6",
-    "short_id_url": "https://lobste.rs/s/kfqfe6",
-    "created_at": "2021-07-30T01:47:35.000-05:00",
-    "title": "Current Stimulation of the Midbrain Nucleus in Pigeons for Avian Flight Control",
-    "url": "https://www.mdpi.com/2072-666X/12/7/788",
-    "score": -1,
-    "flags": 3,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/kfqfe6/current_stimulation_midbrain_nucleus",
-    "submitter_user": {
-      "username": "seg_lol",
-      "created_at": "2020-10-02T19:51:39.000-05:00",
-      "is_admin": false,
-      "about": "seg_lol@protonmail.com",
-      "is_moderator": false,
-      "karma": 136,
-      "avatar_url": "/avatars/seg_lol-100.png",
-      "invited_by_user": "animatronic"
-    },
-    "tags": [
-      "science"
-    ]
-  },
-  {
     "short_id": "maxiwv",
     "short_id_url": "https://lobste.rs/s/maxiwv",
     "created_at": "2021-07-30T00:04:34.000-05:00",
     "title": "Ruby 3.1's new debugger",
     "url": "https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -414,7 +470,7 @@
       "is_admin": false,
       "about": "http://libertree.org/",
       "is_moderator": false,
-      "karma": 662,
+      "karma": 664,
       "avatar_url": "/avatars/Pistos-100.png",
       "invited_by_user": "dlowe"
     },
@@ -428,9 +484,9 @@
     "created_at": "2021-07-29T23:02:37.000-05:00",
     "title": "700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "score": 26,
+    "score": 33,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/cr2owo/700_000_lines_code_20_years_one_developer",
     "submitter_user": {
@@ -439,7 +495,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80956,
+      "karma": 80967,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -455,9 +511,9 @@
     "created_at": "2021-07-29T22:48:36.000-05:00",
     "title": "Please send me examples of good OOP code",
     "url": "https://dpc.pw/please-send-me-examples-of-good-oop-code",
-    "score": 11,
+    "score": 12,
     "flags": 3,
-    "comment_count": 9,
+    "comment_count": 11,
     "description": "<p>My first post, I hope it belongs here. Feel free to post links to the projects in the comments.</p>\n",
     "comments_url": "https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code",
     "submitter_user": {
@@ -466,7 +522,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 10,
+      "karma": 11,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -505,7 +561,7 @@
     "created_at": "2021-07-29T22:04:43.000-05:00",
     "title": "Netscape LiveWire Developer's Guide (Serverside JS Framework Predating NodeJS)",
     "url": "http://balok.wooten.net/livewire/livewire.htm",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -516,7 +572,7 @@
       "is_admin": false,
       "about": "Lead developer and co-founder at www.FarmBot.io.\r\n\r\nwww.RickCarlino.com",
       "is_moderator": false,
-      "karma": 613,
+      "karma": 614,
       "avatar_url": "/avatars/rickcarlino-100.png",
       "invited_by_user": "friendlysock",
       "github_username": "RickCarlino",
@@ -558,9 +614,9 @@
     "created_at": "2021-07-29T18:50:56.000-05:00",
     "title": "From Stolen Laptop to Inside the Company Network",
     "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-    "score": 15,
+    "score": 16,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/areca7/from_stolen_laptop_inside_company",
     "submitter_user": {
@@ -569,7 +625,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6955,
+      "karma": 6956,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -602,62 +658,6 @@
     },
     "tags": [
       "hardware"
-    ]
-  },
-  {
-    "short_id": "uwfozb",
-    "short_id_url": "https://lobste.rs/s/uwfozb",
-    "created_at": "2021-07-29T16:33:02.000-05:00",
-    "title": "ConnectorX: accelerate data loading from databases to dataframes",
-    "url": "https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "<p>ConnectorX is the fastest tool that helps you to load data from databases to dataframes in Python. You will get up to 10x speed up as well as with 3x less memory consumption for loading data from databases to Pandas, by simply changing <code>pandas.read_sql</code> to <code>connectorx.read_sql</code>!</p>\n<p>Check out more information on our project here:</p>\n<p>Github: <a href=\"https://github.com/sfu-db/connector-x\" rel=\"ugc\">https://github.com/sfu-db/connector-x</a></p>\n<p>Blog: <a href=\"https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5\" rel=\"ugc\">https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5</a></p>\n<p>PyPI: <a href=\"https://pypi.org/project/connectorx/\" rel=\"ugc\">https://pypi.org/project/connectorx/</a></p>\n<p>crates.io: <a href=\"https://crates.io/crates/connectorx\" rel=\"ugc\">https://crates.io/crates/connectorx</a></p>\n<p>Here are some questions that we hope to hear the answers from you:</p>\n<ul>\n<li>Do you want us to cache the query results onto the disk so that the second time you load the same table will be much faster, at the cost of some disk spaces?</li>\n<li>Do you have the need to load data from different data sources and join / concat them together into a single dataframe?</li>\n<li>Other than relational databases, what other data sources do you want us to support?</li>\n<li>Other than dataframes, what other destinations do you want us to support?</li>\n<li>What other features do you want us to support?</li>\n</ul>\n<p>If you have any other feedback or questions, please let us know!</p>\n",
-    "comments_url": "https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from",
-    "submitter_user": {
-      "username": "dovahcrow",
-      "created_at": "2021-07-28T01:03:15.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 6,
-      "avatar_url": "/avatars/dovahcrow-100.png",
-      "invited_by_user": "houqp",
-      "github_username": "dovahcrow",
-      "twitter_username": "dovahcrow"
-    },
-    "tags": [
-      "databases",
-      "python",
-      "rust"
-    ]
-  },
-  {
-    "short_id": "wd9ccd",
-    "short_id_url": "https://lobste.rs/s/wd9ccd",
-    "created_at": "2021-07-29T16:25:43.000-05:00",
-    "title": "Hunting a bug in the i40e Intel driver",
-    "url": "https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wd9ccd/hunting_bug_i40e_intel_driver",
-    "submitter_user": {
-      "username": "j4m3s",
-      "created_at": "2020-07-06T10:05:03.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 18,
-      "avatar_url": "/avatars/j4m3s-100.png",
-      "invited_by_user": "alarsyo"
-    },
-    "tags": [
-      "linux",
-      "networking",
-      "performance"
     ]
   }
 ]
