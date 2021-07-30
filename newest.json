@@ -1,5 +1,66 @@
 [
   {
+    "short_id": "twnlqi",
+    "short_id_url": "https://lobste.rs/s/twnlqi",
+    "created_at": "2021-07-30T12:40:46.000-05:00",
+    "title": "HTTP Security Headers",
+    "url": "https://kerkour.com/blog/http-security-headers/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/twnlqi/http_security_headers",
+    "submitter_user": {
+      "username": "bcongdon",
+      "created_at": "2019-12-27T13:23:21.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1206,
+      "avatar_url": "/avatars/bcongdon-100.png",
+      "invited_by_user": "gerikson",
+      "github_username": "bcongdon"
+    },
+    "tags": [
+      "security",
+      "web"
+    ]
+  },
+  {
+    "short_id": "0ao5xn",
+    "short_id_url": "https://lobste.rs/s/0ao5xn",
+    "created_at": "2021-07-30T12:32:39.000-05:00",
+    "title": "Bridging the Blockchain / Database Divide",
+    "url": "https://www.juxt.pro/blog/bridging-the-blockchain",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/0ao5xn/bridging_blockchain_database_divide",
+    "submitter_user": {
+      "username": "deobald",
+      "created_at": "2018-12-23T10:45:05.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 96,
+      "avatar_url": "/avatars/deobald-100.png",
+      "invited_by_user": "rdivyanshu",
+      "github_username": "deobald",
+      "twitter_username": "deobald",
+      "keybase_signatures": [
+        {
+          "kb_username": "deobald",
+          "sig_hash": "8f1ec286abb9eddcda5ce199db1c34fd000163001c3f2d8c227f63b217f24f4f0f"
+        }
+      ]
+    },
+    "tags": [
+      "clojure",
+      "databases"
+    ]
+  },
+  {
     "short_id": "noqzvq",
     "short_id_url": "https://lobste.rs/s/noqzvq",
     "created_at": "2021-07-30T11:59:23.000-05:00",
@@ -16,7 +77,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 97,
+      "karma": 96,
       "avatar_url": "/avatars/deobald-100.png",
       "invited_by_user": "rdivyanshu",
       "github_username": "deobald",
@@ -39,7 +100,7 @@
     "created_at": "2021-07-30T10:05:45.000-05:00",
     "title": "Ian Hickson proposes a new vector format",
     "url": "https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -50,7 +111,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 69,
+      "karma": 70,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -67,7 +128,7 @@
     "created_at": "2021-07-30T09:46:20.000-05:00",
     "title": "Path hints for B-trees can bring a performance increase of 150% - 300%",
     "url": "https://github.com/tidwall/btree/blob/master/PATH_HINT.md",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -78,7 +139,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1136,
+      "karma": 1139,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -106,7 +167,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -131,7 +192,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -156,7 +217,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -182,7 +243,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -233,7 +294,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -247,7 +308,7 @@
     "created_at": "2021-07-30T08:27:22.000-05:00",
     "title": "Rust for Linux redux",
     "url": "https://lwn.net/Articles/862018/",
-    "score": 2,
+    "score": 3,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -258,7 +319,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -272,7 +333,7 @@
     "created_at": "2021-07-30T08:24:15.000-05:00",
     "title": "Awesome Unstable Rust Features",
     "url": "https://lazy.codes/posts/awesome-unstable-rust-features/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -283,7 +344,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -308,7 +369,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1787,
+      "karma": 1790,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -322,7 +383,7 @@
     "created_at": "2021-07-30T07:04:08.000-05:00",
     "title": "Source for the Multics operating system",
     "url": "https://github.com/dancrossnyc/multics",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -333,7 +394,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1136,
+      "karma": 1139,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -412,7 +473,7 @@
     "url": "",
     "score": 5,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 14,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/mc8wdb/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -466,7 +527,7 @@
     "created_at": "2021-07-30T00:04:34.000-05:00",
     "title": "Ruby 3.1's new debugger",
     "url": "https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -477,7 +538,7 @@
       "is_admin": false,
       "about": "http://libertree.org/",
       "is_moderator": false,
-      "karma": 665,
+      "karma": 666,
       "avatar_url": "/avatars/Pistos-100.png",
       "invited_by_user": "dlowe"
     },
@@ -491,9 +552,9 @@
     "created_at": "2021-07-29T23:02:37.000-05:00",
     "title": "700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "score": 37,
+    "score": 39,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/cr2owo/700_000_lines_code_20_years_one_developer",
     "submitter_user": {
@@ -502,7 +563,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80975,
+      "karma": 80978,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -520,7 +581,7 @@
     "url": "https://dpc.pw/please-send-me-examples-of-good-oop-code",
     "score": 14,
     "flags": 3,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "<p>My first post, I hope it belongs here. Feel free to post links to the projects in the comments.</p>\n",
     "comments_url": "https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code",
     "submitter_user": {
@@ -613,58 +674,6 @@
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "areca7",
-    "short_id_url": "https://lobste.rs/s/areca7",
-    "created_at": "2021-07-29T18:50:56.000-05:00",
-    "title": "From Stolen Laptop to Inside the Company Network",
-    "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-    "score": 19,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/areca7/from_stolen_laptop_inside_company",
-    "submitter_user": {
-      "username": "GeoffWozniak",
-      "created_at": "2014-03-02T15:01:50.000-06:00",
-      "is_admin": false,
-      "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
-      "is_moderator": false,
-      "karma": 6959,
-      "avatar_url": "/avatars/GeoffWozniak-100.png",
-      "invited_by_user": "vjoel"
-    },
-    "tags": [
-      "security"
-    ]
-  },
-  {
-    "short_id": "sp36de",
-    "short_id_url": "https://lobste.rs/s/sp36de",
-    "created_at": "2021-07-29T18:03:41.000-05:00",
-    "title": "Emulating The IBM PC On An ESP32",
-    "url": "https://hackaday.com/2021/07/28/emulating-the-ibm-pc-on-an-esp32/",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sp36de/emulating_ibm_pc_on_esp32",
-    "submitter_user": {
-      "username": "wezm",
-      "created_at": "2017-03-13T19:52:34.000-05:00",
-      "is_admin": false,
-      "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
-      "is_moderator": false,
-      "karma": 2586,
-      "avatar_url": "/avatars/wezm-100.png",
-      "invited_by_user": "alfiedotwtf",
-      "github_username": "wezm",
-      "twitter_username": "wezm"
-    },
-    "tags": [
-      "hardware"
     ]
   }
 ]
