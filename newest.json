@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "xcjkrl",
+    "short_id_url": "https://lobste.rs/s/xcjkrl",
+    "created_at": "2021-07-29T20:33:12.000-05:00",
+    "title": "AppFS - universal packaging format presented as a filesystem via FUSE",
+    "url": "https://appfs.rkeene.org/web/index",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xcjkrl/appfs_universal_packaging_format",
+    "submitter_user": {
+      "username": "jitl",
+      "created_at": "2018-06-04T23:41:59.000-05:00",
+      "is_admin": false,
+      "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
+      "is_moderator": false,
+      "karma": 698,
+      "avatar_url": "/avatars/jitl-100.png",
+      "invited_by_user": "lettuce"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "areca7",
     "short_id_url": "https://lobste.rs/s/areca7",
     "created_at": "2021-07-29T18:50:56.000-05:00",
     "title": "From Stolen Laptop to Inside the Company Network",
     "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6944,
+      "karma": 6945,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -57,9 +82,9 @@
     "created_at": "2021-07-29T16:33:02.000-05:00",
     "title": "ConnectorX: accelerate data loading from databases to dataframes",
     "url": "https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5",
-    "score": 2,
+    "score": 4,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "<p>ConnectorX is the fastest tool that helps you to load data from databases to dataframes in Python. You will get up to 10x speed up as well as with 3x less memory consumption for loading data from databases to Pandas, by simply changing <code>pandas.read_sql</code> to <code>connectorx.read_sql</code>!</p>\n<p>Check out more information on our project here:</p>\n<p>Github: <a href=\"https://github.com/sfu-db/connector-x\" rel=\"ugc\">https://github.com/sfu-db/connector-x</a></p>\n<p>Blog: <a href=\"https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5\" rel=\"ugc\">https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5</a></p>\n<p>PyPI: <a href=\"https://pypi.org/project/connectorx/\" rel=\"ugc\">https://pypi.org/project/connectorx/</a></p>\n<p>crates.io: <a href=\"https://crates.io/crates/connectorx\" rel=\"ugc\">https://crates.io/crates/connectorx</a></p>\n<p>Here are some questions that we hope to hear the answers from you:</p>\n<ul>\n<li>Do you want us to cache the query results onto the disk so that the second time you load the same table will be much faster, at the cost of some disk spaces?</li>\n<li>Do you have the need to load data from different data sources and join / concat them together into a single dataframe?</li>\n<li>Other than relational databases, what other data sources do you want us to support?</li>\n<li>Other than dataframes, what other destinations do you want us to support?</li>\n<li>What other features do you want us to support?</li>\n</ul>\n<p>If you have any other feedback or questions, please let us know!</p>\n",
     "comments_url": "https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from",
     "submitter_user": {
@@ -68,7 +93,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1,
+      "karma": 3,
       "avatar_url": "/avatars/dovahcrow-100.png",
       "invited_by_user": "houqp",
       "github_username": "dovahcrow",
@@ -145,7 +170,7 @@
     "created_at": "2021-07-29T12:31:52.000-05:00",
     "title": "i3 or Sway? Why not both?",
     "url": "https://stel.codes/blog-posts/i3-or-sway-why-not-both/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -156,7 +181,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2096,
+      "karma": 2097,
       "avatar_url": "/avatars/akavel-100.png",
       "invited_by_user": "TeMPOraL",
       "github_username": "akavel",
@@ -177,7 +202,7 @@
     "created_at": "2021-07-29T12:25:27.000-05:00",
     "title": "Announcing Rust 1.54.0",
     "url": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -188,7 +213,7 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 447,
+      "karma": 448,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
@@ -280,7 +305,7 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 26,
+    "score": 29,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -291,7 +316,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80911,
+      "karma": 80915,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -306,7 +331,7 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -317,7 +342,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 878,
+      "karma": 879,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -382,7 +407,7 @@
     "created_at": "2021-07-29T06:45:31.000-05:00",
     "title": "An Excellent Optimization Story",
     "url": "https://www.nu42.com/2016/01/excellent-optimization-story.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -393,7 +418,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2450,
+      "karma": 2451,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -488,7 +513,7 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 27,
+    "score": 28,
     "flags": 0,
     "comment_count": 42,
     "description": "",
@@ -499,7 +524,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3250,
+      "karma": 3251,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -602,7 +627,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80911,
+      "karma": 80915,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -618,7 +643,7 @@
     "created_at": "2021-07-28T22:05:50.000-05:00",
     "title": "The Baked Data architectural pattern",
     "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 11,
     "description": "",
@@ -629,39 +654,13 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 128,
+      "karma": 129,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
     "tags": [
       "databases",
       "web"
-    ]
-  },
-  {
-    "short_id": "usrbeo",
-    "short_id_url": "https://lobste.rs/s/usrbeo",
-    "created_at": "2021-07-28T20:32:26.000-05:00",
-    "title": "Hastening process cleanup with process_mrelease()",
-    "url": "https://lwn.net/SubscriberLink/864184/06caefb9c8f2bbd5/",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/usrbeo/hastening_process_cleanup_with_process",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 80911,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "linux"
     ]
   }
 ]
