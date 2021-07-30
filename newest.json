@@ -1,12 +1,39 @@
 [
   {
+    "short_id": "dz6cgq",
+    "short_id_url": "https://lobste.rs/s/dz6cgq",
+    "created_at": "2021-07-30T03:03:37.000-05:00",
+    "title": "A JavaScript challenge for truthy (pun intended) masochists",
+    "url": "https://twitter.com/JFieldEffectT/status/1420897142122729474?s=20",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dz6cgq/javascript_challenge_for_truthy_pun",
+    "submitter_user": {
+      "username": "jfet97",
+      "created_at": "2018-06-12T07:42:52.000-05:00",
+      "is_admin": false,
+      "about": "Frontend student/developer",
+      "is_moderator": false,
+      "karma": 53,
+      "avatar_url": "/avatars/jfet97-100.png",
+      "invited_by_user": "bio_end_io_t",
+      "github_username": "jfet97",
+      "twitter_username": "JFieldEffectT"
+    },
+    "tags": [
+      "javascript"
+    ]
+  },
+  {
     "short_id": "kfqfe6",
     "short_id_url": "https://lobste.rs/s/kfqfe6",
     "created_at": "2021-07-30T01:47:35.000-05:00",
     "title": "Current Stimulation of the Midbrain Nucleus in Pigeons for Avian Flight Control",
     "url": "https://www.mdpi.com/2072-666X/12/7/788",
-    "score": 1,
-    "flags": 0,
+    "score": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/kfqfe6/current_stimulation_midbrain_nucleus",
@@ -55,9 +82,9 @@
     "created_at": "2021-07-29T23:02:37.000-05:00",
     "title": "700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "score": 8,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/cr2owo/700_000_lines_code_20_years_one_developer",
     "submitter_user": {
@@ -66,7 +93,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80931,
+      "karma": 80935,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -82,8 +109,8 @@
     "created_at": "2021-07-29T22:48:36.000-05:00",
     "title": "Please send me examples of good OOP code",
     "url": "https://dpc.pw/please-send-me-examples-of-good-oop-code",
-    "score": 5,
-    "flags": 1,
+    "score": 4,
+    "flags": 2,
     "comment_count": 2,
     "description": "<p>My first post, I hope it belongs here. Feel free to post links to the projects in the comments.</p>\n",
     "comments_url": "https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code",
@@ -93,7 +120,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 4,
+      "karma": 3,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -185,7 +212,7 @@
     "created_at": "2021-07-29T18:50:56.000-05:00",
     "title": "From Stolen Laptop to Inside the Company Network",
     "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -196,7 +223,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6949,
+      "karma": 6950,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -239,7 +266,7 @@
     "url": "https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5",
     "score": 5,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "<p>ConnectorX is the fastest tool that helps you to load data from databases to dataframes in Python. You will get up to 10x speed up as well as with 3x less memory consumption for loading data from databases to Pandas, by simply changing <code>pandas.read_sql</code> to <code>connectorx.read_sql</code>!</p>\n<p>Check out more information on our project here:</p>\n<p>Github: <a href=\"https://github.com/sfu-db/connector-x\" rel=\"ugc\">https://github.com/sfu-db/connector-x</a></p>\n<p>Blog: <a href=\"https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5\" rel=\"ugc\">https://towardsdatascience.com/connectorx-the-fastest-way-to-load-data-from-databases-a65d4d4062d5</a></p>\n<p>PyPI: <a href=\"https://pypi.org/project/connectorx/\" rel=\"ugc\">https://pypi.org/project/connectorx/</a></p>\n<p>crates.io: <a href=\"https://crates.io/crates/connectorx\" rel=\"ugc\">https://crates.io/crates/connectorx</a></p>\n<p>Here are some questions that we hope to hear the answers from you:</p>\n<ul>\n<li>Do you want us to cache the query results onto the disk so that the second time you load the same table will be much faster, at the cost of some disk spaces?</li>\n<li>Do you have the need to load data from different data sources and join / concat them together into a single dataframe?</li>\n<li>Other than relational databases, what other data sources do you want us to support?</li>\n<li>Other than dataframes, what other destinations do you want us to support?</li>\n<li>What other features do you want us to support?</li>\n</ul>\n<p>If you have any other feedback or questions, please let us know!</p>\n",
     "comments_url": "https://lobste.rs/s/uwfozb/connectorx_accelerate_data_loading_from",
     "submitter_user": {
@@ -383,7 +410,7 @@
     "created_at": "2021-07-29T11:36:55.000-05:00",
     "title": "NixOS on the Framework",
     "url": "https://grahamc.com/blog/nixos-on-framework",
-    "score": 34,
+    "score": 35,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -394,7 +421,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2537,
+      "karma": 2538,
       "avatar_url": "/avatars/grahamc-100.png",
       "invited_by_user": "mgdm"
     },
@@ -472,7 +499,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80931,
+      "karma": 80935,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -487,7 +514,7 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -498,7 +525,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 885,
+      "karma": 886,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -634,33 +661,6 @@
     "tags": [
       "elixir",
       "erlang"
-    ]
-  },
-  {
-    "short_id": "zlfyru",
-    "short_id_url": "https://lobste.rs/s/zlfyru",
-    "created_at": "2021-07-29T03:16:03.000-05:00",
-    "title": "Rust on GraalVM using bitcode",
-    "url": "https://michaelbh.com/blog/graalvm-and-rust-1/",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/zlfyru/rust_on_graalvm_using_bitcode",
-    "submitter_user": {
-      "username": "seg_lol",
-      "created_at": "2020-10-02T19:51:39.000-05:00",
-      "is_admin": false,
-      "about": "seg_lol@protonmail.com",
-      "is_moderator": false,
-      "karma": 136,
-      "avatar_url": "/avatars/seg_lol-100.png",
-      "invited_by_user": "animatronic"
-    },
-    "tags": [
-      "compilers",
-      "java",
-      "rust"
     ]
   }
 ]
