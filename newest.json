@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "kfqfe6",
+    "short_id_url": "https://lobste.rs/s/kfqfe6",
+    "created_at": "2021-07-30T01:47:35.000-05:00",
+    "title": "Current Stimulation of the Midbrain Nucleus in Pigeons for Avian Flight Control",
+    "url": "https://www.mdpi.com/2072-666X/12/7/788",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kfqfe6/current_stimulation_midbrain_nucleus",
+    "submitter_user": {
+      "username": "seg_lol",
+      "created_at": "2020-10-02T19:51:39.000-05:00",
+      "is_admin": false,
+      "about": "seg_lol@protonmail.com",
+      "is_moderator": false,
+      "karma": 136,
+      "avatar_url": "/avatars/seg_lol-100.png",
+      "invited_by_user": "animatronic"
+    },
+    "tags": [
+      "science"
+    ]
+  },
+  {
     "short_id": "maxiwv",
     "short_id_url": "https://lobste.rs/s/maxiwv",
     "created_at": "2021-07-30T00:04:34.000-05:00",
     "title": "Ruby 3.1's new debugger",
     "url": "https://dev.to/st0012/a-sneak-peek-of-ruby-s-new-debugger-5caa",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "http://libertree.org/",
       "is_moderator": false,
-      "karma": 653,
+      "karma": 654,
       "avatar_url": "/avatars/Pistos-100.png",
       "invited_by_user": "dlowe"
     },
@@ -30,7 +55,7 @@
     "created_at": "2021-07-29T23:02:37.000-05:00",
     "title": "700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +66,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80926,
+      "karma": 80931,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -57,8 +82,8 @@
     "created_at": "2021-07-29T22:48:36.000-05:00",
     "title": "Please send me examples of good OOP code",
     "url": "https://dpc.pw/please-send-me-examples-of-good-oop-code",
-    "score": 4,
-    "flags": 0,
+    "score": 5,
+    "flags": 1,
     "comment_count": 2,
     "description": "<p>My first post, I hope it belongs here. Feel free to post links to the projects in the comments.</p>\n",
     "comments_url": "https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code",
@@ -68,7 +93,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 3,
+      "karma": 4,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -135,7 +160,7 @@
     "created_at": "2021-07-29T20:33:12.000-05:00",
     "title": "AppFS - universal packaging format presented as a filesystem via FUSE",
     "url": "https://appfs.rkeene.org/web/index",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -146,7 +171,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 698,
+      "karma": 699,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -241,7 +266,7 @@
     "created_at": "2021-07-29T16:25:43.000-05:00",
     "title": "Hunting a bug in the i40e Intel driver",
     "url": "https://blog.cri.epita.fr/post/2021-07-29-hunting-a-bug-in-the-i40e-intel-driver/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -252,7 +277,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 16,
+      "karma": 17,
       "avatar_url": "/avatars/j4m3s-100.png",
       "invited_by_user": "alarsyo"
     },
@@ -413,7 +438,7 @@
     "url": "https://danso.ca/blog/frommaybe-is-just-a-fold/",
     "score": 15,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/ygkrvq/frommaybe_is_just_fold",
     "submitter_user": {
@@ -436,7 +461,7 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 33,
+    "score": 34,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -447,7 +472,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80926,
+      "karma": 80931,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -462,9 +487,9 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/fwqmpw/safari_isn_t_protecting_web_it_s_killing_it",
     "submitter_user": {
@@ -473,7 +498,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 883,
+      "karma": 885,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -549,7 +574,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2451,
+      "karma": 2452,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -636,31 +661,6 @@
       "compilers",
       "java",
       "rust"
-    ]
-  },
-  {
-    "short_id": "t0lilm",
-    "short_id_url": "https://lobste.rs/s/t0lilm",
-    "created_at": "2021-07-29T03:05:31.000-05:00",
-    "title": "m4 -   the one true templating language",
-    "url": "https://chrisman.github.io/9.html",
-    "score": 29,
-    "flags": 0,
-    "comment_count": 44,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
-    "submitter_user": {
-      "username": "WilhelmVonWeiner",
-      "created_at": "2018-11-18T13:58:20.000-06:00",
-      "is_admin": false,
-      "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
-      "is_moderator": false,
-      "karma": 3252,
-      "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
-      "invited_by_user": "rocx"
-    },
-    "tags": [
-      "programming"
     ]
   }
 ]
