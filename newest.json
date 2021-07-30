@@ -1,13 +1,101 @@
 [
   {
+    "short_id": "nszxsi",
+    "short_id_url": "https://lobste.rs/s/nszxsi",
+    "created_at": "2021-07-30T07:04:08.000-05:00",
+    "title": "Source for the Multics operating system",
+    "url": "https://github.com/dancrossnyc/multics",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/nszxsi/source_for_multics_operating_system",
+    "submitter_user": {
+      "username": "eatonphil",
+      "created_at": "2019-09-01T20:23:02.000-05:00",
+      "is_admin": false,
+      "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
+      "is_moderator": false,
+      "karma": 1126,
+      "avatar_url": "/avatars/eatonphil-100.png",
+      "invited_by_user": "calvin",
+      "github_username": "eatonphil",
+      "twitter_username": "phil_eaton"
+    },
+    "tags": [
+      "historical",
+      "osdev"
+    ]
+  },
+  {
+    "short_id": "o4p7do",
+    "short_id_url": "https://lobste.rs/s/o4p7do",
+    "created_at": "2021-07-30T06:30:42.000-05:00",
+    "title": "Descriptorless files for io_uring",
+    "url": "https://lwn.net/Articles/863071/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/o4p7do/descriptorless_files_for_io_uring",
+    "submitter_user": {
+      "username": "cadey",
+      "created_at": "2019-03-08T17:23:38.000-06:00",
+      "is_admin": false,
+      "about": "kastermakfa\r\n\r\nko kanro",
+      "is_moderator": false,
+      "karma": 7697,
+      "avatar_url": "/avatars/cadey-100.png",
+      "invited_by_user": "apg",
+      "github_username": "Xe",
+      "twitter_username": "theprincessxena",
+      "keybase_signatures": [
+        {
+          "kb_username": "xena",
+          "sig_hash": "a19dbebc33a79273556666968b3ec01d986d34e4a53cc9e0ece695b9bec4cd6c0f"
+        }
+      ]
+    },
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "short_id": "2zajeu",
+    "short_id_url": "https://lobste.rs/s/2zajeu",
+    "created_at": "2021-07-30T06:17:08.000-05:00",
+    "title": "The journey to controlling external monitors on M1 Macs",
+    "url": "https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/2zajeu/journey_controlling_external_monitors",
+    "submitter_user": {
+      "username": "alin",
+      "created_at": "2020-03-10T05:45:37.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 5,
+      "avatar_url": "/avatars/alin-100.png",
+      "invited_by_user": "ajeetdsouza",
+      "github_username": "alin23",
+      "twitter_username": "alinp32"
+    },
+    "tags": [
+      "mac"
+    ]
+  },
+  {
     "short_id": "mc8wdb",
     "short_id_url": "https://lobste.rs/s/mc8wdb",
     "created_at": "2021-07-30T06:02:16.000-05:00",
     "title": "What are you doing this weekend?",
     "url": "",
-    "score": 1,
+    "score": 3,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/mc8wdb/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -16,7 +104,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6369,
+      "karma": 6371,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -33,9 +121,9 @@
     "created_at": "2021-07-30T04:08:40.000-05:00",
     "title": "Canonicalization Attacks Against MACs and Signatures",
     "url": "https://soatok.blog/2021/07/30/canonicalization-attacks-against-macs-and-signatures/",
-    "score": 1,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/felalp/canonicalization_attacks_against_macs",
     "submitter_user": {
@@ -44,7 +132,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 916,
+      "karma": 923,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -88,8 +176,8 @@
     "created_at": "2021-07-30T01:47:35.000-05:00",
     "title": "Current Stimulation of the Midbrain Nucleus in Pigeons for Avian Flight Control",
     "url": "https://www.mdpi.com/2072-666X/12/7/788",
-    "score": -1,
-    "flags": 2,
+    "score": -2,
+    "flags": 3,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/kfqfe6/current_stimulation_midbrain_nucleus",
@@ -99,7 +187,7 @@
       "is_admin": false,
       "about": "seg_lol@protonmail.com",
       "is_moderator": false,
-      "karma": 136,
+      "karma": 135,
       "avatar_url": "/avatars/seg_lol-100.png",
       "invited_by_user": "animatronic"
     },
@@ -138,7 +226,7 @@
     "created_at": "2021-07-29T23:02:37.000-05:00",
     "title": "700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built",
     "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
-    "score": 19,
+    "score": 23,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -149,7 +237,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80945,
+      "karma": 80951,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -165,9 +253,9 @@
     "created_at": "2021-07-29T22:48:36.000-05:00",
     "title": "Please send me examples of good OOP code",
     "url": "https://dpc.pw/please-send-me-examples-of-good-oop-code",
-    "score": 6,
+    "score": 7,
     "flags": 2,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "<p>My first post, I hope it belongs here. Feel free to post links to the projects in the comments.</p>\n",
     "comments_url": "https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code",
     "submitter_user": {
@@ -176,7 +264,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 5,
+      "karma": 6,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -466,7 +554,7 @@
     "created_at": "2021-07-29T11:36:55.000-05:00",
     "title": "NixOS on the Framework",
     "url": "https://grahamc.com/blog/nixos-on-framework",
-    "score": 37,
+    "score": 39,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -477,7 +565,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2540,
+      "karma": 2542,
       "avatar_url": "/avatars/grahamc-100.png",
       "invited_by_user": "mgdm"
     },
@@ -494,7 +582,7 @@
     "url": "http://catern.com/constructive.html",
     "score": 5,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/6c9sez/give_constructive_proofs_your_ideas",
     "submitter_user": {
@@ -521,7 +609,7 @@
     "url": "https://danso.ca/blog/frommaybe-is-just-a-fold/",
     "score": 16,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/ygkrvq/frommaybe_is_just_fold",
     "submitter_user": {
@@ -544,7 +632,7 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 37,
+    "score": 38,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -555,7 +643,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80945,
+      "karma": 80951,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -570,9 +658,9 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 16,
+    "score": 17,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/fwqmpw/safari_isn_t_protecting_web_it_s_killing_it",
     "submitter_user": {
@@ -581,88 +669,12 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 886,
+      "karma": 887,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
     "tags": [
       "browsers"
-    ]
-  },
-  {
-    "short_id": "v7ipr7",
-    "short_id_url": "https://lobste.rs/s/v7ipr7",
-    "created_at": "2021-07-29T07:38:27.000-05:00",
-    "title": "Async/Await - The challenges besides syntax - Cancellation (2019)",
-    "url": "https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/v7ipr7/async_await_challenges_besides_syntax",
-    "submitter_user": {
-      "username": "peter",
-      "created_at": "2014-04-15T16:35:12.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 4721,
-      "avatar_url": "/avatars/peter-100.png",
-      "invited_by_user": "lauris"
-    },
-    "tags": [
-      "rust"
-    ]
-  },
-  {
-    "short_id": "tlimip",
-    "short_id_url": "https://lobste.rs/s/tlimip",
-    "created_at": "2021-07-29T07:02:37.000-05:00",
-    "title": "PASERK: Platform Agnostic SERialized Keys",
-    "url": "https://github.com/paseto-standard/paserk",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/tlimip/paserk_platform_agnostic_serialized",
-    "submitter_user": {
-      "username": "fkooman",
-      "created_at": "2015-09-14T06:39:59.000-05:00",
-      "is_admin": false,
-      "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
-      "is_moderator": false,
-      "karma": 1390,
-      "avatar_url": "/avatars/fkooman-100.png",
-      "invited_by_user": "untitaker"
-    },
-    "tags": [
-      "crypto",
-      "security"
-    ]
-  },
-  {
-    "short_id": "eibfw2",
-    "short_id_url": "https://lobste.rs/s/eibfw2",
-    "created_at": "2021-07-29T06:45:31.000-05:00",
-    "title": "An Excellent Optimization Story",
-    "url": "https://www.nu42.com/2016/01/excellent-optimization-story.html",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/eibfw2/excellent_optimization_story",
-    "submitter_user": {
-      "username": "technetium",
-      "created_at": "2020-02-06T19:52:39.000-06:00",
-      "is_admin": false,
-      "about": "A sentient lump of a certain high-density material",
-      "is_moderator": false,
-      "karma": 2456,
-      "avatar_url": "/avatars/technetium-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "math"
     ]
   }
 ]
