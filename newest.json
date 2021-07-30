@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "994rzb",
+    "short_id_url": "https://lobste.rs/s/994rzb",
+    "created_at": "2021-07-29T22:04:43.000-05:00",
+    "title": "Netscape LiveWire Developer's Guide (Serverside JS Framework Predating NodeJS)",
+    "url": "http://balok.wooten.net/livewire/livewire.htm",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/994rzb/netscape_livewire_developer_s_guide",
+    "submitter_user": {
+      "username": "rickcarlino",
+      "created_at": "2017-01-19T09:41:19.000-06:00",
+      "is_admin": false,
+      "about": "Lead developer and co-founder at www.FarmBot.io.\r\n\r\nwww.RickCarlino.com",
+      "is_moderator": false,
+      "karma": 611,
+      "avatar_url": "/avatars/rickcarlino-100.png",
+      "invited_by_user": "friendlysock",
+      "github_username": "RickCarlino",
+      "twitter_username": "RickCarlino"
+    },
+    "tags": [
+      "historical",
+      "javascript"
+    ]
+  },
+  {
     "short_id": "xcjkrl",
     "short_id_url": "https://lobste.rs/s/xcjkrl",
     "created_at": "2021-07-29T20:33:12.000-05:00",
@@ -30,7 +58,7 @@
     "created_at": "2021-07-29T18:50:56.000-05:00",
     "title": "From Stolen Laptop to Inside the Company Network",
     "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +69,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6945,
+      "karma": 6946,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -55,7 +83,7 @@
     "created_at": "2021-07-29T18:03:41.000-05:00",
     "title": "Emulating The IBM PC On An ESP32",
     "url": "https://hackaday.com/2021/07/28/emulating-the-ibm-pc-on-an-esp32/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -66,7 +94,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2582,
+      "karma": 2583,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -138,7 +166,7 @@
     "created_at": "2021-07-29T16:03:22.000-05:00",
     "title": "Increase Performance by Fitting In the Initial TCP Slow Start Window",
     "url": "https://sirupsen.com/napkin/problem-15/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -149,7 +177,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 667,
+      "karma": 668,
       "avatar_url": "/avatars/Tenzer-100.png",
       "invited_by_user": "jamesog",
       "keybase_signatures": [
@@ -227,7 +255,7 @@
     "created_at": "2021-07-29T11:36:55.000-05:00",
     "title": "NixOS on the Framework",
     "url": "https://grahamc.com/blog/nixos-on-framework",
-    "score": 28,
+    "score": 29,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -238,7 +266,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2531,
+      "karma": 2532,
       "avatar_url": "/avatars/grahamc-100.png",
       "invited_by_user": "mgdm"
     },
@@ -280,7 +308,7 @@
     "created_at": "2021-07-29T09:55:38.000-05:00",
     "title": "fromMaybe is Just a fold",
     "url": "https://danso.ca/blog/frommaybe-is-just-a-fold/",
-    "score": 11,
+    "score": 14,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -291,7 +319,7 @@
       "is_admin": false,
       "about": "[mastodon](https://fosstodon.org/@danso) | [gitlab](https://gitlab.com/danso) | [github](https://github.com/ninedotnine)",
       "is_moderator": false,
-      "karma": 377,
+      "karma": 380,
       "avatar_url": "/avatars/danso-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -305,9 +333,9 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 29,
+    "score": 30,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/agrmsw/zip_how_not_design_file_format",
     "submitter_user": {
@@ -316,7 +344,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80915,
+      "karma": 80916,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -458,7 +486,7 @@
     "created_at": "2021-07-29T04:14:20.000-05:00",
     "title": "The Perils of Large Files in Elixir",
     "url": "https://pspdfkit.com/blog/2021/the-perils-of-large-files-in-elixir/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -469,7 +497,7 @@
       "is_admin": false,
       "about": "BOFH, Unix, BSD, Elixir/Erlang/OTP, InfoSec, DNS, XMPP, CEO\r\n\r\nXMPP: antranigv [at] jabber [dot] am",
       "is_moderator": false,
-      "karma": 146,
+      "karma": 148,
       "avatar_url": "/avatars/antranigv-100.png",
       "invited_by_user": "GeoffWozniak",
       "github_username": "antranigv",
@@ -576,7 +604,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10436,
+      "karma": 10437,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -627,7 +655,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80915,
+      "karma": 80916,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -635,32 +663,6 @@
     "tags": [
       "osdev",
       "video"
-    ]
-  },
-  {
-    "short_id": "lgvhbg",
-    "short_id_url": "https://lobste.rs/s/lgvhbg",
-    "created_at": "2021-07-28T22:05:50.000-05:00",
-    "title": "The Baked Data architectural pattern",
-    "url": "https://simonwillison.net/2021/Jul/28/baked-data/",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lgvhbg/baked_data_architectural_pattern",
-    "submitter_user": {
-      "username": "juri",
-      "created_at": "2017-08-15T02:29:44.000-05:00",
-      "is_admin": false,
-      "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
-      "is_moderator": false,
-      "karma": 129,
-      "avatar_url": "/avatars/juri-100.png",
-      "invited_by_user": "johan"
-    },
-    "tags": [
-      "databases",
-      "web"
     ]
   }
 ]
