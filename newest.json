@@ -1,5 +1,82 @@
 [
   {
+    "short_id": "cr2owo",
+    "short_id_url": "https://lobste.rs/s/cr2owo",
+    "created_at": "2021-07-29T23:02:37.000-05:00",
+    "title": "700,000 lines of code, 20 years, and one developer: How Dwarf Fortress is built",
+    "url": "https://stackoverflow.blog/2021/07/28/700000-lines-of-code-20-years-and-one-developer-how-dwarf-fortress-is-built/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cr2owo/700_000_lines_code_20_years_one_developer",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 80918,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "games",
+      "person"
+    ]
+  },
+  {
+    "short_id": "bcrtrj",
+    "short_id_url": "https://lobste.rs/s/bcrtrj",
+    "created_at": "2021-07-29T22:48:36.000-05:00",
+    "title": "Please send me examples of good OOP code",
+    "url": "https://dpc.pw/please-send-me-examples-of-good-oop-code",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "<p>I’m the author. My first post, I hope it belongs here. Feel free to post links to the projects in the comments.</p>\n",
+    "comments_url": "https://lobste.rs/s/bcrtrj/please_send_me_examples_good_oop_code",
+    "submitter_user": {
+      "username": "dpc_pw",
+      "created_at": "2021-07-02T13:20:19.000-05:00",
+      "is_admin": false,
+      "about": "https://dpc.pw",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/dpc_pw-100.png",
+      "invited_by_user": "kornel"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "short_id": "aoh2tf",
+    "short_id_url": "https://lobste.rs/s/aoh2tf",
+    "created_at": "2021-07-29T22:34:15.000-05:00",
+    "title": "Edit Your C++ Code while Debugging with Hot Reload in Visual Studio 2022",
+    "url": "https://devblogs.microsoft.com/cppblog/edit-your-c-code-while-debugging-with-hot-reload-in-visual-studio-2022/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/aoh2tf/edit_your_c_code_while_debugging_with_hot",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11522,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++"
+    ]
+  },
+  {
     "short_id": "994rzb",
     "short_id_url": "https://lobste.rs/s/994rzb",
     "created_at": "2021-07-29T22:04:43.000-05:00",
@@ -58,7 +135,7 @@
     "created_at": "2021-07-29T18:50:56.000-05:00",
     "title": "From Stolen Laptop to Inside the Company Network",
     "url": "https://dolosgroup.io/blog/2021/7/9/from-stolen-laptop-to-inside-the-company-network",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +146,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6946,
+      "karma": 6948,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -230,7 +307,7 @@
     "created_at": "2021-07-29T12:25:27.000-05:00",
     "title": "Announcing Rust 1.54.0",
     "url": "https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -241,11 +318,12 @@
       "is_admin": false,
       "about": "See my README at https://github.com/travier and Twitter @siosm",
       "is_moderator": false,
-      "karma": 448,
+      "karma": 449,
       "avatar_url": "/avatars/Siosm-100.png",
       "invited_by_user": "lthms"
     },
     "tags": [
+      "release",
       "rust"
     ]
   },
@@ -255,7 +333,7 @@
     "created_at": "2021-07-29T11:36:55.000-05:00",
     "title": "NixOS on the Framework",
     "url": "https://grahamc.com/blog/nixos-on-framework",
-    "score": 29,
+    "score": 31,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -266,7 +344,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2532,
+      "karma": 2534,
       "avatar_url": "/avatars/grahamc-100.png",
       "invited_by_user": "mgdm"
     },
@@ -281,9 +359,9 @@
     "created_at": "2021-07-29T10:30:51.000-05:00",
     "title": "Give constructive proofs of your ideas",
     "url": "http://catern.com/constructive.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/6c9sez/give_constructive_proofs_your_ideas",
     "submitter_user": {
@@ -292,7 +370,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 143,
+      "karma": 144,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -333,7 +411,7 @@
     "created_at": "2021-07-29T08:57:31.000-05:00",
     "title": "Zip - How not to design a file format",
     "url": "https://games.greggman.com/game/zip-rant/",
-    "score": 30,
+    "score": 32,
     "flags": 0,
     "comment_count": 11,
     "description": "",
@@ -344,7 +422,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 80916,
+      "karma": 80918,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -359,7 +437,7 @@
     "created_at": "2021-07-29T08:45:36.000-05:00",
     "title": "Safari isn’t protecting the web, it’s killing it",
     "url": "https://httptoolkit.tech/blog/safari-is-killing-the-web/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -370,7 +448,7 @@
       "is_admin": false,
       "about": "Professional and hobbyist software developer.\r\n\r\nHe/him",
       "is_moderator": false,
-      "karma": 879,
+      "karma": 880,
       "avatar_url": "/avatars/bdesham-100.png",
       "invited_by_user": "Hail_Spacecake"
     },
@@ -386,7 +464,7 @@
     "url": "https://gist.github.com/Matthias247/ffc0f189742abf6aa41a226fe07398a8",
     "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/v7ipr7/async_await_challenges_besides_syntax",
     "submitter_user": {
@@ -541,9 +619,9 @@
     "created_at": "2021-07-29T03:05:31.000-05:00",
     "title": "m4 -   the one true templating language",
     "url": "https://chrisman.github.io/9.html",
-    "score": 28,
+    "score": 29,
     "flags": 0,
-    "comment_count": 42,
+    "comment_count": 44,
     "description": "",
     "comments_url": "https://lobste.rs/s/t0lilm/m4_one_true_templating_language",
     "submitter_user": {
@@ -552,7 +630,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3251,
+      "karma": 3252,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -585,84 +663,6 @@
     },
     "tags": [
       "compsci"
-    ]
-  },
-  {
-    "short_id": "n4yyud",
-    "short_id_url": "https://lobste.rs/s/n4yyud",
-    "created_at": "2021-07-29T00:04:33.000-05:00",
-    "title": "Memory Management in Lobster",
-    "url": "https://aardappel.github.io/lobster/memory_management.html",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/n4yyud/memory_management_lobster",
-    "submitter_user": {
-      "username": "lorddimwit",
-      "created_at": "2016-08-15T09:39:45.000-05:00",
-      "is_admin": false,
-      "about": "\r\n",
-      "is_moderator": false,
-      "karma": 10437,
-      "avatar_url": "/avatars/lorddimwit-100.png",
-      "invited_by_user": "cks",
-      "github_username": "deadpixi"
-    },
-    "tags": [
-      "plt"
-    ]
-  },
-  {
-    "short_id": "ympho7",
-    "short_id_url": "https://lobste.rs/s/ympho7",
-    "created_at": "2021-07-28T22:53:43.000-05:00",
-    "title": "Think Like (a) Git",
-    "url": "http://think-like-a-git.net/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ympho7/think_like_git",
-    "submitter_user": {
-      "username": "cyberia",
-      "created_at": "2021-05-11T06:41:47.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 140,
-      "avatar_url": "/avatars/cyberia-100.png",
-      "invited_by_user": "ren"
-    },
-    "tags": [
-      "vcs"
-    ]
-  },
-  {
-    "short_id": "pjlyuq",
-    "short_id_url": "https://lobste.rs/s/pjlyuq",
-    "created_at": "2021-07-28T22:09:15.000-05:00",
-    "title": "A Tour of the Fuchsia Operating System",
-    "url": "https://www.youtube.com/watch?v=gIT1ISCioDY",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/pjlyuq/tour_fuchsia_operating_system",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 80916,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "osdev",
-      "video"
     ]
   }
 ]
