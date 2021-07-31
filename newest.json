@@ -1,11 +1,91 @@
 [
   {
+    "short_id": "qan9eo",
+    "short_id_url": "https://lobste.rs/s/qan9eo",
+    "created_at": "2021-07-31T08:47:27.000-05:00",
+    "title": "You Really Shouldn't Roll Your Own Crypto: Empirical Study of Vulnerabilities in Cryptographic Libs",
+    "url": "https://arxiv.org/pdf/2107.04940.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p><a href=\"https://arxiv.org/abs/2107.04940\" rel=\"ugc\">arXiv</a></p>\n",
+    "comments_url": "https://lobste.rs/s/qan9eo/you_really_shouldn_t_roll_your_own_crypto",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81011,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "crypto",
+      "pdf",
+      "security"
+    ]
+  },
+  {
+    "short_id": "872ohv",
+    "short_id_url": "https://lobste.rs/s/872ohv",
+    "created_at": "2021-07-31T08:43:29.000-05:00",
+    "title": "6 Years of Professional Clojure",
+    "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/872ohv/6_years_professional_clojure",
+    "submitter_user": {
+      "username": "Yogthos",
+      "created_at": "2017-05-26T15:31:12.000-05:00",
+      "is_admin": false,
+      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
+      "is_moderator": false,
+      "karma": 6989,
+      "avatar_url": "/avatars/Yogthos-100.png",
+      "invited_by_user": "gered"
+    },
+    "tags": [
+      "clojure",
+      "programming"
+    ]
+  },
+  {
+    "short_id": "j5qpv1",
+    "short_id_url": "https://lobste.rs/s/j5qpv1",
+    "created_at": "2021-07-31T08:27:07.000-05:00",
+    "title": "Nodashka is a babashka-like tool for Node.js",
+    "url": "https://github.com/borkdude/nodashka",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/j5qpv1/nodashka_is_babashka_like_tool_for_node_js",
+    "submitter_user": {
+      "username": "Yogthos",
+      "created_at": "2017-05-26T15:31:12.000-05:00",
+      "is_admin": false,
+      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
+      "is_moderator": false,
+      "karma": 6989,
+      "avatar_url": "/avatars/Yogthos-100.png",
+      "invited_by_user": "gered"
+    },
+    "tags": [
+      "clojure",
+      "javascript"
+    ]
+  },
+  {
     "short_id": "dny0dv",
     "short_id_url": "https://lobste.rs/s/dny0dv",
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "CRDTs go brrr",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 4,
+    "score": 11,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -16,7 +96,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 134,
+      "karma": 142,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -58,7 +138,7 @@
     "created_at": "2021-07-31T04:41:27.000-05:00",
     "title": "Convergence of Infinite Products",
     "url": "https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +149,7 @@
       "is_admin": false,
       "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme) and [Uncap](https://github.com/susam/uncap).\r\n\r\nFreenode IRC nick: `spal`\r\n\r\nPosting about C, Python, Lisp, TeX, Vim, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
       "is_moderator": false,
-      "karma": 819,
+      "karma": 820,
       "avatar_url": "/avatars/susam-100.png",
       "invited_by_user": "premysl",
       "github_username": "susam",
@@ -137,7 +217,7 @@
     "created_at": "2021-07-30T18:30:25.000-05:00",
     "title": "Work in the kitchen",
     "url": "https://dev.to/rekki/work-in-the-kitchen-4ifm",
-    "score": 0,
+    "score": 1,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -148,7 +228,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 98,
+      "karma": 99,
       "avatar_url": "/avatars/statenjason-100.png",
       "invited_by_user": "chasingtheflow"
     },
@@ -275,7 +355,7 @@
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
     "score": 12,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/v0zrtr/echo_shell_injection",
     "submitter_user": {
@@ -284,7 +364,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1929,
+      "karma": 1931,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -375,9 +455,9 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 53,
+    "score": 54,
     "flags": 1,
-    "comment_count": 10,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/epyspp/cloudflare_s_inaccessible_browser",
     "submitter_user": {
@@ -386,7 +466,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1477,
+      "karma": 1479,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -429,7 +509,7 @@
     "url": "http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html",
     "score": 25,
     "flags": 0,
-    "comment_count": 27,
+    "comment_count": 30,
     "description": "",
     "comments_url": "https://lobste.rs/s/s10jr0/running_my_own_email_server",
     "submitter_user": {
@@ -593,87 +673,6 @@
     "tags": [
       "clojure",
       "databases"
-    ]
-  },
-  {
-    "short_id": "x35udt",
-    "short_id_url": "https://lobste.rs/s/x35udt",
-    "created_at": "2021-07-30T10:05:45.000-05:00",
-    "title": "Ian Hickson proposes a new vector format",
-    "url": "https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg",
-    "score": 29,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/x35udt/ian_hickson_proposes_new_vector_format",
-    "submitter_user": {
-      "username": "carlmjohnson",
-      "created_at": "2021-07-19T11:55:18.000-05:00",
-      "is_admin": false,
-      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
-      "is_moderator": false,
-      "karma": 106,
-      "avatar_url": "/avatars/carlmjohnson-100.png",
-      "invited_by_user": "peterbourgon",
-      "github_username": "carlmjohnson",
-      "twitter_username": "carlmjohnson"
-    },
-    "tags": [
-      "graphics",
-      "web"
-    ]
-  },
-  {
-    "short_id": "yz6cva",
-    "short_id_url": "https://lobste.rs/s/yz6cva",
-    "created_at": "2021-07-30T09:46:20.000-05:00",
-    "title": "Path hints for B-trees can bring a performance increase of 150% - 300%",
-    "url": "https://github.com/tidwall/btree/blob/master/PATH_HINT.md",
-    "score": 24,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yz6cva/path_hints_for_b_trees_can_bring",
-    "submitter_user": {
-      "username": "eatonphil",
-      "created_at": "2019-09-01T20:23:02.000-05:00",
-      "is_admin": false,
-      "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
-      "is_moderator": false,
-      "karma": 1165,
-      "avatar_url": "/avatars/eatonphil-100.png",
-      "invited_by_user": "calvin",
-      "github_username": "eatonphil",
-      "twitter_username": "phil_eaton"
-    },
-    "tags": [
-      "compsci",
-      "databases"
-    ]
-  },
-  {
-    "short_id": "uihvbr",
-    "short_id_url": "https://lobste.rs/s/uihvbr",
-    "created_at": "2021-07-30T09:24:50.000-05:00",
-    "title": "How I store my files and why you should not rely on fancy tools for backup",
-    "url": "https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uihvbr/how_i_store_my_files_why_you_should_not_rely",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1823,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "devops"
     ]
   }
 ]
