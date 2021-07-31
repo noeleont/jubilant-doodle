@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "rwqg5d",
+    "short_id_url": "https://lobste.rs/s/rwqg5d",
+    "created_at": "2021-07-31T12:31:18.000-05:00",
+    "title": "Hosting SQLite databases on Github Pages",
+    "url": "https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rwqg5d/hosting_sqlite_databases_on_github_pages",
+    "submitter_user": {
+      "username": "bcongdon",
+      "created_at": "2019-12-27T13:23:21.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1207,
+      "avatar_url": "/avatars/bcongdon-100.png",
+      "invited_by_user": "gerikson",
+      "github_username": "bcongdon"
+    },
+    "tags": [
+      "databases",
+      "web"
+    ]
+  },
+  {
     "short_id": "qan9eo",
     "short_id_url": "https://lobste.rs/s/qan9eo",
     "created_at": "2021-07-31T08:47:27.000-05:00",
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81012,
+      "karma": 81013,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -33,7 +60,7 @@
     "created_at": "2021-07-31T08:43:29.000-05:00",
     "title": "6 Years of Professional Clojure",
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -44,7 +71,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6994,
+      "karma": 6996,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -70,7 +97,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6994,
+      "karma": 6996,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -85,7 +112,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "CRDTs go brrr",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 26,
+    "score": 35,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -96,7 +123,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 158,
+      "karma": 167,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -113,9 +140,9 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 1,
+    "score": 2,
     "flags": 3,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -124,7 +151,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 859,
+      "karma": 860,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -191,7 +218,7 @@
     "created_at": "2021-07-30T21:41:26.000-05:00",
     "title": "Commodore 64 \"Mod of the Year\" (2015)",
     "url": "https://www.breadbox64.com/blog/mod-of-the-year-2015/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -202,7 +229,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1495,
+      "karma": 1496,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -244,7 +271,7 @@
     "url": "https://climatestrike.software/",
     "score": 1,
     "flags": 2,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/cxphgv/climate_strike_software",
     "submitter_user": {
@@ -331,7 +358,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7714,
+      "karma": 7715,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -353,7 +380,7 @@
     "created_at": "2021-07-30T16:28:42.000-05:00",
     "title": "; echo \"Shell Injection\"",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -364,7 +391,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1933,
+      "karma": 1934,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -381,7 +408,7 @@
     "url": "https://nullprogram.com/blog/2021/07/30/",
     "score": 13,
     "flags": 1,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/3fxmpq/strcpy_niche_function_you_don_t_need",
     "submitter_user": {
@@ -415,7 +442,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6994,
+      "karma": 6996,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -455,7 +482,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 65,
+    "score": 66,
     "flags": 1,
     "comment_count": 13,
     "description": "",
@@ -466,7 +493,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1497,
+      "karma": 1501,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -481,9 +508,9 @@
     "created_at": "2021-07-30T14:28:42.000-05:00",
     "title": "In Defense of Package Managers",
     "url": "https://dlorenc.medium.com/in-defense-of-package-managers-31792111d7b1",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/3gxnke/defense_package_managers",
     "submitter_user": {
@@ -492,7 +519,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81012,
+      "karma": 81013,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -618,40 +645,6 @@
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/0ao5xn/bridging_blockchain_database_divide",
-    "submitter_user": {
-      "username": "deobald",
-      "created_at": "2018-12-23T10:45:05.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 98,
-      "avatar_url": "/avatars/deobald-100.png",
-      "invited_by_user": "rdivyanshu",
-      "github_username": "deobald",
-      "twitter_username": "deobald",
-      "keybase_signatures": [
-        {
-          "kb_username": "deobald",
-          "sig_hash": "8f1ec286abb9eddcda5ce199db1c34fd000163001c3f2d8c227f63b217f24f4f0f"
-        }
-      ]
-    },
-    "tags": [
-      "clojure",
-      "databases"
-    ]
-  },
-  {
-    "short_id": "noqzvq",
-    "short_id_url": "https://lobste.rs/s/noqzvq",
-    "created_at": "2021-07-30T11:59:23.000-05:00",
-    "title": "Crux 1.18.0 is out",
-    "url": "https://github.com/juxt/crux/releases/tag/1.18.0",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/noqzvq/crux_1_18_0_is_out",
     "submitter_user": {
       "username": "deobald",
       "created_at": "2018-12-23T10:45:05.000-06:00",
