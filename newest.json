@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "ijqmym",
+    "short_id_url": "https://lobste.rs/s/ijqmym",
+    "created_at": "2021-07-31T06:13:06.000-05:00",
+    "title": "Hasta la Vista Gmail",
+    "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
+    "submitter_user": {
+      "username": "bbatsov",
+      "created_at": "2019-04-04T06:06:38.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 858,
+      "avatar_url": "/avatars/bbatsov-100.png",
+      "invited_by_user": "dragandj"
+    },
+    "tags": [
+      "email"
+    ]
+  },
+  {
     "short_id": "roulgg",
     "short_id_url": "https://lobste.rs/s/roulgg",
     "created_at": "2021-07-31T04:41:27.000-05:00",
     "title": "Convergence of Infinite Products",
     "url": "https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme) and [Uncap](https://github.com/susam/uncap).\r\n\r\nFreenode IRC nick: `spal`\r\n\r\nPosting about C, Python, Lisp, TeX, Vim, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
       "is_moderator": false,
-      "karma": 818,
+      "karma": 819,
       "avatar_url": "/avatars/susam-100.png",
       "invited_by_user": "premysl",
       "github_username": "susam",
@@ -32,7 +57,7 @@
     "created_at": "2021-07-31T02:36:50.000-05:00",
     "title": "Strict memcpy() bounds checking for the kernel",
     "url": "https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -43,7 +68,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11529,
+      "karma": 11530,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -145,7 +170,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2464,
+      "karma": 2465,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -187,7 +212,7 @@
     "created_at": "2021-07-30T16:45:41.000-05:00",
     "title": "The Workgirl Keyboard Layout",
     "url": "https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html",
-    "score": 3,
+    "score": 4,
     "flags": 11,
     "comment_count": 4,
     "description": "",
@@ -198,7 +223,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7715,
+      "karma": 7716,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -220,9 +245,9 @@
     "created_at": "2021-07-30T16:28:42.000-05:00",
     "title": "; echo \"Shell Injection\"",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/v0zrtr/echo_shell_injection",
     "submitter_user": {
@@ -231,7 +256,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1925,
+      "karma": 1926,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -322,7 +347,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 48,
+    "score": 50,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -333,7 +358,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1472,
+      "karma": 1474,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -374,9 +399,9 @@
     "created_at": "2021-07-30T14:01:26.000-05:00",
     "title": "Running My Own Email Server",
     "url": "http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html",
-    "score": 22,
+    "score": 23,
     "flags": 0,
-    "comment_count": 23,
+    "comment_count": 24,
     "description": "",
     "comments_url": "https://lobste.rs/s/s10jr0/running_my_own_email_server",
     "submitter_user": {
@@ -385,7 +410,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1239,
+      "karma": 1240,
       "avatar_url": "/avatars/oz-100.png",
       "invited_by_user": "Axman6",
       "github_username": "oz"
@@ -548,7 +573,7 @@
     "created_at": "2021-07-30T10:05:45.000-05:00",
     "title": "Ian Hickson proposes a new vector format",
     "url": "https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg",
-    "score": 24,
+    "score": 28,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -559,7 +584,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 98,
+      "karma": 104,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -576,7 +601,7 @@
     "created_at": "2021-07-30T09:46:20.000-05:00",
     "title": "Path hints for B-trees can bring a performance increase of 150% - 300%",
     "url": "https://github.com/tidwall/btree/blob/master/PATH_HINT.md",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -587,7 +612,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1162,
+      "karma": 1163,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -646,32 +671,6 @@
     },
     "tags": [
       "php"
-    ]
-  },
-  {
-    "short_id": "efxioc",
-    "short_id_url": "https://lobste.rs/s/efxioc",
-    "created_at": "2021-07-30T08:51:19.000-05:00",
-    "title": "Performance vs Programming Effort between Rust and C on Multicore Architectures",
-    "url": "https://arxiv.org/abs/2107.11912",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/efxioc/performance_vs_programming_effort",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1821,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "performance",
-      "rust"
     ]
   }
 ]
