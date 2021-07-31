@@ -1,13 +1,40 @@
 [
   {
+    "short_id": "roulgg",
+    "short_id_url": "https://lobste.rs/s/roulgg",
+    "created_at": "2021-07-31T04:41:27.000-05:00",
+    "title": "Convergence of Infinite Products",
+    "url": "https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/roulgg/convergence_infinite_products",
+    "submitter_user": {
+      "username": "susam",
+      "created_at": "2020-04-29T15:40:43.000-05:00",
+      "is_admin": false,
+      "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme) and [Uncap](https://github.com/susam/uncap).\r\n\r\nFreenode IRC nick: `spal`\r\n\r\nPosting about C, Python, Lisp, TeX, Vim, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
+      "is_moderator": false,
+      "karma": 818,
+      "avatar_url": "/avatars/susam-100.png",
+      "invited_by_user": "premysl",
+      "github_username": "susam",
+      "twitter_username": "susam"
+    },
+    "tags": [
+      "math"
+    ]
+  },
+  {
     "short_id": "ryfyxu",
     "short_id_url": "https://lobste.rs/s/ryfyxu",
     "created_at": "2021-07-31T02:36:50.000-05:00",
     "title": "Strict memcpy() bounds checking for the kernel",
     "url": "https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ryfyxu/strict_memcpy_bounds_checking_for_kernel",
     "submitter_user": {
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11527,
+      "karma": 11529,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -118,7 +145,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2463,
+      "karma": 2464,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -160,9 +187,9 @@
     "created_at": "2021-07-30T16:45:41.000-05:00",
     "title": "The Workgirl Keyboard Layout",
     "url": "https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html",
-    "score": 2,
+    "score": 3,
     "flags": 11,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/cqzsum/workgirl_keyboard_layout",
     "submitter_user": {
@@ -171,7 +198,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7714,
+      "karma": 7715,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -193,9 +220,9 @@
     "created_at": "2021-07-30T16:28:42.000-05:00",
     "title": "; echo \"Shell Injection\"",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/v0zrtr/echo_shell_injection",
     "submitter_user": {
@@ -204,7 +231,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1924,
+      "karma": 1925,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -221,7 +248,7 @@
     "url": "https://nullprogram.com/blog/2021/07/30/",
     "score": 12,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/3fxmpq/strcpy_niche_function_you_don_t_need",
     "submitter_user": {
@@ -230,7 +257,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35716,
+      "karma": 35715,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -295,9 +322,9 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 47,
+    "score": 48,
     "flags": 1,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/epyspp/cloudflare_s_inaccessible_browser",
     "submitter_user": {
@@ -306,7 +333,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1471,
+      "karma": 1472,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -332,7 +359,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81007,
+      "karma": 81008,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -347,9 +374,9 @@
     "created_at": "2021-07-30T14:01:26.000-05:00",
     "title": "Running My Own Email Server",
     "url": "http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html",
-    "score": 19,
+    "score": 22,
     "flags": 0,
-    "comment_count": 18,
+    "comment_count": 23,
     "description": "",
     "comments_url": "https://lobste.rs/s/s10jr0/running_my_own_email_server",
     "submitter_user": {
@@ -358,7 +385,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1236,
+      "karma": 1239,
       "avatar_url": "/avatars/oz-100.png",
       "invited_by_user": "Axman6",
       "github_username": "oz"
@@ -464,7 +491,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 97,
+      "karma": 98,
       "avatar_url": "/avatars/deobald-100.png",
       "invited_by_user": "rdivyanshu",
       "github_username": "deobald",
@@ -487,7 +514,7 @@
     "created_at": "2021-07-30T11:59:23.000-05:00",
     "title": "Crux 1.18.0 is out",
     "url": "https://github.com/juxt/crux/releases/tag/1.18.0",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -498,7 +525,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 97,
+      "karma": 98,
       "avatar_url": "/avatars/deobald-100.png",
       "invited_by_user": "rdivyanshu",
       "github_username": "deobald",
@@ -549,7 +576,7 @@
     "created_at": "2021-07-30T09:46:20.000-05:00",
     "title": "Path hints for B-trees can bring a performance increase of 150% - 300%",
     "url": "https://github.com/tidwall/btree/blob/master/PATH_HINT.md",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -560,7 +587,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1161,
+      "karma": 1162,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -588,7 +615,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1819,
+      "karma": 1821,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -613,7 +640,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1819,
+      "karma": 1821,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -627,7 +654,7 @@
     "created_at": "2021-07-30T08:51:19.000-05:00",
     "title": "Performance vs Programming Effort between Rust and C on Multicore Architectures",
     "url": "https://arxiv.org/abs/2107.11912",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -638,37 +665,12 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1819,
+      "karma": 1821,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
     "tags": [
       "performance",
-      "rust"
-    ]
-  },
-  {
-    "short_id": "a2xehy",
-    "short_id_url": "https://lobste.rs/s/a2xehy",
-    "created_at": "2021-07-30T08:46:01.000-05:00",
-    "title": "First steps with Rust declarative macros",
-    "url": "https://dev.to/rogertorres/first-steps-with-rust-declarative-macros-1f8m",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/a2xehy/first_steps_with_rust_declarative_macros",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1819,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
       "rust"
     ]
   }
