@@ -1,5 +1,63 @@
 [
   {
+    "short_id": "l2rloj",
+    "short_id_url": "https://lobste.rs/s/l2rloj",
+    "created_at": "2021-07-31T14:59:23.000-05:00",
+    "title": "vrmiguel/bustd: a really lightweight process killer daemon for out-of-memory scenarios on Linux",
+    "url": "https://github.com/vrmiguel/bustd",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/l2rloj/vrmiguel_bustd_really_lightweight",
+    "submitter_user": {
+      "username": "epilys",
+      "created_at": "2017-05-09T09:29:51.000-05:00",
+      "is_admin": false,
+      "about": "link aggregator https://sic.pm \r\n\r\nhttps://chaos.social/@epilys\r\nhttps://github.com/epilys\r\nmeli terminal mail client https://meli.delivery",
+      "is_moderator": false,
+      "karma": 745,
+      "avatar_url": "/avatars/epilys-100.png",
+      "invited_by_user": "river",
+      "github_username": "epilys"
+    },
+    "tags": [
+      "linux",
+      "rust"
+    ]
+  },
+  {
+    "short_id": "efe2vv",
+    "short_id_url": "https://lobste.rs/s/efe2vv",
+    "created_at": "2021-07-31T14:51:38.000-05:00",
+    "title": "Making Client Certificates Available By Default in Firefox 90",
+    "url": "https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/efe2vv/making_client_certificates_available_by",
+    "submitter_user": {
+      "username": "freddyb",
+      "created_at": "2017-02-02T09:12:16.000-06:00",
+      "is_admin": false,
+      "about": "Security. Mostly in Browsers, but not exclusively.",
+      "is_moderator": false,
+      "karma": 5690,
+      "avatar_url": "/avatars/freddyb-100.png",
+      "invited_by_user": "stas",
+      "keybase_signatures": [
+        {
+          "kb_username": "freddyb",
+          "sig_hash": "550e2f5b27d4b5d558c02dfb2b23a628e90635183c93f993eeea4e16b20c51150f"
+        }
+      ]
+    },
+    "tags": [
+      "browsers"
+    ]
+  },
+  {
     "short_id": "utfqs6",
     "short_id_url": "https://lobste.rs/s/utfqs6",
     "created_at": "2021-07-31T14:07:18.000-05:00",
@@ -16,7 +74,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 701,
+      "karma": 703,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -43,7 +101,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1889,
+      "karma": 1890,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -61,7 +119,7 @@
     "url": "https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/",
     "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/rwqg5d/hosting_sqlite_databases_on_github_pages",
     "submitter_user": {
@@ -97,7 +155,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81014,
+      "karma": 81015,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -114,7 +172,7 @@
     "created_at": "2021-07-31T08:43:29.000-05:00",
     "title": "6 Years of Professional Clojure",
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -125,7 +183,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6997,
+      "karma": 6999,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -151,7 +209,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6997,
+      "karma": 6999,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -166,7 +224,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "CRDTs go brrr",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 41,
+    "score": 48,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -177,7 +235,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 173,
+      "karma": 180,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -194,9 +252,9 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 4,
+    "score": 5,
     "flags": 3,
-    "comment_count": 13,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -205,7 +263,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 862,
+      "karma": 863,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -359,7 +417,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2470,
+      "karma": 2471,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -401,7 +459,7 @@
     "created_at": "2021-07-30T16:45:41.000-05:00",
     "title": "The Workgirl Keyboard Layout",
     "url": "https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html",
-    "score": -2,
+    "score": -1,
     "flags": 21,
     "comment_count": 5,
     "description": "",
@@ -412,7 +470,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7715,
+      "karma": 7717,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -434,7 +492,7 @@
     "created_at": "2021-07-30T16:28:42.000-05:00",
     "title": "; echo \"Shell Injection\"",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -445,7 +503,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1934,
+      "karma": 1935,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -460,7 +518,7 @@
     "created_at": "2021-07-30T16:09:34.000-05:00",
     "title": "strcpy: a niche function you don't need",
     "url": "https://nullprogram.com/blog/2021/07/30/",
-    "score": 13,
+    "score": 14,
     "flags": 1,
     "comment_count": 4,
     "description": "",
@@ -471,7 +529,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35717,
+      "karma": 35718,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -496,7 +554,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6997,
+      "karma": 6999,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -536,7 +594,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 67,
+    "score": 68,
     "flags": 1,
     "comment_count": 13,
     "description": "",
@@ -547,7 +605,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1502,
+      "karma": 1503,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -573,7 +631,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81014,
+      "karma": 81015,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -607,58 +665,6 @@
     "tags": [
       "email",
       "openbsd"
-    ]
-  },
-  {
-    "short_id": "vdg8dh",
-    "short_id_url": "https://lobste.rs/s/vdg8dh",
-    "created_at": "2021-07-30T13:59:49.000-05:00",
-    "title": "The Future of PrivacyTools",
-    "url": "https://blog.privacytools.io/the-future-of-privacytools/",
-    "score": 1,
-    "flags": 2,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/vdg8dh/future_privacytools",
-    "submitter_user": {
-      "username": "acatton",
-      "created_at": "2015-02-13T18:54:10.000-06:00",
-      "is_admin": false,
-      "about": "I'm just a software engineer who likes his job.\r\n\r\nI'm currently a Site Reliability Engineer at Google, Inc.\r\n\r\n**Opinions are my own, and NOT the views of my current or past employers**",
-      "is_moderator": false,
-      "karma": 721,
-      "avatar_url": "/avatars/acatton-100.png",
-      "invited_by_user": "csantosb",
-      "github_username": "acatton"
-    },
-    "tags": [
-      "privacy"
-    ]
-  },
-  {
-    "short_id": "oe15lv",
-    "short_id_url": "https://lobste.rs/s/oe15lv",
-    "created_at": "2021-07-30T13:27:41.000-05:00",
-    "title": "Kernel Pwning with eBPF: a Love Story",
-    "url": "https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/oe15lv/kernel_pwning_with_ebpf_love_story",
-    "submitter_user": {
-      "username": "fro",
-      "created_at": "2016-04-13T15:27:31.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1330,
-      "avatar_url": "/avatars/fro-100.png",
-      "invited_by_user": "xero"
-    },
-    "tags": [
-      "linux",
-      "security"
     ]
   }
 ]
