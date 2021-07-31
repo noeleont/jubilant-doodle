@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "ryfyxu",
+    "short_id_url": "https://lobste.rs/s/ryfyxu",
+    "created_at": "2021-07-31T02:36:50.000-05:00",
+    "title": "Strict memcpy() bounds checking for the kernel",
+    "url": "https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ryfyxu/strict_memcpy_bounds_checking_for_kernel",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11526,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c",
+      "linux"
+    ]
+  },
+  {
     "short_id": "ddw9jw",
     "short_id_url": "https://lobste.rs/s/ddw9jw",
     "created_at": "2021-07-30T21:41:26.000-05:00",
@@ -134,8 +160,8 @@
     "created_at": "2021-07-30T16:45:41.000-05:00",
     "title": "The Workgirl Keyboard Layout",
     "url": "https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html",
-    "score": 7,
-    "flags": 5,
+    "score": 3,
+    "flags": 9,
     "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/cqzsum/workgirl_keyboard_layout",
@@ -145,7 +171,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7722,
+      "karma": 7718,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -178,7 +204,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1921,
+      "karma": 1924,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -193,7 +219,7 @@
     "created_at": "2021-07-30T16:09:34.000-05:00",
     "title": "strcpy: a niche function you don't need",
     "url": "https://nullprogram.com/blog/2021/07/30/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -204,7 +230,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35711,
+      "karma": 35714,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -269,7 +295,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 46,
+    "score": 47,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -280,7 +306,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1470,
+      "karma": 1471,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -295,7 +321,7 @@
     "created_at": "2021-07-30T14:28:42.000-05:00",
     "title": "In Defense of Package Managers",
     "url": "https://dlorenc.medium.com/in-defense-of-package-managers-31792111d7b1",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -306,7 +332,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81001,
+      "karma": 81005,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -323,7 +349,7 @@
     "url": "http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html",
     "score": 18,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/s10jr0/running_my_own_email_server",
     "submitter_user": {
@@ -495,7 +521,7 @@
     "created_at": "2021-07-30T10:05:45.000-05:00",
     "title": "Ian Hickson proposes a new vector format",
     "url": "https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -506,7 +532,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 93,
+      "karma": 94,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -644,32 +670,6 @@
     },
     "tags": [
       "rust"
-    ]
-  },
-  {
-    "short_id": "rejxzl",
-    "short_id_url": "https://lobste.rs/s/rejxzl",
-    "created_at": "2021-07-30T08:31:00.000-05:00",
-    "title": "The Itanic Has Sunk",
-    "url": "https://honeypot.net/post/the-itanic-has-sunk/",
-    "score": 7,
-    "flags": 4,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rejxzl/itanic_has_sunk",
-    "submitter_user": {
-      "username": "friendlysock",
-      "created_at": "2014-02-20T00:43:41.000-06:00",
-      "is_admin": false,
-      "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
-      "is_moderator": false,
-      "karma": 35711,
-      "avatar_url": "/avatars/friendlysock-100.png",
-      "invited_by_user": "MasonJar"
-    },
-    "tags": [
-      "hardware",
-      "historical"
     ]
   }
 ]
