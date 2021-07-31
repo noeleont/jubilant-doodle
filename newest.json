@@ -1,11 +1,65 @@
 [
   {
+    "short_id": "utfqs6",
+    "short_id_url": "https://lobste.rs/s/utfqs6",
+    "created_at": "2021-07-31T14:07:18.000-05:00",
+    "title": "Chronofold: a data structure for versioned text",
+    "url": "https://arxiv.org/abs/2002.09511",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/utfqs6/chronofold_data_structure_for_versioned",
+    "submitter_user": {
+      "username": "jitl",
+      "created_at": "2018-06-04T23:41:59.000-05:00",
+      "is_admin": false,
+      "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
+      "is_moderator": false,
+      "karma": 701,
+      "avatar_url": "/avatars/jitl-100.png",
+      "invited_by_user": "lettuce"
+    },
+    "tags": [
+      "distributed",
+      "performance",
+      "vcs"
+    ]
+  },
+  {
+    "short_id": "3tiuts",
+    "short_id_url": "https://lobste.rs/s/3tiuts",
+    "created_at": "2021-07-31T13:36:19.000-05:00",
+    "title": "How we found that the Linux nios2 memset() implementation had a bug! (2016)",
+    "url": "https://bootlin.com/blog/how-we-found-that-the-linux-nios2-memset-implementation-had-a-bug/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3tiuts/how_we_found_linux_nios2_memset",
+    "submitter_user": {
+      "username": "dbremner",
+      "created_at": "2012-09-06T19:01:18.000-05:00",
+      "is_admin": false,
+      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
+      "is_moderator": false,
+      "karma": 1889,
+      "avatar_url": "/avatars/dbremner-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "dbremner"
+    },
+    "tags": [
+      "c",
+      "programming"
+    ]
+  },
+  {
     "short_id": "rwqg5d",
     "short_id_url": "https://lobste.rs/s/rwqg5d",
     "created_at": "2021-07-31T12:31:18.000-05:00",
     "title": "Hosting SQLite databases on Github Pages",
     "url": "https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +70,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1207,
+      "karma": 1210,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -43,7 +97,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81013,
+      "karma": 81014,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -60,9 +114,9 @@
     "created_at": "2021-07-31T08:43:29.000-05:00",
     "title": "6 Years of Professional Clojure",
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/872ohv/6_years_professional_clojure",
     "submitter_user": {
@@ -71,7 +125,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6996,
+      "karma": 6997,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -97,7 +151,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6996,
+      "karma": 6997,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -112,9 +166,9 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "CRDTs go brrr",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 35,
+    "score": 41,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/dny0dv/crdts_go_brrr",
     "submitter_user": {
@@ -123,7 +177,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 167,
+      "karma": 173,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -140,9 +194,9 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 2,
+    "score": 4,
     "flags": 3,
-    "comment_count": 12,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -151,7 +205,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 860,
+      "karma": 862,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -192,7 +246,7 @@
     "created_at": "2021-07-31T02:36:50.000-05:00",
     "title": "Strict memcpy() bounds checking for the kernel",
     "url": "https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -203,7 +257,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11533,
+      "karma": 11534,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -294,7 +348,7 @@
     "created_at": "2021-07-30T17:30:48.000-05:00",
     "title": "DCSS v0.27 \"The Cursed Flame\" Released",
     "url": "https://github.com/crawl/crawl/releases/tag/0.27.0",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -305,7 +359,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2469,
+      "karma": 2470,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -382,7 +436,7 @@
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
     "score": 14,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/v0zrtr/echo_shell_injection",
     "submitter_user": {
@@ -442,7 +496,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 6996,
+      "karma": 6997,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -457,7 +511,7 @@
     "created_at": "2021-07-30T15:32:51.000-05:00",
     "title": "gomplate: A flexible commandline tool for template rendering",
     "url": "https://github.com/hairyhenderson/gomplate",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -468,7 +522,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1481,
+      "karma": 1483,
       "avatar_url": "/avatars/GrayGnome-100.png",
       "invited_by_user": "kev009"
     },
@@ -482,7 +536,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 66,
+    "score": 67,
     "flags": 1,
     "comment_count": 13,
     "description": "",
@@ -493,7 +547,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1501,
+      "karma": 1502,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -519,7 +573,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81013,
+      "karma": 81014,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -534,9 +588,9 @@
     "created_at": "2021-07-30T14:01:26.000-05:00",
     "title": "Running My Own Email Server",
     "url": "http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html",
-    "score": 27,
+    "score": 29,
     "flags": 0,
-    "comment_count": 33,
+    "comment_count": 34,
     "description": "",
     "comments_url": "https://lobste.rs/s/s10jr0/running_my_own_email_server",
     "submitter_user": {
@@ -545,7 +599,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1244,
+      "karma": 1246,
       "avatar_url": "/avatars/oz-100.png",
       "invited_by_user": "Axman6",
       "github_username": "oz"
@@ -563,7 +617,7 @@
     "url": "https://blog.privacytools.io/the-future-of-privacytools/",
     "score": 1,
     "flags": 2,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/vdg8dh/future_privacytools",
     "submitter_user": {
@@ -605,67 +659,6 @@
     "tags": [
       "linux",
       "security"
-    ]
-  },
-  {
-    "short_id": "twnlqi",
-    "short_id_url": "https://lobste.rs/s/twnlqi",
-    "created_at": "2021-07-30T12:40:46.000-05:00",
-    "title": "HTTP Security Headers",
-    "url": "https://kerkour.com/blog/http-security-headers/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/twnlqi/http_security_headers",
-    "submitter_user": {
-      "username": "bcongdon",
-      "created_at": "2019-12-27T13:23:21.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1207,
-      "avatar_url": "/avatars/bcongdon-100.png",
-      "invited_by_user": "gerikson",
-      "github_username": "bcongdon"
-    },
-    "tags": [
-      "security",
-      "web"
-    ]
-  },
-  {
-    "short_id": "0ao5xn",
-    "short_id_url": "https://lobste.rs/s/0ao5xn",
-    "created_at": "2021-07-30T12:32:39.000-05:00",
-    "title": "Bridging the Blockchain / Database Divide",
-    "url": "https://www.juxt.pro/blog/bridging-the-blockchain",
-    "score": 0,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/0ao5xn/bridging_blockchain_database_divide",
-    "submitter_user": {
-      "username": "deobald",
-      "created_at": "2018-12-23T10:45:05.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 98,
-      "avatar_url": "/avatars/deobald-100.png",
-      "invited_by_user": "rdivyanshu",
-      "github_username": "deobald",
-      "twitter_username": "deobald",
-      "keybase_signatures": [
-        {
-          "kb_username": "deobald",
-          "sig_hash": "8f1ec286abb9eddcda5ce199db1c34fd000163001c3f2d8c227f63b217f24f4f0f"
-        }
-      ]
-    },
-    "tags": [
-      "clojure",
-      "databases"
     ]
   }
 ]
