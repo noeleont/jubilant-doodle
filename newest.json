@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "iwywdl",
+    "short_id_url": "https://lobste.rs/s/iwywdl",
+    "created_at": "2021-07-31T16:54:15.000-05:00",
+    "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
+    "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/iwywdl/sorbet_compiler_experimental_ahead_time",
+    "submitter_user": {
+      "username": "agent281",
+      "created_at": "2017-04-15T20:12:16.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1629,
+      "avatar_url": "/avatars/agent281-100.png",
+      "invited_by_user": "numberten"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
     "short_id": "l2rloj",
     "short_id_url": "https://lobste.rs/s/l2rloj",
     "created_at": "2021-07-31T14:59:23.000-05:00",
@@ -32,7 +57,7 @@
     "created_at": "2021-07-31T14:51:38.000-05:00",
     "title": "Making Client Certificates Available By Default in Firefox 90",
     "url": "https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -43,7 +68,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5691,
+      "karma": 5692,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -63,7 +88,7 @@
     "created_at": "2021-07-31T14:07:18.000-05:00",
     "title": "Chronofold: a data structure for versioned text",
     "url": "https://arxiv.org/abs/2002.09511",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -74,7 +99,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 705,
+      "karma": 707,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -117,7 +142,7 @@
     "created_at": "2021-07-31T12:31:18.000-05:00",
     "title": "Hosting SQLite databases on Github Pages",
     "url": "https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -128,7 +153,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1211,
+      "karma": 1213,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -155,7 +180,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81015,
+      "karma": 81016,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -172,9 +197,9 @@
     "created_at": "2021-07-31T08:43:29.000-05:00",
     "title": "6 Years of Professional Clojure",
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
-    "score": 9,
+    "score": 10,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/872ohv/6_years_professional_clojure",
     "submitter_user": {
@@ -183,7 +208,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7000,
+      "karma": 7001,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -209,7 +234,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7000,
+      "karma": 7001,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -224,9 +249,9 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 55,
+    "score": 63,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/dny0dv/5000x_faster_crdts_adventure",
     "submitter_user": {
@@ -235,7 +260,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 187,
+      "karma": 195,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -252,9 +277,9 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 6,
+    "score": 7,
     "flags": 3,
-    "comment_count": 20,
+    "comment_count": 22,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -263,7 +288,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 864,
+      "karma": 865,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -330,7 +355,7 @@
     "created_at": "2021-07-30T21:41:26.000-05:00",
     "title": "Commodore 64 \"Mod of the Year\" (2015)",
     "url": "https://www.breadbox64.com/blog/mod-of-the-year-2015/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -341,7 +366,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1496,
+      "karma": 1497,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -383,7 +408,7 @@
     "url": "https://climatestrike.software/",
     "score": 1,
     "flags": 2,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/cxphgv/climate_strike_software",
     "submitter_user": {
@@ -459,8 +484,8 @@
     "created_at": "2021-07-30T16:45:41.000-05:00",
     "title": "The Workgirl Keyboard Layout",
     "url": "https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html",
-    "score": -1,
-    "flags": 21,
+    "score": -2,
+    "flags": 22,
     "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/cqzsum/workgirl_keyboard_layout",
@@ -470,7 +495,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7717,
+      "karma": 7716,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -554,7 +579,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7000,
+      "karma": 7001,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -594,7 +619,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 68,
+    "score": 69,
     "flags": 1,
     "comment_count": 13,
     "description": "",
@@ -605,7 +630,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1503,
+      "karma": 1505,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -631,40 +656,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81015,
+      "karma": 81016,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "s10jr0",
-    "short_id_url": "https://lobste.rs/s/s10jr0",
-    "created_at": "2021-07-30T14:01:26.000-05:00",
-    "title": "Running My Own Email Server",
-    "url": "http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html",
-    "score": 30,
-    "flags": 0,
-    "comment_count": 34,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/s10jr0/running_my_own_email_server",
-    "submitter_user": {
-      "username": "oz",
-      "created_at": "2014-05-06T09:54:52.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1247,
-      "avatar_url": "/avatars/oz-100.png",
-      "invited_by_user": "Axman6",
-      "github_username": "oz"
-    },
-    "tags": [
-      "email",
-      "openbsd"
     ]
   }
 ]
