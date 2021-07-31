@@ -1,5 +1,55 @@
 [
   {
+    "short_id": "xce5jt",
+    "short_id_url": "https://lobste.rs/s/xce5jt",
+    "created_at": "2021-07-30T18:30:25.000-05:00",
+    "title": "Work in the kitchen",
+    "url": "https://dev.to/rekki/work-in-the-kitchen-4ifm",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xce5jt/work_kitchen",
+    "submitter_user": {
+      "username": "statenjason",
+      "created_at": "2014-06-02T21:50:24.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 99,
+      "avatar_url": "/avatars/statenjason-100.png",
+      "invited_by_user": "chasingtheflow"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
+    "short_id": "cxphgv",
+    "short_id_url": "https://lobste.rs/s/cxphgv",
+    "created_at": "2021-07-30T18:25:04.000-05:00",
+    "title": "Climate Strike Software",
+    "url": "https://climatestrike.software/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cxphgv/climate_strike_software",
+    "submitter_user": {
+      "username": "bowyakka",
+      "created_at": "2014-04-02T09:33:26.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 151,
+      "avatar_url": "/avatars/bowyakka-100.png",
+      "invited_by_user": "andrewcooke"
+    },
+    "tags": [
+      "law"
+    ]
+  },
+  {
     "short_id": "y1llez",
     "short_id_url": "https://lobste.rs/s/y1llez",
     "created_at": "2021-07-30T17:30:48.000-05:00",
@@ -16,7 +66,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2460,
+      "karma": 2461,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -31,7 +81,7 @@
     "created_at": "2021-07-30T17:30:16.000-05:00",
     "title": "The Hardest Problem in Type Theory [Uniqueness of Identity Proofs]",
     "url": "https://www.youtube.com/watch?v=m_PecfbEWik",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +92,7 @@
       "is_admin": false,
       "about": "(Deleted account)",
       "is_moderator": false,
-      "karma": 4322,
+      "karma": 4323,
       "avatar_url": "/avatars/river-100.png",
       "invited_by_user": "355E3B"
     },
@@ -91,7 +141,7 @@
     "created_at": "2021-07-30T16:28:42.000-05:00",
     "title": "; echo \"Shell Injection\"",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -102,7 +152,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1917,
+      "karma": 1918,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -117,7 +167,7 @@
     "created_at": "2021-07-30T16:09:34.000-05:00",
     "title": "strcpy: a niche function you don't need",
     "url": "https://nullprogram.com/blog/2021/07/30/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -128,7 +178,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35698,
+      "karma": 35703,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -193,7 +243,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 24,
+    "score": 30,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -204,7 +254,7 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1448,
+      "karma": 1454,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
@@ -245,7 +295,7 @@
     "created_at": "2021-07-30T14:01:26.000-05:00",
     "title": "Running My Own Email Server",
     "url": "http://code.jeremyevans.net/2021-07-29-running-my-own-email-server.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -256,7 +306,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1225,
+      "karma": 1226,
       "avatar_url": "/avatars/oz-100.png",
       "invited_by_user": "Axman6",
       "github_username": "oz"
@@ -272,8 +322,8 @@
     "created_at": "2021-07-30T13:59:49.000-05:00",
     "title": "The Future of PrivacyTools",
     "url": "https://blog.privacytools.io/the-future-of-privacytools/",
-    "score": 0,
-    "flags": 1,
+    "score": -1,
+    "flags": 2,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/vdg8dh/future_privacytools",
@@ -283,7 +333,7 @@
       "is_admin": false,
       "about": "I'm just a software engineer who likes his job.\r\n\r\nI'm currently a Site Reliability Engineer at Google, Inc.\r\n\r\n**Opinions are my own, and NOT the views of my current or past employers**",
       "is_moderator": false,
-      "karma": 720,
+      "karma": 719,
       "avatar_url": "/avatars/acatton-100.png",
       "invited_by_user": "csantosb",
       "github_username": "acatton"
@@ -419,7 +469,7 @@
     "created_at": "2021-07-30T10:05:45.000-05:00",
     "title": "Ian Hickson proposes a new vector format",
     "url": "https://docs.google.com/document/d/1YWffrlc6ZqRwfIiR1qwp1AOkS9JyA_lEURI8p5PsZlg",
-    "score": 16,
+    "score": 18,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -430,7 +480,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 87,
+      "karma": 90,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -447,7 +497,7 @@
     "created_at": "2021-07-30T09:46:20.000-05:00",
     "title": "Path hints for B-trees can bring a performance increase of 150% - 300%",
     "url": "https://github.com/tidwall/btree/blob/master/PATH_HINT.md",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -458,7 +508,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1154,
+      "karma": 1157,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -477,7 +527,7 @@
     "url": "https://www.unixsheikh.com/articles/how-i-store-my-files-and-why-you-should-not-rely-on-fancy-tools-for-backup.html",
     "score": 6,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/uihvbr/how_i_store_my_files_why_you_should_not_rely",
     "submitter_user": {
@@ -486,7 +536,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1809,
+      "karma": 1811,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -511,7 +561,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1809,
+      "karma": 1811,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -527,7 +577,7 @@
     "url": "https://arxiv.org/abs/2107.11912",
     "score": 6,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/efxioc/performance_vs_programming_effort",
     "submitter_user": {
@@ -536,7 +586,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1809,
+      "karma": 1811,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -562,7 +612,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1809,
+      "karma": 1811,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -576,7 +626,7 @@
     "created_at": "2021-07-30T08:31:00.000-05:00",
     "title": "The Itanic Has Sunk",
     "url": "https://honeypot.net/post/the-itanic-has-sunk/",
-    "score": 5,
+    "score": 6,
     "flags": 4,
     "comment_count": 4,
     "description": "",
@@ -587,7 +637,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35698,
+      "karma": 35703,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -613,57 +663,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1809,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "rust"
-    ]
-  },
-  {
-    "short_id": "jsa0kf",
-    "short_id_url": "https://lobste.rs/s/jsa0kf",
-    "created_at": "2021-07-30T08:27:22.000-05:00",
-    "title": "Rust for Linux redux",
-    "url": "https://lwn.net/Articles/862018/",
-    "score": 8,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jsa0kf/rust_for_linux_redux",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1809,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "rust"
-    ]
-  },
-  {
-    "short_id": "do5ozt",
-    "short_id_url": "https://lobste.rs/s/do5ozt",
-    "created_at": "2021-07-30T08:24:15.000-05:00",
-    "title": "Awesome Unstable Rust Features",
-    "url": "https://lazy.codes/posts/awesome-unstable-rust-features/",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/do5ozt/awesome_unstable_rust_features",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1809,
+      "karma": 1811,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
