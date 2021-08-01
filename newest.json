@@ -1,35 +1,52 @@
 [
   {
-    "short_id": "wm1yoc",
-    "short_id_url": "https://lobste.rs/s/wm1yoc",
-    "created_at": "2021-08-01T02:23:53.000-05:00",
-    "title": "An Open Letter Calling for the Resignation of Eugen Rochko (Gargron) from Mastodon Development",
-    "url": "https://seedy.xyz/posts/0005-open-letter/",
-    "score": 0,
-    "flags": 2,
+    "short_id": "aph2fn",
+    "short_id_url": "https://lobste.rs/s/aph2fn",
+    "created_at": "2021-08-01T04:07:55.000-05:00",
+    "title": "New in Git: switch and restore",
+    "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
+    "score": 1,
+    "flags": 0,
     "comment_count": 1,
     "description": "",
-    "comments_url": "https://lobste.rs/s/wm1yoc/open_letter_calling_for_resignation",
+    "comments_url": "https://lobste.rs/s/aph2fn/new_git_switch_restore",
     "submitter_user": {
-      "username": "jalcine",
-      "created_at": "2018-03-26T23:38:48.000-05:00",
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
       "is_admin": false,
-      "about": "A Black man in Oakland from Haiti by way of New York.\r\n\r\nLearn about me at https://jacky.wtf/.",
+      "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 360,
-      "avatar_url": "/avatars/jalcine-100.png",
-      "invited_by_user": "0x2ba22e11",
-      "github_username": "jalcine",
-      "twitter_username": "jackyalcine",
-      "keybase_signatures": [
-        {
-          "kb_username": "jackyalcine",
-          "sig_hash": "3023073092d150ea69da78a3283b448240c88c90df69af857980591d239fc72d0f"
-        }
-      ]
+      "karma": 11535,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
     },
     "tags": [
-      "culture"
+      "vcs"
+    ]
+  },
+  {
+    "short_id": "rfh70t",
+    "short_id_url": "https://lobste.rs/s/rfh70t",
+    "created_at": "2021-08-01T03:58:19.000-05:00",
+    "title": "Announcing Axum",
+    "url": "https://tokio.rs/blog/2021-07-announcing-axum",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rfh70t/announcing_axum",
+    "submitter_user": {
+      "username": "adaszko",
+      "created_at": "2015-02-03T15:01:47.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 416,
+      "avatar_url": "/avatars/adaszko-100.png",
+      "invited_by_user": "bobbywilson0"
+    },
+    "tags": [
+      "rust"
     ]
   },
   {
@@ -115,7 +132,7 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -126,7 +143,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81027,
+      "karma": 81028,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -141,7 +158,7 @@
     "created_at": "2021-07-31T16:54:15.000-05:00",
     "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
     "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-    "score": 9,
+    "score": 12,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -152,7 +169,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1637,
+      "karma": 1640,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -193,7 +210,7 @@
     "created_at": "2021-07-31T14:51:38.000-05:00",
     "title": "Making Client Certificates Available By Default in Firefox 90",
     "url": "https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -204,7 +221,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5694,
+      "karma": 5695,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -235,7 +252,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 718,
+      "karma": 719,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -316,7 +333,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81027,
+      "karma": 81028,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -385,7 +402,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 85,
+    "score": 89,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -396,7 +413,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 217,
+      "karma": 221,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -415,7 +432,7 @@
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
     "score": 15,
     "flags": 4,
-    "comment_count": 26,
+    "comment_count": 27,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -424,7 +441,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 882,
+      "karma": 883,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -542,7 +559,7 @@
     "created_at": "2021-07-30T18:25:04.000-05:00",
     "title": "Climate Strike Software",
     "url": "https://climatestrike.software/",
-    "score": 0,
+    "score": 1,
     "flags": 3,
     "comment_count": 2,
     "description": "",
@@ -553,7 +570,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 150,
+      "karma": 151,
       "avatar_url": "/avatars/bowyakka-100.png",
       "invited_by_user": "andrewcooke"
     },
@@ -645,32 +662,6 @@
     },
     "tags": [
       "linux"
-    ]
-  },
-  {
-    "short_id": "v0zrtr",
-    "short_id_url": "https://lobste.rs/s/v0zrtr",
-    "created_at": "2021-07-30T16:28:42.000-05:00",
-    "title": "; echo \"Shell Injection\"",
-    "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/v0zrtr/echo_shell_injection",
-    "submitter_user": {
-      "username": "matklad",
-      "created_at": "2019-07-02T07:23:10.000-05:00",
-      "is_admin": false,
-      "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
-      "is_moderator": false,
-      "karma": 1938,
-      "avatar_url": "/avatars/matklad-100.png",
-      "invited_by_user": "skade",
-      "github_username": "matklad"
-    },
-    "tags": [
-      "security"
     ]
   }
 ]
