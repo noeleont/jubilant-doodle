@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "yyrdjw",
+    "short_id_url": "https://lobste.rs/s/yyrdjw",
+    "created_at": "2021-07-31T20:40:32.000-05:00",
+    "title": "Learning that you can use unions in C for grouping things into namespaces",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yyrdjw/learning_you_can_use_unions_c_for_grouping",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81019,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "c"
+    ]
+  },
+  {
     "short_id": "iwywdl",
     "short_id_url": "https://lobste.rs/s/iwywdl",
     "created_at": "2021-07-31T16:54:15.000-05:00",
     "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
     "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1633,
+      "karma": 1634,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -88,7 +114,7 @@
     "created_at": "2021-07-31T14:07:18.000-05:00",
     "title": "Chronofold: a data structure for versioned text",
     "url": "https://arxiv.org/abs/2002.09511",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -99,7 +125,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 711,
+      "karma": 714,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -142,7 +168,7 @@
     "created_at": "2021-07-31T12:31:18.000-05:00",
     "title": "Hosting SQLite databases on Github Pages",
     "url": "https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -153,7 +179,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1214,
+      "karma": 1215,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -180,7 +206,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81018,
+      "karma": 81019,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -249,7 +275,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 71,
+    "score": 73,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -260,7 +286,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 203,
+      "karma": 205,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -277,7 +303,7 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 7,
+    "score": 11,
     "flags": 4,
     "comment_count": 23,
     "description": "",
@@ -288,7 +314,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 869,
+      "karma": 874,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -406,8 +432,8 @@
     "created_at": "2021-07-30T18:25:04.000-05:00",
     "title": "Climate Strike Software",
     "url": "https://climatestrike.software/",
-    "score": 1,
-    "flags": 2,
+    "score": 0,
+    "flags": 3,
     "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/cxphgv/climate_strike_software",
@@ -417,7 +443,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 151,
+      "karma": 150,
       "avatar_url": "/avatars/bowyakka-100.png",
       "invited_by_user": "andrewcooke"
     },
@@ -486,7 +512,7 @@
     "url": "https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html",
     "score": -2,
     "flags": 22,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/cqzsum/workgirl_keyboard_layout",
     "submitter_user": {
@@ -517,7 +543,7 @@
     "created_at": "2021-07-30T16:28:42.000-05:00",
     "title": "; echo \"Shell Injection\"",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -528,7 +554,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1935,
+      "karma": 1936,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -619,7 +645,7 @@
     "created_at": "2021-07-30T14:32:16.000-05:00",
     "title": "Cloudflare's inaccessible browser contradicts the company's mission",
     "url": "https://mwcampbell.github.io/cloudflare-browser-isolation-letter/",
-    "score": 70,
+    "score": 71,
     "flags": 1,
     "comment_count": 13,
     "description": "",
@@ -630,39 +656,13 @@
       "is_admin": false,
       "about": "I'm a software developer specializing in accessibility for blind and visually impaired people. From mid-2017 to late 2020, I worked for Microsoft on the Windows accessibility team, though my comments were always my own opinion posted on my own initiative.\r\n\r\nI'm legally blind myself; I have enough sight to read a desktop computer screen up close with slightly enlarged fonts, but I often use a screen reader when browsing the Web, doing email, and other tasks that don't involve code. (Don't get me wrong; totally blind people can program, but I never got used to doing it that way myself.)\r\n\r\nOf course, there's more to me than visual impairment. When it comes to programming, I'm also particularly interested in the challenges of developing cross-platform applications that integrate smoothly with the host platform. Outside of programming, I love music and love to sing. Pre-COVID, I often did karaoke (of course, I memorize the words). And like many nerds, I read science fiction.\r\n\r\nEmail: mattcampbell@pobox.com\r\n\r\nTwitter: @mw_campbell\r\n\r\nBlog: http://mwcampbell.us/blog/",
       "is_moderator": false,
-      "karma": 1507,
+      "karma": 1509,
       "avatar_url": "/avatars/mwcampbell-100.png",
       "invited_by_user": "nolan"
     },
     "tags": [
       "a11y",
       "browsers"
-    ]
-  },
-  {
-    "short_id": "3gxnke",
-    "short_id_url": "https://lobste.rs/s/3gxnke",
-    "created_at": "2021-07-30T14:28:42.000-05:00",
-    "title": "In Defense of Package Managers",
-    "url": "https://dlorenc.medium.com/in-defense-of-package-managers-31792111d7b1",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3gxnke/defense_package_managers",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81018,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "programming"
     ]
   }
 ]
