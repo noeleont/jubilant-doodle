@@ -1,11 +1,71 @@
 [
   {
+    "short_id": "bevhrq",
+    "short_id_url": "https://lobste.rs/s/bevhrq",
+    "created_at": "2021-08-01T16:50:23.000-05:00",
+    "title": "Tagged Template Literals - The Magic Behind Styled Components",
+    "url": "https://dev.to/dekel/tagged-template-literals-the-magic-behind-styled-components-2f2c",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bevhrq/tagged_template_literals_magic_behind",
+    "submitter_user": {
+      "username": "tkore",
+      "created_at": "2020-07-27T04:55:23.000-05:00",
+      "is_admin": false,
+      "about": "A developer since 2013, working for a production debugging startup, and running my own Telegram channel called [TechPicks](https://t.me/techpicks) for tech aggregated links that has over 1k subscribers and that's updated on a daily basis.",
+      "is_moderator": false,
+      "karma": 42,
+      "avatar_url": "/avatars/tkore-100.png",
+      "invited_by_user": "Hail_Spacecake",
+      "github_username": "tkore",
+      "twitter_username": "__tkore__"
+    },
+    "tags": [
+      "css",
+      "javascript",
+      "web"
+    ]
+  },
+  {
+    "short_id": "qflsso",
+    "short_id_url": "https://lobste.rs/s/qflsso",
+    "created_at": "2021-08-01T16:45:19.000-05:00",
+    "title": "Mysterious Wiper Paralyzes Iranian Trains with Epic Troll",
+    "url": "https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qflsso/mysterious_wiper_paralyzes_iranian",
+    "submitter_user": {
+      "username": "djsumdog",
+      "created_at": "2017-08-09T11:25:47.000-05:00",
+      "is_admin": false,
+      "about": "Mastodon: @djsumdog@hitchhiker.social\r\n\r\nWebsite: https://battlepenguin.com",
+      "is_moderator": false,
+      "karma": 2258,
+      "avatar_url": "/avatars/djsumdog-100.png",
+      "invited_by_user": "codebam",
+      "keybase_signatures": [
+        {
+          "kb_username": "djsumdog",
+          "sig_hash": "6f1fadfe49caa6509d02bad7a12fce7d5f2d4ad1d3ef440dd2e2ff82994e7a580f"
+        }
+      ]
+    },
+    "tags": [
+      "security"
+    ]
+  },
+  {
     "short_id": "igoe4c",
     "short_id_url": "https://lobste.rs/s/igoe4c",
     "created_at": "2021-08-01T14:45:45.000-05:00",
     "title": "How to make a simple entity-component-system in C++",
     "url": "https://www.david-colson.com/2020/02/09/making-a-simple-ecs.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +76,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11572,
+      "karma": 11574,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -56,7 +116,7 @@
     "created_at": "2021-08-01T12:57:53.000-05:00",
     "title": "Why it’s okay for web components to use frameworks",
     "url": "https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -67,7 +127,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 434,
+      "karma": 435,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -112,9 +172,9 @@
     "created_at": "2021-08-01T11:41:41.000-05:00",
     "title": "Amazon hit with record $885 million fine for violating EU privacy rules",
     "url": "https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html",
-    "score": 13,
+    "score": 15,
     "flags": 2,
-    "comment_count": 5,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/yq8om9/amazon_hit_with_record_885_million_fine",
     "submitter_user": {
@@ -123,7 +183,7 @@
       "is_admin": false,
       "about": "Full stack developer with a bachelor's degree in computer security.",
       "is_moderator": false,
-      "karma": 11,
+      "karma": 13,
       "avatar_url": "/avatars/timharek-100.png",
       "invited_by_user": "Foxboron",
       "github_username": "timharek"
@@ -166,9 +226,9 @@
     "created_at": "2021-08-01T06:48:40.000-05:00",
     "title": "On C++ and Object Oriented Programming",
     "url": "https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/wpb6cd/on_c_object_oriented_programming",
     "submitter_user": {
@@ -177,7 +237,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2268,
+      "karma": 2269,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -220,9 +280,9 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 35,
+    "score": 36,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/aph2fn/new_git_switch_restore",
     "submitter_user": {
@@ -231,7 +291,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11572,
+      "karma": 11574,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -247,7 +307,7 @@
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
     "score": 15,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/rfh70t/announcing_axum",
     "submitter_user": {
@@ -373,7 +433,7 @@
     "created_at": "2021-07-31T16:54:15.000-05:00",
     "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
     "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -384,7 +444,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1646,
+      "karma": 1647,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -425,7 +485,7 @@
     "created_at": "2021-07-31T14:51:38.000-05:00",
     "title": "Making Client Certificates Available By Default in Firefox 90",
     "url": "https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -436,7 +496,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5706,
+      "karma": 5707,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -458,7 +518,7 @@
     "url": "https://arxiv.org/abs/2002.09511",
     "score": 17,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/utfqs6/chronofold_data_structure_for_versioned",
     "submitter_user": {
@@ -609,59 +669,6 @@
     "tags": [
       "clojure",
       "javascript"
-    ]
-  },
-  {
-    "short_id": "dny0dv",
-    "short_id_url": "https://lobste.rs/s/dny0dv",
-    "created_at": "2021-07-31T07:39:29.000-05:00",
-    "title": "5000x faster CRDTs: An Adventure in Optimization",
-    "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 110,
-    "flags": 0,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dny0dv/5000x_faster_crdts_adventure",
-    "submitter_user": {
-      "username": "juri",
-      "created_at": "2017-08-15T02:29:44.000-05:00",
-      "is_admin": false,
-      "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
-      "is_moderator": false,
-      "karma": 242,
-      "avatar_url": "/avatars/juri-100.png",
-      "invited_by_user": "johan"
-    },
-    "tags": [
-      "distributed",
-      "javascript",
-      "performance",
-      "rust"
-    ]
-  },
-  {
-    "short_id": "ijqmym",
-    "short_id_url": "https://lobste.rs/s/ijqmym",
-    "created_at": "2021-07-31T06:13:06.000-05:00",
-    "title": "Hasta la Vista Gmail",
-    "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 17,
-    "flags": 6,
-    "comment_count": 30,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
-    "submitter_user": {
-      "username": "bbatsov",
-      "created_at": "2019-04-04T06:06:38.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 892,
-      "avatar_url": "/avatars/bbatsov-100.png",
-      "invited_by_user": "dragandj"
-    },
-    "tags": [
-      "email"
     ]
   }
 ]
