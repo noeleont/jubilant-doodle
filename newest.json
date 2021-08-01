@@ -1,5 +1,38 @@
 [
   {
+    "short_id": "wm1yoc",
+    "short_id_url": "https://lobste.rs/s/wm1yoc",
+    "created_at": "2021-08-01T02:23:53.000-05:00",
+    "title": "An Open Letter Calling for the Resignation of Eugen Rochko (Gargron) from Mastodon Development",
+    "url": "https://seedy.xyz/posts/0005-open-letter/",
+    "score": 0,
+    "flags": 2,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wm1yoc/open_letter_calling_for_resignation",
+    "submitter_user": {
+      "username": "jalcine",
+      "created_at": "2018-03-26T23:38:48.000-05:00",
+      "is_admin": false,
+      "about": "A Black man in Oakland from Haiti by way of New York.\r\n\r\nLearn about me at https://jacky.wtf/.",
+      "is_moderator": false,
+      "karma": 360,
+      "avatar_url": "/avatars/jalcine-100.png",
+      "invited_by_user": "0x2ba22e11",
+      "github_username": "jalcine",
+      "twitter_username": "jackyalcine",
+      "keybase_signatures": [
+        {
+          "kb_username": "jackyalcine",
+          "sig_hash": "3023073092d150ea69da78a3283b448240c88c90df69af857980591d239fc72d0f"
+        }
+      ]
+    },
+    "tags": [
+      "culture"
+    ]
+  },
+  {
     "short_id": "ofpjeh",
     "short_id_url": "https://lobste.rs/s/ofpjeh",
     "created_at": "2021-08-01T02:09:46.000-05:00",
@@ -31,7 +64,7 @@
     "created_at": "2021-08-01T02:09:08.000-05:00",
     "title": "Rotten Apples: MacOS Codesigning Translocation Vulnerability",
     "url": "https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +75,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1332,
+      "karma": 1333,
       "avatar_url": "/avatars/fro-100.png",
       "invited_by_user": "xero"
     },
@@ -82,7 +115,7 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 2,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -93,7 +126,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81023,
+      "karma": 81027,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -245,8 +278,8 @@
     "created_at": "2021-07-31T12:31:18.000-05:00",
     "title": "Hosting SQLite databases on Github Pages",
     "url": "https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/",
-    "score": 11,
-    "flags": 0,
+    "score": 12,
+    "flags": 1,
     "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/rwqg5d/hosting_sqlite_databases_on_github_pages",
@@ -256,7 +289,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1217,
+      "karma": 1218,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -283,7 +316,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81023,
+      "karma": 81027,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -352,7 +385,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 83,
+    "score": 85,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -363,7 +396,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 215,
+      "karma": 217,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -382,7 +415,7 @@
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
     "score": 15,
     "flags": 4,
-    "comment_count": 25,
+    "comment_count": 26,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -620,7 +653,7 @@
     "created_at": "2021-07-30T16:28:42.000-05:00",
     "title": "; echo \"Shell Injection\"",
     "url": "https://matklad.github.io//2021/07/30/shell-injection.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 11,
     "description": "",
@@ -631,38 +664,13 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1937,
+      "karma": 1938,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
     },
     "tags": [
       "security"
-    ]
-  },
-  {
-    "short_id": "3fxmpq",
-    "short_id_url": "https://lobste.rs/s/3fxmpq",
-    "created_at": "2021-07-30T16:09:34.000-05:00",
-    "title": "strcpy: a niche function you don't need",
-    "url": "https://nullprogram.com/blog/2021/07/30/",
-    "score": 16,
-    "flags": 1,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3fxmpq/strcpy_niche_function_you_don_t_need",
-    "submitter_user": {
-      "username": "friendlysock",
-      "created_at": "2014-02-20T00:43:41.000-06:00",
-      "is_admin": false,
-      "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
-      "is_moderator": false,
-      "karma": 35720,
-      "avatar_url": "/avatars/friendlysock-100.png",
-      "invited_by_user": "MasonJar"
-    },
-    "tags": [
-      "c"
     ]
   }
 ]
