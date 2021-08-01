@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "igoe4c",
+    "short_id_url": "https://lobste.rs/s/igoe4c",
+    "created_at": "2021-08-01T14:45:45.000-05:00",
+    "title": "How to make a simple entity-component-system in C++",
+    "url": "https://www.david-colson.com/2020/02/09/making-a-simple-ecs.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/igoe4c/how_make_simple_entity_component_system_c",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11571,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++",
+      "games"
+    ]
+  },
+  {
     "short_id": "kjv6op",
     "short_id_url": "https://lobste.rs/s/kjv6op",
     "created_at": "2021-08-01T14:00:25.000-05:00",
@@ -30,7 +56,7 @@
     "created_at": "2021-08-01T12:57:53.000-05:00",
     "title": "Why it’s okay for web components to use frameworks",
     "url": "https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +67,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 432,
+      "karma": 433,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -86,7 +112,7 @@
     "created_at": "2021-08-01T11:41:41.000-05:00",
     "title": "Amazon hit with record $885 million fine for violating EU privacy rules",
     "url": "https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html",
-    "score": 4,
+    "score": 7,
     "flags": 1,
     "comment_count": 3,
     "description": "",
@@ -97,7 +123,7 @@
       "is_admin": false,
       "about": "Full stack developer with a bachelor's degree in computer security.",
       "is_moderator": false,
-      "karma": 2,
+      "karma": 5,
       "avatar_url": "/avatars/timharek-100.png",
       "invited_by_user": "Foxboron",
       "github_username": "timharek"
@@ -112,7 +138,7 @@
     "created_at": "2021-08-01T07:29:26.000-05:00",
     "title": "Declarative GUIs in Racket",
     "url": "https://www.youtube.com/watch?v=AXJ9tTVGDwU",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 2,
     "description": "<p>Docs: <a href=\"https://docs.racket-lang.org/gui-easy/index.html\" rel=\"ugc\">https://docs.racket-lang.org/gui-easy/index.html</a></p>\n",
@@ -123,7 +149,7 @@
       "is_admin": false,
       "about": "Programmer based in Cluj-Napoca, Romania.\r\n\r\n* https://defn.io\r\n* https://dramatiq.io\r\n* https://moltenframework.com",
       "is_moderator": false,
-      "karma": 1399,
+      "karma": 1401,
       "avatar_url": "/avatars/bogdan-100.png",
       "invited_by_user": "conroy",
       "github_username": "Bogdanp",
@@ -140,7 +166,7 @@
     "created_at": "2021-08-01T06:48:40.000-05:00",
     "title": "On C++ and Object Oriented Programming",
     "url": "https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -151,7 +177,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2267,
+      "karma": 2268,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -167,7 +193,7 @@
     "created_at": "2021-08-01T04:29:27.000-05:00",
     "title": "Lang Jam",
     "url": "https://github.com/langjam/langjam",
-    "score": 14,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -178,7 +204,7 @@
       "is_admin": false,
       "about": "https://healeycodes.com\r\n\r\n👋🏻 hello, I'm always looking to connect with other devs/makers/writers/you!",
       "is_moderator": false,
-      "karma": 615,
+      "karma": 617,
       "avatar_url": "/avatars/healeycodes-100.png",
       "invited_by_user": "zaiste",
       "github_username": "healeycodes",
@@ -194,7 +220,7 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 33,
+    "score": 34,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -205,7 +231,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11570,
+      "karma": 11571,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -219,9 +245,9 @@
     "created_at": "2021-08-01T03:58:19.000-05:00",
     "title": "Announcing Axum",
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
-    "score": 13,
+    "score": 14,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/rfh70t/announcing_axum",
     "submitter_user": {
@@ -230,7 +256,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 428,
+      "karma": 429,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -270,7 +296,7 @@
     "created_at": "2021-08-01T02:09:08.000-05:00",
     "title": "Rotten Apples: MacOS Codesigning Translocation Vulnerability",
     "url": "https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -281,7 +307,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1336,
+      "karma": 1337,
       "avatar_url": "/avatars/fro-100.png",
       "invited_by_user": "xero"
     },
@@ -321,9 +347,9 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 13,
+    "score": 14,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/yyrdjw/learning_you_can_use_unions_c_for_grouping",
     "submitter_user": {
@@ -332,7 +358,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81038,
+      "karma": 81040,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -399,9 +425,9 @@
     "created_at": "2021-07-31T14:51:38.000-05:00",
     "title": "Making Client Certificates Available By Default in Firefox 90",
     "url": "https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/efe2vv/making_client_certificates_available_by",
     "submitter_user": {
@@ -410,7 +436,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5701,
+      "karma": 5704,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -430,7 +456,7 @@
     "created_at": "2021-07-31T14:07:18.000-05:00",
     "title": "Chronofold: a data structure for versioned text",
     "url": "https://arxiv.org/abs/2002.09511",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -441,7 +467,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 724,
+      "karma": 725,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -522,7 +548,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81038,
+      "karma": 81040,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -591,7 +617,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 108,
+    "score": 110,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -602,7 +628,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 240,
+      "karma": 242,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -630,39 +656,12 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 890,
+      "karma": 892,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
     "tags": [
       "email"
-    ]
-  },
-  {
-    "short_id": "roulgg",
-    "short_id_url": "https://lobste.rs/s/roulgg",
-    "created_at": "2021-07-31T04:41:27.000-05:00",
-    "title": "Convergence of Infinite Products",
-    "url": "https://cornellmath.wordpress.com/2008/01/26/convergence-of-infinite-products/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/roulgg/convergence_infinite_products",
-    "submitter_user": {
-      "username": "susam",
-      "created_at": "2020-04-29T15:40:43.000-05:00",
-      "is_admin": false,
-      "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme) and [Uncap](https://github.com/susam/uncap).\r\n\r\nFreenode IRC nick: `spal`\r\n\r\nPosting about C, Python, Lisp, TeX, Vim, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
-      "is_moderator": false,
-      "karma": 820,
-      "avatar_url": "/avatars/susam-100.png",
-      "invited_by_user": "premysl",
-      "github_username": "susam",
-      "twitter_username": "susam"
-    },
-    "tags": [
-      "math"
     ]
   }
 ]
