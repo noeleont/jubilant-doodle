@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "wpb6cd",
+    "short_id_url": "https://lobste.rs/s/wpb6cd",
+    "created_at": "2021-08-01T06:48:40.000-05:00",
+    "title": "On C++ and Object Oriented Programming",
+    "url": "https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wpb6cd/on_c_object_oriented_programming",
+    "submitter_user": {
+      "username": "vfoley",
+      "created_at": "2014-05-27T20:08:21.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 2267,
+      "avatar_url": "/avatars/vfoley-100.png",
+      "invited_by_user": "Boojum"
+    },
+    "tags": [
+      "c++",
+      "practices",
+      "programming"
+    ]
+  },
+  {
     "short_id": "cqot7w",
     "short_id_url": "https://lobste.rs/s/cqot7w",
     "created_at": "2021-08-01T04:29:27.000-05:00",
@@ -32,7 +59,7 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -43,7 +70,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11542,
+      "karma": 11545,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -57,9 +84,9 @@
     "created_at": "2021-08-01T03:58:19.000-05:00",
     "title": "Announcing Axum",
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
-    "score": 2,
+    "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/rfh70t/announcing_axum",
     "submitter_user": {
@@ -68,7 +95,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 417,
+      "karma": 420,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -108,7 +135,7 @@
     "created_at": "2021-08-01T02:09:08.000-05:00",
     "title": "Rotten Apples: MacOS Codesigning Translocation Vulnerability",
     "url": "https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -119,7 +146,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1334,
+      "karma": 1336,
       "avatar_url": "/avatars/fro-100.png",
       "invited_by_user": "xero"
     },
@@ -134,7 +161,7 @@
     "created_at": "2021-07-31T22:00:30.000-05:00",
     "title": "Creating a DOOM-inspired aesthetic with PlayCanvas",
     "url": "https://omarshehata.me/html/playcanvas-horror-aesthetic/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -145,7 +172,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35721,
+      "karma": 35723,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -159,7 +186,7 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -170,7 +197,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81032,
+      "karma": 81034,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -185,7 +212,7 @@
     "created_at": "2021-07-31T16:54:15.000-05:00",
     "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
     "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -196,7 +223,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1640,
+      "karma": 1641,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -221,7 +248,7 @@
       "is_admin": false,
       "about": "link aggregator https://sic.pm \r\n\r\nhttps://chaos.social/@epilys\r\nhttps://github.com/epilys\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 748,
+      "karma": 749,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -248,7 +275,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5697,
+      "karma": 5698,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -279,7 +306,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 720,
+      "karma": 721,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -322,7 +349,7 @@
     "created_at": "2021-07-31T12:31:18.000-05:00",
     "title": "Hosting SQLite databases on Github Pages",
     "url": "https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/",
-    "score": 12,
+    "score": 13,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -333,7 +360,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1218,
+      "karma": 1219,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -360,7 +387,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81032,
+      "karma": 81034,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -377,7 +404,7 @@
     "created_at": "2021-07-31T08:43:29.000-05:00",
     "title": "6 Years of Professional Clojure",
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
-    "score": 16,
+    "score": 18,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -388,7 +415,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7009,
+      "karma": 7013,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -414,7 +441,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7009,
+      "karma": 7013,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -429,7 +456,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 95,
+    "score": 96,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -440,7 +467,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 227,
+      "karma": 228,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -520,7 +547,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11542,
+      "karma": 11545,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -586,7 +613,7 @@
     "created_at": "2021-07-30T18:25:04.000-05:00",
     "title": "Climate Strike Software",
     "url": "https://climatestrike.software/",
-    "score": 1,
+    "score": 2,
     "flags": 3,
     "comment_count": 2,
     "description": "",
@@ -597,7 +624,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 151,
+      "karma": 152,
       "avatar_url": "/avatars/bowyakka-100.png",
       "invited_by_user": "andrewcooke"
     },
@@ -629,33 +656,6 @@
     "tags": [
       "games",
       "release"
-    ]
-  },
-  {
-    "short_id": "mepre5",
-    "short_id_url": "https://lobste.rs/s/mepre5",
-    "created_at": "2021-07-30T17:30:16.000-05:00",
-    "title": "The Hardest Problem in Type Theory [Uniqueness of Identity Proofs]",
-    "url": "https://www.youtube.com/watch?v=m_PecfbEWik",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/mepre5/hardest_problem_type_theory_uniqueness",
-    "submitter_user": {
-      "username": "river",
-      "created_at": "2016-04-03T11:33:05.000-05:00",
-      "is_admin": false,
-      "about": "(Deleted account)",
-      "is_moderator": false,
-      "karma": 4331,
-      "avatar_url": "/avatars/river-100.png",
-      "invited_by_user": "355E3B"
-    },
-    "tags": [
-      "math",
-      "plt",
-      "video"
     ]
   }
 ]
