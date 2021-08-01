@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "kjv6op",
+    "short_id_url": "https://lobste.rs/s/kjv6op",
+    "created_at": "2021-08-01T14:00:25.000-05:00",
+    "title": "Focus: assign multiple engineers to the same task",
+    "url": "https://dpc.pw/focus-assign-multiple-engineers-to-the-same-task",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kjv6op/focus_assign_multiple_engineers_same",
+    "submitter_user": {
+      "username": "dpc_pw",
+      "created_at": "2021-07-02T13:20:19.000-05:00",
+      "is_admin": false,
+      "about": "https://dpc.pw",
+      "is_moderator": false,
+      "karma": 42,
+      "avatar_url": "/avatars/dpc_pw-100.png",
+      "invited_by_user": "kornel"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "dxbwyb",
     "short_id_url": "https://lobste.rs/s/dxbwyb",
     "created_at": "2021-08-01T12:57:53.000-05:00",
@@ -33,7 +58,7 @@
     "url": "https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui",
     "score": 1,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/zfinu7/what_is_net_maui",
     "submitter_user": {
@@ -63,7 +88,7 @@
     "url": "https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html",
     "score": 4,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/yq8om9/amazon_hit_with_record_885_million_fine",
     "submitter_user": {
@@ -89,7 +114,7 @@
     "url": "https://www.youtube.com/watch?v=AXJ9tTVGDwU",
     "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "<p>Docs: <a href=\"https://docs.racket-lang.org/gui-easy/index.html\" rel=\"ugc\">https://docs.racket-lang.org/gui-easy/index.html</a></p>\n",
     "comments_url": "https://lobste.rs/s/vaouwt/declarative_guis_racket",
     "submitter_user": {
@@ -169,7 +194,7 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 30,
+    "score": 33,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -180,7 +205,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11567,
+      "karma": 11570,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -194,7 +219,7 @@
     "created_at": "2021-08-01T03:58:19.000-05:00",
     "title": "Announcing Axum",
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -205,7 +230,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 427,
+      "karma": 428,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -307,7 +332,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81037,
+      "karma": 81038,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -322,7 +347,7 @@
     "created_at": "2021-07-31T16:54:15.000-05:00",
     "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
     "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -333,7 +358,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1645,
+      "karma": 1646,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -347,7 +372,7 @@
     "created_at": "2021-07-31T14:59:23.000-05:00",
     "title": "vrmiguel/bustd: a really lightweight process killer daemon for out-of-memory scenarios on Linux",
     "url": "https://github.com/vrmiguel/bustd",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -358,7 +383,7 @@
       "is_admin": false,
       "about": "link aggregator https://sic.pm \r\n\r\nhttps://chaos.social/@epilys\r\nhttps://github.com/epilys\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 750,
+      "karma": 751,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -385,7 +410,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5700,
+      "karma": 5701,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -405,7 +430,7 @@
     "created_at": "2021-07-31T14:07:18.000-05:00",
     "title": "Chronofold: a data structure for versioned text",
     "url": "https://arxiv.org/abs/2002.09511",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -416,7 +441,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 723,
+      "karma": 724,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -497,7 +522,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81037,
+      "karma": 81038,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -594,9 +619,9 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 16,
-    "flags": 5,
-    "comment_count": 29,
+    "score": 17,
+    "flags": 6,
+    "comment_count": 30,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -605,7 +630,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 889,
+      "karma": 890,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -638,32 +663,6 @@
     },
     "tags": [
       "math"
-    ]
-  },
-  {
-    "short_id": "ryfyxu",
-    "short_id_url": "https://lobste.rs/s/ryfyxu",
-    "created_at": "2021-07-31T02:36:50.000-05:00",
-    "title": "Strict memcpy() bounds checking for the kernel",
-    "url": "https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ryfyxu/strict_memcpy_bounds_checking_for_kernel",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11567,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "c",
-      "linux"
     ]
   }
 ]
