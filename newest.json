@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "vaouwt",
+    "short_id_url": "https://lobste.rs/s/vaouwt",
+    "created_at": "2021-08-01T07:29:26.000-05:00",
+    "title": "Declarative GUIs in Racket",
+    "url": "https://www.youtube.com/watch?v=AXJ9tTVGDwU",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Docs: <a href=\"https://docs.racket-lang.org/gui-easy/index.html\" rel=\"ugc\">https://docs.racket-lang.org/gui-easy/index.html</a></p>\n",
+    "comments_url": "https://lobste.rs/s/vaouwt/declarative_guis_racket",
+    "submitter_user": {
+      "username": "bogdan",
+      "created_at": "2013-06-06T14:12:57.000-05:00",
+      "is_admin": false,
+      "about": "Programmer based in Cluj-Napoca, Romania.\r\n\r\n* https://defn.io\r\n* https://dramatiq.io\r\n* https://moltenframework.com",
+      "is_moderator": false,
+      "karma": 1395,
+      "avatar_url": "/avatars/bogdan-100.png",
+      "invited_by_user": "conroy",
+      "github_username": "Bogdanp",
+      "twitter_username": "bogdanp"
+    },
+    "tags": [
+      "lisp",
+      "video"
+    ]
+  },
+  {
     "short_id": "wpb6cd",
     "short_id_url": "https://lobste.rs/s/wpb6cd",
     "created_at": "2021-08-01T06:48:40.000-05:00",
@@ -7,7 +35,7 @@
     "url": "https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/wpb6cd/on_c_object_oriented_programming",
     "submitter_user": {
@@ -32,7 +60,7 @@
     "created_at": "2021-08-01T04:29:27.000-05:00",
     "title": "Lang Jam",
     "url": "https://github.com/langjam/langjam",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +71,7 @@
       "is_admin": false,
       "about": "https://healeycodes.com\r\n\r\n👋🏻 hello, I'm always looking to connect with other devs/makers/writers/you!",
       "is_moderator": false,
-      "karma": 605,
+      "karma": 607,
       "avatar_url": "/avatars/healeycodes-100.png",
       "invited_by_user": "zaiste",
       "github_username": "healeycodes",
@@ -59,7 +87,7 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 10,
+    "score": 14,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -70,7 +98,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11545,
+      "karma": 11549,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -86,7 +114,7 @@
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
     "score": 5,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/rfh70t/announcing_axum",
     "submitter_user": {
@@ -186,7 +214,7 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -197,7 +225,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81034,
+      "karma": 81035,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -275,7 +303,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5698,
+      "karma": 5699,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -387,7 +415,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81034,
+      "karma": 81035,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -456,7 +484,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 96,
+    "score": 99,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -467,7 +495,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 228,
+      "karma": 231,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -495,7 +523,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 882,
+      "karma": 885,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -547,7 +575,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11545,
+      "karma": 11549,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -630,32 +658,6 @@
     },
     "tags": [
       "law"
-    ]
-  },
-  {
-    "short_id": "y1llez",
-    "short_id_url": "https://lobste.rs/s/y1llez",
-    "created_at": "2021-07-30T17:30:48.000-05:00",
-    "title": "DCSS v0.27 \"The Cursed Flame\" Released",
-    "url": "https://github.com/crawl/crawl/releases/tag/0.27.0",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/y1llez/dcss_v0_27_cursed_flame_released",
-    "submitter_user": {
-      "username": "technetium",
-      "created_at": "2020-02-06T19:52:39.000-06:00",
-      "is_admin": false,
-      "about": "A sentient lump of a certain high-density material",
-      "is_moderator": false,
-      "karma": 2473,
-      "avatar_url": "/avatars/technetium-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "games",
-      "release"
     ]
   }
 ]
