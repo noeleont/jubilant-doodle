@@ -1,13 +1,40 @@
 [
   {
+    "short_id": "cqot7w",
+    "short_id_url": "https://lobste.rs/s/cqot7w",
+    "created_at": "2021-08-01T04:29:27.000-05:00",
+    "title": "Lang Jam",
+    "url": "https://github.com/langjam/langjam",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cqot7w/lang_jam",
+    "submitter_user": {
+      "username": "healeycodes",
+      "created_at": "2020-04-15T15:53:23.000-05:00",
+      "is_admin": false,
+      "about": "https://healeycodes.com\r\n\r\n👋🏻 hello, I'm always looking to connect with other devs/makers/writers/you!",
+      "is_moderator": false,
+      "karma": 603,
+      "avatar_url": "/avatars/healeycodes-100.png",
+      "invited_by_user": "zaiste",
+      "github_username": "healeycodes",
+      "twitter_username": "healeycodes"
+    },
+    "tags": [
+      "plt"
+    ]
+  },
+  {
     "short_id": "aph2fn",
     "short_id_url": "https://lobste.rs/s/aph2fn",
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 1,
+    "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/aph2fn/new_git_switch_restore",
     "submitter_user": {
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11535,
+      "karma": 11540,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -81,7 +108,7 @@
     "created_at": "2021-08-01T02:09:08.000-05:00",
     "title": "Rotten Apples: MacOS Codesigning Translocation Vulnerability",
     "url": "https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -92,7 +119,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1333,
+      "karma": 1334,
       "avatar_url": "/avatars/fro-100.png",
       "invited_by_user": "xero"
     },
@@ -118,7 +145,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35720,
+      "karma": 35721,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -132,7 +159,7 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -143,7 +170,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81028,
+      "karma": 81031,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -210,9 +237,9 @@
     "created_at": "2021-07-31T14:51:38.000-05:00",
     "title": "Making Client Certificates Available By Default in Firefox 90",
     "url": "https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/efe2vv/making_client_certificates_available_by",
     "submitter_user": {
@@ -221,7 +248,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5695,
+      "karma": 5697,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -333,7 +360,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81028,
+      "karma": 81031,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -350,7 +377,7 @@
     "created_at": "2021-07-31T08:43:29.000-05:00",
     "title": "6 Years of Professional Clojure",
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
-    "score": 14,
+    "score": 16,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -361,7 +388,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7007,
+      "karma": 7009,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -387,7 +414,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7007,
+      "karma": 7009,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -402,9 +429,9 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 89,
+    "score": 93,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/dny0dv/5000x_faster_crdts_adventure",
     "submitter_user": {
@@ -413,7 +440,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 221,
+      "karma": 225,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -432,7 +459,7 @@
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
     "score": 15,
     "flags": 4,
-    "comment_count": 27,
+    "comment_count": 28,
     "description": "",
     "comments_url": "https://lobste.rs/s/ijqmym/hasta_la_vista_gmail",
     "submitter_user": {
@@ -482,7 +509,7 @@
     "created_at": "2021-07-31T02:36:50.000-05:00",
     "title": "Strict memcpy() bounds checking for the kernel",
     "url": "https://lwn.net/SubscriberLink/864521/d704bdcced0c5c60/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -493,7 +520,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11535,
+      "karma": 11540,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -508,7 +535,7 @@
     "created_at": "2021-07-30T21:41:26.000-05:00",
     "title": "Commodore 64 \"Mod of the Year\" (2015)",
     "url": "https://www.breadbox64.com/blog/mod-of-the-year-2015/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -519,7 +546,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1498,
+      "karma": 1499,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -629,39 +656,6 @@
       "math",
       "plt",
       "video"
-    ]
-  },
-  {
-    "short_id": "cqzsum",
-    "short_id_url": "https://lobste.rs/s/cqzsum",
-    "created_at": "2021-07-30T16:45:41.000-05:00",
-    "title": "The Workgirl Keyboard Layout",
-    "url": "https://artemis.sh/2021/07/30/the-workgirl-keyboard-layout.html",
-    "score": -1,
-    "flags": 22,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/cqzsum/workgirl_keyboard_layout",
-    "submitter_user": {
-      "username": "cadey",
-      "created_at": "2019-03-08T17:23:38.000-06:00",
-      "is_admin": false,
-      "about": "kastermakfa\r\n\r\nko kanro",
-      "is_moderator": false,
-      "karma": 7717,
-      "avatar_url": "/avatars/cadey-100.png",
-      "invited_by_user": "apg",
-      "github_username": "Xe",
-      "twitter_username": "theprincessxena",
-      "keybase_signatures": [
-        {
-          "kb_username": "xena",
-          "sig_hash": "a19dbebc33a79273556666968b3ec01d986d34e4a53cc9e0ece695b9bec4cd6c0f"
-        }
-      ]
-    },
-    "tags": [
-      "linux"
     ]
   }
 ]
