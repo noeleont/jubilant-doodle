@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "dxbwyb",
+    "short_id_url": "https://lobste.rs/s/dxbwyb",
+    "created_at": "2021-08-01T12:57:53.000-05:00",
+    "title": "Why it’s okay for web components to use frameworks",
+    "url": "https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dxbwyb/why_it_s_okay_for_web_components_use",
+    "submitter_user": {
+      "username": "nolan",
+      "created_at": "2018-01-06T13:39:52.000-06:00",
+      "is_admin": false,
+      "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
+      "is_moderator": false,
+      "karma": 432,
+      "avatar_url": "/avatars/nolan-100.png",
+      "invited_by_user": "calvin"
+    },
+    "tags": [
+      "performance",
+      "web"
+    ]
+  },
+  {
     "short_id": "zfinu7",
     "short_id_url": "https://lobste.rs/s/zfinu7",
     "created_at": "2021-08-01T12:10:24.000-05:00",
@@ -7,7 +33,7 @@
     "url": "https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/zfinu7/what_is_net_maui",
     "submitter_user": {
@@ -35,9 +61,9 @@
     "created_at": "2021-08-01T11:41:41.000-05:00",
     "title": "Amazon hit with record $885 million fine for violating EU privacy rules",
     "url": "https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html",
-    "score": 3,
+    "score": 4,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/yq8om9/amazon_hit_with_record_885_million_fine",
     "submitter_user": {
@@ -46,7 +72,7 @@
       "is_admin": false,
       "about": "Full stack developer with a bachelor's degree in computer security.",
       "is_moderator": false,
-      "karma": 1,
+      "karma": 2,
       "avatar_url": "/avatars/timharek-100.png",
       "invited_by_user": "Foxboron",
       "github_username": "timharek"
@@ -116,7 +142,7 @@
     "created_at": "2021-08-01T04:29:27.000-05:00",
     "title": "Lang Jam",
     "url": "https://github.com/langjam/langjam",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -127,7 +153,7 @@
       "is_admin": false,
       "about": "https://healeycodes.com\r\n\r\n👋🏻 hello, I'm always looking to connect with other devs/makers/writers/you!",
       "is_moderator": false,
-      "karma": 614,
+      "karma": 615,
       "avatar_url": "/avatars/healeycodes-100.png",
       "invited_by_user": "zaiste",
       "github_username": "healeycodes",
@@ -143,7 +169,7 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 28,
+    "score": 30,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -154,7 +180,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11565,
+      "karma": 11567,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -168,7 +194,7 @@
     "created_at": "2021-08-01T03:58:19.000-05:00",
     "title": "Announcing Axum",
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -179,7 +205,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 425,
+      "karma": 427,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -256,7 +282,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35724,
+      "karma": 35725,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -270,7 +296,7 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -281,7 +307,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81036,
+      "karma": 81037,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -379,7 +405,7 @@
     "created_at": "2021-07-31T14:07:18.000-05:00",
     "title": "Chronofold: a data structure for versioned text",
     "url": "https://arxiv.org/abs/2002.09511",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -390,7 +416,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 722,
+      "karma": 723,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -471,7 +497,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81036,
+      "karma": 81037,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -490,7 +516,7 @@
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
     "score": 19,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/872ohv/6_years_professional_clojure",
     "submitter_user": {
@@ -499,7 +525,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7015,
+      "karma": 7017,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -525,7 +551,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7015,
+      "karma": 7017,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -540,7 +566,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 105,
+    "score": 108,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -551,7 +577,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 237,
+      "karma": 240,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -568,7 +594,7 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 15,
+    "score": 16,
     "flags": 5,
     "comment_count": 29,
     "description": "",
@@ -579,7 +605,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 887,
+      "karma": 889,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -631,39 +657,13 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11565,
+      "karma": 11567,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
     "tags": [
       "c",
       "linux"
-    ]
-  },
-  {
-    "short_id": "ddw9jw",
-    "short_id_url": "https://lobste.rs/s/ddw9jw",
-    "created_at": "2021-07-30T21:41:26.000-05:00",
-    "title": "Commodore 64 \"Mod of the Year\" (2015)",
-    "url": "https://www.breadbox64.com/blog/mod-of-the-year-2015/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ddw9jw/commodore_64_mod_year_2015",
-    "submitter_user": {
-      "username": "classichasclass",
-      "created_at": "2018-11-05T18:45:47.000-06:00",
-      "is_admin": false,
-      "about": "mostly harmless",
-      "is_moderator": false,
-      "karma": 1500,
-      "avatar_url": "/avatars/classichasclass-100.png",
-      "invited_by_user": "sevan"
-    },
-    "tags": [
-      "hardware",
-      "historical"
     ]
   }
 ]
