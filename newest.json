@@ -1,5 +1,61 @@
 [
   {
+    "short_id": "zfinu7",
+    "short_id_url": "https://lobste.rs/s/zfinu7",
+    "created_at": "2021-08-01T12:10:24.000-05:00",
+    "title": "What is .NET MAUI?",
+    "url": "https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zfinu7/what_is_net_maui",
+    "submitter_user": {
+      "username": "vladislavp",
+      "created_at": "2019-01-21T08:38:06.000-06:00",
+      "is_admin": false,
+      "about": "Consultant:   Enterprise Architecture, Data Governance, IAM, Distributed Backends dev, Android dev, SPA.",
+      "is_moderator": false,
+      "karma": 601,
+      "avatar_url": "/avatars/vladislavp-100.png",
+      "invited_by_user": "wink"
+    },
+    "tags": [
+      "android",
+      "dotnet",
+      "ios",
+      "mac",
+      "mobile",
+      "windows"
+    ]
+  },
+  {
+    "short_id": "yq8om9",
+    "short_id_url": "https://lobste.rs/s/yq8om9",
+    "created_at": "2021-08-01T11:41:41.000-05:00",
+    "title": "Amazon hit with record $885 million fine for violating EU privacy rules",
+    "url": "https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html",
+    "score": 3,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yq8om9/amazon_hit_with_record_885_million_fine",
+    "submitter_user": {
+      "username": "timharek",
+      "created_at": "2021-07-28T08:47:36.000-05:00",
+      "is_admin": false,
+      "about": "Full stack developer with a bachelor's degree in computer security.",
+      "is_moderator": false,
+      "karma": 1,
+      "avatar_url": "/avatars/timharek-100.png",
+      "invited_by_user": "Foxboron",
+      "github_username": "timharek"
+    },
+    "tags": [
+      "privacy"
+    ]
+  },
+  {
     "short_id": "vaouwt",
     "short_id_url": "https://lobste.rs/s/vaouwt",
     "created_at": "2021-08-01T07:29:26.000-05:00",
@@ -7,7 +63,7 @@
     "url": "https://www.youtube.com/watch?v=AXJ9tTVGDwU",
     "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "<p>Docs: <a href=\"https://docs.racket-lang.org/gui-easy/index.html\" rel=\"ugc\">https://docs.racket-lang.org/gui-easy/index.html</a></p>\n",
     "comments_url": "https://lobste.rs/s/vaouwt/declarative_guis_racket",
     "submitter_user": {
@@ -87,9 +143,9 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 25,
+    "score": 28,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/aph2fn/new_git_switch_restore",
     "submitter_user": {
@@ -98,7 +154,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11562,
+      "karma": 11565,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -114,7 +170,7 @@
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
     "score": 10,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/rfh70t/announcing_axum",
     "submitter_user": {
@@ -240,7 +296,7 @@
     "created_at": "2021-07-31T16:54:15.000-05:00",
     "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
     "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -251,7 +307,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1644,
+      "karma": 1645,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -484,7 +540,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 104,
+    "score": 105,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -495,7 +551,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 236,
+      "karma": 237,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -523,7 +579,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 886,
+      "karma": 887,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -575,7 +631,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11562,
+      "karma": 11565,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -608,56 +664,6 @@
     "tags": [
       "hardware",
       "historical"
-    ]
-  },
-  {
-    "short_id": "xce5jt",
-    "short_id_url": "https://lobste.rs/s/xce5jt",
-    "created_at": "2021-07-30T18:30:25.000-05:00",
-    "title": "Work in the kitchen",
-    "url": "https://dev.to/rekki/work-in-the-kitchen-4ifm",
-    "score": 1,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xce5jt/work_kitchen",
-    "submitter_user": {
-      "username": "statenjason",
-      "created_at": "2014-06-02T21:50:24.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 99,
-      "avatar_url": "/avatars/statenjason-100.png",
-      "invited_by_user": "chasingtheflow"
-    },
-    "tags": [
-      "practices"
-    ]
-  },
-  {
-    "short_id": "cxphgv",
-    "short_id_url": "https://lobste.rs/s/cxphgv",
-    "created_at": "2021-07-30T18:25:04.000-05:00",
-    "title": "Climate Strike Software",
-    "url": "https://climatestrike.software/",
-    "score": 2,
-    "flags": 3,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/cxphgv/climate_strike_software",
-    "submitter_user": {
-      "username": "bowyakka",
-      "created_at": "2014-04-02T09:33:26.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 152,
-      "avatar_url": "/avatars/bowyakka-100.png",
-      "invited_by_user": "andrewcooke"
-    },
-    "tags": [
-      "law"
     ]
   }
 ]
