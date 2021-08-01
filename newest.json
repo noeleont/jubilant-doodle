@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "ofpjeh",
+    "short_id_url": "https://lobste.rs/s/ofpjeh",
+    "created_at": "2021-08-01T02:09:46.000-05:00",
+    "title": "ChakraUI inspired tailwind components, in reagent/hiccup",
+    "url": "https://gist.github.com/sagittaros/afb78a1c3f96ea9cc7707ed2a04cf03c",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ofpjeh/chakraui_inspired_tailwind_components",
+    "submitter_user": {
+      "username": "Emceliaz",
+      "created_at": "2020-08-04T21:29:41.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/Emceliaz-100.png",
+      "invited_by_user": "Nazral"
+    },
+    "tags": [
+      "clojure",
+      "css"
+    ]
+  },
+  {
+    "short_id": "8brspj",
+    "short_id_url": "https://lobste.rs/s/8brspj",
+    "created_at": "2021-08-01T02:09:08.000-05:00",
+    "title": "Rotten Apples: MacOS Codesigning Translocation Vulnerability",
+    "url": "https://occamsec.com/rotten-apples-macos-codesigning-translocation-vulnerability/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/8brspj/rotten_apples_macos_codesigning",
+    "submitter_user": {
+      "username": "fro",
+      "created_at": "2016-04-13T15:27:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1332,
+      "avatar_url": "/avatars/fro-100.png",
+      "invited_by_user": "xero"
+    },
+    "tags": [
+      "mac",
+      "security"
+    ]
+  },
+  {
     "short_id": "s3mkt4",
     "short_id_url": "https://lobste.rs/s/s3mkt4",
     "created_at": "2021-07-31T22:00:30.000-05:00",
@@ -41,7 +93,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81022,
+      "karma": 81023,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -231,7 +283,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81022,
+      "karma": 81023,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -250,7 +302,7 @@
     "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
     "score": 14,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/872ohv/6_years_professional_clojure",
     "submitter_user": {
@@ -300,7 +352,7 @@
     "created_at": "2021-07-31T07:39:29.000-05:00",
     "title": "5000x faster CRDTs: An Adventure in Optimization",
     "url": "https://josephg.com/blog/crdts-go-brrr/",
-    "score": 82,
+    "score": 83,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -311,7 +363,7 @@
       "is_admin": false,
       "about": "I'm a software developer from Finland. Apple platforms and servers for the last decade.",
       "is_moderator": false,
-      "karma": 214,
+      "karma": 215,
       "avatar_url": "/avatars/juri-100.png",
       "invited_by_user": "johan"
     },
@@ -328,7 +380,7 @@
     "created_at": "2021-07-31T06:13:06.000-05:00",
     "title": "Hasta la Vista Gmail",
     "url": "http://metaredux.com/posts/2021/07/31/hasta-la-vista-gmail.html",
-    "score": 14,
+    "score": 15,
     "flags": 4,
     "comment_count": 25,
     "description": "",
@@ -339,7 +391,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 881,
+      "karma": 882,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -579,7 +631,7 @@
       "is_admin": false,
       "about": "Working on IDE support for the Rust language.\r\n\r\nhttps://github.com/matklad",
       "is_moderator": false,
-      "karma": 1936,
+      "karma": 1937,
       "avatar_url": "/avatars/matklad-100.png",
       "invited_by_user": "skade",
       "github_username": "matklad"
@@ -596,7 +648,7 @@
     "url": "https://nullprogram.com/blog/2021/07/30/",
     "score": 16,
     "flags": 1,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/3fxmpq/strcpy_niche_function_you_don_t_need",
     "submitter_user": {
@@ -611,57 +663,6 @@
     },
     "tags": [
       "c"
-    ]
-  },
-  {
-    "short_id": "u0kpyz",
-    "short_id_url": "https://lobste.rs/s/u0kpyz",
-    "created_at": "2021-07-30T15:37:10.000-05:00",
-    "title": "PCP 0.0.2 is out, a $5 droplet running PCP can now handle 1400 req/s sustained for 90 min",
-    "url": "https://github.com/alekcz/pcp/releases/tag/v0.0.2",
-    "score": 2,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/u0kpyz/pcp_0_0_2_is_out_5_droplet_running_pcp_can_now",
-    "submitter_user": {
-      "username": "Yogthos",
-      "created_at": "2017-05-26T15:31:12.000-05:00",
-      "is_admin": false,
-      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
-      "is_moderator": false,
-      "karma": 7007,
-      "avatar_url": "/avatars/Yogthos-100.png",
-      "invited_by_user": "gered"
-    },
-    "tags": [
-      "clojure",
-      "web"
-    ]
-  },
-  {
-    "short_id": "z5r9te",
-    "short_id_url": "https://lobste.rs/s/z5r9te",
-    "created_at": "2021-07-30T15:32:51.000-05:00",
-    "title": "gomplate: A flexible commandline tool for template rendering",
-    "url": "https://github.com/hairyhenderson/gomplate",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/z5r9te/gomplate_flexible_commandline_tool_for",
-    "submitter_user": {
-      "username": "GrayGnome",
-      "created_at": "2014-04-15T02:38:02.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1483,
-      "avatar_url": "/avatars/GrayGnome-100.png",
-      "invited_by_user": "kev009"
-    },
-    "tags": [
-      "programming"
     ]
   }
 ]
