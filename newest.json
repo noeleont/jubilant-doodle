@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "s3lemv",
+    "short_id_url": "https://lobste.rs/s/s3lemv",
+    "created_at": "2021-08-02T17:33:32.000-05:00",
+    "title": "vvaltchev/tilck: A Tiny Linux-Compatible Kernel",
+    "url": "https://github.com/vvaltchev/tilck",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/s3lemv/vvaltchev_tilck_tiny_linux_compatible",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81105,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "osdev"
+    ]
+  },
+  {
     "short_id": "tdalbi",
     "short_id_url": "https://lobste.rs/s/tdalbi",
     "created_at": "2021-08-02T16:14:09.000-05:00",
     "title": "GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)",
     "url": "https://gitlab.com/gpsd/gpsd/-/issues/144",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10459,
+      "karma": 10460,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -69,7 +95,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 138,
+      "karma": 139,
       "avatar_url": "/avatars/zenhack-100.png",
       "invited_by_user": "Corbin"
     },
@@ -110,7 +136,7 @@
     "created_at": "2021-08-02T12:47:29.000-05:00",
     "title": "WireGuardNT, a high-performance WireGuard implementation for the Windows kernel",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -121,7 +147,7 @@
       "is_admin": false,
       "about": "**Jason A. Donenfeld** -- *jason@zx2c4.com*\r\n\r\nSecurity researcher and programmer, also known as zx2c4 -- [zx2c4.com](https://www.zx2c4.com/). Founder of [EdgeSecurity](https://www.edgesecurity.com/). Gentoo developer. Creator of [WireGuard](https://www.wireguard.com/), [`pass`](https://www.passwordstore.org/), and many other things; maintainer of [cgit](https://git.zx2c4.com/cgit/about/).",
       "is_moderator": false,
-      "karma": 735,
+      "karma": 736,
       "avatar_url": "/avatars/zx2c4-100.png",
       "invited_by_user": "bsima"
     },
@@ -135,20 +161,20 @@
     "short_id": "ihguhh",
     "short_id_url": "https://lobste.rs/s/ihguhh",
     "created_at": "2021-08-02T12:41:21.000-05:00",
-    "title": "ClojureScript in the Age of TypeScript — David Nolen",
+    "title": "ClojureScript in the Age of TypeScript",
     "url": "https://www.youtube.com/watch?v=3HxVMGaiZbc",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
-    "comments_url": "https://lobste.rs/s/ihguhh/clojurescript_age_typescript_david",
+    "comments_url": "https://lobste.rs/s/ihguhh/clojurescript_age_typescript",
     "submitter_user": {
       "username": "Yogthos",
       "created_at": "2017-05-26T15:31:12.000-05:00",
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7022,
+      "karma": 7024,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -190,7 +216,7 @@
     "created_at": "2021-08-02T12:04:56.000-05:00",
     "title": "Empty npm package '-' has over 700,000 downloads",
     "url": "https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -201,7 +227,7 @@
       "is_admin": false,
       "about": "Mastodon: @djsumdog@hitchhiker.social\r\n\r\nWebsite: https://battlepenguin.com",
       "is_moderator": false,
-      "karma": 2271,
+      "karma": 2273,
       "avatar_url": "/avatars/djsumdog-100.png",
       "invited_by_user": "codebam",
       "keybase_signatures": [
@@ -223,7 +249,7 @@
     "url": "https://vfoley.xyz/reasonable-use/",
     "score": 12,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/kpthx3/making_reasonable_use_computer",
     "submitter_user": {
@@ -282,7 +308,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81101,
+      "karma": 81105,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -297,9 +323,9 @@
     "created_at": "2021-08-02T09:14:11.000-05:00",
     "title": "Exit and voice in open source software",
     "url": "http://catern.com/exitvoice.html",
-    "score": 19,
+    "score": 20,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkpvqc/exit_voice_open_source_software",
     "submitter_user": {
@@ -308,7 +334,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 164,
+      "karma": 165,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -376,7 +402,7 @@
     "created_at": "2021-08-02T08:30:13.000-05:00",
     "title": "How does n-key rollover work?",
     "url": "https://www.youtube.com/watch?v=2lPzTU-3ONI",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -387,7 +413,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1849,
+      "karma": 1850,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -413,7 +439,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1849,
+      "karma": 1850,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -428,9 +454,9 @@
     "created_at": "2021-08-02T08:00:14.000-05:00",
     "title": "Back to Linux",
     "url": "http://metaredux.com/posts/2021/07/31/back-to-linux.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 25,
+    "comment_count": 26,
     "description": "",
     "comments_url": "https://lobste.rs/s/a5gkkw/back_linux",
     "submitter_user": {
@@ -439,7 +465,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 916,
+      "karma": 918,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -484,8 +510,8 @@
     "created_at": "2021-08-02T07:29:43.000-05:00",
     "title": "Hotwire Turbo Replacing Rails UJS",
     "url": "https://www.driftingruby.com/episodes/hotwire-turbo-replacing-rails-ujs",
-    "score": 0,
-    "flags": 1,
+    "score": -1,
+    "flags": 2,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/s3z7y4/hotwire_turbo_replacing_rails_ujs",
@@ -495,7 +521,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 89,
+      "karma": 88,
       "avatar_url": "/avatars/kobaltz-100.png",
       "invited_by_user": "james"
     },
@@ -512,7 +538,7 @@
     "url": "",
     "score": 10,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/oiokqq/what_are_you_doing_this_week",
     "submitter_user": {
@@ -538,7 +564,7 @@
     "created_at": "2021-08-02T05:54:53.000-05:00",
     "title": "The Linux Kernel Module Programming Guide",
     "url": "https://sysprog21.github.io/lkmpg/",
-    "score": 11,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -549,7 +575,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 362,
+      "karma": 365,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -563,7 +589,7 @@
     "created_at": "2021-08-02T04:26:43.000-05:00",
     "title": "Japan's Fifth Generation Computer Systems: Success or Failure?",
     "url": "https://instadeq.com/blog/posts/japans-fifth-generation-computer-systems-success-or-failure/",
-    "score": 13,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -574,7 +600,7 @@
       "is_admin": false,
       "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
       "is_moderator": false,
-      "karma": 165,
+      "karma": 168,
       "avatar_url": "/avatars/marianoguerra-100.png",
       "invited_by_user": "unbalancedparentheses"
     },
@@ -633,31 +659,6 @@
     "tags": [
       "privacy",
       "security"
-    ]
-  },
-  {
-    "short_id": "ocesmf",
-    "short_id_url": "https://lobste.rs/s/ocesmf",
-    "created_at": "2021-08-01T21:47:28.000-05:00",
-    "title": "TypeScript can be your friend... if you let it",
-    "url": "https://matthewdavidrodgers.com/posts/typescript-can-be-your-friend/",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 12,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ocesmf/typescript_can_be_your_friend_if_you_let_it",
-    "submitter_user": {
-      "username": "agent281",
-      "created_at": "2017-04-15T20:12:16.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1663,
-      "avatar_url": "/avatars/agent281-100.png",
-      "invited_by_user": "numberten"
-    },
-    "tags": [
-      "javascript"
     ]
   }
 ]
