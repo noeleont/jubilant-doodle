@@ -1,11 +1,39 @@
 [
   {
+    "short_id": "t4oh4r",
+    "short_id_url": "https://lobste.rs/s/t4oh4r",
+    "created_at": "2021-08-01T19:21:28.000-05:00",
+    "title": "Vitess | A new Protocol Buffers generator for Go",
+    "url": "https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/t4oh4r/vitess_new_protocol_buffers_generator",
+    "submitter_user": {
+      "username": "jorgelbg",
+      "created_at": "2014-07-16T09:48:53.000-05:00",
+      "is_admin": false,
+      "about": "Software Engineer. Performance, observability & search. Apache #Nutch PMC, @TheASF member. #Solr/#Elasticsearch fan. #DevOps.",
+      "is_moderator": false,
+      "karma": 90,
+      "avatar_url": "/avatars/jorgelbg-100.png",
+      "invited_by_user": "al3x",
+      "github_username": "jorgelbg",
+      "twitter_username": "jorgelbg"
+    },
+    "tags": [
+      "go",
+      "performance"
+    ]
+  },
+  {
     "short_id": "lyndsl",
     "short_id_url": "https://lobste.rs/s/lyndsl",
     "created_at": "2021-08-01T17:46:19.000-05:00",
     "title": "How to write really slow Rust code",
     "url": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code.html",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +44,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81043,
+      "karma": 81047,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -103,7 +131,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11575,
+      "karma": 11577,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -145,7 +173,7 @@
     "url": "https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/",
     "score": 9,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/dxbwyb/why_it_s_okay_for_web_components_use",
     "submitter_user": {
@@ -200,8 +228,8 @@
     "title": "Amazon hit with record $885 million fine for violating EU privacy rules",
     "url": "https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html",
     "score": 15,
-    "flags": 3,
-    "comment_count": 9,
+    "flags": 5,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/yq8om9/amazon_hit_with_record_885_million_fine",
     "submitter_user": {
@@ -253,7 +281,7 @@
     "created_at": "2021-08-01T06:48:40.000-05:00",
     "title": "On C++ and Object Oriented Programming",
     "url": "https://www.gamasutra.com/blogs/MarcCosta/20190401/339769/On_C_and_Object_Oriented_Programming.php",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -264,7 +292,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2269,
+      "karma": 2271,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -307,7 +335,7 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 36,
+    "score": 38,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -318,7 +346,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11575,
+      "karma": 11577,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -332,9 +360,9 @@
     "created_at": "2021-08-01T03:58:19.000-05:00",
     "title": "Announcing Axum",
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
-    "score": 15,
+    "score": 16,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/rfh70t/announcing_axum",
     "submitter_user": {
@@ -343,7 +371,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 430,
+      "karma": 431,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -445,7 +473,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81043,
+      "karma": 81047,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -523,7 +551,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5708,
+      "karma": 5709,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -554,7 +582,7 @@
       "is_admin": false,
       "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
       "is_moderator": false,
-      "karma": 727,
+      "karma": 728,
       "avatar_url": "/avatars/jitl-100.png",
       "invited_by_user": "lettuce"
     },
@@ -635,7 +663,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81043,
+      "karma": 81047,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -644,32 +672,6 @@
       "crypto",
       "pdf",
       "security"
-    ]
-  },
-  {
-    "short_id": "872ohv",
-    "short_id_url": "https://lobste.rs/s/872ohv",
-    "created_at": "2021-07-31T08:43:29.000-05:00",
-    "title": "6 Years of Professional Clojure",
-    "url": "https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983",
-    "score": 19,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/872ohv/6_years_professional_clojure",
-    "submitter_user": {
-      "username": "Yogthos",
-      "created_at": "2017-05-26T15:31:12.000-05:00",
-      "is_admin": false,
-      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
-      "is_moderator": false,
-      "karma": 7017,
-      "avatar_url": "/avatars/Yogthos-100.png",
-      "invited_by_user": "gered"
-    },
-    "tags": [
-      "clojure",
-      "programming"
     ]
   }
 ]
