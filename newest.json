@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "rftu8d",
+    "short_id_url": "https://lobste.rs/s/rftu8d",
+    "created_at": "2021-08-02T03:01:08.000-05:00",
+    "title": "Random Sampling of Strings from Context-Free Grammar",
+    "url": "https://rahul.gopinath.org/post/2021/07/27/random-sampling-from-context-free-grammar/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rftu8d/random_sampling_strings_from_context",
+    "submitter_user": {
+      "username": "vrthra",
+      "created_at": "2016-05-03T17:32:26.000-05:00",
+      "is_admin": false,
+      "about": "Incoming lecturer (equivalent to an assistant prof. in the U.S.) at the University of Sydney\r\n\r\nhttp://rahul.gopinath.org\r\n\r\nTwitter: [@_rahulgopinath](https://twitter.com/_rahulgopinath)\r\n\r\n(I usually only browse lobste.rs and other social media on weekends. Hence I may not respond immediately to replies.)",
+      "is_moderator": false,
+      "karma": 1059,
+      "avatar_url": "/avatars/vrthra-100.png",
+      "invited_by_user": "derek-jones",
+      "twitter_username": "_rahulgopinath"
+    },
+    "tags": [
+      "programming",
+      "python"
+    ]
+  },
+  {
     "short_id": "y695nk",
     "short_id_url": "https://lobste.rs/s/y695nk",
     "created_at": "2021-08-02T00:16:41.000-05:00",
@@ -33,7 +60,7 @@
     "url": "https://matthewdavidrodgers.com/posts/typescript-can-be-your-friend/",
     "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ocesmf/typescript_can_be_your_friend_if_you_let_it",
     "submitter_user": {
@@ -42,7 +69,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1653,
+      "karma": 1654,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -56,9 +83,9 @@
     "created_at": "2021-08-01T21:11:12.000-05:00",
     "title": "Why are there no PUT and DELETE methods on HTML forms?",
     "url": "https://softwareengineering.stackexchange.com/questions/114156/why-are-there-no-put-and-delete-methods-on-html-forms",
-    "score": 11,
+    "score": 18,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/an3e64/why_are_there_no_put_delete_methods_on_html",
     "submitter_user": {
@@ -67,7 +94,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 19840,
+      "karma": 19847,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -84,7 +111,7 @@
     "created_at": "2021-08-01T19:21:28.000-05:00",
     "title": "Vitess | A new Protocol Buffers generator for Go",
     "url": "https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +122,7 @@
       "is_admin": false,
       "about": "Software Engineer. Performance, observability & search. Apache #Nutch PMC, @TheASF member. #Solr/#Elasticsearch fan. #DevOps.",
       "is_moderator": false,
-      "karma": 92,
+      "karma": 93,
       "avatar_url": "/avatars/jorgelbg-100.png",
       "invited_by_user": "al3x",
       "github_username": "jorgelbg",
@@ -123,7 +150,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81059,
+      "karma": 81063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -170,7 +197,7 @@
     "url": "https://labs.sentinelone.com/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/",
     "score": 1,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/qflsso/mysterious_wiper_paralyzes_iranian",
     "submitter_user": {
@@ -199,7 +226,7 @@
     "created_at": "2021-08-01T14:45:45.000-05:00",
     "title": "How to make a simple entity-component-system in C++",
     "url": "https://www.david-colson.com/2020/02/09/making-a-simple-ecs.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -210,7 +237,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11586,
+      "karma": 11590,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -236,7 +263,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 48,
+      "karma": 49,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -250,7 +277,7 @@
     "created_at": "2021-08-01T12:57:53.000-05:00",
     "title": "Why it’s okay for web components to use frameworks",
     "url": "https://nolanlawson.com/2021/08/01/why-its-okay-for-web-components-to-use-frameworks/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -261,7 +288,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 441,
+      "karma": 443,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -276,9 +303,9 @@
     "created_at": "2021-08-01T12:10:24.000-05:00",
     "title": "What is .NET MAUI?",
     "url": "https://docs.microsoft.com/en-us/dotnet/maui/what-is-maui",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/zfinu7/what_is_net_maui",
     "submitter_user": {
@@ -287,7 +314,7 @@
       "is_admin": false,
       "about": "Consultant:   Enterprise Architecture, Data Governance, IAM, Distributed Backends dev, Android dev, SPA.",
       "is_moderator": false,
-      "karma": 602,
+      "karma": 603,
       "avatar_url": "/avatars/vladislavp-100.png",
       "invited_by_user": "wink"
     },
@@ -306,9 +333,9 @@
     "created_at": "2021-08-01T11:41:41.000-05:00",
     "title": "Amazon hit with record $885 million fine for violating EU privacy rules",
     "url": "https://www.techspot.com/news/90613-amazon-hit-record-885-million-fine-violating-eu.html",
-    "score": 10,
-    "flags": 12,
-    "comment_count": 20,
+    "score": 12,
+    "flags": 13,
+    "comment_count": 21,
     "description": "",
     "comments_url": "https://lobste.rs/s/yq8om9/amazon_hit_with_record_885_million_fine",
     "submitter_user": {
@@ -317,7 +344,7 @@
       "is_admin": false,
       "about": "Full stack developer with a bachelor's degree in computer security.",
       "is_moderator": false,
-      "karma": 8,
+      "karma": 10,
       "avatar_url": "/avatars/timharek-100.png",
       "invited_by_user": "Foxboron",
       "github_username": "timharek"
@@ -414,7 +441,7 @@
     "created_at": "2021-08-01T04:07:55.000-05:00",
     "title": "New in Git: switch and restore",
     "url": "https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/",
-    "score": 44,
+    "score": 47,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -425,7 +452,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11586,
+      "karma": 11590,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -439,7 +466,7 @@
     "created_at": "2021-08-01T03:58:19.000-05:00",
     "title": "Announcing Axum",
     "url": "https://tokio.rs/blog/2021-07-announcing-axum",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -450,7 +477,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 432,
+      "karma": 433,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -528,7 +555,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35730,
+      "karma": 35731,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -542,7 +569,7 @@
     "created_at": "2021-07-31T20:40:32.000-05:00",
     "title": "Learning that you can use unions in C for grouping things into namespaces",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -553,7 +580,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81059,
+      "karma": 81063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -568,7 +595,7 @@
     "created_at": "2021-07-31T16:54:15.000-05:00",
     "title": "Sorbet Compiler: An experimental, ahead-of-time compiler for Ruby",
     "url": "https://sorbet.org/blog/2021/07/30/open-sourcing-sorbet-compiler",
-    "score": 22,
+    "score": 23,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -579,7 +606,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1653,
+      "karma": 1654,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -620,7 +647,7 @@
     "created_at": "2021-07-31T14:51:38.000-05:00",
     "title": "Making Client Certificates Available By Default in Firefox 90",
     "url": "https://blog.mozilla.org/security/2021/07/28/making-client-certificates-available-by-default-in-firefox-90/",
-    "score": 11,
+    "score": 13,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -631,7 +658,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5712,
+      "karma": 5718,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -643,33 +670,6 @@
     },
     "tags": [
       "browsers"
-    ]
-  },
-  {
-    "short_id": "utfqs6",
-    "short_id_url": "https://lobste.rs/s/utfqs6",
-    "created_at": "2021-07-31T14:07:18.000-05:00",
-    "title": "Chronofold: a data structure for versioned text",
-    "url": "https://arxiv.org/abs/2002.09511",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/utfqs6/chronofold_data_structure_for_versioned",
-    "submitter_user": {
-      "username": "jitl",
-      "created_at": "2018-06-04T23:41:59.000-05:00",
-      "is_admin": false,
-      "about": "I think programming is fun. \r\n\r\nhttps://jake.tl",
-      "is_moderator": false,
-      "karma": 728,
-      "avatar_url": "/avatars/jitl-100.png",
-      "invited_by_user": "lettuce"
-    },
-    "tags": [
-      "distributed",
-      "performance",
-      "vcs"
     ]
   }
 ]
