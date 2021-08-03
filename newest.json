@@ -1,5 +1,56 @@
 [
   {
+    "short_id": "m02sq0",
+    "short_id_url": "https://lobste.rs/s/m02sq0",
+    "created_at": "2021-08-02T22:54:02.000-05:00",
+    "title": "C++20 concepts are structural: What, why, and how to change it?",
+    "url": "https://www.foonathan.net/2021/07/concepts-structural-nominal/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/m02sq0/c_20_concepts_are_structural_what_why_how",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11602,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++",
+      "plt"
+    ]
+  },
+  {
+    "short_id": "av62jr",
+    "short_id_url": "https://lobste.rs/s/av62jr",
+    "created_at": "2021-08-02T22:50:23.000-05:00",
+    "title": "Launchpad now runs on Python 3",
+    "url": "https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/av62jr/launchpad_now_runs_on_python_3",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11602,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
     "short_id": "zpw0nz",
     "short_id_url": "https://lobste.rs/s/zpw0nz",
     "created_at": "2021-08-02T19:42:15.000-05:00",
@@ -31,7 +82,7 @@
     "created_at": "2021-08-02T19:03:24.000-05:00",
     "title": "Property-based testing is not the same as partition testing",
     "url": "https://blog.ploeh.dk/2021/06/28/property-based-testing-is-not-the-same-as-partition-testing/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +93,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 19876,
+      "karma": 19879,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -59,7 +110,7 @@
     "created_at": "2021-08-02T17:33:32.000-05:00",
     "title": "vvaltchev/tilck: A Tiny Linux-Compatible Kernel",
     "url": "https://github.com/vvaltchev/tilck",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +121,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81117,
+      "karma": 81119,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -85,7 +136,7 @@
     "created_at": "2021-08-02T16:14:09.000-05:00",
     "title": "GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)",
     "url": "https://gitlab.com/gpsd/gpsd/-/issues/144",
-    "score": 9,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +147,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10466,
+      "karma": 10469,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -149,7 +200,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 143,
+      "karma": 144,
       "avatar_url": "/avatars/zenhack-100.png",
       "invited_by_user": "Corbin"
     },
@@ -217,7 +268,7 @@
     "created_at": "2021-08-02T12:41:21.000-05:00",
     "title": "ClojureScript in the Age of TypeScript",
     "url": "https://www.youtube.com/watch?v=3HxVMGaiZbc",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -228,7 +279,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7025,
+      "karma": 7026,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -270,7 +321,7 @@
     "created_at": "2021-08-02T12:04:56.000-05:00",
     "title": "Empty npm package '-' has over 700,000 downloads",
     "url": "https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -281,7 +332,7 @@
       "is_admin": false,
       "about": "Mastodon: @djsumdog@hitchhiker.social\r\n\r\nWebsite: https://battlepenguin.com",
       "is_moderator": false,
-      "karma": 2275,
+      "karma": 2276,
       "avatar_url": "/avatars/djsumdog-100.png",
       "invited_by_user": "codebam",
       "keybase_signatures": [
@@ -301,9 +352,9 @@
     "created_at": "2021-08-02T11:56:41.000-05:00",
     "title": "Making Reasonable Use of Computer Resources",
     "url": "https://vfoley.xyz/reasonable-use/",
-    "score": 18,
+    "score": 24,
     "flags": 0,
-    "comment_count": 19,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/kpthx3/making_reasonable_use_computer",
     "submitter_user": {
@@ -312,7 +363,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2291,
+      "karma": 2298,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -351,7 +402,7 @@
     "created_at": "2021-08-02T10:13:31.000-05:00",
     "title": "Why OpenDoc failed, and then failed 3 more times?",
     "url": "https://instadeq.com/blog/posts/why-opendoc-failed-and-then-failed-3-more-times/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -362,7 +413,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81117,
+      "karma": 81119,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -377,9 +428,9 @@
     "created_at": "2021-08-02T09:14:11.000-05:00",
     "title": "Exit and voice in open source software",
     "url": "http://catern.com/exitvoice.html",
-    "score": 24,
+    "score": 26,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkpvqc/exit_voice_open_source_software",
     "submitter_user": {
@@ -388,7 +439,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 169,
+      "karma": 171,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -508,7 +559,7 @@
     "created_at": "2021-08-02T08:00:14.000-05:00",
     "title": "Back to Linux",
     "url": "http://metaredux.com/posts/2021/07/31/back-to-linux.html",
-    "score": 11,
+    "score": 13,
     "flags": 0,
     "comment_count": 28,
     "description": "",
@@ -519,7 +570,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 920,
+      "karma": 923,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -592,7 +643,7 @@
     "url": "",
     "score": 11,
     "flags": 0,
-    "comment_count": 19,
+    "comment_count": 20,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/oiokqq/what_are_you_doing_this_week",
     "submitter_user": {
@@ -610,56 +661,6 @@
     "tags": [
       "ask",
       "programming"
-    ]
-  },
-  {
-    "short_id": "fbq5zq",
-    "short_id_url": "https://lobste.rs/s/fbq5zq",
-    "created_at": "2021-08-02T05:54:53.000-05:00",
-    "title": "The Linux Kernel Module Programming Guide",
-    "url": "https://sysprog21.github.io/lkmpg/",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fbq5zq/linux_kernel_module_programming_guide",
-    "submitter_user": {
-      "username": "nixcraft",
-      "created_at": "2017-12-19T07:46:27.000-06:00",
-      "is_admin": false,
-      "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
-      "is_moderator": false,
-      "karma": 364,
-      "avatar_url": "/avatars/nixcraft-100.png",
-      "invited_by_user": "kintoandar"
-    },
-    "tags": [
-      "linux"
-    ]
-  },
-  {
-    "short_id": "4l4qfk",
-    "short_id_url": "https://lobste.rs/s/4l4qfk",
-    "created_at": "2021-08-02T04:26:43.000-05:00",
-    "title": "Japan's Fifth Generation Computer Systems: Success or Failure?",
-    "url": "https://instadeq.com/blog/posts/japans-fifth-generation-computer-systems-success-or-failure/",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4l4qfk/japan_s_fifth_generation_computer",
-    "submitter_user": {
-      "username": "marianoguerra",
-      "created_at": "2018-05-08T06:19:58.000-05:00",
-      "is_admin": false,
-      "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
-      "is_moderator": false,
-      "karma": 169,
-      "avatar_url": "/avatars/marianoguerra-100.png",
-      "invited_by_user": "unbalancedparentheses"
-    },
-    "tags": [
-      "historical"
     ]
   }
 ]
