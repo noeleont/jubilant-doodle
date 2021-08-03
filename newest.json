@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "j18lvd",
+    "short_id_url": "https://lobste.rs/s/j18lvd",
+    "created_at": "2021-08-03T01:52:57.000-05:00",
+    "title": "Heptagon of Configuration (Software Engineering)",
+    "url": "https://matt-rickard.com/heptagon-of-configuration/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/j18lvd/heptagon_configuration_software",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11609,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
+    "short_id": "rfwg6g",
+    "short_id_url": "https://lobste.rs/s/rfwg6g",
+    "created_at": "2021-08-03T01:43:33.000-05:00",
+    "title": "EKS on speed",
+    "url": "https://blog.3sky.dev/article/eks-with-speed/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rfwg6g/eks_on_speed",
+    "submitter_user": {
+      "username": "tuhaj",
+      "created_at": "2020-06-18T18:14:48.000-05:00",
+      "is_admin": false,
+      "about": "CEO at Xfaang, WarsawJS Community Leader",
+      "is_moderator": false,
+      "karma": 143,
+      "avatar_url": "/avatars/tuhaj-100.png",
+      "invited_by_user": "andrzejkrzywda",
+      "github_username": "Tuhaj",
+      "twitter_username": "Piotr_Zientara"
+    },
+    "tags": [
+      "devops",
+      "scaling"
+    ]
+  },
+  {
     "short_id": "m02sq0",
     "short_id_url": "https://lobste.rs/s/m02sq0",
     "created_at": "2021-08-02T22:54:02.000-05:00",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11606,
+      "karma": 11609,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -31,7 +84,7 @@
     "created_at": "2021-08-02T22:50:23.000-05:00",
     "title": "Launchpad now runs on Python 3",
     "url": "https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html",
-    "score": 2,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +95,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11606,
+      "karma": 11609,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -56,7 +109,7 @@
     "created_at": "2021-08-02T19:42:15.000-05:00",
     "title": "PRECIS, the next step in Unicode validation",
     "url": "https://krvtz.net/posts/precis-the-next-step-in-unicode-validation.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -67,7 +120,7 @@
       "is_admin": false,
       "about": "I’m a data engineer and engineering management consultant. ",
       "is_moderator": false,
-      "karma": 980,
+      "karma": 981,
       "avatar_url": "/avatars/Student-100.png",
       "invited_by_user": "alynpost"
     },
@@ -136,7 +189,7 @@
     "created_at": "2021-08-02T16:14:09.000-05:00",
     "title": "GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)",
     "url": "https://gitlab.com/gpsd/gpsd/-/issues/144",
-    "score": 16,
+    "score": 19,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -147,7 +200,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10473,
+      "karma": 10476,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -241,7 +294,7 @@
     "created_at": "2021-08-02T12:47:29.000-05:00",
     "title": "WireGuardNT, a high-performance WireGuard implementation for the Windows kernel",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html",
-    "score": 26,
+    "score": 27,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -252,7 +305,7 @@
       "is_admin": false,
       "about": "**Jason A. Donenfeld** -- *jason@zx2c4.com*\r\n\r\nSecurity researcher and programmer, also known as zx2c4 -- [zx2c4.com](https://www.zx2c4.com/). Founder of [EdgeSecurity](https://www.edgesecurity.com/). Gentoo developer. Creator of [WireGuard](https://www.wireguard.com/), [`pass`](https://www.passwordstore.org/), and many other things; maintainer of [cgit](https://git.zx2c4.com/cgit/about/).",
       "is_moderator": false,
-      "karma": 745,
+      "karma": 746,
       "avatar_url": "/avatars/zx2c4-100.png",
       "invited_by_user": "bsima"
     },
@@ -268,7 +321,7 @@
     "created_at": "2021-08-02T12:41:21.000-05:00",
     "title": "ClojureScript in the Age of TypeScript",
     "url": "https://www.youtube.com/watch?v=3HxVMGaiZbc",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -279,7 +332,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7026,
+      "karma": 7027,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -377,7 +430,7 @@
     "created_at": "2021-08-02T11:03:11.000-05:00",
     "title": "your database connection deserves a name",
     "url": "https://andygrunwald.com/blog/your-database-connection-deserves-a-name/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -388,7 +441,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 64,
+      "karma": 65,
       "avatar_url": "/avatars/mre-100.png",
       "invited_by_user": "jorgelbg"
     },
@@ -518,7 +571,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1856,
+      "karma": 1857,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -533,7 +586,7 @@
     "created_at": "2021-08-02T08:29:24.000-05:00",
     "title": "Man Builds Huge 'Ultra Large Format' Camera With a 600mm f/9 Lens",
     "url": "https://petapixel.com/2021/06/29/man-builds-huge-ultra-large-format-camera-with-a-600mm-f-9-lens/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -544,7 +597,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1856,
+      "karma": 1857,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -561,7 +614,7 @@
     "url": "http://metaredux.com/posts/2021/07/31/back-to-linux.html",
     "score": 14,
     "flags": 0,
-    "comment_count": 33,
+    "comment_count": 35,
     "description": "",
     "comments_url": "https://lobste.rs/s/a5gkkw/back_linux",
     "submitter_user": {
@@ -607,60 +660,6 @@
       "pdf",
       "programming",
       "unix"
-    ]
-  },
-  {
-    "short_id": "s3z7y4",
-    "short_id_url": "https://lobste.rs/s/s3z7y4",
-    "created_at": "2021-08-02T07:29:43.000-05:00",
-    "title": "Hotwire Turbo Replacing Rails UJS",
-    "url": "https://www.driftingruby.com/episodes/hotwire-turbo-replacing-rails-ujs",
-    "score": -1,
-    "flags": 2,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/s3z7y4/hotwire_turbo_replacing_rails_ujs",
-    "submitter_user": {
-      "username": "kobaltz",
-      "created_at": "2017-07-13T09:16:00.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 88,
-      "avatar_url": "/avatars/kobaltz-100.png",
-      "invited_by_user": "james"
-    },
-    "tags": [
-      "ruby",
-      "video"
-    ]
-  },
-  {
-    "short_id": "oiokqq",
-    "short_id_url": "https://lobste.rs/s/oiokqq",
-    "created_at": "2021-08-02T06:02:31.000-05:00",
-    "title": "What are you doing this week?",
-    "url": "",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 20,
-    "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
-    "comments_url": "https://lobste.rs/s/oiokqq/what_are_you_doing_this_week",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6390,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "ask",
-      "programming"
     ]
   }
 ]
