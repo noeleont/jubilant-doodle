@@ -1,11 +1,65 @@
 [
   {
+    "short_id": "zpw0nz",
+    "short_id_url": "https://lobste.rs/s/zpw0nz",
+    "created_at": "2021-08-02T19:42:15.000-05:00",
+    "title": "PRECIS, the next step in Unicode validation",
+    "url": "https://krvtz.net/posts/precis-the-next-step-in-unicode-validation.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zpw0nz/precis_next_step_unicode_validation",
+    "submitter_user": {
+      "username": "Student",
+      "created_at": "2018-06-14T20:43:25.000-05:00",
+      "is_admin": false,
+      "about": "I’m a data engineer and engineering management consultant. ",
+      "is_moderator": false,
+      "karma": 979,
+      "avatar_url": "/avatars/Student-100.png",
+      "invited_by_user": "alynpost"
+    },
+    "tags": [
+      "a11y",
+      "security"
+    ]
+  },
+  {
+    "short_id": "u89lmb",
+    "short_id_url": "https://lobste.rs/s/u89lmb",
+    "created_at": "2021-08-02T19:03:24.000-05:00",
+    "title": "Property-based testing is not the same as partition testing",
+    "url": "https://blog.ploeh.dk/2021/06/28/property-based-testing-is-not-the-same-as-partition-testing/",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/u89lmb/property_based_testing_is_not_same_as",
+    "submitter_user": {
+      "username": "hwayne",
+      "created_at": "2016-12-01T13:09:45.000-06:00",
+      "is_admin": false,
+      "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
+      "is_moderator": false,
+      "karma": 19874,
+      "avatar_url": "/avatars/hwayne-100.png",
+      "invited_by_user": "flyingfisch",
+      "github_username": "hwayne",
+      "twitter_username": "Hillelogram"
+    },
+    "tags": [
+      "dotnet",
+      "testing"
+    ]
+  },
+  {
     "short_id": "s3lemv",
     "short_id_url": "https://lobste.rs/s/s3lemv",
     "created_at": "2021-08-02T17:33:32.000-05:00",
     "title": "vvaltchev/tilck: A Tiny Linux-Compatible Kernel",
     "url": "https://github.com/vvaltchev/tilck",
-    "score": 4,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +70,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81105,
+      "karma": 81110,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -31,7 +85,7 @@
     "created_at": "2021-08-02T16:14:09.000-05:00",
     "title": "GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)",
     "url": "https://gitlab.com/gpsd/gpsd/-/issues/144",
-    "score": 3,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +96,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10460,
+      "karma": 10464,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -84,7 +138,7 @@
     "created_at": "2021-08-02T14:39:45.000-05:00",
     "title": "The Myth of RAM (2014)",
     "url": "http://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +149,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 139,
+      "karma": 141,
       "avatar_url": "/avatars/zenhack-100.png",
       "invited_by_user": "Corbin"
     },
@@ -136,7 +190,7 @@
     "created_at": "2021-08-02T12:47:29.000-05:00",
     "title": "WireGuardNT, a high-performance WireGuard implementation for the Windows kernel",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -147,7 +201,7 @@
       "is_admin": false,
       "about": "**Jason A. Donenfeld** -- *jason@zx2c4.com*\r\n\r\nSecurity researcher and programmer, also known as zx2c4 -- [zx2c4.com](https://www.zx2c4.com/). Founder of [EdgeSecurity](https://www.edgesecurity.com/). Gentoo developer. Creator of [WireGuard](https://www.wireguard.com/), [`pass`](https://www.passwordstore.org/), and many other things; maintainer of [cgit](https://git.zx2c4.com/cgit/about/).",
       "is_moderator": false,
-      "karma": 736,
+      "karma": 738,
       "avatar_url": "/avatars/zx2c4-100.png",
       "invited_by_user": "bsima"
     },
@@ -163,7 +217,7 @@
     "created_at": "2021-08-02T12:41:21.000-05:00",
     "title": "ClojureScript in the Age of TypeScript",
     "url": "https://www.youtube.com/watch?v=3HxVMGaiZbc",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -174,7 +228,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7024,
+      "karma": 7025,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -216,9 +270,9 @@
     "created_at": "2021-08-02T12:04:56.000-05:00",
     "title": "Empty npm package '-' has over 700,000 downloads",
     "url": "https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/wtrqom/empty_npm_package_has_over_700_000",
     "submitter_user": {
@@ -227,7 +281,7 @@
       "is_admin": false,
       "about": "Mastodon: @djsumdog@hitchhiker.social\r\n\r\nWebsite: https://battlepenguin.com",
       "is_moderator": false,
-      "karma": 2273,
+      "karma": 2274,
       "avatar_url": "/avatars/djsumdog-100.png",
       "invited_by_user": "codebam",
       "keybase_signatures": [
@@ -247,9 +301,9 @@
     "created_at": "2021-08-02T11:56:41.000-05:00",
     "title": "Making Reasonable Use of Computer Resources",
     "url": "https://vfoley.xyz/reasonable-use/",
-    "score": 12,
+    "score": 15,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/kpthx3/making_reasonable_use_computer",
     "submitter_user": {
@@ -258,7 +312,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2283,
+      "karma": 2286,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -272,7 +326,7 @@
     "created_at": "2021-08-02T11:03:11.000-05:00",
     "title": "your database connection deserves a name",
     "url": "https://andygrunwald.com/blog/your-database-connection-deserves-a-name/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -283,7 +337,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 58,
+      "karma": 59,
       "avatar_url": "/avatars/mre-100.png",
       "invited_by_user": "jorgelbg"
     },
@@ -297,7 +351,7 @@
     "created_at": "2021-08-02T10:13:31.000-05:00",
     "title": "Why OpenDoc failed, and then failed 3 more times?",
     "url": "https://instadeq.com/blog/posts/why-opendoc-failed-and-then-failed-3-more-times/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -308,7 +362,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81105,
+      "karma": 81110,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -350,7 +404,7 @@
     "created_at": "2021-08-02T09:07:20.000-05:00",
     "title": "Virgo: a Graph-based Configuration Language",
     "url": "https://matt-rickard.com/virgo-lang/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -361,7 +415,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 79,
+      "karma": 82,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -536,9 +590,9 @@
     "created_at": "2021-08-02T06:02:31.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 18,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/oiokqq/what_are_you_doing_this_week",
     "submitter_user": {
@@ -547,7 +601,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6389,
+      "karma": 6390,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -606,59 +660,6 @@
     },
     "tags": [
       "historical"
-    ]
-  },
-  {
-    "short_id": "rftu8d",
-    "short_id_url": "https://lobste.rs/s/rftu8d",
-    "created_at": "2021-08-02T03:01:08.000-05:00",
-    "title": "Random Sampling of Strings from Context-Free Grammar",
-    "url": "https://rahul.gopinath.org/post/2021/07/27/random-sampling-from-context-free-grammar/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rftu8d/random_sampling_strings_from_context",
-    "submitter_user": {
-      "username": "vrthra",
-      "created_at": "2016-05-03T17:32:26.000-05:00",
-      "is_admin": false,
-      "about": "Incoming lecturer (equivalent to an assistant prof. in the U.S.) at the University of Sydney\r\n\r\nhttp://rahul.gopinath.org\r\n\r\nTwitter: [@_rahulgopinath](https://twitter.com/_rahulgopinath)\r\n\r\n(I usually only browse lobste.rs and other social media on weekends. Hence I may not respond immediately to replies.)",
-      "is_moderator": false,
-      "karma": 1063,
-      "avatar_url": "/avatars/vrthra-100.png",
-      "invited_by_user": "derek-jones",
-      "twitter_username": "_rahulgopinath"
-    },
-    "tags": [
-      "programming",
-      "python"
-    ]
-  },
-  {
-    "short_id": "y695nk",
-    "short_id_url": "https://lobste.rs/s/y695nk",
-    "created_at": "2021-08-02T00:16:41.000-05:00",
-    "title": "Thinking about “traceability”",
-    "url": "https://blog.cryptographyengineering.com/2021/08/01/thinking-about-traceability/",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/y695nk/thinking_about_traceability",
-    "submitter_user": {
-      "username": "sjamaan",
-      "created_at": "2018-08-30T05:08:17.000-05:00",
-      "is_admin": false,
-      "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
-      "is_moderator": false,
-      "karma": 2733,
-      "avatar_url": "/avatars/sjamaan-100.png",
-      "invited_by_user": "evhan"
-    },
-    "tags": [
-      "privacy",
-      "security"
     ]
   }
 ]
