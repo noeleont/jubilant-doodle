@@ -1,5 +1,60 @@
 [
   {
+    "short_id": "exhanm",
+    "short_id_url": "https://lobste.rs/s/exhanm",
+    "created_at": "2021-08-03T08:09:39.000-05:00",
+    "title": "A Functional Programming Language with Versions",
+    "url": "https://arxiv.org/pdf/2107.07301.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p><a href=\"https://arxiv.org/abs/2107.07301\" rel=\"ugc\">arXiv</a></p>\n",
+    "comments_url": "https://lobste.rs/s/exhanm/functional_programming_language_with",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81141,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "pdf",
+      "plt"
+    ]
+  },
+  {
+    "short_id": "7cu3rl",
+    "short_id_url": "https://lobste.rs/s/7cu3rl",
+    "created_at": "2021-08-03T07:58:26.000-05:00",
+    "title": "Full-Time Open Source",
+    "url": "https://corecursive.com/067-zig-with-andrew-kelley/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/7cu3rl/full_time_open_source",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81141,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "person",
+      "practices",
+      "zig"
+    ]
+  },
+  {
     "short_id": "thwuyo",
     "short_id_url": "https://lobste.rs/s/thwuyo",
     "created_at": "2021-08-03T06:29:56.000-05:00",
@@ -30,7 +85,7 @@
     "created_at": "2021-08-03T06:25:48.000-05:00",
     "title": "Leap seconds: Causing Bugs Even When They Don't Happen",
     "url": "https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +96,7 @@
       "is_admin": false,
       "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
       "is_moderator": false,
-      "karma": 4368,
+      "karma": 4369,
       "avatar_url": "/avatars/j11g-100.png",
       "invited_by_user": "mischa",
       "twitter_username": "loginn"
@@ -82,9 +137,9 @@
     "created_at": "2021-08-03T02:35:31.000-05:00",
     "title": "InitWare (a systemd fork) runs on OpenBSD for the first time",
     "url": "https://imgur.com/a/nqg9Go9",
-    "score": 18,
+    "score": 22,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 15,
     "description": "<p>See <a href=\"https://github.com/InitWare/InitWare\" rel=\"ugc\">https://github.com/InitWare/InitWare</a> for further details.</p>\n",
     "comments_url": "https://lobste.rs/s/jx3cr6/initware_systemd_fork_runs_on_openbsd_for",
     "submitter_user": {
@@ -93,7 +148,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 748,
+      "karma": 752,
       "avatar_url": "/avatars/luiz-100.png",
       "invited_by_user": "FRIGN",
       "github_username": "kori"
@@ -213,7 +268,7 @@
     "created_at": "2021-08-02T19:42:15.000-05:00",
     "title": "PRECIS, the next step in Unicode validation",
     "url": "https://krvtz.net/posts/precis-the-next-step-in-unicode-validation.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -224,7 +279,7 @@
       "is_admin": false,
       "about": "I’m a data engineer and engineering management consultant. ",
       "is_moderator": false,
-      "karma": 983,
+      "karma": 984,
       "avatar_url": "/avatars/Student-100.png",
       "invited_by_user": "alynpost"
     },
@@ -239,7 +294,7 @@
     "created_at": "2021-08-02T19:03:24.000-05:00",
     "title": "Property-based testing is not the same as partition testing",
     "url": "https://blog.ploeh.dk/2021/06/28/property-based-testing-is-not-the-same-as-partition-testing/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -250,7 +305,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 19889,
+      "karma": 19891,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -267,7 +322,7 @@
     "created_at": "2021-08-02T17:33:32.000-05:00",
     "title": "vvaltchev/tilck: A Tiny Linux-Compatible Kernel",
     "url": "https://github.com/vvaltchev/tilck",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -278,7 +333,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81137,
+      "karma": 81141,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -293,9 +348,9 @@
     "created_at": "2021-08-02T16:14:09.000-05:00",
     "title": "GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)",
     "url": "https://gitlab.com/gpsd/gpsd/-/issues/144",
-    "score": 24,
+    "score": 27,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/tdalbi/gpsd_time_will_jump_back_1024_weeks_at",
     "submitter_user": {
@@ -304,7 +359,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10487,
+      "karma": 10491,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -357,7 +412,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 153,
+      "karma": 154,
       "avatar_url": "/avatars/zenhack-100.png",
       "invited_by_user": "Corbin"
     },
@@ -478,7 +533,7 @@
     "created_at": "2021-08-02T12:04:56.000-05:00",
     "title": "Empty npm package '-' has over 700,000 downloads",
     "url": "https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/",
-    "score": 20,
+    "score": 23,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -489,7 +544,7 @@
       "is_admin": false,
       "about": "Mastodon: @djsumdog@hitchhiker.social\r\n\r\nWebsite: https://battlepenguin.com",
       "is_moderator": false,
-      "karma": 2281,
+      "karma": 2284,
       "avatar_url": "/avatars/djsumdog-100.png",
       "invited_by_user": "codebam",
       "keybase_signatures": [
@@ -520,7 +575,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2320,
+      "karma": 2321,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -534,7 +589,7 @@
     "created_at": "2021-08-02T11:03:11.000-05:00",
     "title": "your database connection deserves a name",
     "url": "https://andygrunwald.com/blog/your-database-connection-deserves-a-name/",
-    "score": 18,
+    "score": 20,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -545,7 +600,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 68,
+      "karma": 70,
       "avatar_url": "/avatars/mre-100.png",
       "invited_by_user": "jorgelbg"
     },
@@ -570,7 +625,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81137,
+      "karma": 81141,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -604,58 +659,6 @@
     },
     "tags": [
       "practices"
-    ]
-  },
-  {
-    "short_id": "2dzhcr",
-    "short_id_url": "https://lobste.rs/s/2dzhcr",
-    "created_at": "2021-08-02T09:07:20.000-05:00",
-    "title": "Virgo: a Graph-based Configuration Language",
-    "url": "https://matt-rickard.com/virgo-lang/",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/2dzhcr/virgo_graph_based_configuration",
-    "submitter_user": {
-      "username": "mattr",
-      "created_at": "2016-12-09T13:54:15.000-06:00",
-      "is_admin": false,
-      "about": "Past: Kubernetes at Google",
-      "is_moderator": false,
-      "karma": 83,
-      "avatar_url": "/avatars/mattr-100.png",
-      "invited_by_user": "lm",
-      "twitter_username": "mattrickard"
-    },
-    "tags": [
-      "devops",
-      "go"
-    ]
-  },
-  {
-    "short_id": "hjpzuo",
-    "short_id_url": "https://lobste.rs/s/hjpzuo",
-    "created_at": "2021-08-02T09:03:03.000-05:00",
-    "title": "MLOps Capabilities, Outcomes and Opportunities for Enterprise AI",
-    "url": "https://aiexplorations.in/2021/08/01/mlops-capabilities-outcomes-and-opportunities-for-enterprise-ai/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hjpzuo/mlops_capabilities_outcomes",
-    "submitter_user": {
-      "username": "seasidedrum",
-      "created_at": "2021-03-22T08:40:49.000-05:00",
-      "is_admin": false,
-      "about": "Interested in low-level systems, performance optimization, compilers and maths.",
-      "is_moderator": false,
-      "karma": 310,
-      "avatar_url": "/avatars/seasidedrum-100.png",
-      "invited_by_user": "arun"
-    },
-    "tags": [
-      "ai"
     ]
   }
 ]
