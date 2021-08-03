@@ -1,5 +1,56 @@
 [
   {
+    "short_id": "thwuyo",
+    "short_id_url": "https://lobste.rs/s/thwuyo",
+    "created_at": "2021-08-03T06:29:56.000-05:00",
+    "title": "The Ultimate Guide to Software Project Estimation",
+    "url": "https://www.scalablepath.com/blog/software-project-estimation/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/thwuyo/ultimate_guide_software_project",
+    "submitter_user": {
+      "username": "thev",
+      "created_at": "2019-03-15T05:18:52.000-05:00",
+      "is_admin": false,
+      "about": "https://showsync.com\r\nhttp://arttech.nl",
+      "is_moderator": false,
+      "karma": 381,
+      "avatar_url": "/avatars/thev-100.png",
+      "invited_by_user": "gerikson"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
+    "short_id": "zwkpzf",
+    "short_id_url": "https://lobste.rs/s/zwkpzf",
+    "created_at": "2021-08-03T06:25:48.000-05:00",
+    "title": "Leap seconds: Causing Bugs Even When They Don't Happen",
+    "url": "https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zwkpzf/leap_seconds_causing_bugs_even_when_they",
+    "submitter_user": {
+      "username": "j11g",
+      "created_at": "2017-07-17T09:39:28.000-05:00",
+      "is_admin": false,
+      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
+      "is_moderator": false,
+      "karma": 4368,
+      "avatar_url": "/avatars/j11g-100.png",
+      "invited_by_user": "mischa",
+      "twitter_username": "loginn"
+    },
+    "tags": [
+      "debugging"
+    ]
+  },
+  {
     "short_id": "giq3v1",
     "short_id_url": "https://lobste.rs/s/giq3v1",
     "created_at": "2021-08-03T06:05:31.000-05:00",
@@ -31,9 +82,9 @@
     "created_at": "2021-08-03T02:35:31.000-05:00",
     "title": "InitWare (a systemd fork) runs on OpenBSD for the first time",
     "url": "https://imgur.com/a/nqg9Go9",
-    "score": 11,
+    "score": 18,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 12,
     "description": "<p>See <a href=\"https://github.com/InitWare/InitWare\" rel=\"ugc\">https://github.com/InitWare/InitWare</a> for further details.</p>\n",
     "comments_url": "https://lobste.rs/s/jx3cr6/initware_systemd_fork_runs_on_openbsd_for",
     "submitter_user": {
@@ -42,7 +93,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 741,
+      "karma": 748,
       "avatar_url": "/avatars/luiz-100.png",
       "invited_by_user": "FRIGN",
       "github_username": "kori"
@@ -58,9 +109,9 @@
     "created_at": "2021-08-03T01:52:57.000-05:00",
     "title": "Heptagon of Configuration (Software Engineering)",
     "url": "https://matt-rickard.com/heptagon-of-configuration/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/j18lvd/heptagon_configuration_software",
     "submitter_user": {
@@ -69,7 +120,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11612,
+      "karma": 11613,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -122,7 +173,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11612,
+      "karma": 11613,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -148,7 +199,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11612,
+      "karma": 11613,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -188,7 +239,7 @@
     "created_at": "2021-08-02T19:03:24.000-05:00",
     "title": "Property-based testing is not the same as partition testing",
     "url": "https://blog.ploeh.dk/2021/06/28/property-based-testing-is-not-the-same-as-partition-testing/",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -199,7 +250,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 19885,
+      "karma": 19889,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -216,7 +267,7 @@
     "created_at": "2021-08-02T17:33:32.000-05:00",
     "title": "vvaltchev/tilck: A Tiny Linux-Compatible Kernel",
     "url": "https://github.com/vvaltchev/tilck",
-    "score": 18,
+    "score": 23,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -227,7 +278,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81132,
+      "karma": 81137,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -242,7 +293,7 @@
     "created_at": "2021-08-02T16:14:09.000-05:00",
     "title": "GPSD time will jump back 1024 weeks at after week=2180 (23-October-2021)",
     "url": "https://gitlab.com/gpsd/gpsd/-/issues/144",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -253,7 +304,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10483,
+      "karma": 10487,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -295,9 +346,9 @@
     "created_at": "2021-08-02T14:39:45.000-05:00",
     "title": "The Myth of RAM (2014)",
     "url": "http://www.ilikebigbits.com/2014_04_21_myth_of_ram_1.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/8bavjs/myth_ram_2014",
     "submitter_user": {
@@ -306,7 +357,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 150,
+      "karma": 153,
       "avatar_url": "/avatars/zenhack-100.png",
       "invited_by_user": "Corbin"
     },
@@ -347,9 +398,9 @@
     "created_at": "2021-08-02T12:47:29.000-05:00",
     "title": "WireGuardNT, a high-performance WireGuard implementation for the Windows kernel",
     "url": "https://lists.zx2c4.com/pipermail/wireguard/2021-August/006887.html",
-    "score": 34,
+    "score": 36,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ar77na/wireguardnt_high_performance_wireguard",
     "submitter_user": {
@@ -358,7 +409,7 @@
       "is_admin": false,
       "about": "**Jason A. Donenfeld** -- *jason@zx2c4.com*\r\n\r\nSecurity researcher and programmer, also known as zx2c4 -- [zx2c4.com](https://www.zx2c4.com/). Founder of [EdgeSecurity](https://www.edgesecurity.com/). Gentoo developer. Creator of [WireGuard](https://www.wireguard.com/), [`pass`](https://www.passwordstore.org/), and many other things; maintainer of [cgit](https://git.zx2c4.com/cgit/about/).",
       "is_moderator": false,
-      "karma": 753,
+      "karma": 755,
       "avatar_url": "/avatars/zx2c4-100.png",
       "invited_by_user": "bsima"
     },
@@ -374,7 +425,7 @@
     "created_at": "2021-08-02T12:41:21.000-05:00",
     "title": "ClojureScript in the Age of TypeScript",
     "url": "https://www.youtube.com/watch?v=3HxVMGaiZbc",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -385,7 +436,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7029,
+      "karma": 7030,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -427,7 +478,7 @@
     "created_at": "2021-08-02T12:04:56.000-05:00",
     "title": "Empty npm package '-' has over 700,000 downloads",
     "url": "https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -438,7 +489,7 @@
       "is_admin": false,
       "about": "Mastodon: @djsumdog@hitchhiker.social\r\n\r\nWebsite: https://battlepenguin.com",
       "is_moderator": false,
-      "karma": 2280,
+      "karma": 2281,
       "avatar_url": "/avatars/djsumdog-100.png",
       "invited_by_user": "codebam",
       "keybase_signatures": [
@@ -458,9 +509,9 @@
     "created_at": "2021-08-02T11:56:41.000-05:00",
     "title": "Making Reasonable Use of Computer Resources",
     "url": "https://vfoley.xyz/reasonable-use/",
-    "score": 30,
+    "score": 33,
     "flags": 0,
-    "comment_count": 26,
+    "comment_count": 29,
     "description": "",
     "comments_url": "https://lobste.rs/s/kpthx3/making_reasonable_use_computer",
     "submitter_user": {
@@ -469,7 +520,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2313,
+      "karma": 2320,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -519,7 +570,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81132,
+      "karma": 81137,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -534,7 +585,7 @@
     "created_at": "2021-08-02T09:14:11.000-05:00",
     "title": "Exit and voice in open source software",
     "url": "http://catern.com/exitvoice.html",
-    "score": 30,
+    "score": 31,
     "flags": 0,
     "comment_count": 15,
     "description": "",
@@ -545,7 +596,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 175,
+      "karma": 176,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -605,58 +656,6 @@
     },
     "tags": [
       "ai"
-    ]
-  },
-  {
-    "short_id": "kfvrwk",
-    "short_id_url": "https://lobste.rs/s/kfvrwk",
-    "created_at": "2021-08-02T08:30:13.000-05:00",
-    "title": "How does n-key rollover work?",
-    "url": "https://www.youtube.com/watch?v=2lPzTU-3ONI",
-    "score": 18,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/kfvrwk/how_does_n_key_rollover_work",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1861,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "hardware",
-      "video"
-    ]
-  },
-  {
-    "short_id": "dmsxvo",
-    "short_id_url": "https://lobste.rs/s/dmsxvo",
-    "created_at": "2021-08-02T08:29:24.000-05:00",
-    "title": "Man Builds Huge 'Ultra Large Format' Camera With a 600mm f/9 Lens",
-    "url": "https://petapixel.com/2021/06/29/man-builds-huge-ultra-large-format-camera-with-a-600mm-f-9-lens/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dmsxvo/man_builds_huge_ultra_large_format_camera",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1861,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "art",
-      "hardware"
     ]
   }
 ]
