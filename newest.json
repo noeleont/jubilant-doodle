@@ -1,13 +1,39 @@
 [
   {
+    "short_id": "giq3v1",
+    "short_id_url": "https://lobste.rs/s/giq3v1",
+    "created_at": "2021-08-03T06:05:31.000-05:00",
+    "title": "Accurate Throughput Prediction of Basic Blocks on Recent Intel Microarchitectures",
+    "url": "https://arxiv.org/pdf/2107.14210.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/giq3v1/accurate_throughput_prediction_basic",
+    "submitter_user": {
+      "username": "mikejstenberg",
+      "created_at": "2013-11-10T02:38:16.000-06:00",
+      "is_admin": false,
+      "about": "mikejsavage.co.uk",
+      "is_moderator": false,
+      "karma": 2988,
+      "avatar_url": "/avatars/mikejstenberg-100.png",
+      "invited_by_user": "jonl"
+    },
+    "tags": [
+      "pdf",
+      "performance"
+    ]
+  },
+  {
     "short_id": "jx3cr6",
     "short_id_url": "https://lobste.rs/s/jx3cr6",
     "created_at": "2021-08-03T02:35:31.000-05:00",
     "title": "InitWare (a systemd fork) runs on OpenBSD for the first time",
     "url": "https://imgur.com/a/nqg9Go9",
-    "score": 9,
+    "score": 11,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "<p>See <a href=\"https://github.com/InitWare/InitWare\" rel=\"ugc\">https://github.com/InitWare/InitWare</a> for further details.</p>\n",
     "comments_url": "https://lobste.rs/s/jx3cr6/initware_systemd_fork_runs_on_openbsd_for",
     "submitter_user": {
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 739,
+      "karma": 741,
       "avatar_url": "/avatars/luiz-100.png",
       "invited_by_user": "FRIGN",
       "github_username": "kori"
@@ -32,7 +58,7 @@
     "created_at": "2021-08-03T01:52:57.000-05:00",
     "title": "Heptagon of Configuration (Software Engineering)",
     "url": "https://matt-rickard.com/heptagon-of-configuration/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11610,
+      "karma": 11612,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -96,7 +122,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11610,
+      "karma": 11612,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -111,7 +137,7 @@
     "created_at": "2021-08-02T22:50:23.000-05:00",
     "title": "Launchpad now runs on Python 3",
     "url": "https://www.chiark.greenend.org.uk/~cjwatson/blog/lp-python3.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -122,7 +148,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11610,
+      "karma": 11612,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -136,7 +162,7 @@
     "created_at": "2021-08-02T19:42:15.000-05:00",
     "title": "PRECIS, the next step in Unicode validation",
     "url": "https://krvtz.net/posts/precis-the-next-step-in-unicode-validation.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -147,7 +173,7 @@
       "is_admin": false,
       "about": "I’m a data engineer and engineering management consultant. ",
       "is_moderator": false,
-      "karma": 982,
+      "karma": 983,
       "avatar_url": "/avatars/Student-100.png",
       "invited_by_user": "alynpost"
     },
@@ -201,7 +227,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81131,
+      "karma": 81132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -227,7 +253,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10482,
+      "karma": 10483,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -280,7 +306,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 149,
+      "karma": 150,
       "avatar_url": "/avatars/zenhack-100.png",
       "invited_by_user": "Corbin"
     },
@@ -348,7 +374,7 @@
     "created_at": "2021-08-02T12:41:21.000-05:00",
     "title": "ClojureScript in the Age of TypeScript",
     "url": "https://www.youtube.com/watch?v=3HxVMGaiZbc",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -359,7 +385,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7028,
+      "karma": 7029,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -443,7 +469,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2311,
+      "karma": 2313,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -457,7 +483,7 @@
     "created_at": "2021-08-02T11:03:11.000-05:00",
     "title": "your database connection deserves a name",
     "url": "https://andygrunwald.com/blog/your-database-connection-deserves-a-name/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -468,7 +494,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 67,
+      "karma": 68,
       "avatar_url": "/avatars/mre-100.png",
       "invited_by_user": "jorgelbg"
     },
@@ -493,7 +519,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81131,
+      "karma": 81132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -510,7 +536,7 @@
     "url": "http://catern.com/exitvoice.html",
     "score": 30,
     "flags": 0,
-    "comment_count": 14,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkpvqc/exit_voice_open_source_software",
     "submitter_user": {
@@ -587,7 +613,7 @@
     "created_at": "2021-08-02T08:30:13.000-05:00",
     "title": "How does n-key rollover work?",
     "url": "https://www.youtube.com/watch?v=2lPzTU-3ONI",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -598,7 +624,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1860,
+      "karma": 1861,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -624,40 +650,13 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1860,
+      "karma": 1861,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
     "tags": [
       "art",
       "hardware"
-    ]
-  },
-  {
-    "short_id": "a5gkkw",
-    "short_id_url": "https://lobste.rs/s/a5gkkw",
-    "created_at": "2021-08-02T08:00:14.000-05:00",
-    "title": "Back to Linux",
-    "url": "http://metaredux.com/posts/2021/07/31/back-to-linux.html",
-    "score": 15,
-    "flags": 0,
-    "comment_count": 42,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/a5gkkw/back_linux",
-    "submitter_user": {
-      "username": "bbatsov",
-      "created_at": "2019-04-04T06:06:38.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 926,
-      "avatar_url": "/avatars/bbatsov-100.png",
-      "invited_by_user": "dragandj"
-    },
-    "tags": [
-      "linux",
-      "mac",
-      "windows"
     ]
   }
 ]
