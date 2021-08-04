@@ -1,5 +1,113 @@
 [
   {
+    "short_id": "yn4d9u",
+    "short_id_url": "https://lobste.rs/s/yn4d9u",
+    "created_at": "2021-08-04T18:02:06.000-05:00",
+    "title": "Can’t Happen or /* NOTREACHED */ or Real Programs Dump Core* (1985)",
+    "url": "http://www.literateprogramming.com/canthappen.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>UNIX programmers too often fail to check for failure of system calls or functions, taking the familiar teen-age attitude that ‘‘it can’t happen to me (or my program)’’. This paper will attempt to convince its audience to take prophylactic measures. Those who take such measures will be healthier − and less prone to surprises − than those who don’t take such measures.<br>\nIn the tradition of the classic Elements of Programming Style some real-world pro-grams will be criticised publicly. Actual production (or soi-disant production) UNIX programs and subsystems will be examined. Each of these ‘‘provides one or more lessons in style.’’ We present both before and after versions of most code fragments.\nCome on out and see if we abuse one of your programs − or your programming style!</p>\n",
+    "comments_url": "https://lobste.rs/s/yn4d9u/can_t_happen_notreached_real_programs",
+    "submitter_user": {
+      "username": "dbremner",
+      "created_at": "2012-09-06T19:01:18.000-05:00",
+      "is_admin": false,
+      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
+      "is_moderator": false,
+      "karma": 1894,
+      "avatar_url": "/avatars/dbremner-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "dbremner"
+    },
+    "tags": [
+      "c",
+      "pdf",
+      "unix"
+    ]
+  },
+  {
+    "short_id": "illcv6",
+    "short_id_url": "https://lobste.rs/s/illcv6",
+    "created_at": "2021-08-04T17:41:16.000-05:00",
+    "title": "Adding Rust-Stable libstd Support for Xous",
+    "url": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/adding-rust-stable-libstd-support-for-xous",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/illcv6/adding_rust_stable_libstd_support_for",
+    "submitter_user": {
+      "username": "cyplo",
+      "created_at": "2021-04-22T08:04:03.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 236,
+      "avatar_url": "/avatars/cyplo-100.png",
+      "invited_by_user": "ekaitz",
+      "github_username": "cyplo"
+    },
+    "tags": [
+      "rust"
+    ]
+  },
+  {
+    "short_id": "h6odxq",
+    "short_id_url": "https://lobste.rs/s/h6odxq",
+    "created_at": "2021-08-04T17:34:22.000-05:00",
+    "title": "Mario Paint Masterpiece",
+    "url": "https://www.charlieharrington.com/mario-paint-masterpiece/",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/h6odxq/mario_paint_masterpiece",
+    "submitter_user": {
+      "username": "whatrocks",
+      "created_at": "2017-10-27T12:25:54.000-05:00",
+      "is_admin": false,
+      "about": "software engineer at Cruise",
+      "is_moderator": false,
+      "karma": 178,
+      "avatar_url": "/avatars/whatrocks-100.png",
+      "invited_by_user": "ozan"
+    },
+    "tags": [
+      "art",
+      "education",
+      "historical"
+    ]
+  },
+  {
+    "short_id": "kxsaos",
+    "short_id_url": "https://lobste.rs/s/kxsaos",
+    "created_at": "2021-08-04T17:31:55.000-05:00",
+    "title": "Plug and Play History: The Design Decision That Made PCs Complicated",
+    "url": "https://tedium.co/2021/08/04/plug-and-play-peripheral-history/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kxsaos/plug_play_history_design_decision_made",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81234,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "hardware",
+      "historical"
+    ]
+  },
+  {
     "short_id": "uzzbjt",
     "short_id_url": "https://lobste.rs/s/uzzbjt",
     "created_at": "2021-08-04T16:56:50.000-05:00",
@@ -16,7 +124,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81233,
+      "karma": 81234,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -32,7 +140,7 @@
     "created_at": "2021-08-04T16:39:55.000-05:00",
     "title": "Run Internet Explorer 5 in your browser",
     "url": "https://shkspr.mobi/blog/2021/08/run-internet-explorer-5-in-your-browser/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +151,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11638,
+      "karma": 11639,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -84,7 +192,7 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +203,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5740,
+      "karma": 5741,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -117,7 +225,7 @@
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
     "score": 6,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
     "comments_url": "https://lobste.rs/s/bgb9qc/3rd_edition_web_development_with_clojure",
     "submitter_user": {
@@ -224,7 +332,7 @@
     "created_at": "2021-08-04T10:32:24.000-05:00",
     "title": "NumPy views: saving memory, leaking memory, and subtle bugs",
     "url": "https://pythonspeed.com/articles/numpy-memory-views/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -235,7 +343,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3580,
+      "karma": 3581,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -249,9 +357,9 @@
     "created_at": "2021-08-04T09:28:26.000-05:00",
     "title": "We need an open source license for distributed systems",
     "url": "http://catern.com/freedist.html",
-    "score": 12,
+    "score": 14,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/pxelf1/we_need_open_source_license_for",
     "submitter_user": {
@@ -260,7 +368,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 200,
+      "karma": 202,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -277,7 +385,7 @@
     "created_at": "2021-08-04T08:37:03.000-05:00",
     "title": "Pinion — Nice-looking interactive diagrams for KiCAD PCBs",
     "url": "https://yaqwsx.github.io/Pinion/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 1,
     "description": "<p>And here’s the <a href=\"https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/\" rel=\"ugc\">Pinion release announcement blogpost from the author</a></p>\n",
@@ -288,7 +396,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1883,
+      "karma": 1884,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -305,7 +413,7 @@
     "url": "https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript",
     "score": 11,
     "flags": 0,
-    "comment_count": 22,
+    "comment_count": 23,
     "description": "",
     "comments_url": "https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript",
     "submitter_user": {
@@ -416,7 +524,7 @@
     "created_at": "2021-08-03T17:13:11.000-05:00",
     "title": "Exploring the SameSite cookie attribute for preventing CSRF",
     "url": "https://simonwillison.net/2021/Aug/3/samesite/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -427,7 +535,7 @@
       "is_admin": false,
       "about": "Creator of https://datasette.io",
       "is_moderator": false,
-      "karma": 27,
+      "karma": 28,
       "avatar_url": "/avatars/simonw-100.png",
       "invited_by_user": "scoates"
     },
@@ -481,7 +589,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81233,
+      "karma": 81234,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -568,114 +676,6 @@
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "0eg47q",
-    "short_id_url": "https://lobste.rs/s/0eg47q",
-    "created_at": "2021-08-03T13:40:13.000-05:00",
-    "title": "Ep. 13 - Guillaume Chevalier from Neuraxio - AI technologies for eCommerce - The Commerce Show",
-    "url": "https://www.youtube.com/watch?v=Uj9peBPRzQw",
-    "score": -5,
-    "flags": 6,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/0eg47q/ep_13_guillaume_chevalier_from_neuraxio",
-    "submitter_user": {
-      "username": "GChevalier",
-      "created_at": "2017-08-02T13:02:33.000-05:00",
-      "is_admin": false,
-      "about": "Machine Learning Expert / CEO",
-      "is_moderator": false,
-      "karma": 15,
-      "avatar_url": "/avatars/GChevalier-100.png",
-      "invited_by_user": "davidjpeacock",
-      "github_username": "guillaume-chevalier",
-      "twitter_username": "guillaume_che"
-    },
-    "tags": [
-      "ai",
-      "video"
-    ]
-  },
-  {
-    "short_id": "yvteet",
-    "short_id_url": "https://lobste.rs/s/yvteet",
-    "created_at": "2021-08-03T13:20:21.000-05:00",
-    "title": "An alt Decision Tree",
-    "url": "https://www.w3.org/WAI/tutorials/images/decision-tree/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yvteet/alt_decision_tree",
-    "submitter_user": {
-      "username": "lim",
-      "created_at": "2020-10-14T14:05:51.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 486,
-      "avatar_url": "/avatars/lim-100.png",
-      "invited_by_user": "orbifx"
-    },
-    "tags": [
-      "a11y",
-      "web"
-    ]
-  },
-  {
-    "short_id": "9d0hr3",
-    "short_id_url": "https://lobste.rs/s/9d0hr3",
-    "created_at": "2021-08-03T13:12:45.000-05:00",
-    "title": "Linux Kernel Security Done Right",
-    "url": "https://security.googleblog.com/2021/08/linux-kernel-security-done-right.html",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/9d0hr3/linux_kernel_security_done_right",
-    "submitter_user": {
-      "username": "j11g",
-      "created_at": "2017-07-17T09:39:28.000-05:00",
-      "is_admin": false,
-      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
-      "is_moderator": false,
-      "karma": 4395,
-      "avatar_url": "/avatars/j11g-100.png",
-      "invited_by_user": "mischa",
-      "twitter_username": "loginn"
-    },
-    "tags": [
-      "linux",
-      "security"
-    ]
-  },
-  {
-    "short_id": "n5mfug",
-    "short_id_url": "https://lobste.rs/s/n5mfug",
-    "created_at": "2021-08-03T13:11:52.000-05:00",
-    "title": "Variant analysis of the 'Sequoia' bug",
-    "url": "https://pwning.systems/posts/sequoia-variant-analysis/",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/n5mfug/variant_analysis_sequoia_bug",
-    "submitter_user": {
-      "username": "j11g",
-      "created_at": "2017-07-17T09:39:28.000-05:00",
-      "is_admin": false,
-      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
-      "is_moderator": false,
-      "karma": 4395,
-      "avatar_url": "/avatars/j11g-100.png",
-      "invited_by_user": "mischa",
-      "twitter_username": "loginn"
-    },
-    "tags": [
-      "debugging",
-      "security"
     ]
   }
 ]
