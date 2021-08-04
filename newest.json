@@ -67,7 +67,7 @@
     "url": "https://simonwillison.net/2021/Aug/3/samesite/",
     "score": 7,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/bslpwj/exploring_samesite_cookie_attribute_for",
     "submitter_user": {
@@ -76,7 +76,7 @@
       "is_admin": false,
       "about": "Creator of https://datasette.io",
       "is_moderator": false,
-      "karma": 18,
+      "karma": 19,
       "avatar_url": "/avatars/simonw-100.png",
       "invited_by_user": "scoates"
     },
@@ -94,7 +94,7 @@
     "url": "https://www.youtube.com/watch?v=_AoyQeUzbEU",
     "score": 8,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/rgqrro/internet_explorer_for_unix",
     "submitter_user": {
@@ -173,7 +173,7 @@
     "created_at": "2021-08-03T15:17:01.000-05:00",
     "title": "The push for GATs stabilization",
     "url": "https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -184,7 +184,7 @@
       "is_admin": false,
       "about": "https://twitter.com/yonkeltron",
       "is_moderator": false,
-      "karma": 1497,
+      "karma": 1498,
       "avatar_url": "/avatars/yonkeltron-100.png",
       "invited_by_user": "rocx",
       "github_username": "yonkeltron",
@@ -211,7 +211,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1604,
+      "karma": 1605,
       "avatar_url": "/avatars/Vaelatern-100.png",
       "invited_by_user": "duncaen"
     },
@@ -380,7 +380,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11630,
+      "karma": 11631,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
