@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "hftt3k",
+    "short_id_url": "https://lobste.rs/s/hftt3k",
+    "created_at": "2021-08-04T07:27:06.000-05:00",
+    "title": "Optional Chaining: The ?. Operator in TypeScript",
+    "url": "https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript",
+    "submitter_user": {
+      "username": "mariusschulz",
+      "created_at": "2016-11-10T16:29:38.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 180,
+      "avatar_url": "/avatars/mariusschulz-100.png",
+      "invited_by_user": "alynpost"
+    },
+    "tags": [
+      "javascript"
+    ]
+  },
+  {
+    "short_id": "5j6l7w",
+    "short_id_url": "https://lobste.rs/s/5j6l7w",
+    "created_at": "2021-08-04T06:52:00.000-05:00",
+    "title": "React Children, Iteration Methods and Their Limitations",
+    "url": "https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/5j6l7w/react_children_iteration_methods_their",
+    "submitter_user": {
+      "username": "arihantverma",
+      "created_at": "2017-08-30T04:39:01.000-05:00",
+      "is_admin": false,
+      "about": "I read open source code and write about it",
+      "is_moderator": false,
+      "karma": 4,
+      "avatar_url": "/avatars/arihantverma-100.png",
+      "invited_by_user": "pgl",
+      "github_username": "arihantverma",
+      "twitter_username": "gdadsriver"
+    },
+    "tags": [
+      "javascript",
+      "web"
+    ]
+  },
+  {
     "short_id": "nyi7my",
     "short_id_url": "https://lobste.rs/s/nyi7my",
     "created_at": "2021-08-04T01:22:22.000-05:00",
@@ -65,7 +118,7 @@
     "created_at": "2021-08-03T17:13:11.000-05:00",
     "title": "Exploring the SameSite cookie attribute for preventing CSRF",
     "url": "https://simonwillison.net/2021/Aug/3/samesite/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -76,7 +129,7 @@
       "is_admin": false,
       "about": "Creator of https://datasette.io",
       "is_moderator": false,
-      "karma": 19,
+      "karma": 20,
       "avatar_url": "/avatars/simonw-100.png",
       "invited_by_user": "scoates"
     },
@@ -130,7 +183,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81211,
+      "karma": 81215,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -146,7 +199,7 @@
     "created_at": "2021-08-03T15:35:32.000-05:00",
     "title": "The 5-hour CDN",
     "url": "https://fly.io/blog/the-5-hour-content-delivery-network/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -157,7 +210,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 875,
+      "karma": 876,
       "avatar_url": "/avatars/jamesog-100.png",
       "invited_by_user": "sevan"
     },
@@ -211,7 +264,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1605,
+      "karma": 1606,
       "avatar_url": "/avatars/Vaelatern-100.png",
       "invited_by_user": "duncaen"
     },
@@ -290,7 +343,7 @@
       "is_admin": false,
       "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
       "is_moderator": false,
-      "karma": 4385,
+      "karma": 4386,
       "avatar_url": "/avatars/j11g-100.png",
       "invited_by_user": "mischa",
       "twitter_username": "loginn"
@@ -306,7 +359,7 @@
     "created_at": "2021-08-03T13:11:52.000-05:00",
     "title": "Variant analysis of the 'Sequoia' bug",
     "url": "https://pwning.systems/posts/sequoia-variant-analysis/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -317,7 +370,7 @@
       "is_admin": false,
       "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
       "is_moderator": false,
-      "karma": 4385,
+      "karma": 4386,
       "avatar_url": "/avatars/j11g-100.png",
       "invited_by_user": "mischa",
       "twitter_username": "loginn"
@@ -380,7 +433,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11631,
+      "karma": 11632,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -394,7 +447,7 @@
     "created_at": "2021-08-03T12:00:06.000-05:00",
     "title": "AI Art Machine: put in text, get art",
     "url": "https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -405,7 +458,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 19925,
+      "karma": 19927,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -423,7 +476,7 @@
     "created_at": "2021-08-03T10:37:25.000-05:00",
     "title": "Haskell for the Elm Enthusiast",
     "url": "https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -434,7 +487,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 72,
+      "karma": 73,
       "avatar_url": "/avatars/jasperwoudenberg-100.png",
       "invited_by_user": "brianhicks",
       "github_username": "jwoudenberg",
@@ -530,7 +583,7 @@
     "created_at": "2021-08-03T10:06:03.000-05:00",
     "title": "Unix and Microservice Platforms",
     "url": "https://blog.deref.io/unix-and-microservice-platforms/",
-    "score": 27,
+    "score": 30,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -541,7 +594,7 @@
       "is_admin": false,
       "about": "[Twitter](https://twitter.com/BrandonBloom)\r\n\r\n[Github](https://github.com/brandonbloom/)\r\n\r\n```js\r\n['brandon', 'd', 'bloom'].join('.') + '@gmail.com'\r\n```",
       "is_moderator": false,
-      "karma": 507,
+      "karma": 511,
       "avatar_url": "/avatars/brandonbloom-100.png",
       "invited_by_user": "cemerick",
       "twitter_username": "BrandonBloom"
@@ -630,57 +683,6 @@
       "browsers",
       "historical",
       "reversing"
-    ]
-  },
-  {
-    "short_id": "gxpfc6",
-    "short_id_url": "https://lobste.rs/s/gxpfc6",
-    "created_at": "2021-08-03T09:09:28.000-05:00",
-    "title": "Spell checking in Xcode",
-    "url": "https://sarunw.com/posts/spell-checking-in-xcode/",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/gxpfc6/spell_checking_xcode",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1866,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "mac",
-      "practices"
-    ]
-  },
-  {
-    "short_id": "6vebdm",
-    "short_id_url": "https://lobste.rs/s/6vebdm",
-    "created_at": "2021-08-03T08:40:52.000-05:00",
-    "title": "Naive Newsletter Delivery",
-    "url": "https://www.lpalmieri.com/posts/naive-newsletter-delivery/",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/6vebdm/naive_newsletter_delivery",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1866,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "rust"
     ]
   }
 ]
