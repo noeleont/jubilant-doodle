@@ -1,11 +1,95 @@
 [
   {
+    "short_id": "ja2aal",
+    "short_id_url": "https://lobste.rs/s/ja2aal",
+    "created_at": "2021-08-04T15:50:50.000-05:00",
+    "title": "This Videogame Developer Used the STL and You'll Never Guess What Happened",
+    "url": "https://www.youtube.com/watch?v=xoEUO9DezV8",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ja2aal/this_videogame_developer_used_stl_you_ll",
+    "submitter_user": {
+      "username": "dbremner",
+      "created_at": "2012-09-06T19:01:18.000-05:00",
+      "is_admin": false,
+      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
+      "is_moderator": false,
+      "karma": 1894,
+      "avatar_url": "/avatars/dbremner-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "dbremner"
+    },
+    "tags": [
+      "c++",
+      "video"
+    ]
+  },
+  {
+    "short_id": "lztelo",
+    "short_id_url": "https://lobste.rs/s/lztelo",
+    "created_at": "2021-08-04T15:32:07.000-05:00",
+    "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
+    "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
+    "submitter_user": {
+      "username": "freddyb",
+      "created_at": "2017-02-02T09:12:16.000-06:00",
+      "is_admin": false,
+      "about": "Security. Mostly in Browsers, but not exclusively.",
+      "is_moderator": false,
+      "karma": 5740,
+      "avatar_url": "/avatars/freddyb-100.png",
+      "invited_by_user": "stas",
+      "keybase_signatures": [
+        {
+          "kb_username": "freddyb",
+          "sig_hash": "550e2f5b27d4b5d558c02dfb2b23a628e90635183c93f993eeea4e16b20c51150f"
+        }
+      ]
+    },
+    "tags": [
+      "browsers"
+    ]
+  },
+  {
+    "short_id": "bgb9qc",
+    "short_id_url": "https://lobste.rs/s/bgb9qc",
+    "created_at": "2021-08-04T15:27:47.000-05:00",
+    "title": "3rd edition of Web Development with Clojure is out",
+    "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
+    "comments_url": "https://lobste.rs/s/bgb9qc/3rd_edition_web_development_with_clojure",
+    "submitter_user": {
+      "username": "Yogthos",
+      "created_at": "2017-05-26T15:31:12.000-05:00",
+      "is_admin": false,
+      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
+      "is_moderator": false,
+      "karma": 7035,
+      "avatar_url": "/avatars/Yogthos-100.png",
+      "invited_by_user": "gered"
+    },
+    "tags": [
+      "clojure",
+      "web"
+    ]
+  },
+  {
     "short_id": "qg9lsw",
     "short_id_url": "https://lobste.rs/s/qg9lsw",
     "created_at": "2021-08-04T13:20:37.000-05:00",
     "title": "Security Analysis of CHERI ISA",
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +100,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4406,
+      "karma": 4408,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -113,7 +197,7 @@
     "created_at": "2021-08-04T09:28:26.000-05:00",
     "title": "We need an open source license for distributed systems",
     "url": "http://catern.com/freedist.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -124,7 +208,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 195,
+      "karma": 196,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -143,7 +227,7 @@
     "url": "https://yaqwsx.github.io/Pinion/",
     "score": 13,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "<p>And here’s the <a href=\"https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/\" rel=\"ugc\">Pinion release announcement blogpost from the author</a></p>\n",
     "comments_url": "https://lobste.rs/s/flmbmu/pinion_nice_looking_interactive",
     "submitter_user": {
@@ -169,7 +253,7 @@
     "url": "https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript",
     "score": 11,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 21,
     "description": "",
     "comments_url": "https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript",
     "submitter_user": {
@@ -192,7 +276,7 @@
     "created_at": "2021-08-04T06:52:00.000-05:00",
     "title": "React Children, Iteration Methods and Their Limitations",
     "url": "https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -203,7 +287,7 @@
       "is_admin": false,
       "about": "I read open source code and write about it",
       "is_moderator": false,
-      "karma": 5,
+      "karma": 6,
       "avatar_url": "/avatars/arihantverma-100.png",
       "invited_by_user": "pgl",
       "github_username": "arihantverma",
@@ -220,7 +304,7 @@
     "created_at": "2021-08-04T01:22:22.000-05:00",
     "title": "Unconventional Ways of Using GraphQL",
     "url": "https://stepzen.com/blog/unconvential-ways-to-use-graphql",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -231,7 +315,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35750,
+      "karma": 35751,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -280,9 +364,9 @@
     "created_at": "2021-08-03T17:13:11.000-05:00",
     "title": "Exploring the SameSite cookie attribute for preventing CSRF",
     "url": "https://simonwillison.net/2021/Aug/3/samesite/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/bslpwj/exploring_samesite_cookie_attribute_for",
     "submitter_user": {
@@ -291,7 +375,7 @@
       "is_admin": false,
       "about": "Creator of https://datasette.io",
       "is_moderator": false,
-      "karma": 26,
+      "karma": 27,
       "avatar_url": "/avatars/simonw-100.png",
       "invited_by_user": "scoates"
     },
@@ -361,7 +445,7 @@
     "created_at": "2021-08-03T15:35:32.000-05:00",
     "title": "The 5-hour CDN",
     "url": "https://fly.io/blog/the-5-hour-content-delivery-network/",
-    "score": 25,
+    "score": 26,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -372,7 +456,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 883,
+      "karma": 884,
       "avatar_url": "/avatars/jamesog-100.png",
       "invited_by_user": "sevan"
     },
@@ -388,7 +472,7 @@
     "created_at": "2021-08-03T15:17:01.000-05:00",
     "title": "The push for GATs stabilization",
     "url": "https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html",
-    "score": 27,
+    "score": 28,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -399,7 +483,7 @@
       "is_admin": false,
       "about": "https://twitter.com/yonkeltron",
       "is_moderator": false,
-      "karma": 1510,
+      "karma": 1511,
       "avatar_url": "/avatars/yonkeltron-100.png",
       "invited_by_user": "rocx",
       "github_username": "yonkeltron",
@@ -417,7 +501,7 @@
     "url": "https://github.com/riicchhaarrd/ocean",
     "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ngdv5j/ocean_programming_language_compiles",
     "submitter_user": {
@@ -494,7 +578,7 @@
     "created_at": "2021-08-03T13:12:45.000-05:00",
     "title": "Linux Kernel Security Done Right",
     "url": "https://security.googleblog.com/2021/08/linux-kernel-security-done-right.html",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -505,7 +589,7 @@
       "is_admin": false,
       "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
       "is_moderator": false,
-      "karma": 4394,
+      "karma": 4395,
       "avatar_url": "/avatars/j11g-100.png",
       "invited_by_user": "mischa",
       "twitter_username": "loginn"
@@ -532,7 +616,7 @@
       "is_admin": false,
       "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
       "is_moderator": false,
-      "karma": 4394,
+      "karma": 4395,
       "avatar_url": "/avatars/j11g-100.png",
       "invited_by_user": "mischa",
       "twitter_username": "loginn"
@@ -595,96 +679,12 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11637,
+      "karma": 11638,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
     "tags": [
       "dotnet"
-    ]
-  },
-  {
-    "short_id": "vc6o94",
-    "short_id_url": "https://lobste.rs/s/vc6o94",
-    "created_at": "2021-08-03T12:00:06.000-05:00",
-    "title": "AI Art Machine: put in text, get art",
-    "url": "https://colab.research.google.com/drive/1n_xrgKDlGQcCF6O-eL3NOd_x4NSqAUjK",
-    "score": 25,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/vc6o94/ai_art_machine_put_text_get_art",
-    "submitter_user": {
-      "username": "hwayne",
-      "created_at": "2016-12-01T13:09:45.000-06:00",
-      "is_admin": false,
-      "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
-      "is_moderator": false,
-      "karma": 19938,
-      "avatar_url": "/avatars/hwayne-100.png",
-      "invited_by_user": "flyingfisch",
-      "github_username": "hwayne",
-      "twitter_username": "Hillelogram"
-    },
-    "tags": [
-      "ai",
-      "art",
-      "show"
-    ]
-  },
-  {
-    "short_id": "dbvuqb",
-    "short_id_url": "https://lobste.rs/s/dbvuqb",
-    "created_at": "2021-08-03T10:37:25.000-05:00",
-    "title": "Haskell for the Elm Enthusiast",
-    "url": "https://blog.noredink.com/post/658510851000713216/haskell-for-the-elm-enthusiast",
-    "score": 25,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dbvuqb/haskell_for_elm_enthusiast",
-    "submitter_user": {
-      "username": "jasperwoudenberg",
-      "created_at": "2017-06-21T02:59:09.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 78,
-      "avatar_url": "/avatars/jasperwoudenberg-100.png",
-      "invited_by_user": "brianhicks",
-      "github_username": "jwoudenberg",
-      "twitter_username": "jasperwoudnberg"
-    },
-    "tags": [
-      "elm",
-      "haskell"
-    ]
-  },
-  {
-    "short_id": "ieqp2x",
-    "short_id_url": "https://lobste.rs/s/ieqp2x",
-    "created_at": "2021-08-03T10:35:27.000-05:00",
-    "title": "Choosing properties for property-based testing",
-    "url": "https://fsharpforfunandprofit.com/posts/property-based-testing-2/",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ieqp2x/choosing_properties_for_property_based",
-    "submitter_user": {
-      "username": "foxyjackfox",
-      "created_at": "2016-01-03T16:14:13.000-06:00",
-      "is_admin": false,
-      "about": "Software Engineer and early employee at Tachyus.\r\nInterested in software correctness, strongly-typed functional languages, F#, and type theory.",
-      "is_moderator": false,
-      "karma": 267,
-      "avatar_url": "/avatars/foxyjackfox-100.png",
-      "invited_by_user": "JeremyMorgan",
-      "github_username": "jackfoxy",
-      "twitter_username": "foxyjackfox"
-    },
-    "tags": [
-      "testing"
     ]
   }
 ]
