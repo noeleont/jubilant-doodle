@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "uzzbjt",
+    "short_id_url": "https://lobste.rs/s/uzzbjt",
+    "created_at": "2021-08-04T16:56:50.000-05:00",
+    "title": "Snapcraft Packages Come With Extra Baggage",
+    "url": "https://blog.ret2.io/2021/08/04/snapcraft-injection/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/uzzbjt/snapcraft_packages_come_with_extra",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81233,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "linux",
+      "security"
+    ]
+  },
+  {
+    "short_id": "9uibjo",
+    "short_id_url": "https://lobste.rs/s/9uibjo",
+    "created_at": "2021-08-04T16:39:55.000-05:00",
+    "title": "Run Internet Explorer 5 in your browser",
+    "url": "https://shkspr.mobi/blog/2021/08/run-internet-explorer-5-in-your-browser/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/9uibjo/run_internet_explorer_5_your_browser",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11638,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "historical"
+    ]
+  },
+  {
     "short_id": "ja2aal",
     "short_id_url": "https://lobste.rs/s/ja2aal",
     "created_at": "2021-08-04T15:50:50.000-05:00",
@@ -63,7 +115,7 @@
     "created_at": "2021-08-04T15:27:47.000-05:00",
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 2,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
@@ -74,7 +126,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7035,
+      "karma": 7039,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -89,7 +141,7 @@
     "created_at": "2021-08-04T13:20:37.000-05:00",
     "title": "Security Analysis of CHERI ISA",
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -100,7 +152,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4408,
+      "karma": 4410,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -146,7 +198,7 @@
     "created_at": "2021-08-04T10:57:23.000-05:00",
     "title": "Elements of Differential Geometry in Lean: A Report for Mathematicians",
     "url": "https://arxiv.org/abs/2108.00484",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -157,7 +209,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1155,
+      "karma": 1156,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -197,7 +249,7 @@
     "created_at": "2021-08-04T09:28:26.000-05:00",
     "title": "We need an open source license for distributed systems",
     "url": "http://catern.com/freedist.html",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -208,7 +260,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 196,
+      "karma": 200,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -253,7 +305,7 @@
     "url": "https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript",
     "score": 11,
     "flags": 0,
-    "comment_count": 21,
+    "comment_count": 22,
     "description": "",
     "comments_url": "https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript",
     "submitter_user": {
@@ -510,7 +562,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1610,
+      "karma": 1611,
       "avatar_url": "/avatars/Vaelatern-100.png",
       "invited_by_user": "duncaen"
     },
@@ -624,67 +676,6 @@
     "tags": [
       "debugging",
       "security"
-    ]
-  },
-  {
-    "short_id": "qvpdhm",
-    "short_id_url": "https://lobste.rs/s/qvpdhm",
-    "created_at": "2021-08-03T12:39:07.000-05:00",
-    "title": "A Safari extension to redirect sites to privacy friendly alternatives",
-    "url": "https://github.com/smmr-software/privacy-redirect-safari",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/qvpdhm/safari_extension_redirect_sites_privacy",
-    "submitter_user": {
-      "username": "jneplokh",
-      "created_at": "2020-02-02T18:01:38.000-06:00",
-      "is_admin": false,
-      "about": "High School Student\r\n\r\nThis is an OpenPGP proof that connects my OpenPGP key to this Lobste.rs account. For details check out https://keyoxide.org/guides/openpgp-proofs\r\n\r\n[Verifying my OpenPGP key: openpgp4fpr:2A74DD1553821C37819CAA77E4050DE078D551BA]",
-      "is_moderator": false,
-      "karma": 35,
-      "avatar_url": "/avatars/jneplokh-100.png",
-      "invited_by_user": "kev",
-      "github_username": "jneplokh",
-      "twitter_username": "JacobNeplokh",
-      "keybase_signatures": [
-        {
-          "kb_username": "jacobneplokh",
-          "sig_hash": "3c6f5eee7495bc9609a7d4bc8295af7b8cf870d897c26bfbdd9d36ff803d684e0f"
-        }
-      ]
-    },
-    "tags": [
-      "browsers",
-      "mac",
-      "privacy",
-      "show"
-    ]
-  },
-  {
-    "short_id": "4oupmw",
-    "short_id_url": "https://lobste.rs/s/4oupmw",
-    "created_at": "2021-08-03T12:01:08.000-05:00",
-    "title": "How to create a standalone ConsoleLoggerProvider",
-    "url": "https://mikehadlow.com/posts/standalone-consoleloggerprovider/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4oupmw/how_create_standalone",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11638,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "dotnet"
     ]
   }
 ]
