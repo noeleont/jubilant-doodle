@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "e0vm8q",
+    "short_id_url": "https://lobste.rs/s/e0vm8q",
+    "created_at": "2021-08-05T17:42:16.000-05:00",
+    "title": "Mitigating Memory-Safety Bugs with Efficient Out-of-Process Integrity Checking",
+    "url": "http://reports-archive.adm.cs.cmu.edu/anon/2021/CMU-CS-21-113.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/e0vm8q/mitigating_memory_safety_bugs_with",
+    "submitter_user": {
+      "username": "fro",
+      "created_at": "2016-04-13T15:27:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1340,
+      "avatar_url": "/avatars/fro-100.png",
+      "invited_by_user": "xero"
+    },
+    "tags": [
+      "pdf",
+      "security"
+    ]
+  },
+  {
     "short_id": "ig6xuj",
     "short_id_url": "https://lobste.rs/s/ig6xuj",
     "created_at": "2021-08-05T16:25:52.000-05:00",
     "title": "HTTP/2: The Sequel is Always Worse",
     "url": "https://portswigger.net/research/http2",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 52,
+      "karma": 54,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -65,7 +91,7 @@
     "created_at": "2021-08-05T15:04:10.000-05:00",
     "title": "Reverse Engineering the M1",
     "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -76,7 +102,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 52,
+      "karma": 54,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -92,7 +118,7 @@
     "created_at": "2021-08-05T14:56:36.000-05:00",
     "title": "Another Nix Success Story",
     "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
-    "score": 8,
+    "score": 15,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -103,7 +129,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 7,
+      "karma": 14,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant"
@@ -119,9 +145,9 @@
     "created_at": "2021-08-05T14:40:32.000-05:00",
     "title": "Using UTF‐8 [in OpenBSD] (2010)",
     "url": "http://daemonforums.org/showthread.php?t=5371&highlight=greek",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/4l82yh/using_utf_8_openbsd_2010",
     "submitter_user": {
@@ -130,7 +156,7 @@
       "is_admin": false,
       "about": "If problems occur, consult the internet.",
       "is_moderator": false,
-      "karma": 938,
+      "karma": 939,
       "avatar_url": "/avatars/rjpcasalino-100.png",
       "invited_by_user": "bsima"
     },
@@ -144,7 +170,7 @@
     "created_at": "2021-08-05T13:55:15.000-05:00",
     "title": "What is Zanzibar?",
     "url": "https://authzed.com/blog/what-is-zanzibar/",
-    "score": 0,
+    "score": 1,
     "flags": 1,
     "comment_count": 0,
     "description": "<p>Disclosure: I’m one of the authzed founders</p>\n",
@@ -155,7 +181,7 @@
       "is_admin": false,
       "about": "cofounder [authzed](https://authzed.com)\r\n\r\npreviously product & engineering at CoreOS→Red Hat\r\n\r\n- [website](https://jzelinskie.com)\r\n- [twitter](https://twitter.com/jimmyzelinskie)\r\n- [github](https://github.com/jzelinskie)",
       "is_moderator": false,
-      "karma": -1,
+      "karma": 0,
       "avatar_url": "/avatars/jzelinskie-100.png",
       "invited_by_user": "FiloSottile",
       "github_username": "jzelinskie"
@@ -226,7 +252,7 @@
     "created_at": "2021-08-05T10:46:01.000-05:00",
     "title": "EmacsConf 2021 Call for Proposals",
     "url": "https://emacsconf.org/2021/cfp/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -237,7 +263,7 @@
       "is_admin": false,
       "about": "https://bndl.org",
       "is_moderator": false,
-      "karma": 955,
+      "karma": 956,
       "avatar_url": "/avatars/bandali-100.png",
       "invited_by_user": "zg"
     },
@@ -279,7 +305,7 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 12,
+    "score": 13,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -290,7 +316,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 197,
+      "karma": 198,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -333,7 +359,7 @@
     "created_at": "2021-08-05T08:46:16.000-05:00",
     "title": "Simulating worlds on the GPU",
     "url": "https://davidar.io/post/sim-glsl",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -344,7 +370,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81292,
+      "karma": 81294,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -362,7 +388,7 @@
     "url": "https://p.janouch.name/text/on-unix-composability.html",
     "score": 20,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/wprseq/on_unix_composability",
     "submitter_user": {
@@ -371,7 +397,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 525,
+      "karma": 526,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -385,7 +411,7 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 34,
+    "score": 35,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -396,7 +422,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1329,
+      "karma": 1330,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -500,7 +526,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1904,
+      "karma": 1905,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -581,7 +607,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81292,
+      "karma": 81294,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -608,7 +634,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81292,
+      "karma": 81294,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -641,33 +667,6 @@
     },
     "tags": [
       "historical"
-    ]
-  },
-  {
-    "short_id": "ja2aal",
-    "short_id_url": "https://lobste.rs/s/ja2aal",
-    "created_at": "2021-08-04T15:50:50.000-05:00",
-    "title": "This Videogame Developer Used the STL and You'll Never Guess What Happened",
-    "url": "https://www.youtube.com/watch?v=xoEUO9DezV8",
-    "score": 4,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ja2aal/this_videogame_developer_used_stl_you_ll",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 1904,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "c++",
-      "video"
     ]
   }
 ]
