@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "ig6xuj",
+    "short_id_url": "https://lobste.rs/s/ig6xuj",
+    "created_at": "2021-08-05T16:25:52.000-05:00",
+    "title": "HTTP/2: The Sequel is Always Worse",
+    "url": "https://portswigger.net/research/http2",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ig6xuj/http_2_sequel_is_always_worse",
+    "submitter_user": {
+      "username": "deejayy",
+      "created_at": "2021-07-12T16:23:45.000-05:00",
+      "is_admin": false,
+      "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
+      "is_moderator": false,
+      "karma": 52,
+      "avatar_url": "/avatars/deejayy-100.png",
+      "invited_by_user": "indigo"
+    },
+    "tags": [
+      "security",
+      "web"
+    ]
+  },
+  {
     "short_id": "57bky5",
     "short_id_url": "https://lobste.rs/s/57bky5",
     "created_at": "2021-08-05T15:22:33.000-05:00",
@@ -66,7 +92,7 @@
     "created_at": "2021-08-05T14:56:36.000-05:00",
     "title": "Another Nix Success Story",
     "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
-    "score": 3,
+    "score": 8,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -77,7 +103,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 2,
+      "karma": 7,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant"
@@ -146,7 +172,7 @@
     "created_at": "2021-08-05T13:11:16.000-05:00",
     "title": "Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps",
     "url": "https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html",
-    "score": 2,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -157,7 +183,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1175,
+      "karma": 1179,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -175,7 +201,7 @@
     "created_at": "2021-08-05T12:03:02.000-05:00",
     "title": "Personal Computing On An Amiga In 2021",
     "url": "https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -186,7 +212,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2053,
+      "karma": 2055,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -200,7 +226,7 @@
     "created_at": "2021-08-05T10:46:01.000-05:00",
     "title": "EmacsConf 2021 Call for Proposals",
     "url": "https://emacsconf.org/2021/cfp/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -211,7 +237,7 @@
       "is_admin": false,
       "about": "https://bndl.org",
       "is_moderator": false,
-      "karma": 954,
+      "karma": 955,
       "avatar_url": "/avatars/bandali-100.png",
       "invited_by_user": "zg"
     },
@@ -226,7 +252,7 @@
     "created_at": "2021-08-05T10:10:48.000-05:00",
     "title": "Dissecting the performance of production QUIC",
     "url": "https://cs.brown.edu/~tab/papers/QUIC_WWW21.pdf",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -237,7 +263,7 @@
       "is_admin": false,
       "about": "Ori Bernstein: http://eigenstate.org",
       "is_moderator": false,
-      "karma": 4242,
+      "karma": 4243,
       "avatar_url": "/avatars/orib-100.png",
       "invited_by_user": "vjoel"
     },
@@ -253,7 +279,7 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 10,
+    "score": 12,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -264,7 +290,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 195,
+      "karma": 197,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -318,7 +344,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81291,
+      "karma": 81292,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -334,7 +360,7 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -345,7 +371,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 524,
+      "karma": 525,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -359,7 +385,7 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 30,
+    "score": 34,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -370,7 +396,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1325,
+      "karma": 1329,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -448,7 +474,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1047,
+      "karma": 1048,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -555,7 +581,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81291,
+      "karma": 81292,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -582,7 +608,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81291,
+      "karma": 81292,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -642,37 +668,6 @@
     "tags": [
       "c++",
       "video"
-    ]
-  },
-  {
-    "short_id": "lztelo",
-    "short_id_url": "https://lobste.rs/s/lztelo",
-    "created_at": "2021-08-04T15:32:07.000-05:00",
-    "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
-    "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 46,
-    "flags": 1,
-    "comment_count": 31,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
-    "submitter_user": {
-      "username": "freddyb",
-      "created_at": "2017-02-02T09:12:16.000-06:00",
-      "is_admin": false,
-      "about": "Security. Mostly in Browsers, but not exclusively.",
-      "is_moderator": false,
-      "karma": 5784,
-      "avatar_url": "/avatars/freddyb-100.png",
-      "invited_by_user": "stas",
-      "keybase_signatures": [
-        {
-          "kb_username": "freddyb",
-          "sig_hash": "550e2f5b27d4b5d558c02dfb2b23a628e90635183c93f993eeea4e16b20c51150f"
-        }
-      ]
-    },
-    "tags": [
-      "browsers"
     ]
   }
 ]
