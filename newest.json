@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "anvdpv",
+    "short_id_url": "https://lobste.rs/s/anvdpv",
+    "created_at": "2021-08-05T13:55:15.000-05:00",
+    "title": "What is Zanzibar?",
+    "url": "https://authzed.com/blog/what-is-zanzibar/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Disclosure: I’m one of the authzed founders</p>\n",
+    "comments_url": "https://lobste.rs/s/anvdpv/what_is_zanzibar",
+    "submitter_user": {
+      "username": "jzelinskie",
+      "created_at": "2021-04-29T17:55:43.000-05:00",
+      "is_admin": false,
+      "about": "cofounder [authzed](https://authzed.com)\r\n\r\npreviously product & engineering at CoreOS→Red Hat\r\n\r\n- [website](https://jzelinskie.com)\r\n- [twitter](https://twitter.com/jimmyzelinskie)\r\n- [github](https://github.com/jzelinskie)",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/jzelinskie-100.png",
+      "invited_by_user": "FiloSottile",
+      "github_username": "jzelinskie"
+    },
+    "tags": [
+      "databases",
+      "distributed",
+      "security"
+    ]
+  },
+  {
     "short_id": "xp9ewg",
     "short_id_url": "https://lobste.rs/s/xp9ewg",
     "created_at": "2021-08-05T13:11:16.000-05:00",
@@ -59,7 +87,7 @@
     "created_at": "2021-08-05T10:46:01.000-05:00",
     "title": "EmacsConf 2021 Call for Proposals",
     "url": "https://emacsconf.org/2021/cfp/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +98,7 @@
       "is_admin": false,
       "about": "https://bndl.org",
       "is_moderator": false,
-      "karma": 953,
+      "karma": 954,
       "avatar_url": "/avatars/bandali-100.png",
       "invited_by_user": "zg"
     },
@@ -112,9 +140,9 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/ipghop/visualizing_codebase",
     "submitter_user": {
@@ -123,7 +151,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 189,
+      "karma": 190,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -193,7 +221,7 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 13,
+    "score": 15,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -204,7 +232,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 516,
+      "karma": 518,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -218,9 +246,9 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 25,
+    "score": 27,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/18uvjm/640_pages_15_months",
     "submitter_user": {
@@ -229,7 +257,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1320,
+      "karma": 1322,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -296,7 +324,7 @@
     "created_at": "2021-08-04T20:11:06.000-05:00",
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "score": 29,
+    "score": 30,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -307,7 +335,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1043,
+      "karma": 1044,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -509,9 +537,9 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 44,
+    "score": 45,
     "flags": 1,
-    "comment_count": 30,
+    "comment_count": 31,
     "description": "",
     "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
     "submitter_user": {
@@ -520,7 +548,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5782,
+      "karma": 5783,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -568,7 +596,7 @@
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
     "score": 11,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/qg9lsw/security_analysis_cheri_isa",
     "submitter_user": {
@@ -641,31 +669,6 @@
     "tags": [
       "formalmethods",
       "math"
-    ]
-  },
-  {
-    "short_id": "nwni8n",
-    "short_id_url": "https://lobste.rs/s/nwni8n",
-    "created_at": "2021-08-04T10:32:24.000-05:00",
-    "title": "NumPy views: saving memory, leaking memory, and subtle bugs",
-    "url": "https://pythonspeed.com/articles/numpy-memory-views/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nwni8n/numpy_views_saving_memory_leaking_memory",
-    "submitter_user": {
-      "username": "itamarst",
-      "created_at": "2016-04-28T10:05:47.000-05:00",
-      "is_admin": false,
-      "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
-      "is_moderator": false,
-      "karma": 3585,
-      "avatar_url": "/avatars/itamarst-100.png",
-      "invited_by_user": "0x2ba22e11"
-    },
-    "tags": [
-      "python"
     ]
   }
 ]
