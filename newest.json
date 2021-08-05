@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "wprseq",
+    "short_id_url": "https://lobste.rs/s/wprseq",
+    "created_at": "2021-08-05T08:09:42.000-05:00",
+    "title": "On Unix composability",
+    "url": "https://p.janouch.name/text/on-unix-composability.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wprseq/on_unix_composability",
+    "submitter_user": {
+      "username": "premysl",
+      "created_at": "2016-01-04T06:45:20.000-06:00",
+      "is_admin": false,
+      "about": "C is for cookie, that's good enough for me.",
+      "is_moderator": false,
+      "karma": 501,
+      "avatar_url": "/avatars/premysl-100.png",
+      "invited_by_user": "kellytk"
+    },
+    "tags": [
+      "unix"
+    ]
+  },
+  {
     "short_id": "18uvjm",
     "short_id_url": "https://lobste.rs/s/18uvjm",
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1302,
+      "karma": 1304,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -31,7 +56,7 @@
     "created_at": "2021-08-05T03:08:53.000-05:00",
     "title": "Haskell-like patterns in Lisp",
     "url": "http://www.lispology.com/show?3FY9",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 618,
+      "karma": 619,
       "avatar_url": "/avatars/notagoodidea-100.png",
       "invited_by_user": "wrl"
     },
@@ -57,7 +82,7 @@
     "created_at": "2021-08-04T21:03:39.000-05:00",
     "title": "Slitter: a slab allocator that trusts, but verifies",
     "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Disclaimer, I work for the company.</p>\n",
@@ -68,7 +93,7 @@
       "is_admin": false,
       "about": "Small time sysadmin, and Rust, Python, and assembly dev. Located in Long Island, New York.",
       "is_moderator": false,
-      "karma": 921,
+      "karma": 923,
       "avatar_url": "/avatars/aleph-100.png",
       "invited_by_user": "lukas"
     },
@@ -83,7 +108,7 @@
     "created_at": "2021-08-04T20:11:06.000-05:00",
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "score": 23,
+    "score": 25,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -94,7 +119,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1035,
+      "karma": 1038,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -137,7 +162,7 @@
     "created_at": "2021-08-04T17:41:16.000-05:00",
     "title": "Adding Rust-Stable libstd Support for Xous",
     "url": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/adding-rust-stable-libstd-support-for-xous",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -148,7 +173,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 239,
+      "karma": 240,
       "avatar_url": "/avatars/cyplo-100.png",
       "invited_by_user": "ekaitz",
       "github_username": "cyplo"
@@ -201,7 +226,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81268,
+      "karma": 81270,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -217,7 +242,7 @@
     "created_at": "2021-08-04T16:56:50.000-05:00",
     "title": "Snapcraft Packages Come With Extra Baggage",
     "url": "https://blog.ret2.io/2021/08/04/snapcraft-injection/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -228,7 +253,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81268,
+      "karma": 81270,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -246,7 +271,7 @@
     "url": "https://shkspr.mobi/blog/2021/08/run-internet-explorer-5-in-your-browser/",
     "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/9uibjo/run_internet_explorer_5_your_browser",
     "submitter_user": {
@@ -296,9 +321,9 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 37,
+    "score": 39,
     "flags": 1,
-    "comment_count": 18,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
     "submitter_user": {
@@ -307,7 +332,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5775,
+      "karma": 5777,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -327,9 +352,9 @@
     "created_at": "2021-08-04T15:27:47.000-05:00",
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
     "comments_url": "https://lobste.rs/s/bgb9qc/3rd_edition_web_development_with_clojure",
     "submitter_user": {
@@ -338,7 +363,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7052,
+      "karma": 7053,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -355,7 +380,7 @@
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
     "score": 9,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/qg9lsw/security_analysis_cheri_isa",
     "submitter_user": {
@@ -410,7 +435,7 @@
     "created_at": "2021-08-04T10:57:23.000-05:00",
     "title": "Elements of Differential Geometry in Lean: A Report for Mathematicians",
     "url": "https://arxiv.org/abs/2108.00484",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -421,7 +446,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1159,
+      "karma": 1160,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -463,7 +488,7 @@
     "url": "http://catern.com/freedist.html",
     "score": 16,
     "flags": 1,
-    "comment_count": 13,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/pxelf1/we_need_open_source_license_for",
     "submitter_user": {
@@ -489,7 +514,7 @@
     "created_at": "2021-08-04T08:37:03.000-05:00",
     "title": "Pinion — Nice-looking interactive diagrams for KiCAD PCBs",
     "url": "https://yaqwsx.github.io/Pinion/",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 3,
     "description": "<p>And here’s the <a href=\"https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/\" rel=\"ugc\">Pinion release announcement blogpost from the author</a></p>\n",
@@ -500,7 +525,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1888,
+      "karma": 1889,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -594,7 +619,7 @@
     "created_at": "2021-08-04T00:03:04.000-05:00",
     "title": "Introducing elm-pages 2.0",
     "url": "https://elm-pages.com/blog/introducing-v2",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -605,7 +630,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 333,
+      "karma": 334,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -647,33 +672,6 @@
       "browsers",
       "security",
       "web"
-    ]
-  },
-  {
-    "short_id": "rgqrro",
-    "short_id_url": "https://lobste.rs/s/rgqrro",
-    "created_at": "2021-08-03T15:40:33.000-05:00",
-    "title": "Internet Explorer for UNIX",
-    "url": "https://www.youtube.com/watch?v=_AoyQeUzbEU",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rgqrro/internet_explorer_for_unix",
-    "submitter_user": {
-      "username": "terinjokes",
-      "created_at": "2016-10-31T18:49:47.000-05:00",
-      "is_admin": false,
-      "about": "Engineer @ Cloudflare in San Francisco.\r\n\r\nInterested in making it easier to build great software. Currently attempting to learn Dutch as a personal challenge. Listens only to the best music. Really bad at first person shooters.",
-      "is_moderator": false,
-      "karma": 144,
-      "avatar_url": "/avatars/terinjokes-100.png",
-      "invited_by_user": "jamesog"
-    },
-    "tags": [
-      "historical",
-      "unix",
-      "video"
     ]
   }
 ]
