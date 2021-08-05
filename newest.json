@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "zfnakk",
+    "short_id_url": "https://lobste.rs/s/zfnakk",
+    "created_at": "2021-08-05T10:46:01.000-05:00",
+    "title": "EmacsConf 2021 Call for Proposals",
+    "url": "https://emacsconf.org/2021/cfp/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zfnakk/emacsconf_2021_call_for_proposals",
+    "submitter_user": {
+      "username": "bandali",
+      "created_at": "2016-12-12T19:17:36.000-06:00",
+      "is_admin": false,
+      "about": "https://bndl.org",
+      "is_moderator": false,
+      "karma": 948,
+      "avatar_url": "/avatars/bandali-100.png",
+      "invited_by_user": "zg"
+    },
+    "tags": [
+      "emacs",
+      "event"
+    ]
+  },
+  {
     "short_id": "ujbiom",
     "short_id_url": "https://lobste.rs/s/ujbiom",
     "created_at": "2021-08-05T10:10:48.000-05:00",
     "title": "Dissecting the performance of production QUIC",
     "url": "https://cs.brown.edu/~tab/papers/QUIC_WWW21.pdf",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Ori Bernstein: http://eigenstate.org",
       "is_moderator": false,
-      "karma": 4237,
+      "karma": 4240,
       "avatar_url": "/avatars/orib-100.png",
       "invited_by_user": "vjoel"
     },
@@ -32,9 +58,9 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 2,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ipghop/visualizing_codebase",
     "submitter_user": {
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 185,
+      "karma": 188,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -57,7 +83,7 @@
     "created_at": "2021-08-05T08:47:03.000-05:00",
     "title": "Simple and Precise Static Analysis of Untrusted Linux Kernel Extensions (2019)",
     "url": "http://seahorn.github.io/papers/ebpf-pldi19.pdf",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Abstract: “Extended Berkeley Packet Filter (eBPF) is a Linux subsystem\nthat allows safely executing untrusted user-defined extensions inside the kernel. It relies on static analysis to protect\nthe kernel against buggy and malicious extensions. As the\neBPF ecosystem evolves to support more complex and diverse extensions, the limitations of its current verifier, including high rate of false positives, poor scalability, and lack\nof support for loops, have become a major barrier for developers.</p>\n<p>We design a static analyzer for eBPF within the framework\nof abstract interpretation. Our choice of abstraction is based\non common patterns found in many eBPF programs. We\nobserved that eBPF programs manipulate memory in a rather\ndisciplined way which permits analyzing them successfully\nwith a scalable mixture of very-precise abstraction of certain\nbounded regions with coarser abstractions of other parts\nof the memory. We use the Zone domain, a simple domain\nthat tracks differences between pairs of registers and offsets,\nto achieve precise and scalable analysis. We demonstrate\nthat this abstraction is as precise in practice as more costly\nabstract domains like Octagon and Polyhedra.</p>\n<p>Furthermore, our evaluation, based on hundreds of real-\nworld eBPF programs, shows that the new tool generates\nno more false alarms than the existing Linux verifier, while\nit supports a wider class of programs (including programs\nwith loops) and has better asymptotic complexity.”</p>\n",
@@ -68,7 +94,7 @@
       "is_admin": false,
       "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
       "is_moderator": false,
-      "karma": 22186,
+      "karma": 22187,
       "avatar_url": "/avatars/nickpsecurity-100.png",
       "invited_by_user": "tedu"
     },
@@ -86,7 +112,7 @@
     "created_at": "2021-08-05T08:46:16.000-05:00",
     "title": "Simulating worlds on the GPU",
     "url": "https://davidar.io/post/sim-glsl",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -97,7 +123,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81278,
+      "karma": 81280,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -113,7 +139,7 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -124,7 +150,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 512,
+      "karma": 513,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -138,9 +164,9 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 15,
+    "score": 17,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/18uvjm/640_pages_15_months",
     "submitter_user": {
@@ -149,7 +175,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1310,
+      "karma": 1312,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -164,7 +190,7 @@
     "created_at": "2021-08-05T03:08:53.000-05:00",
     "title": "Haskell-like patterns in Lisp",
     "url": "http://www.lispology.com/show?3FY9",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -175,7 +201,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 623,
+      "karma": 624,
       "avatar_url": "/avatars/notagoodidea-100.png",
       "invited_by_user": "wrl"
     },
@@ -216,7 +242,7 @@
     "created_at": "2021-08-04T20:11:06.000-05:00",
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "score": 27,
+    "score": 29,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -227,7 +253,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1040,
+      "karma": 1043,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -334,7 +360,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81278,
+      "karma": 81280,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -361,7 +387,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81278,
+      "karma": 81280,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -429,9 +455,9 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 42,
+    "score": 43,
     "flags": 1,
-    "comment_count": 26,
+    "comment_count": 27,
     "description": "",
     "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
     "submitter_user": {
@@ -440,7 +466,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5780,
+      "karma": 5781,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -460,7 +486,7 @@
     "created_at": "2021-08-04T15:27:47.000-05:00",
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 19,
+    "score": 20,
     "flags": 1,
     "comment_count": 5,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
@@ -471,7 +497,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7055,
+      "karma": 7057,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -596,7 +622,7 @@
     "url": "http://catern.com/freedist.html",
     "score": 17,
     "flags": 1,
-    "comment_count": 19,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/pxelf1/we_need_open_source_license_for",
     "submitter_user": {
@@ -640,31 +666,6 @@
     "tags": [
       "design",
       "hardware"
-    ]
-  },
-  {
-    "short_id": "hftt3k",
-    "short_id_url": "https://lobste.rs/s/hftt3k",
-    "created_at": "2021-08-04T07:27:06.000-05:00",
-    "title": "Optional Chaining: The ?. Operator in TypeScript",
-    "url": "https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 32,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript",
-    "submitter_user": {
-      "username": "mariusschulz",
-      "created_at": "2016-11-10T16:29:38.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 191,
-      "avatar_url": "/avatars/mariusschulz-100.png",
-      "invited_by_user": "alynpost"
-    },
-    "tags": [
-      "javascript"
     ]
   }
 ]
