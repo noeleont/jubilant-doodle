@@ -1,15 +1,15 @@
 [
   {
-    "short_id": "k606rl",
-    "short_id_url": "https://lobste.rs/s/k606rl",
-    "created_at": "2021-08-05T09:12:04.000-05:00",
+    "short_id": "ujbiom",
+    "short_id_url": "https://lobste.rs/s/ujbiom",
+    "created_at": "2021-08-05T10:10:48.000-05:00",
     "title": "Dissecting the performance of production QUIC",
-    "url": "https://blog.apnic.net/2021/08/02/dissecting-the-performance-of-production-quic/",
+    "url": "https://cs.brown.edu/~tab/papers/QUIC_WWW21.pdf",
     "score": 1,
     "flags": 0,
     "comment_count": 0,
     "description": "",
-    "comments_url": "https://lobste.rs/s/k606rl/dissecting_performance_production_quic",
+    "comments_url": "https://lobste.rs/s/ujbiom/dissecting_performance_production_quic",
     "submitter_user": {
       "username": "orib",
       "created_at": "2014-02-27T19:29:36.000-06:00",
@@ -21,7 +21,34 @@
       "invited_by_user": "vjoel"
     },
     "tags": [
-      "networking"
+      "networking",
+      "pdf",
+      "performance"
+    ]
+  },
+  {
+    "short_id": "ipghop",
+    "short_id_url": "https://lobste.rs/s/ipghop",
+    "created_at": "2021-08-05T09:47:11.000-05:00",
+    "title": "Visualizing a Codebase",
+    "url": "https://octo.github.com/projects/repo-visualization",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ipghop/visualizing_codebase",
+    "submitter_user": {
+      "username": "wattenberger",
+      "created_at": "2019-05-24T09:49:17.000-05:00",
+      "is_admin": false,
+      "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
+      "is_moderator": false,
+      "karma": 185,
+      "avatar_url": "/avatars/wattenberger-100.png",
+      "invited_by_user": "eigenjoy"
+    },
+    "tags": [
+      "visualization"
     ]
   },
   {
@@ -59,7 +86,7 @@
     "created_at": "2021-08-05T08:46:16.000-05:00",
     "title": "Simulating worlds on the GPU",
     "url": "https://davidar.io/post/sim-glsl",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +97,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81274,
+      "karma": 81278,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -86,9 +113,9 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 5,
+    "score": 9,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/wprseq/on_unix_composability",
     "submitter_user": {
@@ -97,7 +124,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 506,
+      "karma": 512,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -111,7 +138,7 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 10,
+    "score": 15,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -122,7 +149,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1305,
+      "karma": 1310,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -137,9 +164,9 @@
     "created_at": "2021-08-05T03:08:53.000-05:00",
     "title": "Haskell-like patterns in Lisp",
     "url": "http://www.lispology.com/show?3FY9",
-    "score": 6,
+    "score": 8,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/es290l/haskell_like_patterns_lisp",
     "submitter_user": {
@@ -148,7 +175,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 621,
+      "karma": 623,
       "avatar_url": "/avatars/notagoodidea-100.png",
       "invited_by_user": "wrl"
     },
@@ -163,7 +190,7 @@
     "created_at": "2021-08-04T21:03:39.000-05:00",
     "title": "Slitter: a slab allocator that trusts, but verifies",
     "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-    "score": 13,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Disclaimer, I work for the company.</p>\n",
@@ -174,7 +201,7 @@
       "is_admin": false,
       "about": "Small time sysadmin, and Rust, Python, and assembly dev. Located in Long Island, New York.",
       "is_moderator": false,
-      "karma": 924,
+      "karma": 926,
       "avatar_url": "/avatars/aleph-100.png",
       "invited_by_user": "lukas"
     },
@@ -189,7 +216,7 @@
     "created_at": "2021-08-04T20:11:06.000-05:00",
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "score": 25,
+    "score": 27,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -200,7 +227,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1038,
+      "karma": 1040,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -215,7 +242,7 @@
     "created_at": "2021-08-04T18:02:06.000-05:00",
     "title": "Can’t Happen or /* NOTREACHED */ or Real Programs Dump Core* (1985)",
     "url": "http://www.literateprogramming.com/canthappen.pdf",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 7,
     "description": "<p>UNIX programmers too often fail to check for failure of system calls or functions, taking the familiar teen-age attitude that ‘‘it can’t happen to me (or my program)’’. This paper will attempt to convince its audience to take prophylactic measures. Those who take such measures will be healthier − and less prone to surprises − than those who don’t take such measures.<br>\nIn the tradition of the classic Elements of Programming Style some real-world pro-grams will be criticised publicly. Actual production (or soi-disant production) UNIX programs and subsystems will be examined. Each of these ‘‘provides one or more lessons in style.’’ We present both before and after versions of most code fragments.\nCome on out and see if we abuse one of your programs − or your programming style!</p>\n",
@@ -226,7 +253,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1898,
+      "karma": 1900,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -296,7 +323,7 @@
     "created_at": "2021-08-04T17:31:55.000-05:00",
     "title": "Plug and Play History: The Design Decision That Made PCs Complicated",
     "url": "https://tedium.co/2021/08/04/plug-and-play-peripheral-history/",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -307,7 +334,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81274,
+      "karma": 81278,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -334,7 +361,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81274,
+      "karma": 81278,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -350,7 +377,7 @@
     "created_at": "2021-08-04T16:39:55.000-05:00",
     "title": "Run Internet Explorer 5 in your browser",
     "url": "https://shkspr.mobi/blog/2021/08/run-internet-explorer-5-in-your-browser/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -361,7 +388,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11647,
+      "karma": 11648,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -386,7 +413,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1898,
+      "karma": 1900,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -402,9 +429,9 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 40,
+    "score": 42,
     "flags": 1,
-    "comment_count": 24,
+    "comment_count": 26,
     "description": "",
     "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
     "submitter_user": {
@@ -413,7 +440,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5778,
+      "karma": 5780,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -433,7 +460,7 @@
     "created_at": "2021-08-04T15:27:47.000-05:00",
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 18,
+    "score": 19,
     "flags": 1,
     "comment_count": 5,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
@@ -444,7 +471,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7054,
+      "karma": 7055,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -459,7 +486,7 @@
     "created_at": "2021-08-04T13:20:37.000-05:00",
     "title": "Security Analysis of CHERI ISA",
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -470,7 +497,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4413,
+      "karma": 4414,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -516,7 +543,7 @@
     "created_at": "2021-08-04T10:57:23.000-05:00",
     "title": "Elements of Differential Geometry in Lean: A Report for Mathematicians",
     "url": "https://arxiv.org/abs/2108.00484",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -527,7 +554,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1160,
+      "karma": 1161,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -567,9 +594,9 @@
     "created_at": "2021-08-04T09:28:26.000-05:00",
     "title": "We need an open source license for distributed systems",
     "url": "http://catern.com/freedist.html",
-    "score": 16,
+    "score": 17,
     "flags": 1,
-    "comment_count": 17,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/pxelf1/we_need_open_source_license_for",
     "submitter_user": {
@@ -578,7 +605,7 @@
       "is_admin": false,
       "about": "Hello, this is my lobste.rs account.",
       "is_moderator": false,
-      "karma": 208,
+      "karma": 209,
       "avatar_url": "/avatars/catern-100.png",
       "invited_by_user": "janus",
       "github_username": "catern",
@@ -595,7 +622,7 @@
     "created_at": "2021-08-04T08:37:03.000-05:00",
     "title": "Pinion — Nice-looking interactive diagrams for KiCAD PCBs",
     "url": "https://yaqwsx.github.io/Pinion/",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 3,
     "description": "<p>And here’s the <a href=\"https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/\" rel=\"ugc\">Pinion release announcement blogpost from the author</a></p>\n",
@@ -606,7 +633,7 @@
       "is_admin": false,
       "about": "Software developer. Dad. Tinkerer. he/they.",
       "is_moderator": false,
-      "karma": 1889,
+      "karma": 1890,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -621,9 +648,9 @@
     "created_at": "2021-08-04T07:27:06.000-05:00",
     "title": "Optional Chaining: The ?. Operator in TypeScript",
     "url": "https://mariusschulz.com/blog/optional-chaining-the-operator-in-typescript",
-    "score": 11,
+    "score": 12,
     "flags": 0,
-    "comment_count": 31,
+    "comment_count": 32,
     "description": "",
     "comments_url": "https://lobste.rs/s/hftt3k/optional_chaining_operator_typescript",
     "submitter_user": {
@@ -632,40 +659,12 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 190,
+      "karma": 191,
       "avatar_url": "/avatars/mariusschulz-100.png",
       "invited_by_user": "alynpost"
     },
     "tags": [
       "javascript"
-    ]
-  },
-  {
-    "short_id": "5j6l7w",
-    "short_id_url": "https://lobste.rs/s/5j6l7w",
-    "created_at": "2021-08-04T06:52:00.000-05:00",
-    "title": "React Children, Iteration Methods and Their Limitations",
-    "url": "https://www.smashingmagazine.com/2021/08/react-children-iteration-methods/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/5j6l7w/react_children_iteration_methods_their",
-    "submitter_user": {
-      "username": "arihantverma",
-      "created_at": "2017-08-30T04:39:01.000-05:00",
-      "is_admin": false,
-      "about": "I read open source code and write about it",
-      "is_moderator": false,
-      "karma": 6,
-      "avatar_url": "/avatars/arihantverma-100.png",
-      "invited_by_user": "pgl",
-      "github_username": "arihantverma",
-      "twitter_username": "gdadsriver"
-    },
-    "tags": [
-      "javascript",
-      "web"
     ]
   }
 ]
