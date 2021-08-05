@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "18uvjm",
+    "short_id_url": "https://lobste.rs/s/18uvjm",
+    "created_at": "2021-08-05T04:46:20.000-05:00",
+    "title": "640 Pages in 15 Months",
+    "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/18uvjm/640_pages_15_months",
+    "submitter_user": {
+      "username": "klingtnet",
+      "created_at": "2016-12-16T04:04:25.000-06:00",
+      "is_admin": false,
+      "about": "[klingt.net](https://klingt.net)",
+      "is_moderator": false,
+      "karma": 1297,
+      "avatar_url": "/avatars/klingtnet-100.png",
+      "invited_by_user": "ktsl",
+      "github_username": "klingtnet"
+    },
+    "tags": [
+      "book"
+    ]
+  },
+  {
     "short_id": "es290l",
     "short_id_url": "https://lobste.rs/s/es290l",
     "created_at": "2021-08-05T03:08:53.000-05:00",
     "title": "Haskell-like patterns in Lisp",
     "url": "http://www.lispology.com/show?3FY9",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 616,
+      "karma": 617,
       "avatar_url": "/avatars/notagoodidea-100.png",
       "invited_by_user": "wrl"
     },
@@ -57,9 +83,9 @@
     "created_at": "2021-08-04T20:11:06.000-05:00",
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "score": 14,
+    "score": 16,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/jsvcu3/airyx_os",
     "submitter_user": {
@@ -68,7 +94,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1021,
+      "karma": 1024,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -137,7 +163,7 @@
     "created_at": "2021-08-04T17:34:22.000-05:00",
     "title": "Mario Paint Masterpiece",
     "url": "https://www.charlieharrington.com/mario-paint-masterpiece/",
-    "score": -1,
+    "score": 0,
     "flags": 3,
     "comment_count": 0,
     "description": "",
@@ -148,7 +174,7 @@
       "is_admin": false,
       "about": "software engineer at Cruise",
       "is_moderator": false,
-      "karma": 177,
+      "karma": 178,
       "avatar_url": "/avatars/whatrocks-100.png",
       "invited_by_user": "ozan"
     },
@@ -164,7 +190,7 @@
     "created_at": "2021-08-04T17:31:55.000-05:00",
     "title": "Plug and Play History: The Design Decision That Made PCs Complicated",
     "url": "https://tedium.co/2021/08/04/plug-and-play-peripheral-history/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -175,7 +201,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81255,
+      "karma": 81259,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -202,7 +228,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81255,
+      "karma": 81259,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -218,7 +244,7 @@
     "created_at": "2021-08-04T16:39:55.000-05:00",
     "title": "Run Internet Explorer 5 in your browser",
     "url": "https://shkspr.mobi/blog/2021/08/run-internet-explorer-5-in-your-browser/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -229,7 +255,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11642,
+      "karma": 11645,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -272,7 +298,7 @@
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
     "score": 28,
     "flags": 1,
-    "comment_count": 11,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
     "submitter_user": {
@@ -301,7 +327,7 @@
     "created_at": "2021-08-04T15:27:47.000-05:00",
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 14,
+    "score": 16,
     "flags": 0,
     "comment_count": 3,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
@@ -312,7 +338,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7049,
+      "karma": 7051,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -327,7 +353,7 @@
     "created_at": "2021-08-04T13:20:37.000-05:00",
     "title": "Security Analysis of CHERI ISA",
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -338,7 +364,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4411,
+      "karma": 4412,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -648,33 +674,6 @@
       "historical",
       "unix",
       "video"
-    ]
-  },
-  {
-    "short_id": "pbmglj",
-    "short_id_url": "https://lobste.rs/s/pbmglj",
-    "created_at": "2021-08-03T15:36:15.000-05:00",
-    "title": "How MDN’s autocomplete search works",
-    "url": "https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/pbmglj/how_mdn_s_autocomplete_search_works",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81255,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "javascript",
-      "programming"
     ]
   }
 ]
