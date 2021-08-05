@@ -1,13 +1,94 @@
 [
   {
+    "short_id": "k606rl",
+    "short_id_url": "https://lobste.rs/s/k606rl",
+    "created_at": "2021-08-05T09:12:04.000-05:00",
+    "title": "Dissecting the performance of production QUIC",
+    "url": "https://blog.apnic.net/2021/08/02/dissecting-the-performance-of-production-quic/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/k606rl/dissecting_performance_production_quic",
+    "submitter_user": {
+      "username": "orib",
+      "created_at": "2014-02-27T19:29:36.000-06:00",
+      "is_admin": false,
+      "about": "Ori Bernstein: http://eigenstate.org",
+      "is_moderator": false,
+      "karma": 4237,
+      "avatar_url": "/avatars/orib-100.png",
+      "invited_by_user": "vjoel"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
+    "short_id": "8yxtvb",
+    "short_id_url": "https://lobste.rs/s/8yxtvb",
+    "created_at": "2021-08-05T08:47:03.000-05:00",
+    "title": "Simple and Precise Static Analysis of Untrusted Linux Kernel Extensions (2019)",
+    "url": "http://seahorn.github.io/papers/ebpf-pldi19.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Abstract: “Extended Berkeley Packet Filter (eBPF) is a Linux subsystem\nthat allows safely executing untrusted user-defined extensions inside the kernel. It relies on static analysis to protect\nthe kernel against buggy and malicious extensions. As the\neBPF ecosystem evolves to support more complex and diverse extensions, the limitations of its current verifier, including high rate of false positives, poor scalability, and lack\nof support for loops, have become a major barrier for developers.</p>\n<p>We design a static analyzer for eBPF within the framework\nof abstract interpretation. Our choice of abstraction is based\non common patterns found in many eBPF programs. We\nobserved that eBPF programs manipulate memory in a rather\ndisciplined way which permits analyzing them successfully\nwith a scalable mixture of very-precise abstraction of certain\nbounded regions with coarser abstractions of other parts\nof the memory. We use the Zone domain, a simple domain\nthat tracks differences between pairs of registers and offsets,\nto achieve precise and scalable analysis. We demonstrate\nthat this abstraction is as precise in practice as more costly\nabstract domains like Octagon and Polyhedra.</p>\n<p>Furthermore, our evaluation, based on hundreds of real-\nworld eBPF programs, shows that the new tool generates\nno more false alarms than the existing Linux verifier, while\nit supports a wider class of programs (including programs\nwith loops) and has better asymptotic complexity.”</p>\n",
+    "comments_url": "https://lobste.rs/s/8yxtvb/simple_precise_static_analysis",
+    "submitter_user": {
+      "username": "nickpsecurity",
+      "created_at": "2016-07-28T14:11:08.000-05:00",
+      "is_admin": false,
+      "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
+      "is_moderator": false,
+      "karma": 22186,
+      "avatar_url": "/avatars/nickpsecurity-100.png",
+      "invited_by_user": "tedu"
+    },
+    "tags": [
+      "assembly",
+      "c",
+      "formalmethods",
+      "pdf",
+      "security"
+    ]
+  },
+  {
+    "short_id": "usfa6f",
+    "short_id_url": "https://lobste.rs/s/usfa6f",
+    "created_at": "2021-08-05T08:46:16.000-05:00",
+    "title": "Simulating worlds on the GPU",
+    "url": "https://davidar.io/post/sim-glsl",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/usfa6f/simulating_worlds_on_gpu",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81274,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "graphics",
+      "programming"
+    ]
+  },
+  {
     "short_id": "wprseq",
     "short_id_url": "https://lobste.rs/s/wprseq",
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 1,
+    "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/wprseq/on_unix_composability",
     "submitter_user": {
@@ -16,7 +97,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 501,
+      "karma": 506,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -30,9 +111,9 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/18uvjm/640_pages_15_months",
     "submitter_user": {
@@ -41,7 +122,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1304,
+      "karma": 1305,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -56,9 +137,9 @@
     "created_at": "2021-08-05T03:08:53.000-05:00",
     "title": "Haskell-like patterns in Lisp",
     "url": "http://www.lispology.com/show?3FY9",
-    "score": 4,
+    "score": 6,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/es290l/haskell_like_patterns_lisp",
     "submitter_user": {
@@ -67,7 +148,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 619,
+      "karma": 621,
       "avatar_url": "/avatars/notagoodidea-100.png",
       "invited_by_user": "wrl"
     },
@@ -82,7 +163,7 @@
     "created_at": "2021-08-04T21:03:39.000-05:00",
     "title": "Slitter: a slab allocator that trusts, but verifies",
     "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Disclaimer, I work for the company.</p>\n",
@@ -93,7 +174,7 @@
       "is_admin": false,
       "about": "Small time sysadmin, and Rust, Python, and assembly dev. Located in Long Island, New York.",
       "is_moderator": false,
-      "karma": 923,
+      "karma": 924,
       "avatar_url": "/avatars/aleph-100.png",
       "invited_by_user": "lukas"
     },
@@ -136,7 +217,7 @@
     "url": "http://www.literateprogramming.com/canthappen.pdf",
     "score": 3,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "<p>UNIX programmers too often fail to check for failure of system calls or functions, taking the familiar teen-age attitude that ‘‘it can’t happen to me (or my program)’’. This paper will attempt to convince its audience to take prophylactic measures. Those who take such measures will be healthier − and less prone to surprises − than those who don’t take such measures.<br>\nIn the tradition of the classic Elements of Programming Style some real-world pro-grams will be criticised publicly. Actual production (or soi-disant production) UNIX programs and subsystems will be examined. Each of these ‘‘provides one or more lessons in style.’’ We present both before and after versions of most code fragments.\nCome on out and see if we abuse one of your programs − or your programming style!</p>\n",
     "comments_url": "https://lobste.rs/s/yn4d9u/can_t_happen_notreached_real_programs",
     "submitter_user": {
@@ -215,7 +296,7 @@
     "created_at": "2021-08-04T17:31:55.000-05:00",
     "title": "Plug and Play History: The Design Decision That Made PCs Complicated",
     "url": "https://tedium.co/2021/08/04/plug-and-play-peripheral-history/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -226,7 +307,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81270,
+      "karma": 81274,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -253,7 +334,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81270,
+      "karma": 81274,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -321,9 +402,9 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 39,
+    "score": 40,
     "flags": 1,
-    "comment_count": 19,
+    "comment_count": 24,
     "description": "",
     "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
     "submitter_user": {
@@ -332,7 +413,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5777,
+      "karma": 5778,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -353,8 +434,8 @@
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
     "score": 18,
-    "flags": 0,
-    "comment_count": 4,
+    "flags": 1,
+    "comment_count": 5,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
     "comments_url": "https://lobste.rs/s/bgb9qc/3rd_edition_web_development_with_clojure",
     "submitter_user": {
@@ -363,7 +444,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7053,
+      "karma": 7054,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -378,7 +459,7 @@
     "created_at": "2021-08-04T13:20:37.000-05:00",
     "title": "Security Analysis of CHERI ISA",
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -389,7 +470,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4412,
+      "karma": 4413,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -488,7 +569,7 @@
     "url": "http://catern.com/freedist.html",
     "score": 16,
     "flags": 1,
-    "comment_count": 14,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/pxelf1/we_need_open_source_license_for",
     "submitter_user": {
@@ -584,93 +665,6 @@
     },
     "tags": [
       "javascript",
-      "web"
-    ]
-  },
-  {
-    "short_id": "nyi7my",
-    "short_id_url": "https://lobste.rs/s/nyi7my",
-    "created_at": "2021-08-04T01:22:22.000-05:00",
-    "title": "Unconventional Ways of Using GraphQL",
-    "url": "https://stepzen.com/blog/unconvential-ways-to-use-graphql",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nyi7my/unconventional_ways_using_graphql",
-    "submitter_user": {
-      "username": "friendlysock",
-      "created_at": "2014-02-20T00:43:41.000-06:00",
-      "is_admin": false,
-      "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
-      "is_moderator": false,
-      "karma": 35752,
-      "avatar_url": "/avatars/friendlysock-100.png",
-      "invited_by_user": "MasonJar"
-    },
-    "tags": [
-      "api",
-      "web"
-    ]
-  },
-  {
-    "short_id": "xipnps",
-    "short_id_url": "https://lobste.rs/s/xipnps",
-    "created_at": "2021-08-04T00:03:04.000-05:00",
-    "title": "Introducing elm-pages 2.0",
-    "url": "https://elm-pages.com/blog/introducing-v2",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xipnps/introducing_elm_pages_2_0",
-    "submitter_user": {
-      "username": "adamshaylor",
-      "created_at": "2020-10-26T20:04:57.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 334,
-      "avatar_url": "/avatars/adamshaylor-100.png",
-      "invited_by_user": "peterc",
-      "github_username": "adamshaylor",
-      "keybase_signatures": [
-        {
-          "kb_username": "adamshaylor",
-          "sig_hash": "0ebd1a3d88d97f20922147a75889dfcae02b632d94156b9315a6d93384ae2e4f0f"
-        }
-      ]
-    },
-    "tags": [
-      "elm",
-      "release",
-      "web"
-    ]
-  },
-  {
-    "short_id": "bslpwj",
-    "short_id_url": "https://lobste.rs/s/bslpwj",
-    "created_at": "2021-08-03T17:13:11.000-05:00",
-    "title": "Exploring the SameSite cookie attribute for preventing CSRF",
-    "url": "https://simonwillison.net/2021/Aug/3/samesite/",
-    "score": 16,
-    "flags": 0,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bslpwj/exploring_samesite_cookie_attribute_for",
-    "submitter_user": {
-      "username": "simonw",
-      "created_at": "2021-07-29T15:43:15.000-05:00",
-      "is_admin": false,
-      "about": "Creator of https://datasette.io",
-      "is_moderator": false,
-      "karma": 28,
-      "avatar_url": "/avatars/simonw-100.png",
-      "invited_by_user": "scoates"
-    },
-    "tags": [
-      "browsers",
-      "security",
       "web"
     ]
   }
