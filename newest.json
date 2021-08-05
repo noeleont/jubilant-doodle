@@ -1,12 +1,90 @@
 [
   {
+    "short_id": "gbsewl",
+    "short_id_url": "https://lobste.rs/s/gbsewl",
+    "created_at": "2021-08-05T15:04:10.000-05:00",
+    "title": "Reverse Engineering the M1",
+    "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gbsewl/reverse_engineering_m1",
+    "submitter_user": {
+      "username": "deejayy",
+      "created_at": "2021-07-12T16:23:45.000-05:00",
+      "is_admin": false,
+      "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
+      "is_moderator": false,
+      "karma": 51,
+      "avatar_url": "/avatars/deejayy-100.png",
+      "invited_by_user": "indigo"
+    },
+    "tags": [
+      "hardware",
+      "pdf",
+      "reversing"
+    ]
+  },
+  {
+    "short_id": "sfacek",
+    "short_id_url": "https://lobste.rs/s/sfacek",
+    "created_at": "2021-08-05T14:56:36.000-05:00",
+    "title": "Another Nix Success Story",
+    "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/sfacek/another_nix_success_story",
+    "submitter_user": {
+      "username": "maxdeviant",
+      "created_at": "2021-05-10T19:44:31.000-05:00",
+      "is_admin": false,
+      "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/maxdeviant-100.png",
+      "invited_by_user": "cadey"
+    },
+    "tags": [
+      "programming",
+      "unix"
+    ]
+  },
+  {
+    "short_id": "4l82yh",
+    "short_id_url": "https://lobste.rs/s/4l82yh",
+    "created_at": "2021-08-05T14:40:32.000-05:00",
+    "title": "Using UTF‐8 [in OpenBSD] (2010)",
+    "url": "http://daemonforums.org/showthread.php?t=5371&highlight=greek",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/4l82yh/using_utf_8_openbsd_2010",
+    "submitter_user": {
+      "username": "rjpcasalino",
+      "created_at": "2017-01-06T17:15:39.000-06:00",
+      "is_admin": false,
+      "about": "If problems occur, consult the internet.",
+      "is_moderator": false,
+      "karma": 937,
+      "avatar_url": "/avatars/rjpcasalino-100.png",
+      "invited_by_user": "bsima"
+    },
+    "tags": [
+      "openbsd"
+    ]
+  },
+  {
     "short_id": "anvdpv",
     "short_id_url": "https://lobste.rs/s/anvdpv",
     "created_at": "2021-08-05T13:55:15.000-05:00",
     "title": "What is Zanzibar?",
     "url": "https://authzed.com/blog/what-is-zanzibar/",
-    "score": 1,
-    "flags": 0,
+    "score": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "<p>Disclosure: I’m one of the authzed founders</p>\n",
     "comments_url": "https://lobste.rs/s/anvdpv/what_is_zanzibar",
@@ -16,7 +94,7 @@
       "is_admin": false,
       "about": "cofounder [authzed](https://authzed.com)\r\n\r\npreviously product & engineering at CoreOS→Red Hat\r\n\r\n- [website](https://jzelinskie.com)\r\n- [twitter](https://twitter.com/jimmyzelinskie)\r\n- [github](https://github.com/jzelinskie)",
       "is_moderator": false,
-      "karma": 0,
+      "karma": -1,
       "avatar_url": "/avatars/jzelinskie-100.png",
       "invited_by_user": "FiloSottile",
       "github_username": "jzelinskie"
@@ -33,7 +111,7 @@
     "created_at": "2021-08-05T13:11:16.000-05:00",
     "title": "Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps",
     "url": "https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -44,7 +122,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1174,
+      "karma": 1175,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -140,9 +218,9 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 7,
+    "score": 9,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/ipghop/visualizing_codebase",
     "submitter_user": {
@@ -151,7 +229,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 190,
+      "karma": 194,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -165,7 +243,7 @@
     "created_at": "2021-08-05T08:47:03.000-05:00",
     "title": "Simple and Precise Static Analysis of Untrusted Linux Kernel Extensions (2019)",
     "url": "http://seahorn.github.io/papers/ebpf-pldi19.pdf",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Abstract: “Extended Berkeley Packet Filter (eBPF) is a Linux subsystem\nthat allows safely executing untrusted user-defined extensions inside the kernel. It relies on static analysis to protect\nthe kernel against buggy and malicious extensions. As the\neBPF ecosystem evolves to support more complex and diverse extensions, the limitations of its current verifier, including high rate of false positives, poor scalability, and lack\nof support for loops, have become a major barrier for developers.</p>\n<p>We design a static analyzer for eBPF within the framework\nof abstract interpretation. Our choice of abstraction is based\non common patterns found in many eBPF programs. We\nobserved that eBPF programs manipulate memory in a rather\ndisciplined way which permits analyzing them successfully\nwith a scalable mixture of very-precise abstraction of certain\nbounded regions with coarser abstractions of other parts\nof the memory. We use the Zone domain, a simple domain\nthat tracks differences between pairs of registers and offsets,\nto achieve precise and scalable analysis. We demonstrate\nthat this abstraction is as precise in practice as more costly\nabstract domains like Octagon and Polyhedra.</p>\n<p>Furthermore, our evaluation, based on hundreds of real-\nworld eBPF programs, shows that the new tool generates\nno more false alarms than the existing Linux verifier, while\nit supports a wider class of programs (including programs\nwith loops) and has better asymptotic complexity.”</p>\n",
@@ -176,7 +254,7 @@
       "is_admin": false,
       "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
       "is_moderator": false,
-      "karma": 22188,
+      "karma": 22189,
       "avatar_url": "/avatars/nickpsecurity-100.png",
       "invited_by_user": "tedu"
     },
@@ -205,7 +283,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81286,
+      "karma": 81287,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -221,7 +299,7 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -232,7 +310,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 518,
+      "karma": 521,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -246,7 +324,7 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 27,
+    "score": 28,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -257,7 +335,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1322,
+      "karma": 1323,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -298,7 +376,7 @@
     "created_at": "2021-08-04T21:03:39.000-05:00",
     "title": "Slitter: a slab allocator that trusts, but verifies",
     "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Disclaimer, I work for the company.</p>\n",
@@ -309,7 +387,7 @@
       "is_admin": false,
       "about": "Small time sysadmin, and Rust, Python, and assembly dev. Located in Long Island, New York.",
       "is_moderator": false,
-      "karma": 926,
+      "karma": 927,
       "avatar_url": "/avatars/aleph-100.png",
       "invited_by_user": "lukas"
     },
@@ -324,7 +402,7 @@
     "created_at": "2021-08-04T20:11:06.000-05:00",
     "title": "Airyx OS",
     "url": "http://airyx.org/",
-    "score": 30,
+    "score": 31,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -335,7 +413,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1044,
+      "karma": 1046,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -361,7 +439,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1902,
+      "karma": 1903,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -442,7 +520,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81286,
+      "karma": 81287,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -469,7 +547,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81286,
+      "karma": 81287,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -521,7 +599,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1902,
+      "karma": 1903,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -537,7 +615,7 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 45,
+    "score": 46,
     "flags": 1,
     "comment_count": 31,
     "description": "",
@@ -548,7 +626,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5783,
+      "karma": 5784,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -568,7 +646,7 @@
     "created_at": "2021-08-04T15:27:47.000-05:00",
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 21,
+    "score": 22,
     "flags": 1,
     "comment_count": 5,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
@@ -579,96 +657,13 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7058,
+      "karma": 7059,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
     "tags": [
       "clojure",
       "web"
-    ]
-  },
-  {
-    "short_id": "qg9lsw",
-    "short_id_url": "https://lobste.rs/s/qg9lsw",
-    "created_at": "2021-08-04T13:20:37.000-05:00",
-    "title": "Security Analysis of CHERI ISA",
-    "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/qg9lsw/security_analysis_cheri_isa",
-    "submitter_user": {
-      "username": "lattera",
-      "created_at": "2014-05-30T07:30:38.000-05:00",
-      "is_admin": false,
-      "about": "Cofounder of HardenedBSD, lover of most things opensource.",
-      "is_moderator": false,
-      "karma": 4414,
-      "avatar_url": "/avatars/lattera-100.png",
-      "invited_by_user": "xmj",
-      "github_username": "lattera",
-      "twitter_username": "lattera"
-    },
-    "tags": [
-      "pdf",
-      "security"
-    ]
-  },
-  {
-    "short_id": "lue1ux",
-    "short_id_url": "https://lobste.rs/s/lue1ux",
-    "created_at": "2021-08-04T12:40:28.000-05:00",
-    "title": "New Risk of Algorithm Confusion in Firebase/PHP-JWT",
-    "url": "https://github.com/firebase/php-jwt/issues/351",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lue1ux/new_risk_algorithm_confusion_firebase",
-    "submitter_user": {
-      "username": "sarciszewski",
-      "created_at": "2017-03-15T16:19:59.000-05:00",
-      "is_admin": false,
-      "about": "Possibly the biggest cryptography nerd of the PHP community. [Blog posts](https://paragonie.com/blog/author/scott-arciszewski).",
-      "is_moderator": false,
-      "karma": 247,
-      "avatar_url": "/avatars/sarciszewski-100.png",
-      "invited_by_user": "tptacek",
-      "github_username": "paragonie-scott",
-      "twitter_username": "CiPHPerCoder"
-    },
-    "tags": [
-      "crypto",
-      "php",
-      "security"
-    ]
-  },
-  {
-    "short_id": "4opgyl",
-    "short_id_url": "https://lobste.rs/s/4opgyl",
-    "created_at": "2021-08-04T10:57:23.000-05:00",
-    "title": "Elements of Differential Geometry in Lean: A Report for Mathematicians",
-    "url": "https://arxiv.org/abs/2108.00484",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4opgyl/elements_differential_geometry_lean",
-    "submitter_user": {
-      "username": "mseri",
-      "created_at": "2014-03-24T10:51:17.000-05:00",
-      "is_admin": false,
-      "about": "Lifetime hacker, Mathematician and happy Maker :)",
-      "is_moderator": false,
-      "karma": 1161,
-      "avatar_url": "/avatars/mseri-100.png",
-      "invited_by_user": "orliesaurus"
-    },
-    "tags": [
-      "formalmethods",
-      "math"
     ]
   }
 ]
