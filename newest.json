@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "cdemej",
+    "short_id_url": "https://lobste.rs/s/cdemej",
+    "created_at": "2021-08-05T12:03:02.000-05:00",
+    "title": "Personal Computing On An Amiga In 2021",
+    "url": "https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cdemej/personal_computing_on_amiga_2021",
+    "submitter_user": {
+      "username": "SoapDog",
+      "created_at": "2018-01-28T14:45:55.000-06:00",
+      "is_admin": false,
+      "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
+      "is_moderator": false,
+      "karma": 2052,
+      "avatar_url": "/avatars/SoapDog-100.png",
+      "invited_by_user": "vladikoff"
+    },
+    "tags": [
+      "historical"
+    ]
+  },
+  {
     "short_id": "zfnakk",
     "short_id_url": "https://lobste.rs/s/zfnakk",
     "created_at": "2021-08-05T10:46:01.000-05:00",
     "title": "EmacsConf 2021 Call for Proposals",
     "url": "https://emacsconf.org/2021/cfp/",
-    "score": 2,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "https://bndl.org",
       "is_moderator": false,
-      "karma": 948,
+      "karma": 952,
       "avatar_url": "/avatars/bandali-100.png",
       "invited_by_user": "zg"
     },
@@ -31,9 +56,9 @@
     "created_at": "2021-08-05T10:10:48.000-05:00",
     "title": "Dissecting the performance of production QUIC",
     "url": "https://cs.brown.edu/~tab/papers/QUIC_WWW21.pdf",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ujbiom/dissecting_performance_production_quic",
     "submitter_user": {
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "Ori Bernstein: http://eigenstate.org",
       "is_moderator": false,
-      "karma": 4240,
+      "karma": 4241,
       "avatar_url": "/avatars/orib-100.png",
       "invited_by_user": "vjoel"
     },
@@ -60,7 +85,7 @@
     "url": "https://octo.github.com/projects/repo-visualization",
     "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ipghop/visualizing_codebase",
     "submitter_user": {
@@ -112,7 +137,7 @@
     "created_at": "2021-08-05T08:46:16.000-05:00",
     "title": "Simulating worlds on the GPU",
     "url": "https://davidar.io/post/sim-glsl",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -123,7 +148,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81280,
+      "karma": 81283,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -139,7 +164,7 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -150,7 +175,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 513,
+      "karma": 514,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -164,9 +189,9 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 17,
+    "score": 22,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/18uvjm/640_pages_15_months",
     "submitter_user": {
@@ -175,7 +200,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1312,
+      "karma": 1317,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -190,9 +215,9 @@
     "created_at": "2021-08-05T03:08:53.000-05:00",
     "title": "Haskell-like patterns in Lisp",
     "url": "http://www.lispology.com/show?3FY9",
-    "score": 9,
+    "score": 11,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/es290l/haskell_like_patterns_lisp",
     "submitter_user": {
@@ -201,7 +226,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 624,
+      "karma": 626,
       "avatar_url": "/avatars/notagoodidea-100.png",
       "invited_by_user": "wrl"
     },
@@ -268,7 +293,7 @@
     "created_at": "2021-08-04T18:02:06.000-05:00",
     "title": "Can’t Happen or /* NOTREACHED */ or Real Programs Dump Core* (1985)",
     "url": "http://www.literateprogramming.com/canthappen.pdf",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 7,
     "description": "<p>UNIX programmers too often fail to check for failure of system calls or functions, taking the familiar teen-age attitude that ‘‘it can’t happen to me (or my program)’’. This paper will attempt to convince its audience to take prophylactic measures. Those who take such measures will be healthier − and less prone to surprises − than those who don’t take such measures.<br>\nIn the tradition of the classic Elements of Programming Style some real-world pro-grams will be criticised publicly. Actual production (or soi-disant production) UNIX programs and subsystems will be examined. Each of these ‘‘provides one or more lessons in style.’’ We present both before and after versions of most code fragments.\nCome on out and see if we abuse one of your programs − or your programming style!</p>\n",
@@ -279,7 +304,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1900,
+      "karma": 1902,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -360,7 +385,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81280,
+      "karma": 81283,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -376,7 +401,7 @@
     "created_at": "2021-08-04T16:56:50.000-05:00",
     "title": "Snapcraft Packages Come With Extra Baggage",
     "url": "https://blog.ret2.io/2021/08/04/snapcraft-injection/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -387,7 +412,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81280,
+      "karma": 81283,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -428,7 +453,7 @@
     "created_at": "2021-08-04T15:50:50.000-05:00",
     "title": "This Videogame Developer Used the STL and You'll Never Guess What Happened",
     "url": "https://www.youtube.com/watch?v=xoEUO9DezV8",
-    "score": 3,
+    "score": 4,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -439,7 +464,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1900,
+      "karma": 1902,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -455,9 +480,9 @@
     "created_at": "2021-08-04T15:32:07.000-05:00",
     "title": "Microsoft Edge experimenting with a Super Duper Secure Mode",
     "url": "https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/",
-    "score": 43,
+    "score": 44,
     "flags": 1,
-    "comment_count": 27,
+    "comment_count": 29,
     "description": "",
     "comments_url": "https://lobste.rs/s/lztelo/microsoft_edge_experimenting_with_super",
     "submitter_user": {
@@ -466,7 +491,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5781,
+      "karma": 5782,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -486,7 +511,7 @@
     "created_at": "2021-08-04T15:27:47.000-05:00",
     "title": "3rd edition of Web Development with Clojure is out",
     "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 20,
+    "score": 21,
     "flags": 1,
     "comment_count": 5,
     "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
@@ -497,7 +522,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7057,
+      "karma": 7058,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -514,7 +539,7 @@
     "url": "https://github.com/microsoft/MSRC-Security-Research/blob/master/presentations/2021_08_BlackHatUSA/BHUSA21_Security_Analysis_of_CHERI_ISA.pdf",
     "score": 11,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/qg9lsw/security_analysis_cheri_isa",
     "submitter_user": {
@@ -597,7 +622,7 @@
     "url": "https://pythonspeed.com/articles/numpy-memory-views/",
     "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/nwni8n/numpy_views_saving_memory_leaking_memory",
     "submitter_user": {
@@ -640,32 +665,6 @@
     "tags": [
       "distributed",
       "law"
-    ]
-  },
-  {
-    "short_id": "flmbmu",
-    "short_id_url": "https://lobste.rs/s/flmbmu",
-    "created_at": "2021-08-04T08:37:03.000-05:00",
-    "title": "Pinion — Nice-looking interactive diagrams for KiCAD PCBs",
-    "url": "https://yaqwsx.github.io/Pinion/",
-    "score": 20,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "<p>And here’s the <a href=\"https://blog.honzamrazek.cz/2021/06/making-nice-looking-and-interactive-diagrams-for-your-pcbs/\" rel=\"ugc\">Pinion release announcement blogpost from the author</a></p>\n",
-    "comments_url": "https://lobste.rs/s/flmbmu/pinion_nice_looking_interactive",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Software developer. Dad. Tinkerer. he/they.",
-      "is_moderator": false,
-      "karma": 1890,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "design",
-      "hardware"
     ]
   }
 ]
