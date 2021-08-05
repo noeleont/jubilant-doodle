@@ -1,13 +1,47 @@
 [
   {
+    "short_id": "57bky5",
+    "short_id_url": "https://lobste.rs/s/57bky5",
+    "created_at": "2021-08-05T15:22:33.000-05:00",
+    "title": "Ten Years of Kotlin",
+    "url": "https://blog.jetbrains.com/kotlin/2021/08/ten-years-of-kotlin/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/57bky5/ten_years_kotlin",
+    "submitter_user": {
+      "username": "dayanruben",
+      "created_at": "2020-04-23T09:46:55.000-05:00",
+      "is_admin": false,
+      "about": "Mobile Software Engineer",
+      "is_moderator": false,
+      "karma": 614,
+      "avatar_url": "/avatars/dayanruben-100.png",
+      "invited_by_user": "jonhoo",
+      "github_username": "dayanruben",
+      "twitter_username": "dayanruben",
+      "keybase_signatures": [
+        {
+          "kb_username": "dayanruben",
+          "sig_hash": "3a38a509e16e82198c83a4bf8db711007c00607e45d96508bd1b76d82ecd343b0f"
+        }
+      ]
+    },
+    "tags": [
+      "historical",
+      "programming"
+    ]
+  },
+  {
     "short_id": "gbsewl",
     "short_id_url": "https://lobste.rs/s/gbsewl",
     "created_at": "2021-08-05T15:04:10.000-05:00",
     "title": "Reverse Engineering the M1",
     "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/gbsewl/reverse_engineering_m1",
     "submitter_user": {
@@ -16,7 +50,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 51,
+      "karma": 52,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -32,8 +66,8 @@
     "created_at": "2021-08-05T14:56:36.000-05:00",
     "title": "Another Nix Success Story",
     "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
-    "score": 1,
-    "flags": 0,
+    "score": 3,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/sfacek/another_nix_success_story",
@@ -43,9 +77,10 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 0,
+      "karma": 2,
       "avatar_url": "/avatars/maxdeviant-100.png",
-      "invited_by_user": "cadey"
+      "invited_by_user": "cadey",
+      "github_username": "maxdeviant"
     },
     "tags": [
       "programming",
@@ -58,7 +93,7 @@
     "created_at": "2021-08-05T14:40:32.000-05:00",
     "title": "Using UTF‐8 [in OpenBSD] (2010)",
     "url": "http://daemonforums.org/showthread.php?t=5371&highlight=greek",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +104,7 @@
       "is_admin": false,
       "about": "If problems occur, consult the internet.",
       "is_moderator": false,
-      "karma": 937,
+      "karma": 938,
       "avatar_url": "/avatars/rjpcasalino-100.png",
       "invited_by_user": "bsima"
     },
@@ -218,9 +253,9 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 5,
+    "score": 10,
+    "flags": 1,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/ipghop/visualizing_codebase",
     "submitter_user": {
@@ -229,7 +264,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 194,
+      "karma": 195,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -283,7 +318,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81287,
+      "karma": 81291,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -299,9 +334,9 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 17,
+    "score": 19,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/wprseq/on_unix_composability",
     "submitter_user": {
@@ -310,7 +345,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 521,
+      "karma": 524,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -324,9 +359,9 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 28,
+    "score": 30,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/18uvjm/640_pages_15_months",
     "submitter_user": {
@@ -335,7 +370,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1323,
+      "karma": 1325,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -413,7 +448,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1046,
+      "karma": 1047,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -430,7 +465,7 @@
     "url": "http://www.literateprogramming.com/canthappen.pdf",
     "score": 5,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "<p>UNIX programmers too often fail to check for failure of system calls or functions, taking the familiar teen-age attitude that ‘‘it can’t happen to me (or my program)’’. This paper will attempt to convince its audience to take prophylactic measures. Those who take such measures will be healthier − and less prone to surprises − than those who don’t take such measures.<br>\nIn the tradition of the classic Elements of Programming Style some real-world pro-grams will be criticised publicly. Actual production (or soi-disant production) UNIX programs and subsystems will be examined. Each of these ‘‘provides one or more lessons in style.’’ We present both before and after versions of most code fragments.\nCome on out and see if we abuse one of your programs − or your programming style!</p>\n",
     "comments_url": "https://lobste.rs/s/yn4d9u/can_t_happen_notreached_real_programs",
     "submitter_user": {
@@ -439,7 +474,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1903,
+      "karma": 1904,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -520,7 +555,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81287,
+      "karma": 81291,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -547,7 +582,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81287,
+      "karma": 81291,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -599,7 +634,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1903,
+      "karma": 1904,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -638,32 +673,6 @@
     },
     "tags": [
       "browsers"
-    ]
-  },
-  {
-    "short_id": "bgb9qc",
-    "short_id_url": "https://lobste.rs/s/bgb9qc",
-    "created_at": "2021-08-04T15:27:47.000-05:00",
-    "title": "3rd edition of Web Development with Clojure is out",
-    "url": "https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/",
-    "score": 22,
-    "flags": 1,
-    "comment_count": 5,
-    "description": "<p>40% off ebook version with code DSWDCLOJ3COMPLETE</p>\n",
-    "comments_url": "https://lobste.rs/s/bgb9qc/3rd_edition_web_development_with_clojure",
-    "submitter_user": {
-      "username": "Yogthos",
-      "created_at": "2017-05-26T15:31:12.000-05:00",
-      "is_admin": false,
-      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
-      "is_moderator": false,
-      "karma": 7059,
-      "avatar_url": "/avatars/Yogthos-100.png",
-      "invited_by_user": "gered"
-    },
-    "tags": [
-      "clojure",
-      "web"
     ]
   }
 ]
