@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "0s7b5h",
+    "short_id_url": "https://lobste.rs/s/0s7b5h",
+    "created_at": "2021-08-06T15:43:56.000-05:00",
+    "title": "What are you doing this weekend?",
+    "url": "",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+    "comments_url": "https://lobste.rs/s/0s7b5h/what_are_you_doing_this_weekend",
+    "submitter_user": {
+      "username": "caius",
+      "created_at": "2014-05-13T06:58:30.000-05:00",
+      "is_admin": false,
+      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
+      "is_moderator": false,
+      "karma": 6391,
+      "avatar_url": "/avatars/caius-100.png",
+      "invited_by_user": "lauris",
+      "github_username": "caius",
+      "twitter_username": "Caius"
+    },
+    "tags": [
+      "ask",
+      "programming"
+    ]
+  },
+  {
+    "short_id": "n4fhhh",
+    "short_id_url": "https://lobste.rs/s/n4fhhh",
+    "created_at": "2021-08-06T15:42:30.000-05:00",
+    "title": "Who wants to buy a readme?",
+    "url": "http://agora.download/files/blog/mvp.html",
+    "score": -2,
+    "flags": 3,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/n4fhhh/who_wants_buy_readme",
+    "submitter_user": {
+      "username": "rodarmor",
+      "created_at": "2019-02-04T15:33:17.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": -3,
+      "avatar_url": "/avatars/rodarmor-100.png",
+      "invited_by_user": "vaibhavsagar"
+    },
+    "tags": [
+      "rust"
+    ]
+  },
+  {
     "short_id": "stk8h0",
     "short_id_url": "https://lobste.rs/s/stk8h0",
     "created_at": "2021-08-06T14:58:13.000-05:00",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10486,
+      "karma": 10487,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -31,9 +84,9 @@
     "created_at": "2021-08-06T14:19:41.000-05:00",
     "title": "The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy",
     "url": "https://karl-voit.at/2021/07/23/emacs-lock-in/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/i7cc9l/emacs_lock_effect_emacs_sunk_cost_fallacy",
     "submitter_user": {
@@ -42,7 +95,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10519,
+      "karma": 10520,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -69,7 +122,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10486,
+      "karma": 10487,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -214,7 +267,7 @@
     "created_at": "2021-08-06T08:57:24.000-05:00",
     "title": "The Tao of Unicode Sparklines",
     "url": "https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -225,7 +278,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 702,
+      "karma": 703,
       "avatar_url": "/avatars/wizardishungry-100.png",
       "invited_by_user": "kusuriya",
       "github_username": "WIZARDISHUNGRY",
@@ -260,7 +313,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81322,
+      "karma": 81323,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -286,7 +339,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81322,
+      "karma": 81323,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -356,7 +409,7 @@
     "url": "https://dev.to/mapoulos/rust-first-thoughts-7l0",
     "score": 7,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/xbncik/rust_first_thoughts",
     "submitter_user": {
@@ -404,7 +457,7 @@
     "created_at": "2021-08-06T07:06:51.000-05:00",
     "title": "How does FaceTime Work?",
     "url": "https://matduggan.com/how-does-facetime-work/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -415,7 +468,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 99,
+      "karma": 100,
       "avatar_url": "/avatars/maduggan-100.png",
       "invited_by_user": "stephen"
     },
@@ -429,9 +482,9 @@
     "created_at": "2021-08-06T06:16:59.000-05:00",
     "title": "Firefox: Performance in progress",
     "url": "https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/",
-    "score": 18,
+    "score": 20,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/pskcfm/firefox_performance_progress",
     "submitter_user": {
@@ -440,7 +493,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 259,
+      "karma": 261,
       "avatar_url": "/avatars/discovery-100.png",
       "invited_by_user": "friendlysock"
     },
@@ -467,7 +520,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5802,
+      "karma": 5803,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -514,7 +567,7 @@
     "created_at": "2021-08-06T03:13:17.000-05:00",
     "title": "Stack Overflow Developer Survey 2021",
     "url": "https://insights.stackoverflow.com/survey/2021",
-    "score": 9,
+    "score": 11,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -525,7 +578,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 515,
+      "karma": 517,
       "avatar_url": "/avatars/JulianWgs-100.png",
       "invited_by_user": "355E3B",
       "github_username": "JulianWgs"
@@ -565,7 +618,7 @@
     "created_at": "2021-08-06T00:24:51.000-05:00",
     "title": "A Brief Intro To Monad Transformers",
     "url": "https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -576,7 +629,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 90,
+      "karma": 91,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -608,64 +661,6 @@
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "ihvn95",
-    "short_id_url": "https://lobste.rs/s/ihvn95",
-    "created_at": "2021-08-05T23:05:42.000-05:00",
-    "title": "Apple to scan U.S. iPhones for images of child sexual abuse",
-    "url": "https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196",
-    "score": 34,
-    "flags": 4,
-    "comment_count": 35,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ihvn95/apple_scan_u_s_iphones_for_images_child",
-    "submitter_user": {
-      "username": "duck_of_death",
-      "created_at": "2015-01-31T15:14:49.000-06:00",
-      "is_admin": false,
-      "about": "I'm a master of karate and friendship for everyone. I have lasers for hands.",
-      "is_moderator": false,
-      "karma": 1142,
-      "avatar_url": "/avatars/duck_of_death-100.png",
-      "invited_by_user": "LeahNeukirchen",
-      "keybase_signatures": [
-        {
-          "kb_username": "duck_of_death",
-          "sig_hash": "4334d497b2419534bbbd9bb467b9c8888f438daa4ff7157c761216e7c5fab8b60f"
-        }
-      ]
-    },
-    "tags": [
-      "ai",
-      "ios",
-      "privacy"
-    ]
-  },
-  {
-    "short_id": "vunlka",
-    "short_id_url": "https://lobste.rs/s/vunlka",
-    "created_at": "2021-08-05T22:45:43.000-05:00",
-    "title": "V8 Heap Sandbox - High-Level Design Doc",
-    "url": "https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/vunlka/v8_heap_sandbox_high_level_design_doc",
-    "submitter_user": {
-      "username": "fro",
-      "created_at": "2016-04-13T15:27:31.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1340,
-      "avatar_url": "/avatars/fro-100.png",
-      "invited_by_user": "xero"
-    },
-    "tags": [
-      "security"
     ]
   }
 ]
