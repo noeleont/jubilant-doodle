@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "hnbrpv",
+    "short_id_url": "https://lobste.rs/s/hnbrpv",
+    "created_at": "2021-08-06T03:13:17.000-05:00",
+    "title": "Stack Overflow Developer Survey 2021",
+    "url": "https://insights.stackoverflow.com/survey/2021",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hnbrpv/stack_overflow_developer_survey_2021",
+    "submitter_user": {
+      "username": "JulianWgs",
+      "created_at": "2020-09-24T14:54:13.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 500,
+      "avatar_url": "/avatars/JulianWgs-100.png",
+      "invited_by_user": "355E3B",
+      "github_username": "JulianWgs"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "pht43b",
     "short_id_url": "https://lobste.rs/s/pht43b",
     "created_at": "2021-08-06T01:13:31.000-05:00",
     "title": "PEP 657: Include Fine Grained Error Locations in Tracebacks",
     "url": "https://www.python.org/dev/peps/pep-0657/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 0,
+      "karma": 1,
       "avatar_url": "/avatars/erick-100.png",
       "invited_by_user": "jstoja"
     },
@@ -30,7 +56,7 @@
     "created_at": "2021-08-06T00:24:51.000-05:00",
     "title": "A Brief Intro To Monad Transformers",
     "url": "https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +67,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 79,
+      "karma": 81,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -81,9 +107,9 @@
     "created_at": "2021-08-05T23:05:42.000-05:00",
     "title": "Apple to scan U.S. iPhones for images of child sexual abuse",
     "url": "https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 1,
+    "score": 5,
+    "flags": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/ihvn95/apple_scan_u_s_iphones_for_images_child",
     "submitter_user": {
@@ -92,7 +118,7 @@
       "is_admin": false,
       "about": "I'm a master of karate and friendship for everyone. I have lasers for hands.",
       "is_moderator": false,
-      "karma": 1114,
+      "karma": 1113,
       "avatar_url": "/avatars/duck_of_death-100.png",
       "invited_by_user": "LeahNeukirchen",
       "keybase_signatures": [
@@ -165,9 +191,9 @@
     "created_at": "2021-08-05T16:25:52.000-05:00",
     "title": "HTTP/2: The Sequel is Always Worse",
     "url": "https://portswigger.net/research/http2",
-    "score": 6,
+    "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/ig6xuj/http_2_sequel_is_always_worse",
     "submitter_user": {
@@ -176,7 +202,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 59,
+      "karma": 62,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -236,7 +262,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 59,
+      "karma": 62,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -252,9 +278,9 @@
     "created_at": "2021-08-05T14:56:36.000-05:00",
     "title": "Another Nix Success Story",
     "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
-    "score": 34,
-    "flags": 2,
-    "comment_count": 12,
+    "score": 36,
+    "flags": 4,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/sfacek/another_nix_success_story",
     "submitter_user": {
@@ -263,7 +289,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 33,
+      "karma": 35,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant"
@@ -332,7 +358,7 @@
     "created_at": "2021-08-05T13:11:16.000-05:00",
     "title": "Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps",
     "url": "https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -343,7 +369,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1185,
+      "karma": 1186,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -361,7 +387,7 @@
     "created_at": "2021-08-05T12:03:02.000-05:00",
     "title": "Personal Computing On An Amiga In 2021",
     "url": "https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -372,7 +398,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2060,
+      "karma": 2061,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -439,7 +465,7 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 22,
+    "score": 27,
     "flags": 1,
     "comment_count": 8,
     "description": "",
@@ -450,7 +476,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 211,
+      "karma": 219,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -504,7 +530,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81300,
+      "karma": 81302,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -520,7 +546,7 @@
     "created_at": "2021-08-05T08:09:42.000-05:00",
     "title": "On Unix composability",
     "url": "https://p.janouch.name/text/on-unix-composability.html",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -531,7 +557,7 @@
       "is_admin": false,
       "about": "C is for cookie, that's good enough for me.",
       "is_moderator": false,
-      "karma": 530,
+      "karma": 531,
       "avatar_url": "/avatars/premysl-100.png",
       "invited_by_user": "kellytk"
     },
@@ -641,34 +667,6 @@
     "tags": [
       "freebsd",
       "mac"
-    ]
-  },
-  {
-    "short_id": "yn4d9u",
-    "short_id_url": "https://lobste.rs/s/yn4d9u",
-    "created_at": "2021-08-04T18:02:06.000-05:00",
-    "title": "Can’t Happen or /* NOTREACHED */ or Real Programs Dump Core* (1985)",
-    "url": "http://www.literateprogramming.com/canthappen.pdf",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 10,
-    "description": "<p>UNIX programmers too often fail to check for failure of system calls or functions, taking the familiar teen-age attitude that ‘‘it can’t happen to me (or my program)’’. This paper will attempt to convince its audience to take prophylactic measures. Those who take such measures will be healthier − and less prone to surprises − than those who don’t take such measures.<br>\nIn the tradition of the classic Elements of Programming Style some real-world pro-grams will be criticised publicly. Actual production (or soi-disant production) UNIX programs and subsystems will be examined. Each of these ‘‘provides one or more lessons in style.’’ We present both before and after versions of most code fragments.\nCome on out and see if we abuse one of your programs − or your programming style!</p>\n",
-    "comments_url": "https://lobste.rs/s/yn4d9u/can_t_happen_notreached_real_programs",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 1909,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "c",
-      "pdf",
-      "unix"
     ]
   }
 ]
