@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "zyyitz",
+    "short_id_url": "https://lobste.rs/s/zyyitz",
+    "created_at": "2021-08-06T12:17:54.000-05:00",
+    "title": "A Practical Theory of Programming",
+    "url": "http://www.cs.toronto.edu/~hehner/aPToP/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zyyitz/practical_theory_programming",
+    "submitter_user": {
+      "username": "lorddimwit",
+      "created_at": "2016-08-15T09:39:45.000-05:00",
+      "is_admin": false,
+      "about": "\r\n",
+      "is_moderator": false,
+      "karma": 10482,
+      "avatar_url": "/avatars/lorddimwit-100.png",
+      "invited_by_user": "cks",
+      "github_username": "deadpixi"
+    },
+    "tags": [
+      "compsci",
+      "pdf"
+    ]
+  },
+  {
+    "short_id": "ww7fw4",
+    "short_id_url": "https://lobste.rs/s/ww7fw4",
+    "created_at": "2021-08-06T11:36:42.000-05:00",
+    "title": "Unix Shell: History and Trivia",
+    "url": "https://www.oilshell.org/blog/2021/08/history-trivia.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ww7fw4/unix_shell_history_trivia",
+    "submitter_user": {
+      "username": "andyc",
+      "created_at": "2016-11-29T12:37:37.000-06:00",
+      "is_admin": false,
+      "about": "Working on http://www.oilshell.org/\r\n",
+      "is_moderator": false,
+      "karma": 5941,
+      "avatar_url": "/avatars/andyc-100.png",
+      "invited_by_user": "flyingfisch"
+    },
+    "tags": [
+      "programming",
+      "unix"
+    ]
+  },
+  {
     "short_id": "fvfkup",
     "short_id_url": "https://lobste.rs/s/fvfkup",
     "created_at": "2021-08-06T09:42:32.000-05:00",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1903,
+      "karma": 1907,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -34,7 +87,7 @@
     "url": "https://iism.org/article/the-value-destroying-effect-of-arbitrary-date-pressure-on-code-52",
     "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ewkcay/value_destroying_effect_arbitrary_date",
     "submitter_user": {
@@ -68,7 +121,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1903,
+      "karma": 1907,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -108,7 +161,7 @@
     "created_at": "2021-08-06T08:57:24.000-05:00",
     "title": "The Tao of Unicode Sparklines",
     "url": "https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -119,7 +172,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 694,
+      "karma": 697,
       "avatar_url": "/avatars/wizardishungry-100.png",
       "invited_by_user": "kusuriya",
       "github_username": "WIZARDISHUNGRY",
@@ -234,7 +287,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1903,
+      "karma": 1907,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -248,7 +301,7 @@
     "created_at": "2021-08-06T07:58:31.000-05:00",
     "title": "Rust: First Thoughts",
     "url": "https://dev.to/mapoulos/rust-first-thoughts-7l0",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -259,7 +312,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1903,
+      "karma": 1907,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -273,7 +326,7 @@
     "created_at": "2021-08-06T07:52:20.000-05:00",
     "title": "The Rust standard library on Espressif chips",
     "url": "https://mabez.dev/blog/posts/esp-rust-espressif/",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -284,7 +337,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1903,
+      "karma": 1907,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -298,7 +351,7 @@
     "created_at": "2021-08-06T07:06:51.000-05:00",
     "title": "How does FaceTime Work?",
     "url": "https://matduggan.com/how-does-facetime-work/",
-    "score": 15,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -309,7 +362,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 94,
+      "karma": 97,
       "avatar_url": "/avatars/maduggan-100.png",
       "invited_by_user": "stephen"
     },
@@ -323,7 +376,7 @@
     "created_at": "2021-08-06T06:16:59.000-05:00",
     "title": "Firefox: Performance in progress",
     "url": "https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -334,7 +387,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 251,
+      "karma": 253,
       "avatar_url": "/avatars/discovery-100.png",
       "invited_by_user": "friendlysock"
     },
@@ -408,7 +461,7 @@
     "created_at": "2021-08-06T03:13:17.000-05:00",
     "title": "Stack Overflow Developer Survey 2021",
     "url": "https://insights.stackoverflow.com/survey/2021",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -419,7 +472,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 511,
+      "karma": 512,
       "avatar_url": "/avatars/JulianWgs-100.png",
       "invited_by_user": "355E3B",
       "github_username": "JulianWgs"
@@ -459,7 +512,7 @@
     "created_at": "2021-08-06T00:24:51.000-05:00",
     "title": "A Brief Intro To Monad Transformers",
     "url": "https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -470,7 +523,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 87,
+      "karma": 89,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -510,9 +563,9 @@
     "created_at": "2021-08-05T23:05:42.000-05:00",
     "title": "Apple to scan U.S. iPhones for images of child sexual abuse",
     "url": "https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196",
-    "score": 26,
+    "score": 28,
     "flags": 3,
-    "comment_count": 27,
+    "comment_count": 30,
     "description": "",
     "comments_url": "https://lobste.rs/s/ihvn95/apple_scan_u_s_iphones_for_images_child",
     "submitter_user": {
@@ -521,7 +574,7 @@
       "is_admin": false,
       "about": "I'm a master of karate and friendship for everyone. I have lasers for hands.",
       "is_moderator": false,
-      "karma": 1134,
+      "karma": 1136,
       "avatar_url": "/avatars/duck_of_death-100.png",
       "invited_by_user": "LeahNeukirchen",
       "keybase_signatures": [
@@ -612,67 +665,6 @@
     "tags": [
       "security",
       "web"
-    ]
-  },
-  {
-    "short_id": "57bky5",
-    "short_id_url": "https://lobste.rs/s/57bky5",
-    "created_at": "2021-08-05T15:22:33.000-05:00",
-    "title": "Ten Years of Kotlin",
-    "url": "https://blog.jetbrains.com/kotlin/2021/08/ten-years-of-kotlin/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/57bky5/ten_years_kotlin",
-    "submitter_user": {
-      "username": "dayanruben",
-      "created_at": "2020-04-23T09:46:55.000-05:00",
-      "is_admin": false,
-      "about": "Mobile Software Engineer",
-      "is_moderator": false,
-      "karma": 618,
-      "avatar_url": "/avatars/dayanruben-100.png",
-      "invited_by_user": "jonhoo",
-      "github_username": "dayanruben",
-      "twitter_username": "dayanruben",
-      "keybase_signatures": [
-        {
-          "kb_username": "dayanruben",
-          "sig_hash": "3a38a509e16e82198c83a4bf8db711007c00607e45d96508bd1b76d82ecd343b0f"
-        }
-      ]
-    },
-    "tags": [
-      "historical",
-      "programming"
-    ]
-  },
-  {
-    "short_id": "gbsewl",
-    "short_id_url": "https://lobste.rs/s/gbsewl",
-    "created_at": "2021-08-05T15:04:10.000-05:00",
-    "title": "Reverse Engineering the M1",
-    "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/gbsewl/reverse_engineering_m1",
-    "submitter_user": {
-      "username": "deejayy",
-      "created_at": "2021-07-12T16:23:45.000-05:00",
-      "is_admin": false,
-      "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
-      "is_moderator": false,
-      "karma": 75,
-      "avatar_url": "/avatars/deejayy-100.png",
-      "invited_by_user": "indigo"
-    },
-    "tags": [
-      "hardware",
-      "pdf",
-      "reversing"
     ]
   }
 ]
