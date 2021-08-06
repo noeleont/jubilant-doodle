@@ -1,5 +1,63 @@
 [
   {
+    "short_id": "ihvn95",
+    "short_id_url": "https://lobste.rs/s/ihvn95",
+    "created_at": "2021-08-05T23:05:42.000-05:00",
+    "title": "Apple to scan U.S. iPhones for images of child sexual abuse",
+    "url": "https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ihvn95/apple_scan_u_s_iphones_for_images_child",
+    "submitter_user": {
+      "username": "duck_of_death",
+      "created_at": "2015-01-31T15:14:49.000-06:00",
+      "is_admin": false,
+      "about": "I'm a master of karate and friendship for everyone. I have lasers for hands.",
+      "is_moderator": false,
+      "karma": 1109,
+      "avatar_url": "/avatars/duck_of_death-100.png",
+      "invited_by_user": "LeahNeukirchen",
+      "keybase_signatures": [
+        {
+          "kb_username": "duck_of_death",
+          "sig_hash": "4334d497b2419534bbbd9bb467b9c8888f438daa4ff7157c761216e7c5fab8b60f"
+        }
+      ]
+    },
+    "tags": [
+      "ai",
+      "ios",
+      "privacy"
+    ]
+  },
+  {
+    "short_id": "vunlka",
+    "short_id_url": "https://lobste.rs/s/vunlka",
+    "created_at": "2021-08-05T22:45:43.000-05:00",
+    "title": "V8 Heap Sandbox - High-Level Design Doc",
+    "url": "https://docs.google.com/document/d/1FM4fQmIhEqPG8uGp5o9A-mnPB5BOeScZYpkHjo0KKA8/edit",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/vunlka/v8_heap_sandbox_high_level_design_doc",
+    "submitter_user": {
+      "username": "fro",
+      "created_at": "2016-04-13T15:27:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1340,
+      "avatar_url": "/avatars/fro-100.png",
+      "invited_by_user": "xero"
+    },
+    "tags": [
+      "security"
+    ]
+  },
+  {
     "short_id": "e0vm8q",
     "short_id_url": "https://lobste.rs/s/e0vm8q",
     "created_at": "2021-08-05T17:42:16.000-05:00",
@@ -33,7 +91,7 @@
     "url": "https://portswigger.net/research/http2",
     "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ig6xuj/http_2_sequel_is_always_worse",
     "submitter_user": {
@@ -118,9 +176,9 @@
     "created_at": "2021-08-05T14:56:36.000-05:00",
     "title": "Another Nix Success Story",
     "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
-    "score": 29,
+    "score": 30,
     "flags": 1,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/sfacek/another_nix_success_story",
     "submitter_user": {
@@ -129,7 +187,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 28,
+      "karma": 29,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant"
@@ -145,7 +203,7 @@
     "created_at": "2021-08-05T14:40:32.000-05:00",
     "title": "Using UTF‐8 [in OpenBSD] (2010)",
     "url": "http://daemonforums.org/showthread.php?t=5371&highlight=greek",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -156,7 +214,7 @@
       "is_admin": false,
       "about": "If problems occur, consult the internet.",
       "is_moderator": false,
-      "karma": 942,
+      "karma": 943,
       "avatar_url": "/avatars/rjpcasalino-100.png",
       "invited_by_user": "bsima"
     },
@@ -198,7 +256,7 @@
     "created_at": "2021-08-05T13:11:16.000-05:00",
     "title": "Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps",
     "url": "https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -209,7 +267,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1181,
+      "karma": 1182,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -370,7 +428,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81298,
+      "karma": 81299,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -411,7 +469,7 @@
     "created_at": "2021-08-05T04:46:20.000-05:00",
     "title": "640 Pages in 15 Months",
     "url": "https://journal.stuffwithstuff.com/2021/07/29/640-pages-in-15-months/",
-    "score": 38,
+    "score": 40,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -422,7 +480,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1333,
+      "karma": 1335,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -607,65 +665,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81298,
+      "karma": 81299,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "hardware",
-      "historical"
-    ]
-  },
-  {
-    "short_id": "uzzbjt",
-    "short_id_url": "https://lobste.rs/s/uzzbjt",
-    "created_at": "2021-08-04T16:56:50.000-05:00",
-    "title": "Snapcraft Packages Come With Extra Baggage",
-    "url": "https://blog.ret2.io/2021/08/04/snapcraft-injection/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uzzbjt/snapcraft_packages_come_with_extra",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81298,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "linux",
-      "security"
-    ]
-  },
-  {
-    "short_id": "9uibjo",
-    "short_id_url": "https://lobste.rs/s/9uibjo",
-    "created_at": "2021-08-04T16:39:55.000-05:00",
-    "title": "Run Internet Explorer 5 in your browser",
-    "url": "https://shkspr.mobi/blog/2021/08/run-internet-explorer-5-in-your-browser/",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/9uibjo/run_internet_explorer_5_your_browser",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11649,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
       "historical"
     ]
   }
