@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "stk8h0",
+    "short_id_url": "https://lobste.rs/s/stk8h0",
+    "created_at": "2021-08-06T14:58:13.000-05:00",
+    "title": "Learning APL",
+    "url": "https://xpqz.github.io/learnapl/intro.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/stk8h0/learning_apl",
+    "submitter_user": {
+      "username": "lorddimwit",
+      "created_at": "2016-08-15T09:39:45.000-05:00",
+      "is_admin": false,
+      "about": "\r\n",
+      "is_moderator": false,
+      "karma": 10486,
+      "avatar_url": "/avatars/lorddimwit-100.png",
+      "invited_by_user": "cks",
+      "github_username": "deadpixi"
+    },
+    "tags": [
+      "apl"
+    ]
+  },
+  {
+    "short_id": "i7cc9l",
+    "short_id_url": "https://lobste.rs/s/i7cc9l",
+    "created_at": "2021-08-06T14:19:41.000-05:00",
+    "title": "The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy",
+    "url": "https://karl-voit.at/2021/07/23/emacs-lock-in/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/i7cc9l/emacs_lock_effect_emacs_sunk_cost_fallacy",
+    "submitter_user": {
+      "username": "gerikson",
+      "created_at": "2017-01-13T03:16:10.000-06:00",
+      "is_admin": false,
+      "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
+      "is_moderator": false,
+      "karma": 10519,
+      "avatar_url": "/avatars/gerikson-100.png",
+      "invited_by_user": "varjag",
+      "github_username": "gustafe",
+      "twitter_username": "gerikson"
+    },
+    "tags": [
+      "emacs"
+    ]
+  },
+  {
     "short_id": "zyyitz",
     "short_id_url": "https://lobste.rs/s/zyyitz",
     "created_at": "2021-08-06T12:17:54.000-05:00",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10485,
+      "karma": 10486,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -32,9 +85,9 @@
     "created_at": "2021-08-06T11:36:42.000-05:00",
     "title": "Unix Shell: History and Trivia",
     "url": "https://www.oilshell.org/blog/2021/08/history-trivia.html",
-    "score": 2,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ww7fw4/unix_shell_history_trivia",
     "submitter_user": {
@@ -43,7 +96,7 @@
       "is_admin": false,
       "about": "Working on http://www.oilshell.org/\r\n",
       "is_moderator": false,
-      "karma": 5942,
+      "karma": 5944,
       "avatar_url": "/avatars/andyc-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -69,7 +122,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1916,
+      "karma": 1918,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -121,7 +174,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1916,
+      "karma": 1918,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -161,9 +214,9 @@
     "created_at": "2021-08-06T08:57:24.000-05:00",
     "title": "The Tao of Unicode Sparklines",
     "url": "https://blog.jonudell.net/2021/08/05/the-tao-of-unicode-sparklines/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/d9jnbw/tao_unicode_sparklines",
     "submitter_user": {
@@ -172,7 +225,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 701,
+      "karma": 702,
       "avatar_url": "/avatars/wizardishungry-100.png",
       "invited_by_user": "kusuriya",
       "github_username": "WIZARDISHUNGRY",
@@ -207,7 +260,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81318,
+      "karma": 81322,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -233,7 +286,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81318,
+      "karma": 81322,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -287,7 +340,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1916,
+      "karma": 1918,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -312,7 +365,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1916,
+      "karma": 1918,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -326,7 +379,7 @@
     "created_at": "2021-08-06T07:52:20.000-05:00",
     "title": "The Rust standard library on Espressif chips",
     "url": "https://mabez.dev/blog/posts/esp-rust-espressif/",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -337,7 +390,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1916,
+      "karma": 1918,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -351,7 +404,7 @@
     "created_at": "2021-08-06T07:06:51.000-05:00",
     "title": "How does FaceTime Work?",
     "url": "https://matduggan.com/how-does-facetime-work/",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -362,7 +415,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 98,
+      "karma": 99,
       "avatar_url": "/avatars/maduggan-100.png",
       "invited_by_user": "stephen"
     },
@@ -376,7 +429,7 @@
     "created_at": "2021-08-06T06:16:59.000-05:00",
     "title": "Firefox: Performance in progress",
     "url": "https://blog.mozilla.org/performance/2021/08/05/performance-in-progress/",
-    "score": 15,
+    "score": 18,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -387,7 +440,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 256,
+      "karma": 259,
       "avatar_url": "/avatars/discovery-100.png",
       "invited_by_user": "friendlysock"
     },
@@ -403,7 +456,7 @@
     "created_at": "2021-08-06T05:40:04.000-05:00",
     "title": "iOS Mistuned Exploit Part 1: Client-side XSS to Calculator and More",
     "url": "https://blog.chichou.me/2021/08/04/mistuned-part-i/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>The story is split up in two parts and I am suggesting we use the same thread for both parts.</p>\n<ul>\n<li><a href=\"https://blog.chichou.me/2021/08/04/mistuned-part-i/\" rel=\"ugc\">https://blog.chichou.me/2021/08/04/mistuned-part-i/</a></li>\n<li><a href=\"https://blog.chichou.me/2021/08/05/mistuned-part-ii/\" rel=\"ugc\">https://blog.chichou.me/2021/08/05/mistuned-part-ii/</a></li>\n</ul>\n",
@@ -414,7 +467,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5799,
+      "karma": 5802,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -435,7 +488,7 @@
     "created_at": "2021-08-06T04:09:40.000-05:00",
     "title": "The Design of the NetBSD I/O Subsystems (2002)",
     "url": "https://arxiv.org/ftp/arxiv/papers/1605/1605.05810.pdf",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -446,7 +499,7 @@
       "is_admin": false,
       "about": "Just another Unix geek.\r\n\r\n[mjturner.net](https://mjturner.net).",
       "is_moderator": false,
-      "karma": 2849,
+      "karma": 2850,
       "avatar_url": "/avatars/mjturner-100.png",
       "invited_by_user": "sevan"
     },
@@ -487,7 +540,7 @@
     "created_at": "2021-08-06T01:13:31.000-05:00",
     "title": "PEP 657: Include Fine Grained Error Locations in Tracebacks",
     "url": "https://www.python.org/dev/peps/pep-0657/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -498,7 +551,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 7,
+      "karma": 8,
       "avatar_url": "/avatars/erick-100.png",
       "invited_by_user": "jstoja"
     },
@@ -512,7 +565,7 @@
     "created_at": "2021-08-06T00:24:51.000-05:00",
     "title": "A Brief Intro To Monad Transformers",
     "url": "https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -523,7 +576,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 89,
+      "karma": 90,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -563,9 +616,9 @@
     "created_at": "2021-08-05T23:05:42.000-05:00",
     "title": "Apple to scan U.S. iPhones for images of child sexual abuse",
     "url": "https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196",
-    "score": 32,
-    "flags": 3,
-    "comment_count": 33,
+    "score": 34,
+    "flags": 4,
+    "comment_count": 35,
     "description": "",
     "comments_url": "https://lobste.rs/s/ihvn95/apple_scan_u_s_iphones_for_images_child",
     "submitter_user": {
@@ -574,7 +627,7 @@
       "is_admin": false,
       "about": "I'm a master of karate and friendship for everyone. I have lasers for hands.",
       "is_moderator": false,
-      "karma": 1140,
+      "karma": 1142,
       "avatar_url": "/avatars/duck_of_death-100.png",
       "invited_by_user": "LeahNeukirchen",
       "keybase_signatures": [
@@ -613,58 +666,6 @@
     },
     "tags": [
       "security"
-    ]
-  },
-  {
-    "short_id": "e0vm8q",
-    "short_id_url": "https://lobste.rs/s/e0vm8q",
-    "created_at": "2021-08-05T17:42:16.000-05:00",
-    "title": "Mitigating Memory-Safety Bugs with Efficient Out-of-Process Integrity Checking",
-    "url": "http://reports-archive.adm.cs.cmu.edu/anon/2021/CMU-CS-21-113.pdf",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/e0vm8q/mitigating_memory_safety_bugs_with",
-    "submitter_user": {
-      "username": "fro",
-      "created_at": "2016-04-13T15:27:31.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1340,
-      "avatar_url": "/avatars/fro-100.png",
-      "invited_by_user": "xero"
-    },
-    "tags": [
-      "pdf",
-      "security"
-    ]
-  },
-  {
-    "short_id": "ig6xuj",
-    "short_id_url": "https://lobste.rs/s/ig6xuj",
-    "created_at": "2021-08-05T16:25:52.000-05:00",
-    "title": "HTTP/2: The Sequel is Always Worse",
-    "url": "https://portswigger.net/research/http2",
-    "score": 21,
-    "flags": 0,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ig6xuj/http_2_sequel_is_always_worse",
-    "submitter_user": {
-      "username": "deejayy",
-      "created_at": "2021-07-12T16:23:45.000-05:00",
-      "is_admin": false,
-      "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
-      "is_moderator": false,
-      "karma": 76,
-      "avatar_url": "/avatars/deejayy-100.png",
-      "invited_by_user": "indigo"
-    },
-    "tags": [
-      "security",
-      "web"
     ]
   }
 ]
