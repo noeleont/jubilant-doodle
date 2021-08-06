@@ -1,5 +1,68 @@
 [
   {
+    "short_id": "jtyo2q",
+    "short_id_url": "https://lobste.rs/s/jtyo2q",
+    "created_at": "2021-08-06T06:06:40.000-05:00",
+    "title": "Apple Privacy Letter: An Open Letter Against Apple's Privacy-Invasive Content Scanning Technology",
+    "url": "https://appleprivacyletter.com",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/jtyo2q/apple_privacy_letter_open_letter_against",
+    "submitter_user": {
+      "username": "nadim",
+      "created_at": "2018-11-01T05:22:49.000-05:00",
+      "is_admin": false,
+      "about": "I currently run Symbolic Software, a Paris-based applied cryptography consulting office. As its director, I manage a small team that offers security audits, cryptographic protocol design and formal verification services. Therefore the main focus of my professional work currently is auditing cryptography and also developing Verifpal, an automated cryptographic protocol modeling, analysis and verification framework and a project that I am very passionate about.\r\n\r\nSince its founding in 2018, Symbolic Software has completed and delivered over 200 software and cryptographic audits for clients all around the world.\r\n\r\nIn 2018, I defended my Ph.D. thesis, Formal Verification for Real-World Cryptographic Protocols and Implementations, at Inria Paris, after 3½ years of research with team PROSECCO, where I had the inimitable privilege of studying under Karthikeyan Bhargavan and Bruno Blanchet.\r\n\r\nIn 2018 and 2019, I also designed and taught the computer security course at New York University's Paris campus, where I served as an adjunct professor. ",
+      "is_moderator": false,
+      "karma": 345,
+      "avatar_url": "/avatars/nadim-100.png",
+      "invited_by_user": "dchest",
+      "github_username": "nadimkobeissi",
+      "twitter_username": "kaepora"
+    },
+    "tags": [
+      "crypto",
+      "ios",
+      "mac",
+      "privacy",
+      "security"
+    ]
+  },
+  {
+    "short_id": "eh60mm",
+    "short_id_url": "https://lobste.rs/s/eh60mm",
+    "created_at": "2021-08-06T05:40:04.000-05:00",
+    "title": "iOS Mistuned Exploit Part 1: Client-side XSS to Calculator and More",
+    "url": "https://blog.chichou.me/2021/08/04/mistuned-part-i/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>The story is split up in two parts and I am suggesting we use the same thread for both parts.</p>\n<ul>\n<li><a href=\"https://blog.chichou.me/2021/08/04/mistuned-part-i/\" rel=\"ugc\">https://blog.chichou.me/2021/08/04/mistuned-part-i/</a></li>\n<li><a href=\"https://blog.chichou.me/2021/08/05/mistuned-part-ii/\" rel=\"ugc\">https://blog.chichou.me/2021/08/05/mistuned-part-ii/</a></li>\n</ul>\n",
+    "comments_url": "https://lobste.rs/s/eh60mm/ios_mistuned_exploit_part_1_client_side",
+    "submitter_user": {
+      "username": "freddyb",
+      "created_at": "2017-02-02T09:12:16.000-06:00",
+      "is_admin": false,
+      "about": "Security. Mostly in Browsers, but not exclusively.",
+      "is_moderator": false,
+      "karma": 5790,
+      "avatar_url": "/avatars/freddyb-100.png",
+      "invited_by_user": "stas",
+      "keybase_signatures": [
+        {
+          "kb_username": "freddyb",
+          "sig_hash": "550e2f5b27d4b5d558c02dfb2b23a628e90635183c93f993eeea4e16b20c51150f"
+        }
+      ]
+    },
+    "tags": [
+      "ios",
+      "security"
+    ]
+  },
+  {
     "short_id": "tgsldm",
     "short_id_url": "https://lobste.rs/s/tgsldm",
     "created_at": "2021-08-06T04:09:40.000-05:00",
@@ -42,7 +105,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 501,
+      "karma": 502,
       "avatar_url": "/avatars/JulianWgs-100.png",
       "invited_by_user": "355E3B",
       "github_username": "JulianWgs"
@@ -133,8 +196,8 @@
     "created_at": "2021-08-05T23:05:42.000-05:00",
     "title": "Apple to scan U.S. iPhones for images of child sexual abuse",
     "url": "https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196",
-    "score": 6,
-    "flags": 1,
+    "score": 8,
+    "flags": 2,
     "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/ihvn95/apple_scan_u_s_iphones_for_images_child",
@@ -144,7 +207,7 @@
       "is_admin": false,
       "about": "I'm a master of karate and friendship for everyone. I have lasers for hands.",
       "is_moderator": false,
-      "karma": 1114,
+      "karma": 1116,
       "avatar_url": "/avatars/duck_of_death-100.png",
       "invited_by_user": "LeahNeukirchen",
       "keybase_signatures": [
@@ -217,7 +280,7 @@
     "created_at": "2021-08-05T16:25:52.000-05:00",
     "title": "HTTP/2: The Sequel is Always Worse",
     "url": "https://portswigger.net/research/http2",
-    "score": 12,
+    "score": 14,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -228,7 +291,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 65,
+      "karma": 67,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -288,7 +351,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 65,
+      "karma": 67,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -304,9 +367,9 @@
     "created_at": "2021-08-05T14:56:36.000-05:00",
     "title": "Another Nix Success Story",
     "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
-    "score": 37,
-    "flags": 4,
-    "comment_count": 16,
+    "score": 38,
+    "flags": 5,
+    "comment_count": 18,
     "description": "",
     "comments_url": "https://lobste.rs/s/sfacek/another_nix_success_story",
     "submitter_user": {
@@ -315,7 +378,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 36,
+      "karma": 37,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant"
@@ -384,7 +447,7 @@
     "created_at": "2021-08-05T13:11:16.000-05:00",
     "title": "Practical? Common Lisp on the JVM: A quick intro to ABCL for modern web apps",
     "url": "https://notes.eatonphil.com/practical-common-lisp-on-the-jvm.html",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -395,7 +458,7 @@
       "is_admin": false,
       "about": "Open for contracting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding datastation.multiprocess.io.\r\n\r\nphil@eatonphil.com",
       "is_moderator": false,
-      "karma": 1188,
+      "karma": 1190,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -413,9 +476,9 @@
     "created_at": "2021-08-05T12:03:02.000-05:00",
     "title": "Personal Computing On An Amiga In 2021",
     "url": "https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/cdemej/personal_computing_on_amiga_2021",
     "submitter_user": {
@@ -424,7 +487,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2061,
+      "karma": 2062,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -491,7 +554,7 @@
     "created_at": "2021-08-05T09:47:11.000-05:00",
     "title": "Visualizing a Codebase",
     "url": "https://octo.github.com/projects/repo-visualization",
-    "score": 31,
+    "score": 32,
     "flags": 1,
     "comment_count": 8,
     "description": "",
@@ -502,7 +565,7 @@
       "is_admin": false,
       "about": "Frontend developer & designer focused on data visualization. Author of Fullstack D3 and Data Visualization 😃",
       "is_moderator": false,
-      "karma": 223,
+      "karma": 224,
       "avatar_url": "/avatars/wattenberger-100.png",
       "invited_by_user": "eigenjoy"
     },
@@ -615,58 +678,6 @@
     },
     "tags": [
       "book"
-    ]
-  },
-  {
-    "short_id": "es290l",
-    "short_id_url": "https://lobste.rs/s/es290l",
-    "created_at": "2021-08-05T03:08:53.000-05:00",
-    "title": "Haskell-like patterns in Lisp",
-    "url": "http://www.lispology.com/show?3FY9",
-    "score": 14,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/es290l/haskell_like_patterns_lisp",
-    "submitter_user": {
-      "username": "notagoodidea",
-      "created_at": "2020-05-18T18:15:54.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 629,
-      "avatar_url": "/avatars/notagoodidea-100.png",
-      "invited_by_user": "wrl"
-    },
-    "tags": [
-      "haskell",
-      "lisp"
-    ]
-  },
-  {
-    "short_id": "vsdotk",
-    "short_id_url": "https://lobste.rs/s/vsdotk",
-    "created_at": "2021-08-04T21:03:39.000-05:00",
-    "title": "Slitter: a slab allocator that trusts, but verifies",
-    "url": "https://engineering.backtrace.io/2021-08-04-slitter-a-slab-allocator-that-trusts-but-verifies/",
-    "score": 16,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p>Disclaimer, I work for the company.</p>\n",
-    "comments_url": "https://lobste.rs/s/vsdotk/slitter_slab_allocator_trusts_verifies",
-    "submitter_user": {
-      "username": "aleph",
-      "created_at": "2016-09-14T14:50:12.000-05:00",
-      "is_admin": false,
-      "about": "Small time sysadmin, and Rust, Python, and assembly dev. Located in Long Island, New York.",
-      "is_moderator": false,
-      "karma": 927,
-      "avatar_url": "/avatars/aleph-100.png",
-      "invited_by_user": "lukas"
-    },
-    "tags": [
-      "c",
-      "rust"
     ]
   }
 ]
