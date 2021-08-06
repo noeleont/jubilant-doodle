@@ -1,13 +1,89 @@
 [
   {
+    "short_id": "pht43b",
+    "short_id_url": "https://lobste.rs/s/pht43b",
+    "created_at": "2021-08-06T01:13:31.000-05:00",
+    "title": "PEP 657: Include Fine Grained Error Locations in Tracebacks",
+    "url": "https://www.python.org/dev/peps/pep-0657/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/pht43b/pep_657_include_fine_grained_error",
+    "submitter_user": {
+      "username": "erick",
+      "created_at": "2021-08-03T10:01:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/erick-100.png",
+      "invited_by_user": "jstoja"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "short_id": "smgehi",
+    "short_id_url": "https://lobste.rs/s/smgehi",
+    "created_at": "2021-08-06T00:24:51.000-05:00",
+    "title": "A Brief Intro To Monad Transformers",
+    "url": "https://blog.cofree.coffee/2021-08-05-a-brief-intro-to-monad-transformers/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/smgehi/brief_intro_monad_transformers",
+    "submitter_user": {
+      "username": "solomon",
+      "created_at": "2021-02-15T15:34:16.000-06:00",
+      "is_admin": false,
+      "about": "I love functional programming.",
+      "is_moderator": false,
+      "karma": 79,
+      "avatar_url": "/avatars/solomon-100.png",
+      "invited_by_user": "rhonorv"
+    },
+    "tags": [
+      "haskell",
+      "programming"
+    ]
+  },
+  {
+    "short_id": "cxvc8j",
+    "short_id_url": "https://lobste.rs/s/cxvc8j",
+    "created_at": "2021-08-06T00:22:02.000-05:00",
+    "title": "Parametric / procedural log cabins using code CAD",
+    "url": "https://github.com/lf94/log-cabin-parametric-cadquery",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cxvc8j/parametric_procedural_log_cabins_using",
+    "submitter_user": {
+      "username": "LenFalken",
+      "created_at": "2016-03-07T10:51:31.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1689,
+      "avatar_url": "/avatars/LenFalken-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "ihvn95",
     "short_id_url": "https://lobste.rs/s/ihvn95",
     "created_at": "2021-08-05T23:05:42.000-05:00",
     "title": "Apple to scan U.S. iPhones for images of child sexual abuse",
     "url": "https://apnews.com/article/technology-business-child-abuse-apple-inc-7fe2a09427d663cda8addfeeffc40196",
-    "score": 1,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ihvn95/apple_scan_u_s_iphones_for_images_child",
     "submitter_user": {
@@ -16,7 +92,7 @@
       "is_admin": false,
       "about": "I'm a master of karate and friendship for everyone. I have lasers for hands.",
       "is_moderator": false,
-      "karma": 1109,
+      "karma": 1113,
       "avatar_url": "/avatars/duck_of_death-100.png",
       "invited_by_user": "LeahNeukirchen",
       "keybase_signatures": [
@@ -100,7 +176,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 58,
+      "karma": 59,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -149,9 +225,9 @@
     "created_at": "2021-08-05T15:04:10.000-05:00",
     "title": "Reverse Engineering the M1",
     "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Reverse-Engineering-The-M1.pdf",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/gbsewl/reverse_engineering_m1",
     "submitter_user": {
@@ -160,7 +236,7 @@
       "is_admin": false,
       "about": "Mainly in frontend development (Angular), but went thru the last 25 years in IT.",
       "is_moderator": false,
-      "karma": 58,
+      "karma": 59,
       "avatar_url": "/avatars/deejayy-100.png",
       "invited_by_user": "indigo"
     },
@@ -176,9 +252,9 @@
     "created_at": "2021-08-05T14:56:36.000-05:00",
     "title": "Another Nix Success Story",
     "url": "https://maxdeviant.com/shards/2021/another-nix-success-story/",
-    "score": 33,
-    "flags": 1,
-    "comment_count": 5,
+    "score": 34,
+    "flags": 2,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/sfacek/another_nix_success_story",
     "submitter_user": {
@@ -187,7 +263,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 32,
+      "karma": 33,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant"
@@ -228,7 +304,7 @@
     "created_at": "2021-08-05T13:55:15.000-05:00",
     "title": "What is Zanzibar?",
     "url": "https://authzed.com/blog/what-is-zanzibar/",
-    "score": 2,
+    "score": 4,
     "flags": 2,
     "comment_count": 0,
     "description": "<p>Disclosure: I’m one of the authzed founders</p>\n",
@@ -239,7 +315,7 @@
       "is_admin": false,
       "about": "cofounder [authzed](https://authzed.com)\r\n\r\npreviously product & engineering at CoreOS→Red Hat\r\n\r\n- [website](https://jzelinskie.com)\r\n- [twitter](https://twitter.com/jimmyzelinskie)\r\n- [github](https://github.com/jzelinskie)",
       "is_moderator": false,
-      "karma": 1,
+      "karma": 3,
       "avatar_url": "/avatars/jzelinskie-100.png",
       "invited_by_user": "FiloSottile",
       "github_username": "jzelinskie"
@@ -285,7 +361,7 @@
     "created_at": "2021-08-05T12:03:02.000-05:00",
     "title": "Personal Computing On An Amiga In 2021",
     "url": "https://thedorkweb.substack.com/p/personal-computing-on-an-amiga-in-2021",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -296,7 +372,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2058,
+      "karma": 2059,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -593,86 +669,6 @@
       "c",
       "pdf",
       "unix"
-    ]
-  },
-  {
-    "short_id": "illcv6",
-    "short_id_url": "https://lobste.rs/s/illcv6",
-    "created_at": "2021-08-04T17:41:16.000-05:00",
-    "title": "Adding Rust-Stable libstd Support for Xous",
-    "url": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/adding-rust-stable-libstd-support-for-xous",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/illcv6/adding_rust_stable_libstd_support_for",
-    "submitter_user": {
-      "username": "cyplo",
-      "created_at": "2021-04-22T08:04:03.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 240,
-      "avatar_url": "/avatars/cyplo-100.png",
-      "invited_by_user": "ekaitz",
-      "github_username": "cyplo"
-    },
-    "tags": [
-      "rust"
-    ]
-  },
-  {
-    "short_id": "h6odxq",
-    "short_id_url": "https://lobste.rs/s/h6odxq",
-    "created_at": "2021-08-04T17:34:22.000-05:00",
-    "title": "Mario Paint Masterpiece",
-    "url": "https://www.charlieharrington.com/mario-paint-masterpiece/",
-    "score": 0,
-    "flags": 3,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/h6odxq/mario_paint_masterpiece",
-    "submitter_user": {
-      "username": "whatrocks",
-      "created_at": "2017-10-27T12:25:54.000-05:00",
-      "is_admin": false,
-      "about": "software engineer at Cruise",
-      "is_moderator": false,
-      "karma": 178,
-      "avatar_url": "/avatars/whatrocks-100.png",
-      "invited_by_user": "ozan"
-    },
-    "tags": [
-      "art",
-      "education",
-      "historical"
-    ]
-  },
-  {
-    "short_id": "kxsaos",
-    "short_id_url": "https://lobste.rs/s/kxsaos",
-    "created_at": "2021-08-04T17:31:55.000-05:00",
-    "title": "Plug and Play History: The Design Decision That Made PCs Complicated",
-    "url": "https://tedium.co/2021/08/04/plug-and-play-peripheral-history/",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/kxsaos/plug_play_history_design_decision_made",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81300,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "hardware",
-      "historical"
     ]
   }
 ]
