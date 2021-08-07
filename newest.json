@@ -1,12 +1,64 @@
 [
   {
+    "short_id": "qiudsa",
+    "short_id_url": "https://lobste.rs/s/qiudsa",
+    "created_at": "2021-08-07T02:04:21.000-05:00",
+    "title": "A Guide to RCS, and Why It Makes Texting So Much Better",
+    "url": "https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Will be RCS the new gold standard for universal messaging?</p>\n",
+    "comments_url": "https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much",
+    "submitter_user": {
+      "username": "jummo",
+      "created_at": "2020-11-02T05:12:41.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 52,
+      "avatar_url": "/avatars/jummo-100.png",
+      "invited_by_user": "icy"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
+    "short_id": "viv99b",
+    "short_id_url": "https://lobste.rs/s/viv99b",
+    "created_at": "2021-08-07T02:03:32.000-05:00",
+    "title": "Everything has Changed in iOS 14, but Jailbreak is Eternal",
+    "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Everything-Has-Changed-In-IOS-14-But-Jailbreak-Is-Eternal.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/viv99b/everything_has_changed_ios_14_jailbreak",
+    "submitter_user": {
+      "username": "fro",
+      "created_at": "2016-04-13T15:27:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1340,
+      "avatar_url": "/avatars/fro-100.png",
+      "invited_by_user": "xero"
+    },
+    "tags": [
+      "ios",
+      "pdf",
+      "security"
+    ]
+  },
+  {
     "short_id": "xgb0vy",
     "short_id_url": "https://lobste.rs/s/xgb0vy",
     "created_at": "2021-08-07T01:21:35.000-05:00",
     "title": "Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool",
     "url": "https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/",
-    "score": 1,
-    "flags": 0,
+    "score": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/xgb0vy/apply_conversion_functions_data_sqlite",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "Creator of https://datasette.io",
       "is_moderator": false,
-      "karma": 29,
+      "karma": 28,
       "avatar_url": "/avatars/simonw-100.png",
       "invited_by_user": "scoates"
     },
@@ -86,7 +138,7 @@
     "created_at": "2021-08-06T19:09:36.000-05:00",
     "title": "Looking into Zig",
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
-    "score": 12,
+    "score": 14,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -97,7 +149,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1923,
+      "karma": 1925,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -155,7 +207,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1923,
+      "karma": 1925,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -261,7 +313,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10498,
+      "karma": 10499,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -276,7 +328,7 @@
     "created_at": "2021-08-06T14:19:41.000-05:00",
     "title": "The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy",
     "url": "https://karl-voit.at/2021/07/23/emacs-lock-in/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -287,7 +339,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10524,
+      "karma": 10525,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -303,7 +355,7 @@
     "created_at": "2021-08-06T12:17:54.000-05:00",
     "title": "A Practical Theory of Programming",
     "url": "http://www.cs.toronto.edu/~hehner/aPToP/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -314,7 +366,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10498,
+      "karma": 10499,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -367,7 +419,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1931,
+      "karma": 1932,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -419,7 +471,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1931,
+      "karma": 1932,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -585,7 +637,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1931,
+      "karma": 1932,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -610,62 +662,12 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1931,
+      "karma": 1932,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
     "tags": [
       "rust"
-    ]
-  },
-  {
-    "short_id": "rwzgka",
-    "short_id_url": "https://lobste.rs/s/rwzgka",
-    "created_at": "2021-08-06T07:52:20.000-05:00",
-    "title": "The Rust standard library on Espressif chips",
-    "url": "https://mabez.dev/blog/posts/esp-rust-espressif/",
-    "score": 24,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rwzgka/rust_standard_library_on_espressif_chips",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1931,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "rust"
-    ]
-  },
-  {
-    "short_id": "enei2r",
-    "short_id_url": "https://lobste.rs/s/enei2r",
-    "created_at": "2021-08-06T07:06:51.000-05:00",
-    "title": "How does FaceTime Work?",
-    "url": "https://matduggan.com/how-does-facetime-work/",
-    "score": 37,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/enei2r/how_does_facetime_work",
-    "submitter_user": {
-      "username": "maduggan",
-      "created_at": "2019-03-13T08:43:38.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 116,
-      "avatar_url": "/avatars/maduggan-100.png",
-      "invited_by_user": "stephen"
-    },
-    "tags": [
-      "networking"
     ]
   }
 ]
