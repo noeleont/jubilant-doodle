@@ -1,11 +1,38 @@
 [
   {
+    "short_id": "um9cok",
+    "short_id_url": "https://lobste.rs/s/um9cok",
+    "created_at": "2021-08-07T17:01:37.000-05:00",
+    "title": "css wallpaper generator",
+    "url": "http://jollo.org/LNT/home/fanfare/ae/textures",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/um9cok/css_wallpaper_generator",
+    "submitter_user": {
+      "username": "candle",
+      "created_at": "2019-03-14T16:04:29.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 118,
+      "avatar_url": "/avatars/candle-100.png",
+      "invited_by_user": "river"
+    },
+    "tags": [
+      "art",
+      "css",
+      "web"
+    ]
+  },
+  {
     "short_id": "dkrxsw",
     "short_id_url": "https://lobste.rs/s/dkrxsw",
     "created_at": "2021-08-07T13:19:47.000-05:00",
     "title": "Lynx leaks password in clear text via SNI (under some circumstances)",
     "url": "https://www.openwall.com/lists/oss-security/2021/08/07/1",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "Computer Science Master's student at ETH Zurich.\r\n\r\nThere's no Mastodon link support so here you go: https://mastodon.3fx.ch/@bfiedler",
       "is_moderator": false,
-      "karma": 574,
+      "karma": 575,
       "avatar_url": "/avatars/bfiedler-100.png",
       "invited_by_user": "pushcx"
     },
@@ -32,7 +59,7 @@
     "url": "https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/",
     "score": 17,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/af9lyg/elasticsearch_saga_continues",
     "submitter_user": {
@@ -111,8 +138,8 @@
     "url": "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html",
     "score": 8,
     "flags": 0,
-    "comment_count": 1,
-    "description": "<p>Has a few others of his like Big Time and Icepick that many probably missed.</p>\n",
+    "comment_count": 2,
+    "description": "",
     "comments_url": "https://lobste.rs/s/s0xch6/license_round_up",
     "submitter_user": {
       "username": "nickpsecurity",
@@ -135,7 +162,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 30,
+    "score": 32,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -146,7 +173,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1283,
+      "karma": 1285,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -163,7 +190,7 @@
     "url": "https://relational-pipes.globalcode.info/v_0/classic-example.xhtml",
     "score": 5,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/tq7mkd/classic_unix_pipeline_example",
     "submitter_user": {
@@ -172,7 +199,7 @@
       "is_admin": false,
       "about": "Independent software developer, GNU/Linux user, free software supporter.",
       "is_moderator": false,
-      "karma": 660,
+      "karma": 661,
       "avatar_url": "/avatars/franta-100.png",
       "invited_by_user": "Bherzet"
     },
@@ -241,8 +268,8 @@
     "url": "https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/",
     "score": 8,
     "flags": 0,
-    "comment_count": 14,
-    "description": "<p>Will RCS become the new gold standard for universal messaging?</p>\n",
+    "comment_count": 15,
+    "description": "",
     "comments_url": "https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much",
     "submitter_user": {
       "username": "jummo",
@@ -372,9 +399,9 @@
     "created_at": "2021-08-06T19:09:36.000-05:00",
     "title": "Looking into Zig",
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
-    "score": 52,
+    "score": 53,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/6clihp/looking_into_zig",
     "submitter_user": {
@@ -383,7 +410,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1963,
+      "karma": 1964,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -441,7 +468,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1963,
+      "karma": 1964,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -510,7 +537,7 @@
     "url": "",
     "score": 8,
     "flags": 1,
-    "comment_count": 12,
+    "comment_count": 13,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/0s7b5h/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -564,7 +591,7 @@
     "url": "https://karl-voit.at/2021/07/23/emacs-lock-in/",
     "score": 14,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/i7cc9l/emacs_lock_effect_emacs_sunk_cost_fallacy",
     "submitter_user": {
@@ -634,33 +661,6 @@
     "tags": [
       "programming",
       "unix"
-    ]
-  },
-  {
-    "short_id": "fvfkup",
-    "short_id_url": "https://lobste.rs/s/fvfkup",
-    "created_at": "2021-08-06T09:42:32.000-05:00",
-    "title": "Generating Master Faces for Dictionary Attacks with a Network-Assisted Latent Space Evolution",
-    "url": "https://arxiv.org/pdf/2108.01077.pdf",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fvfkup/generating_master_faces_for_dictionary",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1939,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "ai",
-      "pdf",
-      "security"
     ]
   }
 ]
