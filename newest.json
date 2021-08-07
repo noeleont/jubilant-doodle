@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "af9lyg",
+    "short_id_url": "https://lobste.rs/s/af9lyg",
+    "created_at": "2021-08-07T11:36:13.000-05:00",
+    "title": "The ElasticSearch Saga Continues",
+    "url": "https://thenewstack.io/this-week-in-programming-the-elasticsearch-saga-continues/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/af9lyg/elasticsearch_saga_continues",
+    "submitter_user": {
+      "username": "pondidum",
+      "created_at": "2021-01-05T10:19:41.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 225,
+      "avatar_url": "/avatars/pondidum-100.png",
+      "invited_by_user": "jussi"
+    },
+    "tags": [
+      "law"
+    ]
+  },
+  {
     "short_id": "ekcrak",
     "short_id_url": "https://lobste.rs/s/ekcrak",
     "created_at": "2021-08-07T09:49:44.000-05:00",
@@ -59,7 +84,7 @@
     "created_at": "2021-08-07T09:03:37.000-05:00",
     "title": "License Round Up",
     "url": "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Has a few others of his like Big Time and Icepick that many probably missed.</p>\n",
@@ -70,7 +95,7 @@
       "is_admin": false,
       "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
       "is_moderator": false,
-      "karma": 22193,
+      "karma": 22194,
       "avatar_url": "/avatars/nickpsecurity-100.png",
       "invited_by_user": "tedu"
     },
@@ -85,7 +110,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 10,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +121,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1263,
+      "karma": 1268,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -113,7 +138,7 @@
     "url": "https://relational-pipes.globalcode.info/v_0/classic-example.xhtml",
     "score": 3,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/tq7mkd/classic_unix_pipeline_example",
     "submitter_user": {
@@ -122,7 +147,7 @@
       "is_admin": false,
       "about": "Independent software developer, GNU/Linux user, free software supporter.",
       "is_moderator": false,
-      "karma": 656,
+      "karma": 658,
       "avatar_url": "/avatars/franta-100.png",
       "invited_by_user": "Bherzet"
     },
@@ -148,7 +173,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10526,
+      "karma": 10527,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -191,7 +216,7 @@
     "url": "https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/",
     "score": 8,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 12,
     "description": "<p>Will RCS become the new gold standard for universal messaging?</p>\n",
     "comments_url": "https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much",
     "submitter_user": {
@@ -241,7 +266,7 @@
     "created_at": "2021-08-07T01:21:35.000-05:00",
     "title": "Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool",
     "url": "https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/",
-    "score": 5,
+    "score": 6,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -252,7 +277,7 @@
       "is_admin": false,
       "about": "Creator of https://datasette.io",
       "is_moderator": false,
-      "karma": 33,
+      "karma": 34,
       "avatar_url": "/avatars/simonw-100.png",
       "invited_by_user": "scoates"
     },
@@ -278,7 +303,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81335,
+      "karma": 81336,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -322,7 +347,7 @@
     "created_at": "2021-08-06T19:09:36.000-05:00",
     "title": "Looking into Zig",
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
-    "score": 37,
+    "score": 38,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -333,7 +358,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1948,
+      "karma": 1949,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -391,7 +416,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1948,
+      "karma": 1949,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -460,7 +485,7 @@
     "url": "",
     "score": 6,
     "flags": 1,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/0s7b5h/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -512,7 +537,7 @@
     "created_at": "2021-08-06T14:19:41.000-05:00",
     "title": "The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy",
     "url": "https://karl-voit.at/2021/07/23/emacs-lock-in/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -523,7 +548,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10526,
+      "karma": 10527,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -577,7 +602,7 @@
       "is_admin": false,
       "about": "Working on http://www.oilshell.org/\r\n",
       "is_moderator": false,
-      "karma": 5953,
+      "karma": 5954,
       "avatar_url": "/avatars/andyc-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -603,7 +628,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1936,
+      "karma": 1937,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -636,31 +661,6 @@
     },
     "tags": [
       "practices"
-    ]
-  },
-  {
-    "short_id": "pupogq",
-    "short_id_url": "https://lobste.rs/s/pupogq",
-    "created_at": "2021-08-06T09:18:31.000-05:00",
-    "title": "How to build better command line apps and tools using Swift?",
-    "url": "https://theswiftdev.com/how-to-build-better-command-line-apps-and-tools-using-swift/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/pupogq/how_build_better_command_line_apps_tools",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1936,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "swift"
     ]
   }
 ]
