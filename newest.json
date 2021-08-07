@@ -1,14 +1,39 @@
 [
   {
+    "short_id": "b0fgtp",
+    "short_id_url": "https://lobste.rs/s/b0fgtp",
+    "created_at": "2021-08-07T02:56:54.000-05:00",
+    "title": "Researchers develop defenses against deep learning hack attacks",
+    "url": "https://www.research.ibm.com/blog/defend-deep-learning-hacks",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/b0fgtp/researchers_develop_defenses_against",
+    "submitter_user": {
+      "username": "erick",
+      "created_at": "2021-08-03T10:01:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 10,
+      "avatar_url": "/avatars/erick-100.png",
+      "invited_by_user": "jstoja"
+    },
+    "tags": [
+      "security"
+    ]
+  },
+  {
     "short_id": "qiudsa",
     "short_id_url": "https://lobste.rs/s/qiudsa",
     "created_at": "2021-08-07T02:04:21.000-05:00",
     "title": "A Guide to RCS, and Why It Makes Texting So Much Better",
     "url": "https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
-    "description": "<p>Will be RCS the new gold standard for universal messaging?</p>\n",
+    "description": "<p>Will RCS the new gold standard for universal messaging?</p>\n",
     "comments_url": "https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much",
     "submitter_user": {
       "username": "jummo",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 52,
+      "karma": 53,
       "avatar_url": "/avatars/jummo-100.png",
       "invited_by_user": "icy"
     },
@@ -94,7 +119,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81329,
+      "karma": 81330,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -138,7 +163,7 @@
     "created_at": "2021-08-06T19:09:36.000-05:00",
     "title": "Looking into Zig",
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
-    "score": 14,
+    "score": 17,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -149,7 +174,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1925,
+      "karma": 1928,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -164,7 +189,7 @@
     "created_at": "2021-08-06T18:50:28.000-05:00",
     "title": "New laptop - Thinkpad P14s",
     "url": "https://domenkozar.com/2021/08/06/new-laptop-thinkpad-p14s/",
-    "score": 1,
+    "score": 2,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -175,7 +200,7 @@
       "is_admin": false,
       "about": "My latest project: https://github.com/srid/emanote",
       "is_moderator": false,
-      "karma": 2046,
+      "karma": 2047,
       "avatar_url": "/avatars/srid-100.png",
       "invited_by_user": "Bowero",
       "github_username": "srid",
@@ -207,7 +232,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1925,
+      "karma": 1928,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -276,7 +301,7 @@
     "url": "",
     "score": 3,
     "flags": 1,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/0s7b5h/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -546,7 +571,7 @@
     "created_at": "2021-08-06T08:46:18.000-05:00",
     "title": "SAML is insecure by design",
     "url": "https://joonas.fi/2021/08/saml-is-insecure-by-design/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -557,7 +582,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81329,
+      "karma": 81330,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -583,7 +608,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81329,
+      "karma": 81330,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -631,31 +656,6 @@
     "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/kvckcq/borrowck_battle_remember",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1932,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "rust"
-    ]
-  },
-  {
-    "short_id": "xbncik",
-    "short_id_url": "https://lobste.rs/s/xbncik",
-    "created_at": "2021-08-06T07:58:31.000-05:00",
-    "title": "Rust: First Thoughts",
-    "url": "https://dev.to/mapoulos/rust-first-thoughts-7l0",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xbncik/rust_first_thoughts",
     "submitter_user": {
       "username": "napkindrawing",
       "created_at": "2014-05-14T10:03:04.000-05:00",
