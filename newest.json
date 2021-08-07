@@ -32,7 +32,7 @@
     "url": "https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/",
     "score": 3,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 5,
     "description": "<p>Will RCS become the new gold standard for universal messaging?</p>\n",
     "comments_url": "https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much",
     "submitter_user": {
@@ -119,7 +119,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81330,
+      "karma": 81331,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -134,7 +134,7 @@
     "created_at": "2021-08-07T00:05:50.000-05:00",
     "title": "Mathematics Chalkboard with MathJax-LaTeX and Markdown Support",
     "url": "https://github.com/susam/muboard",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -145,7 +145,7 @@
       "is_admin": false,
       "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme) and [Uncap](https://github.com/susam/uncap).\r\n\r\nFreenode IRC nick: `spal`\r\n\r\nPosting about C, Python, Lisp, TeX, Vim, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
       "is_moderator": false,
-      "karma": 821,
+      "karma": 822,
       "avatar_url": "/avatars/susam-100.png",
       "invited_by_user": "premysl",
       "github_username": "susam",
@@ -163,9 +163,9 @@
     "created_at": "2021-08-06T19:09:36.000-05:00",
     "title": "Looking into Zig",
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
-    "score": 22,
+    "score": 28,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/6clihp/looking_into_zig",
     "submitter_user": {
@@ -174,7 +174,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1933,
+      "karma": 1939,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -232,7 +232,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1933,
+      "karma": 1939,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -409,7 +409,7 @@
     "url": "https://www.oilshell.org/blog/2021/08/history-trivia.html",
     "score": 7,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/ww7fw4/unix_shell_history_trivia",
     "submitter_user": {
@@ -444,7 +444,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1932,
+      "karma": 1933,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -496,7 +496,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1932,
+      "karma": 1933,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -582,7 +582,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81330,
+      "karma": 81331,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -608,7 +608,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81330,
+      "karma": 81331,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -651,7 +651,7 @@
     "created_at": "2021-08-06T08:05:49.000-05:00",
     "title": "A Borrowck Battle to Remember",
     "url": "https://jstrong.dev/posts/2021/borrowck-battle-to-remember/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -662,7 +662,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1932,
+      "karma": 1933,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
