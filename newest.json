@@ -1,13 +1,39 @@
 [
   {
+    "short_id": "n1jpoz",
+    "short_id_url": "https://lobste.rs/s/n1jpoz",
+    "created_at": "2021-08-07T22:07:48.000-05:00",
+    "title": "Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope",
+    "url": "https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/n1jpoz/apple_s_new_child_safety_initiatives",
+    "submitter_user": {
+      "username": "Vaelatern",
+      "created_at": "2017-11-21T12:33:02.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1616,
+      "avatar_url": "/avatars/Vaelatern-100.png",
+      "invited_by_user": "duncaen"
+    },
+    "tags": [
+      "ios",
+      "privacy"
+    ]
+  },
+  {
     "short_id": "tqkxfg",
     "short_id_url": "https://lobste.rs/s/tqkxfg",
     "created_at": "2021-08-07T20:08:33.000-05:00",
     "title": "Size Matters",
     "url": "https://chasewilson.dev/blog/size-matters/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/tqkxfg/size_matters",
     "submitter_user": {
@@ -16,40 +42,13 @@
       "is_admin": false,
       "about": "Language developer and Rust programmer",
       "is_moderator": false,
-      "karma": 31,
+      "karma": 33,
       "avatar_url": "/avatars/kixiron-100.png",
       "invited_by_user": "amadeusine",
       "github_username": "Kixiron"
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "um9cok",
-    "short_id_url": "https://lobste.rs/s/um9cok",
-    "created_at": "2021-08-07T17:01:37.000-05:00",
-    "title": "css wallpaper generator",
-    "url": "http://jollo.org/LNT/home/fanfare/ae/textures",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/um9cok/css_wallpaper_generator",
-    "submitter_user": {
-      "username": "candle",
-      "created_at": "2019-03-14T16:04:29.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 118,
-      "avatar_url": "/avatars/candle-100.png",
-      "invited_by_user": "river"
-    },
-    "tags": [
-      "art",
-      "css",
-      "web"
     ]
   },
   {
@@ -111,7 +110,7 @@
     "url": "https://www.youtube.com/watch?v=RWYkx6-L04Q",
     "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/wfht47/j_programming_language_2013",
     "submitter_user": {
@@ -137,9 +136,9 @@
     "created_at": "2021-08-07T09:03:37.000-05:00",
     "title": "License Round Up",
     "url": "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html",
-    "score": 11,
+    "score": 13,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/s0xch6/license_round_up",
     "submitter_user": {
@@ -148,7 +147,7 @@
       "is_admin": false,
       "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
       "is_moderator": false,
-      "karma": 22202,
+      "karma": 22204,
       "avatar_url": "/avatars/nickpsecurity-100.png",
       "invited_by_user": "tedu"
     },
@@ -163,7 +162,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 40,
+    "score": 41,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -174,7 +173,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1293,
+      "karma": 1294,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -226,7 +225,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10536,
+      "karma": 10537,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -269,7 +268,7 @@
     "url": "https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/",
     "score": 8,
     "flags": 0,
-    "comment_count": 18,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much",
     "submitter_user": {
@@ -345,7 +344,7 @@
     "created_at": "2021-08-07T00:09:40.000-05:00",
     "title": "Implicit ordering in relational languages",
     "url": "https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -356,7 +355,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81347,
+      "karma": 81348,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -402,7 +401,7 @@
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
     "score": 60,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/6clihp/looking_into_zig",
     "submitter_user": {
@@ -538,7 +537,7 @@
     "url": "",
     "score": 10,
     "flags": 1,
-    "comment_count": 14,
+    "comment_count": 15,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/0s7b5h/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -564,7 +563,7 @@
     "created_at": "2021-08-06T14:58:13.000-05:00",
     "title": "Learning APL",
     "url": "https://xpqz.github.io/learnapl/intro.html",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -575,7 +574,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10502,
+      "karma": 10504,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -590,7 +589,7 @@
     "created_at": "2021-08-06T14:19:41.000-05:00",
     "title": "The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy",
     "url": "https://karl-voit.at/2021/07/23/emacs-lock-in/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -601,7 +600,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10536,
+      "karma": 10537,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -628,7 +627,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10502,
+      "karma": 10504,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -646,7 +645,7 @@
     "url": "https://www.oilshell.org/blog/2021/08/history-trivia.html",
     "score": 13,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/ww7fw4/unix_shell_history_trivia",
     "submitter_user": {
