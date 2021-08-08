@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "qpmf25",
+    "short_id_url": "https://lobste.rs/s/qpmf25",
+    "created_at": "2021-08-08T17:53:26.000-05:00",
+    "title": "DebConf21 Schedule",
+    "url": "https://debconf21.debconf.org/schedule/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qpmf25/debconf21_schedule",
+    "submitter_user": {
+      "username": "legoktm",
+      "created_at": "2021-03-15T23:49:20.000-05:00",
+      "is_admin": false,
+      "about": "MediaWiki core dev, Debian Developer, Wikipedian. Inactive journalist, believer in free software and free knowledge.",
+      "is_moderator": false,
+      "karma": 159,
+      "avatar_url": "/avatars/legoktm-100.png",
+      "invited_by_user": "brennen"
+    },
+    "tags": [
+      "event"
+    ]
+  },
+  {
     "short_id": "qdyifa",
     "short_id_url": "https://lobste.rs/s/qdyifa",
     "created_at": "2021-08-08T16:43:53.000-05:00",
@@ -7,7 +32,7 @@
     "url": "https://engineering.fb.com/2021/08/06/core-data/zippydb/",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/qdyifa/how_we_built_general_purpose_key_value",
     "submitter_user": {
@@ -31,9 +56,9 @@
     "created_at": "2021-08-08T16:26:17.000-05:00",
     "title": "How to write really slow Rust code - Part 2",
     "url": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html",
-    "score": 3,
+    "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ex9pdv/how_write_really_slow_rust_code_part_2",
     "submitter_user": {
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81374,
+      "karma": 81377,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -58,7 +83,7 @@
     "created_at": "2021-08-08T14:58:12.000-05:00",
     "title": "Put This In Your Pipe – Backticks in Julia",
     "url": "https://julialang.org/blog/2013/04/put-this-in-your-pipe/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +94,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 915,
+      "karma": 916,
       "avatar_url": "/avatars/mpweiher-100.png",
       "invited_by_user": "mulle_nat",
       "github_username": "mpw",
@@ -85,8 +110,8 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 4,
-    "flags": 4,
+    "score": 5,
+    "flags": 5,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/yxepcb/modern_software_development_is_cancer",
@@ -96,7 +121,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11653,
+      "karma": 11654,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -111,7 +136,7 @@
     "created_at": "2021-08-08T13:32:57.000-05:00",
     "title": "DIY Air Quality Sensor",
     "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -122,7 +147,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1227,
+      "karma": 1230,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -137,7 +162,7 @@
     "created_at": "2021-08-08T10:57:18.000-05:00",
     "title": "seL4 Integrity Enforcement Proved for RISC-V",
     "url": "https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -148,7 +173,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4566,
+      "karma": 4567,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -165,7 +190,7 @@
     "created_at": "2021-08-08T10:20:50.000-05:00",
     "title": "Improving responsiveness in text inputs",
     "url": "https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -176,7 +201,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 461,
+      "karma": 462,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -216,9 +241,9 @@
     "created_at": "2021-08-08T09:43:32.000-05:00",
     "title": "Service Reliability Math",
     "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/2fs0t3/service_reliability_math",
     "submitter_user": {
@@ -227,7 +252,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 95,
+      "karma": 96,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -242,9 +267,9 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 26,
+    "score": 28,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 18,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -253,7 +278,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 99,
+      "karma": 103,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -268,7 +293,7 @@
     "created_at": "2021-08-08T02:10:51.000-05:00",
     "title": "Bringing NetBSD to Zig's Continuous Integration",
     "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -279,7 +304,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 437,
+      "karma": 438,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -334,7 +359,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81374,
+      "karma": 81377,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -361,7 +386,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81374,
+      "karma": 81377,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -507,7 +532,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 64,
+    "score": 65,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -518,7 +543,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1317,
+      "karma": 1318,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -628,33 +653,6 @@
     },
     "tags": [
       "networking"
-    ]
-  },
-  {
-    "short_id": "viv99b",
-    "short_id_url": "https://lobste.rs/s/viv99b",
-    "created_at": "2021-08-07T02:03:32.000-05:00",
-    "title": "Everything has Changed in iOS 14, but Jailbreak is Eternal",
-    "url": "https://i.blackhat.com/USA21/Wednesday-Handouts/us-21-Everything-Has-Changed-In-IOS-14-But-Jailbreak-Is-Eternal.pdf",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/viv99b/everything_has_changed_ios_14_jailbreak",
-    "submitter_user": {
-      "username": "fro",
-      "created_at": "2016-04-13T15:27:31.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1342,
-      "avatar_url": "/avatars/fro-100.png",
-      "invited_by_user": "xero"
-    },
-    "tags": [
-      "ios",
-      "pdf",
-      "security"
     ]
   }
 ]
