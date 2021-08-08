@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "2f4l7j",
+    "short_id_url": "https://lobste.rs/s/2f4l7j",
+    "created_at": "2021-08-08T13:32:57.000-05:00",
+    "title": "DIY Air Quality Sensor",
+    "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/2f4l7j/diy_air_quality_sensor",
+    "submitter_user": {
+      "username": "bcongdon",
+      "created_at": "2019-12-27T13:23:21.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1226,
+      "avatar_url": "/avatars/bcongdon-100.png",
+      "invited_by_user": "gerikson",
+      "github_username": "bcongdon"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
     "short_id": "va8pf0",
     "short_id_url": "https://lobste.rs/s/va8pf0",
     "created_at": "2021-08-08T10:57:18.000-05:00",
     "title": "seL4 Integrity Enforcement Proved for RISC-V",
     "url": "https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4560,
+      "karma": 4561,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -84,7 +110,7 @@
     "created_at": "2021-08-08T09:43:32.000-05:00",
     "title": "Service Reliability Math",
     "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -95,7 +121,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 90,
+      "karma": 91,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -110,9 +136,9 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 14,
+    "score": 17,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -121,7 +147,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 80,
+      "karma": 83,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -136,7 +162,7 @@
     "created_at": "2021-08-08T02:10:51.000-05:00",
     "title": "Bringing NetBSD to Zig's Continuous Integration",
     "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -147,7 +173,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 432,
+      "karma": 434,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -191,7 +217,7 @@
     "created_at": "2021-08-07T22:44:16.000-05:00",
     "title": "mod_md",
     "url": "https://httpd.apache.org/docs/trunk/mod/mod_md.html",
-    "score": 13,
+    "score": 15,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -202,7 +228,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81369,
+      "karma": 81371,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -229,7 +255,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81369,
+      "karma": 81371,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -270,7 +296,7 @@
     "created_at": "2021-08-07T13:19:47.000-05:00",
     "title": "Lynx leaks password in clear text via SNI (under some circumstances)",
     "url": "https://www.openwall.com/lists/oss-security/2021/08/07/1",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -281,7 +307,7 @@
       "is_admin": false,
       "about": "Computer Science Master's student at ETH Zurich.\r\n\r\nThere's no Mastodon link support so here you go: https://mastodon.3fx.ch/@bfiedler",
       "is_moderator": false,
-      "karma": 588,
+      "karma": 589,
       "avatar_url": "/avatars/bfiedler-100.png",
       "invited_by_user": "pushcx"
     },
@@ -295,9 +321,9 @@
     "created_at": "2021-08-07T09:49:44.000-05:00",
     "title": "It's Time for Operating Systems to Rediscover Hardware",
     "url": "https://www.youtube.com/watch?v=36myc8wQhLo",
-    "score": 10,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ekcrak/it_s_time_for_operating_systems",
     "submitter_user": {
@@ -306,7 +332,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6980,
+      "karma": 6982,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -438,7 +464,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10540,
+      "karma": 10541,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -568,7 +594,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81369,
+      "karma": 81371,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -612,7 +638,7 @@
     "created_at": "2021-08-06T19:09:36.000-05:00",
     "title": "Looking into Zig",
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
-    "score": 63,
+    "score": 64,
     "flags": 0,
     "comment_count": 19,
     "description": "",
@@ -623,45 +649,13 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1976,
+      "karma": 1977,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
     },
     "tags": [
       "zig"
-    ]
-  },
-  {
-    "short_id": "36pfoj",
-    "short_id_url": "https://lobste.rs/s/36pfoj",
-    "created_at": "2021-08-06T18:50:28.000-05:00",
-    "title": "New laptop - Thinkpad P14s",
-    "url": "https://domenkozar.com/2021/08/06/new-laptop-thinkpad-p14s/",
-    "score": 20,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/36pfoj/new_laptop_thinkpad_p14s",
-    "submitter_user": {
-      "username": "srid",
-      "created_at": "2019-12-15T08:34:41.000-06:00",
-      "is_admin": false,
-      "about": "My latest project: https://github.com/srid/emanote",
-      "is_moderator": false,
-      "karma": 2065,
-      "avatar_url": "/avatars/srid-100.png",
-      "invited_by_user": "Bowero",
-      "github_username": "srid",
-      "keybase_signatures": [
-        {
-          "kb_username": "srid",
-          "sig_hash": "e6701544d15d41cd50cf0b336aa711802c34f53d1df4356ae74f47b9aec5c6700f"
-        }
-      ]
-    },
-    "tags": [
-      "hardware"
     ]
   }
 ]
