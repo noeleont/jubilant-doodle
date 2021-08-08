@@ -1,5 +1,59 @@
 [
   {
+    "short_id": "va8pf0",
+    "short_id_url": "https://lobste.rs/s/va8pf0",
+    "created_at": "2021-08-08T10:57:18.000-05:00",
+    "title": "seL4 Integrity Enforcement Proved for RISC-V",
+    "url": "https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/va8pf0/sel4_integrity_enforcement_proved_for",
+    "submitter_user": {
+      "username": "unbalancedparentheses",
+      "created_at": "2014-06-21T15:40:39.000-05:00",
+      "is_admin": false,
+      "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
+      "is_moderator": false,
+      "karma": 4553,
+      "avatar_url": "/avatars/unbalancedparentheses-100.png",
+      "invited_by_user": "talboito",
+      "github_username": "unbalancedparentheses",
+      "twitter_username": "unbalancedparen"
+    },
+    "tags": [
+      "osdev",
+      "security"
+    ]
+  },
+  {
+    "short_id": "rjamdz",
+    "short_id_url": "https://lobste.rs/s/rjamdz",
+    "created_at": "2021-08-08T10:20:50.000-05:00",
+    "title": "Improving responsiveness in text inputs",
+    "url": "https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rjamdz/improving_responsiveness_text_inputs",
+    "submitter_user": {
+      "username": "nolan",
+      "created_at": "2018-01-06T13:39:52.000-06:00",
+      "is_admin": false,
+      "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
+      "is_moderator": false,
+      "karma": 454,
+      "avatar_url": "/avatars/nolan-100.png",
+      "invited_by_user": "calvin"
+    },
+    "tags": [
+      "performance",
+      "web"
+    ]
+  },
+  {
     "short_id": "w03oyj",
     "short_id_url": "https://lobste.rs/s/w03oyj",
     "created_at": "2021-08-08T10:00:38.000-05:00",
@@ -82,9 +136,9 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 9,
+    "score": 13,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -93,7 +147,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 74,
+      "karma": 78,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -108,7 +162,7 @@
     "created_at": "2021-08-08T02:10:51.000-05:00",
     "title": "Bringing NetBSD to Zig's Continuous Integration",
     "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
-    "score": 7,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -119,7 +173,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 424,
+      "karma": 430,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -138,7 +192,7 @@
     "url": "https://www.ncsc.gov.uk/blog-post/the-logic-behind-three-random-words",
     "score": 10,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/eptntv/logic_behind_three_random_words",
     "submitter_user": {
@@ -163,7 +217,7 @@
     "created_at": "2021-08-07T22:44:16.000-05:00",
     "title": "mod_md",
     "url": "https://httpd.apache.org/docs/trunk/mod/mod_md.html",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -174,7 +228,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81364,
+      "karma": 81365,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -201,7 +255,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81364,
+      "karma": 81365,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -216,7 +270,7 @@
     "created_at": "2021-08-07T20:08:33.000-05:00",
     "title": "Size Matters",
     "url": "https://chasewilson.dev/blog/size-matters/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -227,7 +281,7 @@
       "is_admin": false,
       "about": "Language developer and Rust programmer",
       "is_moderator": false,
-      "karma": 35,
+      "karma": 36,
       "avatar_url": "/avatars/kixiron-100.png",
       "invited_by_user": "amadeusine",
       "github_username": "Kixiron"
@@ -242,7 +296,7 @@
     "created_at": "2021-08-07T13:19:47.000-05:00",
     "title": "Lynx leaks password in clear text via SNI (under some circumstances)",
     "url": "https://www.openwall.com/lists/oss-security/2021/08/07/1",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -253,7 +307,7 @@
       "is_admin": false,
       "about": "Computer Science Master's student at ETH Zurich.\r\n\r\nThere's no Mastodon link support so here you go: https://mastodon.3fx.ch/@bfiedler",
       "is_moderator": false,
-      "karma": 586,
+      "karma": 587,
       "avatar_url": "/avatars/bfiedler-100.png",
       "invited_by_user": "pushcx"
     },
@@ -293,7 +347,7 @@
     "created_at": "2021-08-07T09:42:49.000-05:00",
     "title": "The J Programming Language (2013)",
     "url": "https://www.youtube.com/watch?v=RWYkx6-L04Q",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -304,7 +358,7 @@
       "is_admin": false,
       "about": "Shortcuts, shorthands and seedlings\r\n\r\nɮʌkɪs",
       "is_moderator": false,
-      "karma": 1471,
+      "karma": 1472,
       "avatar_url": "/avatars/skuzzymiglet-100.png",
       "invited_by_user": "orib",
       "github_username": "skuzzymiglet"
@@ -321,9 +375,9 @@
     "created_at": "2021-08-07T09:03:37.000-05:00",
     "title": "License Round Up",
     "url": "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html",
-    "score": 19,
+    "score": 21,
     "flags": 1,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/s0xch6/license_round_up",
     "submitter_user": {
@@ -332,7 +386,7 @@
       "is_admin": false,
       "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
       "is_moderator": false,
-      "karma": 22211,
+      "karma": 22213,
       "avatar_url": "/avatars/nickpsecurity-100.png",
       "invited_by_user": "tedu"
     },
@@ -347,7 +401,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 59,
+    "score": 60,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -358,7 +412,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1312,
+      "karma": 1313,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -540,7 +594,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81364,
+      "karma": 81365,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -602,65 +656,6 @@
     },
     "tags": [
       "zig"
-    ]
-  },
-  {
-    "short_id": "36pfoj",
-    "short_id_url": "https://lobste.rs/s/36pfoj",
-    "created_at": "2021-08-06T18:50:28.000-05:00",
-    "title": "New laptop - Thinkpad P14s",
-    "url": "https://domenkozar.com/2021/08/06/new-laptop-thinkpad-p14s/",
-    "score": 19,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/36pfoj/new_laptop_thinkpad_p14s",
-    "submitter_user": {
-      "username": "srid",
-      "created_at": "2019-12-15T08:34:41.000-06:00",
-      "is_admin": false,
-      "about": "My latest project: https://github.com/srid/emanote",
-      "is_moderator": false,
-      "karma": 2064,
-      "avatar_url": "/avatars/srid-100.png",
-      "invited_by_user": "Bowero",
-      "github_username": "srid",
-      "keybase_signatures": [
-        {
-          "kb_username": "srid",
-          "sig_hash": "e6701544d15d41cd50cf0b336aa711802c34f53d1df4356ae74f47b9aec5c6700f"
-        }
-      ]
-    },
-    "tags": [
-      "hardware"
-    ]
-  },
-  {
-    "short_id": "pwedlq",
-    "short_id_url": "https://lobste.rs/s/pwedlq",
-    "created_at": "2021-08-06T18:04:50.000-05:00",
-    "title": "Black-Box Attacks on Perceptual Image Hashes with GANs (2018)",
-    "url": "https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277",
-    "score": 4,
-    "flags": 2,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/pwedlq/black_box_attacks_on_perceptual_image",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 1976,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "ai",
-      "security"
     ]
   }
 ]
