@@ -1,13 +1,39 @@
 [
   {
+    "short_id": "ydnk5f",
+    "short_id_url": "https://lobste.rs/s/ydnk5f",
+    "created_at": "2021-08-08T06:56:31.000-05:00",
+    "title": "Indie Code Catalog",
+    "url": "https://indiecc.com/",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "<p>Their free license: <a href=\"https://indiecc.com/free/2.0.0\" rel=\"ugc\">https://indiecc.com/free/2.0.0</a></p>\n",
+    "comments_url": "https://lobste.rs/s/ydnk5f/indie_code_catalog",
+    "submitter_user": {
+      "username": "Student",
+      "created_at": "2018-06-14T20:43:25.000-05:00",
+      "is_admin": false,
+      "about": "I’m a data engineer and engineering management consultant. ",
+      "is_moderator": false,
+      "karma": 986,
+      "avatar_url": "/avatars/Student-100.png",
+      "invited_by_user": "alynpost"
+    },
+    "tags": [
+      "law",
+      "practices"
+    ]
+  },
+  {
     "short_id": "iizjtx",
     "short_id_url": "https://lobste.rs/s/iizjtx",
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 3,
+    "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 68,
+      "karma": 70,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -296,7 +322,7 @@
     "created_at": "2021-08-07T08:28:40.000-05:00",
     "title": "Classic unix pipeline example",
     "url": "https://relational-pipes.globalcode.info/v_0/classic-example.xhtml",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 15,
     "description": "",
@@ -307,7 +333,7 @@
       "is_admin": false,
       "about": "Independent software developer, GNU/Linux user, free software supporter.",
       "is_moderator": false,
-      "karma": 663,
+      "karma": 664,
       "avatar_url": "/avatars/franta-100.png",
       "invited_by_user": "Bherzet"
     },
@@ -376,7 +402,7 @@
     "url": "https://www.wired.com/story/guide-to-rcs-why-it-makes-texting-better/",
     "score": 9,
     "flags": 0,
-    "comment_count": 25,
+    "comment_count": 26,
     "description": "",
     "comments_url": "https://lobste.rs/s/qiudsa/guide_rcs_why_it_makes_texting_so_much",
     "submitter_user": {
@@ -507,7 +533,7 @@
     "created_at": "2021-08-06T19:09:36.000-05:00",
     "title": "Looking into Zig",
     "url": "https://ayende.com/blog/194404-A/looking-into-zig",
-    "score": 60,
+    "score": 61,
     "flags": 0,
     "comment_count": 17,
     "description": "",
@@ -518,7 +544,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1972,
+      "karma": 1974,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -565,7 +591,7 @@
     "created_at": "2021-08-06T18:04:50.000-05:00",
     "title": "Black-Box Attacks on Perceptual Image Hashes with GANs (2018)",
     "url": "https://towardsdatascience.com/black-box-attacks-on-perceptual-image-hashes-with-gans-cc1be11f277",
-    "score": 3,
+    "score": 4,
     "flags": 2,
     "comment_count": 0,
     "description": "",
@@ -576,7 +602,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1972,
+      "karma": 1974,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -635,34 +661,6 @@
     },
     "tags": [
       "c++"
-    ]
-  },
-  {
-    "short_id": "0s7b5h",
-    "short_id_url": "https://lobste.rs/s/0s7b5h",
-    "created_at": "2021-08-06T15:43:56.000-05:00",
-    "title": "What are you doing this weekend?",
-    "url": "",
-    "score": 11,
-    "flags": 1,
-    "comment_count": 18,
-    "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
-    "comments_url": "https://lobste.rs/s/0s7b5h/what_are_you_doing_this_weekend",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6401,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "ask",
-      "programming"
     ]
   }
 ]
