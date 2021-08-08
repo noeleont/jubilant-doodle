@@ -1,28 +1,55 @@
 [
   {
-    "short_id": "n1jpoz",
-    "short_id_url": "https://lobste.rs/s/n1jpoz",
-    "created_at": "2021-08-07T22:07:48.000-05:00",
-    "title": "Apple’s New ‘Child Safety’ Initiatives, and the Slippery Slope",
-    "url": "https://daringfireball.net/2021/08/apple_child_safety_initiatives_slippery_slope",
+    "short_id": "clxd1d",
+    "short_id_url": "https://lobste.rs/s/clxd1d",
+    "created_at": "2021-08-07T22:44:16.000-05:00",
+    "title": "mod_md",
+    "url": "https://httpd.apache.org/docs/trunk/mod/mod_md.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 4,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/clxd1d/mod_md",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81349,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "security",
+      "web"
+    ]
+  },
+  {
+    "short_id": "wiopdy",
+    "short_id_url": "https://lobste.rs/s/wiopdy",
+    "created_at": "2021-08-07T22:30:52.000-05:00",
+    "title": "A New Attack Surface on MS Exchange Part 1 - ProxyLogon",
+    "url": "http://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html",
     "score": 1,
     "flags": 0,
     "comment_count": 0,
     "description": "",
-    "comments_url": "https://lobste.rs/s/n1jpoz/apple_s_new_child_safety_initiatives",
+    "comments_url": "https://lobste.rs/s/wiopdy/new_attack_surface_on_ms_exchange_part_1",
     "submitter_user": {
-      "username": "Vaelatern",
-      "created_at": "2017-11-21T12:33:02.000-06:00",
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
       "is_admin": false,
-      "about": "",
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 1616,
-      "avatar_url": "/avatars/Vaelatern-100.png",
-      "invited_by_user": "duncaen"
+      "karma": 81349,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
     },
     "tags": [
-      "ios",
-      "privacy"
+      "security"
     ]
   },
   {
@@ -31,7 +58,7 @@
     "created_at": "2021-08-07T20:08:33.000-05:00",
     "title": "Size Matters",
     "url": "https://chasewilson.dev/blog/size-matters/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -42,7 +69,7 @@
       "is_admin": false,
       "about": "Language developer and Rust programmer",
       "is_moderator": false,
-      "karma": 33,
+      "karma": 34,
       "avatar_url": "/avatars/kixiron-100.png",
       "invited_by_user": "amadeusine",
       "github_username": "Kixiron"
@@ -57,7 +84,7 @@
     "created_at": "2021-08-07T13:19:47.000-05:00",
     "title": "Lynx leaks password in clear text via SNI (under some circumstances)",
     "url": "https://www.openwall.com/lists/oss-security/2021/08/07/1",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +95,7 @@
       "is_admin": false,
       "about": "Computer Science Master's student at ETH Zurich.\r\n\r\nThere's no Mastodon link support so here you go: https://mastodon.3fx.ch/@bfiedler",
       "is_moderator": false,
-      "karma": 580,
+      "karma": 581,
       "avatar_url": "/avatars/bfiedler-100.png",
       "invited_by_user": "pushcx"
     },
@@ -82,7 +109,7 @@
     "created_at": "2021-08-07T09:49:44.000-05:00",
     "title": "It's Time for Operating Systems to Rediscover Hardware",
     "url": "https://www.youtube.com/watch?v=36myc8wQhLo",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -93,7 +120,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6974,
+      "karma": 6975,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -108,9 +135,9 @@
     "created_at": "2021-08-07T09:42:49.000-05:00",
     "title": "The J Programming Language (2013)",
     "url": "https://www.youtube.com/watch?v=RWYkx6-L04Q",
-    "score": 5,
+    "score": 6,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/wfht47/j_programming_language_2013",
     "submitter_user": {
@@ -119,7 +146,7 @@
       "is_admin": false,
       "about": "Shortcuts, shorthands and seedlings\r\n\r\nɮʌkɪs",
       "is_moderator": false,
-      "karma": 1470,
+      "karma": 1471,
       "avatar_url": "/avatars/skuzzymiglet-100.png",
       "invited_by_user": "orib",
       "github_username": "skuzzymiglet"
@@ -162,7 +189,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 41,
+    "score": 43,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -173,7 +200,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1294,
+      "karma": 1296,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -355,7 +382,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81348,
+      "karma": 81349,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -635,32 +662,6 @@
     "tags": [
       "compsci",
       "pdf"
-    ]
-  },
-  {
-    "short_id": "ww7fw4",
-    "short_id_url": "https://lobste.rs/s/ww7fw4",
-    "created_at": "2021-08-06T11:36:42.000-05:00",
-    "title": "Unix Shell: History and Trivia",
-    "url": "https://www.oilshell.org/blog/2021/08/history-trivia.html",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 14,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ww7fw4/unix_shell_history_trivia",
-    "submitter_user": {
-      "username": "andyc",
-      "created_at": "2016-11-29T12:37:37.000-06:00",
-      "is_admin": false,
-      "about": "Working on http://www.oilshell.org/\r\n",
-      "is_moderator": false,
-      "karma": 5958,
-      "avatar_url": "/avatars/andyc-100.png",
-      "invited_by_user": "flyingfisch"
-    },
-    "tags": [
-      "programming",
-      "unix"
     ]
   }
 ]
