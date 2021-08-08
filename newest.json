@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "qdyifa",
+    "short_id_url": "https://lobste.rs/s/qdyifa",
+    "created_at": "2021-08-08T16:43:53.000-05:00",
+    "title": "How we built a general purpose key value store for Facebook with ZippyDB",
+    "url": "https://engineering.fb.com/2021/08/06/core-data/zippydb/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qdyifa/how_we_built_general_purpose_key_value",
+    "submitter_user": {
+      "username": "pims",
+      "created_at": "2014-06-18T21:28:29.000-05:00",
+      "is_admin": false,
+      "about": "Curious mind. https://blog.pims.me/",
+      "is_moderator": false,
+      "karma": 677,
+      "avatar_url": "/avatars/pims-100.png",
+      "invited_by_user": "lau"
+    },
+    "tags": [
+      "databases",
+      "distributed"
+    ]
+  },
+  {
+    "short_id": "ex9pdv",
+    "short_id_url": "https://lobste.rs/s/ex9pdv",
+    "created_at": "2021-08-08T16:26:17.000-05:00",
+    "title": "How to write really slow Rust code - Part 2",
+    "url": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ex9pdv/how_write_really_slow_rust_code_part_2",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81374,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "performance",
+      "rust"
+    ]
+  },
+  {
     "short_id": "ybinhe",
     "short_id_url": "https://lobste.rs/s/ybinhe",
     "created_at": "2021-08-08T14:58:12.000-05:00",
@@ -32,7 +85,7 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 1,
+    "score": 4,
     "flags": 4,
     "comment_count": 0,
     "description": "",
@@ -43,7 +96,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11650,
+      "karma": 11653,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -112,7 +165,7 @@
     "created_at": "2021-08-08T10:20:50.000-05:00",
     "title": "Improving responsiveness in text inputs",
     "url": "https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -123,7 +176,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 460,
+      "karma": 461,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -163,9 +216,9 @@
     "created_at": "2021-08-08T09:43:32.000-05:00",
     "title": "Service Reliability Math",
     "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/2fs0t3/service_reliability_math",
     "submitter_user": {
@@ -174,7 +227,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 94,
+      "karma": 95,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -189,9 +242,9 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 21,
+    "score": 26,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -200,7 +253,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 91,
+      "karma": 99,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -215,7 +268,7 @@
     "created_at": "2021-08-08T02:10:51.000-05:00",
     "title": "Bringing NetBSD to Zig's Continuous Integration",
     "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -226,7 +279,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 436,
+      "karma": 437,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -281,7 +334,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81372,
+      "karma": 81374,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -308,7 +361,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81372,
+      "karma": 81374,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -376,7 +429,7 @@
     "url": "https://www.youtube.com/watch?v=36myc8wQhLo",
     "score": 13,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ekcrak/it_s_time_for_operating_systems",
     "submitter_user": {
@@ -454,7 +507,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 63,
+    "score": 64,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -465,7 +518,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1316,
+      "karma": 1317,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -602,58 +655,6 @@
       "ios",
       "pdf",
       "security"
-    ]
-  },
-  {
-    "short_id": "xgb0vy",
-    "short_id_url": "https://lobste.rs/s/xgb0vy",
-    "created_at": "2021-08-07T01:21:35.000-05:00",
-    "title": "Apply conversion functions to data in SQLite columns with the sqlite-utils CLI tool",
-    "url": "https://simonwillison.net/2021/Aug/6/sqlite-utils-convert/",
-    "score": 12,
-    "flags": 1,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xgb0vy/apply_conversion_functions_data_sqlite",
-    "submitter_user": {
-      "username": "simonw",
-      "created_at": "2021-07-29T15:43:15.000-05:00",
-      "is_admin": false,
-      "about": "Creator of https://datasette.io",
-      "is_moderator": false,
-      "karma": 41,
-      "avatar_url": "/avatars/simonw-100.png",
-      "invited_by_user": "scoates"
-    },
-    "tags": [
-      "databases",
-      "python"
-    ]
-  },
-  {
-    "short_id": "7upgmg",
-    "short_id_url": "https://lobste.rs/s/7upgmg",
-    "created_at": "2021-08-07T00:09:40.000-05:00",
-    "title": "Implicit ordering in relational languages",
-    "url": "https://scattered-thoughts.net/writing/implicit-ordering-in-relational-languages/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/7upgmg/implicit_ordering_relational_languages",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81372,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "plt"
     ]
   }
 ]
