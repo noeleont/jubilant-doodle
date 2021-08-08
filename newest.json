@@ -1,13 +1,68 @@
 [
   {
+    "short_id": "irat6l",
+    "short_id_url": "https://lobste.rs/s/irat6l",
+    "created_at": "2021-08-08T02:10:51.000-05:00",
+    "title": "Bringing NetBSD to Zig's Continuous Integration",
+    "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/irat6l/bringing_netbsd_zig_s_continuous",
+    "submitter_user": {
+      "username": "jaypatelani",
+      "created_at": "2020-08-26T22:43:27.000-05:00",
+      "is_admin": false,
+      "about": "BSD hobbyist. NetBSD/OS108 user",
+      "is_moderator": false,
+      "karma": 418,
+      "avatar_url": "/avatars/jaypatelani-100.png",
+      "invited_by_user": "qbit"
+    },
+    "tags": [
+      "netbsd",
+      "programming",
+      "unix",
+      "zig"
+    ]
+  },
+  {
+    "short_id": "eptntv",
+    "short_id_url": "https://lobste.rs/s/eptntv",
+    "created_at": "2021-08-08T01:54:33.000-05:00",
+    "title": "The logic behind three random words",
+    "url": "https://www.ncsc.gov.uk/blog-post/the-logic-behind-three-random-words",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/eptntv/logic_behind_three_random_words",
+    "submitter_user": {
+      "username": "matthewfarwell",
+      "created_at": "2017-01-18T12:48:00.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 109,
+      "avatar_url": "/avatars/matthewfarwell-100.png",
+      "invited_by_user": "zg",
+      "github_username": "matthewfarwell",
+      "twitter_username": "matthewfarwell"
+    },
+    "tags": [
+      "security"
+    ]
+  },
+  {
     "short_id": "clxd1d",
     "short_id_url": "https://lobste.rs/s/clxd1d",
     "created_at": "2021-08-07T22:44:16.000-05:00",
     "title": "mod_md",
     "url": "https://httpd.apache.org/docs/trunk/mod/mod_md.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/clxd1d/mod_md",
     "submitter_user": {
@@ -16,7 +71,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81352,
+      "karma": 81353,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -43,7 +98,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81352,
+      "karma": 81353,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -109,7 +164,7 @@
     "created_at": "2021-08-07T09:49:44.000-05:00",
     "title": "It's Time for Operating Systems to Rediscover Hardware",
     "url": "https://www.youtube.com/watch?v=36myc8wQhLo",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -120,7 +175,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6975,
+      "karma": 6976,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -189,7 +244,7 @@
     "created_at": "2021-08-07T08:53:54.000-05:00",
     "title": "OpenBSD on the Framework Laptop",
     "url": "https://jcs.org/2021/08/06/framework",
-    "score": 46,
+    "score": 48,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -200,7 +255,7 @@
       "is_admin": false,
       "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
       "is_moderator": false,
-      "karma": 1299,
+      "karma": 1301,
       "avatar_url": "/avatars/nc-100.png",
       "invited_by_user": "vypr"
     },
@@ -252,7 +307,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10537,
+      "karma": 10538,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -382,7 +437,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81352,
+      "karma": 81353,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -564,7 +619,7 @@
     "url": "",
     "score": 10,
     "flags": 1,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/0s7b5h/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -608,60 +663,6 @@
     },
     "tags": [
       "apl"
-    ]
-  },
-  {
-    "short_id": "i7cc9l",
-    "short_id_url": "https://lobste.rs/s/i7cc9l",
-    "created_at": "2021-08-06T14:19:41.000-05:00",
-    "title": "The Emacs Lock-In Effect or the Emacs Sunk Cost Fallacy",
-    "url": "https://karl-voit.at/2021/07/23/emacs-lock-in/",
-    "score": 18,
-    "flags": 0,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/i7cc9l/emacs_lock_effect_emacs_sunk_cost_fallacy",
-    "submitter_user": {
-      "username": "gerikson",
-      "created_at": "2017-01-13T03:16:10.000-06:00",
-      "is_admin": false,
-      "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
-      "is_moderator": false,
-      "karma": 10537,
-      "avatar_url": "/avatars/gerikson-100.png",
-      "invited_by_user": "varjag",
-      "github_username": "gustafe",
-      "twitter_username": "gerikson"
-    },
-    "tags": [
-      "emacs"
-    ]
-  },
-  {
-    "short_id": "zyyitz",
-    "short_id_url": "https://lobste.rs/s/zyyitz",
-    "created_at": "2021-08-06T12:17:54.000-05:00",
-    "title": "A Practical Theory of Programming",
-    "url": "http://www.cs.toronto.edu/~hehner/aPToP/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/zyyitz/practical_theory_programming",
-    "submitter_user": {
-      "username": "lorddimwit",
-      "created_at": "2016-08-15T09:39:45.000-05:00",
-      "is_admin": false,
-      "about": "\r\n",
-      "is_moderator": false,
-      "karma": 10504,
-      "avatar_url": "/avatars/lorddimwit-100.png",
-      "invited_by_user": "cks",
-      "github_username": "deadpixi"
-    },
-    "tags": [
-      "compsci",
-      "pdf"
     ]
   }
 ]
