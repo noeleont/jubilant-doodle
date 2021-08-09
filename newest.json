@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "ul79os",
+    "short_id_url": "https://lobste.rs/s/ul79os",
+    "created_at": "2021-08-09T01:57:34.000-05:00",
+    "title": "Throwing 99 bottles (of OOP) in the trash",
+    "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
+    "submitter_user": {
+      "username": "dpc_pw",
+      "created_at": "2021-07-02T13:20:19.000-05:00",
+      "is_admin": false,
+      "about": "https://dpc.pw",
+      "is_moderator": false,
+      "karma": 109,
+      "avatar_url": "/avatars/dpc_pw-100.png",
+      "invited_by_user": "kornel"
+    },
+    "tags": [
+      "book",
+      "practices"
+    ]
+  },
+  {
+    "short_id": "of6l3w",
+    "short_id_url": "https://lobste.rs/s/of6l3w",
+    "created_at": "2021-08-09T01:33:31.000-05:00",
+    "title": "What if ESLint's configuration worked like elm-review?",
+    "url": "https://jfmengels.net/configuring-eslint/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked",
+    "submitter_user": {
+      "username": "jfmengels",
+      "created_at": "2020-10-03T11:24:25.000-05:00",
+      "is_admin": false,
+      "about": "I'm into functional programming and mostly the Elm language. I'm the author of elm-review, a static analysis tool for Elm.",
+      "is_moderator": false,
+      "karma": 70,
+      "avatar_url": "/avatars/jfmengels-100.png",
+      "invited_by_user": "wolfadex"
+    },
+    "tags": [
+      "elm",
+      "javascript"
+    ]
+  },
+  {
     "short_id": "0wv5xt",
     "short_id_url": "https://lobste.rs/s/0wv5xt",
     "created_at": "2021-08-09T00:34:50.000-05:00",
@@ -60,7 +112,7 @@
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 10,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -71,7 +123,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4361,
+      "karma": 4366,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -85,7 +137,7 @@
     "created_at": "2021-08-08T17:53:26.000-05:00",
     "title": "DebConf21 Schedule",
     "url": "https://debconf21.debconf.org/schedule/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +148,7 @@
       "is_admin": false,
       "about": "MediaWiki core dev, Debian Developer, Wikipedian. Inactive journalist, believer in free software and free knowledge.",
       "is_moderator": false,
-      "karma": 160,
+      "karma": 161,
       "avatar_url": "/avatars/legoktm-100.png",
       "invited_by_user": "brennen"
     },
@@ -163,7 +215,7 @@
     "created_at": "2021-08-08T14:58:12.000-05:00",
     "title": "Put This In Your Pipe – Backticks in Julia",
     "url": "https://julialang.org/blog/2013/04/put-this-in-your-pipe/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -174,7 +226,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 916,
+      "karma": 917,
       "avatar_url": "/avatars/mpweiher-100.png",
       "invited_by_user": "mulle_nat",
       "github_username": "mpw",
@@ -190,9 +242,9 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer (2017)",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 3,
+    "score": 5,
     "flags": 10,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/yxepcb/modern_software_development_is_cancer",
     "submitter_user": {
@@ -201,7 +253,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11652,
+      "karma": 11654,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -242,7 +294,7 @@
     "created_at": "2021-08-08T10:57:18.000-05:00",
     "title": "seL4 Integrity Enforcement Proved for RISC-V",
     "url": "https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -253,7 +305,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4569,
+      "karma": 4570,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -321,7 +373,7 @@
     "created_at": "2021-08-08T09:43:32.000-05:00",
     "title": "Service Reliability Math",
     "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
-    "score": 17,
+    "score": 18,
     "flags": 1,
     "comment_count": 11,
     "description": "",
@@ -332,7 +384,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 101,
+      "karma": 102,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -347,9 +399,9 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 31,
+    "score": 32,
     "flags": 1,
-    "comment_count": 23,
+    "comment_count": 24,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -358,7 +410,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 107,
+      "karma": 109,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -604,58 +656,6 @@
     "tags": [
       "law",
       "programming"
-    ]
-  },
-  {
-    "short_id": "7zpung",
-    "short_id_url": "https://lobste.rs/s/7zpung",
-    "created_at": "2021-08-07T08:53:54.000-05:00",
-    "title": "OpenBSD on the Framework Laptop",
-    "url": "https://jcs.org/2021/08/06/framework",
-    "score": 67,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/7zpung/openbsd_on_framework_laptop",
-    "submitter_user": {
-      "username": "nc",
-      "created_at": "2015-11-04T15:10:05.000-06:00",
-      "is_admin": false,
-      "about": "Programming rascal\r\n\r\n[website](https://c.har.li/e) | [github](http://github.com/charles-l)",
-      "is_moderator": false,
-      "karma": 1320,
-      "avatar_url": "/avatars/nc-100.png",
-      "invited_by_user": "vypr"
-    },
-    "tags": [
-      "hardware",
-      "openbsd"
-    ]
-  },
-  {
-    "short_id": "tq7mkd",
-    "short_id_url": "https://lobste.rs/s/tq7mkd",
-    "created_at": "2021-08-07T08:28:40.000-05:00",
-    "title": "Classic unix pipeline example",
-    "url": "https://relational-pipes.globalcode.info/v_0/classic-example.xhtml",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 16,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/tq7mkd/classic_unix_pipeline_example",
-    "submitter_user": {
-      "username": "franta",
-      "created_at": "2019-11-07T02:39:24.000-06:00",
-      "is_admin": false,
-      "about": "Independent software developer, GNU/Linux user, free software supporter.",
-      "is_moderator": false,
-      "karma": 670,
-      "avatar_url": "/avatars/franta-100.png",
-      "invited_by_user": "Bherzet"
-    },
-    "tags": [
-      "philosophy",
-      "unix"
     ]
   }
 ]
