@@ -1,13 +1,40 @@
 [
   {
+    "short_id": "mvjv9y",
+    "short_id_url": "https://lobste.rs/s/mvjv9y",
+    "created_at": "2021-08-09T03:47:50.000-05:00",
+    "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
+    "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/mvjv9y/eflfe_elixir_flavoured_lisp_flavoured",
+    "submitter_user": {
+      "username": "marianoguerra",
+      "created_at": "2018-05-08T06:19:58.000-05:00",
+      "is_admin": false,
+      "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
+      "is_moderator": false,
+      "karma": 176,
+      "avatar_url": "/avatars/marianoguerra-100.png",
+      "invited_by_user": "unbalancedparentheses"
+    },
+    "tags": [
+      "compilers",
+      "elixir",
+      "lisp"
+    ]
+  },
+  {
     "short_id": "ul79os",
     "short_id_url": "https://lobste.rs/s/ul79os",
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 3,
+    "score": 6,
     "flags": 1,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 110,
+      "karma": 117,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -33,7 +60,7 @@
     "url": "https://jfmengels.net/configuring-eslint/",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked",
     "submitter_user": {
@@ -85,7 +112,7 @@
     "created_at": "2021-08-08T21:05:52.000-05:00",
     "title": "Lisping at JPL (2002)",
     "url": "https://flownet.com/gat/jpl-lisp.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +123,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81383,
+      "karma": 81385,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -112,7 +139,7 @@
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 18,
+    "score": 20,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -123,7 +150,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4369,
+      "karma": 4371,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -199,7 +226,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81383,
+      "karma": 81385,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -215,7 +242,7 @@
     "created_at": "2021-08-08T14:58:12.000-05:00",
     "title": "Put This In Your Pipe – Backticks in Julia",
     "url": "https://julialang.org/blog/2013/04/put-this-in-your-pipe/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -226,7 +253,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 918,
+      "karma": 919,
       "avatar_url": "/avatars/mpweiher-100.png",
       "invited_by_user": "mulle_nat",
       "github_username": "mpw",
@@ -242,9 +269,9 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer (2017)",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 7,
+    "score": 9,
     "flags": 10,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/yxepcb/modern_software_development_is_cancer",
     "submitter_user": {
@@ -253,7 +280,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11656,
+      "karma": 11658,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -268,7 +295,7 @@
     "created_at": "2021-08-08T13:32:57.000-05:00",
     "title": "DIY Air Quality Sensor",
     "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -279,7 +306,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1243,
+      "karma": 1244,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -399,7 +426,7 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 32,
+    "score": 33,
     "flags": 1,
     "comment_count": 26,
     "description": "",
@@ -410,7 +437,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 110,
+      "karma": 117,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -480,9 +507,9 @@
     "created_at": "2021-08-07T22:44:16.000-05:00",
     "title": "mod_md",
     "url": "https://httpd.apache.org/docs/trunk/mod/mod_md.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/clxd1d/mod_md",
     "submitter_user": {
@@ -491,7 +518,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81383,
+      "karma": 81385,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -518,7 +545,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81383,
+      "karma": 81385,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -584,9 +611,9 @@
     "created_at": "2021-08-07T09:49:44.000-05:00",
     "title": "It's Time for Operating Systems to Rediscover Hardware",
     "url": "https://www.youtube.com/watch?v=36myc8wQhLo",
-    "score": 16,
+    "score": 17,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/ekcrak/it_s_time_for_operating_systems",
     "submitter_user": {
@@ -595,7 +622,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6986,
+      "karma": 6987,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -630,32 +657,6 @@
       "apl",
       "plt",
       "video"
-    ]
-  },
-  {
-    "short_id": "s0xch6",
-    "short_id_url": "https://lobste.rs/s/s0xch6",
-    "created_at": "2021-08-07T09:03:37.000-05:00",
-    "title": "License Round Up",
-    "url": "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html",
-    "score": 25,
-    "flags": 1,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/s0xch6/license_round_up",
-    "submitter_user": {
-      "username": "nickpsecurity",
-      "created_at": "2016-07-28T14:11:08.000-05:00",
-      "is_admin": false,
-      "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
-      "is_moderator": false,
-      "karma": 22217,
-      "avatar_url": "/avatars/nickpsecurity-100.png",
-      "invited_by_user": "tedu"
-    },
-    "tags": [
-      "law",
-      "programming"
     ]
   }
 ]
