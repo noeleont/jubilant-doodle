@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "0emvhc",
+    "short_id_url": "https://lobste.rs/s/0emvhc",
+    "created_at": "2021-08-09T15:13:20.000-05:00",
+    "title": "PostgREST version 8.0",
+    "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/0emvhc/postgrest_version_8_0",
+    "submitter_user": {
+      "username": "tbonesteaks",
+      "created_at": "2019-09-24T11:30:46.000-05:00",
+      "is_admin": false,
+      "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
+      "is_moderator": false,
+      "karma": 729,
+      "avatar_url": "/avatars/tbonesteaks-100.png",
+      "invited_by_user": "wink"
+    },
+    "tags": [
+      "api",
+      "databases",
+      "release"
+    ]
+  },
+  {
     "short_id": "sydqzh",
     "short_id_url": "https://lobste.rs/s/sydqzh",
     "created_at": "2021-08-09T14:05:26.000-05:00",
@@ -30,7 +57,7 @@
     "created_at": "2021-08-09T13:15:09.000-05:00",
     "title": "Dial-a-SID",
     "url": "http://www.linusakesson.net/hardware/dial-a-sid/index.php",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "<p>The author rebuilds an old bakelite phone into a jukebox for SID tunes.</p>\n",
@@ -41,7 +68,7 @@
       "is_admin": false,
       "about": "UNIX Mechanic",
       "is_moderator": false,
-      "karma": 154,
+      "karma": 155,
       "avatar_url": "/avatars/lollipopman-100.png",
       "invited_by_user": "stephen",
       "github_username": "lollipopman"
@@ -83,7 +110,7 @@
     "created_at": "2021-08-09T12:06:03.000-05:00",
     "title": "Build your own NeXT with a virtual machine",
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -192,7 +219,7 @@
     "created_at": "2021-08-09T09:22:58.000-05:00",
     "title": "No STARTTLS",
     "url": "https://nostarttls.secvuln.info/",
-    "score": 12,
+    "score": 17,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -203,7 +230,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1045,
+      "karma": 1050,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -220,7 +247,7 @@
     "url": "https://2ality.com/2021/08/iteration-helpers.html",
     "score": 2,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/ewueaf/javascript_needs_more_helper_functions",
     "submitter_user": {
@@ -250,9 +277,9 @@
     "created_at": "2021-08-09T07:33:27.000-05:00",
     "title": "Three fundamental flaws of SIMD",
     "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/fahzr4/three_fundamental_flaws_simd",
     "submitter_user": {
@@ -261,7 +288,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81407,
+      "karma": 81408,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -287,7 +314,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81407,
+      "karma": 81408,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -303,7 +330,7 @@
     "created_at": "2021-08-09T07:15:27.000-05:00",
     "title": "When Zero Cost Abstractions Aren’t Zero Cost",
     "url": "https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -314,7 +341,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 64,
+      "karma": 67,
       "avatar_url": "/avatars/mgdm-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -329,7 +356,7 @@
     "created_at": "2021-08-09T06:08:19.000-05:00",
     "title": "Sketching - A Language for Creative Coding",
     "url": "https://soegaard.github.io/sketching/",
-    "score": 11,
+    "score": 13,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -340,7 +367,7 @@
       "is_admin": false,
       "about": "http://github.com/soegaard\r\n",
       "is_moderator": false,
-      "karma": 55,
+      "karma": 58,
       "avatar_url": "/avatars/soegaard-100.png",
       "invited_by_user": "355E3B"
     },
@@ -356,7 +383,7 @@
     "created_at": "2021-08-09T05:58:16.000-05:00",
     "title": "An overview of Ink programming language",
     "url": "https://dotink.co/docs/overview/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -367,7 +394,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 466,
+      "karma": 468,
       "avatar_url": "/avatars/pzel-100.png",
       "invited_by_user": "jan",
       "github_username": "pzel"
@@ -411,7 +438,7 @@
     "created_at": "2021-08-09T04:35:16.000-05:00",
     "title": "Falsehoods Programmers Believe About Phone Numbers",
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -422,7 +449,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3318,
+      "karma": 3319,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -463,9 +490,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 13,
-    "flags": 15,
-    "comment_count": 38,
+    "score": 16,
+    "flags": 16,
+    "comment_count": 39,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -474,7 +501,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 144,
+      "karma": 148,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -501,7 +528,7 @@
       "is_admin": false,
       "about": "I'm into functional programming and mostly the Elm language. I'm the author of elm-review, a static analysis tool for Elm.",
       "is_moderator": false,
-      "karma": 74,
+      "karma": 75,
       "avatar_url": "/avatars/jfmengels-100.png",
       "invited_by_user": "wolfadex"
     },
@@ -555,7 +582,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81407,
+      "karma": 81408,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -621,7 +648,7 @@
     "created_at": "2021-08-08T16:43:53.000-05:00",
     "title": "How we built a general purpose key value store for Facebook with ZippyDB",
     "url": "https://engineering.fb.com/2021/08/06/core-data/zippydb/",
-    "score": 2,
+    "score": 3,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -632,40 +659,13 @@
       "is_admin": false,
       "about": "Curious mind. https://blog.pims.me/",
       "is_moderator": false,
-      "karma": 678,
+      "karma": 679,
       "avatar_url": "/avatars/pims-100.png",
       "invited_by_user": "lau"
     },
     "tags": [
       "databases",
       "distributed"
-    ]
-  },
-  {
-    "short_id": "ex9pdv",
-    "short_id_url": "https://lobste.rs/s/ex9pdv",
-    "created_at": "2021-08-08T16:26:17.000-05:00",
-    "title": "How to write really slow Rust code - Part 2",
-    "url": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ex9pdv/how_write_really_slow_rust_code_part_2",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81407,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "performance",
-      "rust"
     ]
   }
 ]
