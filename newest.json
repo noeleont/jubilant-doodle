@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "ynszmh",
+    "short_id_url": "https://lobste.rs/s/ynszmh",
+    "created_at": "2021-08-09T04:35:16.000-05:00",
+    "title": "Falsehoods Programmers Believe About Phone Numbers",
+    "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ynszmh/falsehoods_programmers_believe_about",
+    "submitter_user": {
+      "username": "WilhelmVonWeiner",
+      "created_at": "2018-11-18T13:58:20.000-06:00",
+      "is_admin": false,
+      "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
+      "is_moderator": false,
+      "karma": 3303,
+      "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
+      "invited_by_user": "rocx"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "mvjv9y",
     "short_id_url": "https://lobste.rs/s/mvjv9y",
     "created_at": "2021-08-09T03:47:50.000-05:00",
     "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
     "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
       "is_moderator": false,
-      "karma": 176,
+      "karma": 177,
       "avatar_url": "/avatars/marianoguerra-100.png",
       "invited_by_user": "unbalancedparentheses"
     },
@@ -32,9 +57,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 6,
-    "flags": 1,
-    "comment_count": 3,
+    "score": 14,
+    "flags": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -43,7 +68,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 117,
+      "karma": 130,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -60,7 +85,7 @@
     "url": "https://jfmengels.net/configuring-eslint/",
     "score": 1,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked",
     "submitter_user": {
@@ -84,7 +109,7 @@
     "created_at": "2021-08-09T00:34:50.000-05:00",
     "title": "Glitching RISC-V chips: MTVEC corruption for hardening ISA",
     "url": "https://www.youtube.com/watch?v=iz_Y1lOtX08",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +120,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 727,
+      "karma": 728,
       "avatar_url": "/avatars/glacambre-100.png",
       "invited_by_user": "gthm",
       "github_username": "glacambre"
@@ -139,9 +164,9 @@
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 20,
+    "score": 22,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/4pz3qg/zig_wrinkles",
     "submitter_user": {
@@ -150,7 +175,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4371,
+      "karma": 4373,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -269,7 +294,7 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer (2017)",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 9,
+    "score": 8,
     "flags": 10,
     "comment_count": 6,
     "description": "",
@@ -280,7 +305,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11658,
+      "karma": 11657,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -295,7 +320,7 @@
     "created_at": "2021-08-08T13:32:57.000-05:00",
     "title": "DIY Air Quality Sensor",
     "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -306,7 +331,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1244,
+      "karma": 1245,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -400,7 +425,7 @@
     "created_at": "2021-08-08T09:43:32.000-05:00",
     "title": "Service Reliability Math",
     "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
-    "score": 18,
+    "score": 20,
     "flags": 1,
     "comment_count": 11,
     "description": "",
@@ -411,7 +436,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 102,
+      "karma": 104,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -426,7 +451,7 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 33,
+    "score": 35,
     "flags": 1,
     "comment_count": 26,
     "description": "",
@@ -437,7 +462,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 117,
+      "karma": 130,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -452,7 +477,7 @@
     "created_at": "2021-08-08T02:10:51.000-05:00",
     "title": "Bringing NetBSD to Zig's Continuous Integration",
     "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -463,7 +488,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 441,
+      "karma": 442,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -628,34 +653,6 @@
     },
     "tags": [
       "osdev",
-      "video"
-    ]
-  },
-  {
-    "short_id": "wfht47",
-    "short_id_url": "https://lobste.rs/s/wfht47",
-    "created_at": "2021-08-07T09:42:49.000-05:00",
-    "title": "The J Programming Language (2013)",
-    "url": "https://www.youtube.com/watch?v=RWYkx6-L04Q",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wfht47/j_programming_language_2013",
-    "submitter_user": {
-      "username": "skuzzymiglet",
-      "created_at": "2020-11-25T14:37:04.000-06:00",
-      "is_admin": false,
-      "about": "Shortcuts, shorthands and seedlings\r\n\r\nɮʌkɪs",
-      "is_moderator": false,
-      "karma": 1474,
-      "avatar_url": "/avatars/skuzzymiglet-100.png",
-      "invited_by_user": "orib",
-      "github_username": "skuzzymiglet"
-    },
-    "tags": [
-      "apl",
-      "plt",
       "video"
     ]
   }
