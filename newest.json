@@ -1,11 +1,64 @@
 [
   {
+    "short_id": "bkprj4",
+    "short_id_url": "https://lobste.rs/s/bkprj4",
+    "created_at": "2021-08-09T13:15:09.000-05:00",
+    "title": "Dial-a-SID",
+    "url": "http://www.linusakesson.net/hardware/dial-a-sid/index.php",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "<p>The author rebuilds an old bakelite phone into a jukebox for SID tunes.</p>\n",
+    "comments_url": "https://lobste.rs/s/bkprj4/dial_sid",
+    "submitter_user": {
+      "username": "lollipopman",
+      "created_at": "2019-03-06T12:26:49.000-06:00",
+      "is_admin": false,
+      "about": "UNIX Mechanic",
+      "is_moderator": false,
+      "karma": 153,
+      "avatar_url": "/avatars/lollipopman-100.png",
+      "invited_by_user": "stephen",
+      "github_username": "lollipopman"
+    },
+    "tags": [
+      "hardware",
+      "programming",
+      "video"
+    ]
+  },
+  {
+    "short_id": "z5lmgn",
+    "short_id_url": "https://lobste.rs/s/z5lmgn",
+    "created_at": "2021-08-09T12:36:33.000-05:00",
+    "title": "Manjaro on the RPI4 with full disk encryption and remote unlock",
+    "url": "https://stafwag.github.io/blog/blog/2021/08/08/manjaro-on-rpi4-disk-encryption-ssh-unlock/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/z5lmgn/manjaro_on_rpi4_with_full_disk_encryption",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11657,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "linux"
+    ]
+  },
+  {
     "short_id": "gtcyz4",
     "short_id_url": "https://lobste.rs/s/gtcyz4",
     "created_at": "2021-08-09T12:06:03.000-05:00",
     "title": "Build your own NeXT with a virtual machine",
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11656,
+      "karma": 11657,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -30,7 +83,7 @@
     "created_at": "2021-08-09T10:21:14.000-05:00",
     "title": "NVMM hypervisor landed in DragonFly",
     "url": "https://lists.dragonflybsd.org/pipermail/kernel/2021-August/304105.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +94,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4416,
+      "karma": 4417,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -58,7 +111,7 @@
     "created_at": "2021-08-09T10:06:03.000-05:00",
     "title": "The Web Ascendant (2015)",
     "url": "https://buckleyisms.com/blog/the-web-ascendant/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +122,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 129,
+      "karma": 130,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -114,7 +167,7 @@
     "created_at": "2021-08-09T09:22:58.000-05:00",
     "title": "No STARTTLS",
     "url": "https://nostarttls.secvuln.info/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -125,7 +178,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1037,
+      "karma": 1038,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -172,9 +225,9 @@
     "created_at": "2021-08-09T07:33:27.000-05:00",
     "title": "Three fundamental flaws of SIMD",
     "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-    "score": 9,
+    "score": 12,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/fahzr4/three_fundamental_flaws_simd",
     "submitter_user": {
@@ -183,7 +236,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81403,
+      "karma": 81406,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -209,7 +262,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81403,
+      "karma": 81406,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -251,9 +304,9 @@
     "created_at": "2021-08-09T06:08:19.000-05:00",
     "title": "Sketching - A Language for Creative Coding",
     "url": "https://soegaard.github.io/sketching/",
-    "score": 8,
+    "score": 11,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/tbqyqj/sketching_language_for_creative_coding",
     "submitter_user": {
@@ -262,7 +315,7 @@
       "is_admin": false,
       "about": "http://github.com/soegaard\r\n",
       "is_moderator": false,
-      "karma": 51,
+      "karma": 54,
       "avatar_url": "/avatars/soegaard-100.png",
       "invited_by_user": "355E3B"
     },
@@ -278,9 +331,9 @@
     "created_at": "2021-08-09T05:58:16.000-05:00",
     "title": "An overview of Ink programming language",
     "url": "https://dotink.co/docs/overview/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/utmzml/overview_ink_programming_language",
     "submitter_user": {
@@ -289,7 +342,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 464,
+      "karma": 466,
       "avatar_url": "/avatars/pzel-100.png",
       "invited_by_user": "jan",
       "github_username": "pzel"
@@ -307,7 +360,7 @@
     "url": "",
     "score": 10,
     "flags": 1,
-    "comment_count": 13,
+    "comment_count": 15,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
     "submitter_user": {
@@ -358,7 +411,7 @@
     "created_at": "2021-08-09T03:47:50.000-05:00",
     "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
     "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -369,7 +422,7 @@
       "is_admin": false,
       "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
       "is_moderator": false,
-      "karma": 185,
+      "karma": 186,
       "avatar_url": "/avatars/marianoguerra-100.png",
       "invited_by_user": "unbalancedparentheses"
     },
@@ -385,9 +438,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 15,
-    "flags": 12,
-    "comment_count": 28,
+    "score": 14,
+    "flags": 14,
+    "comment_count": 35,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -396,7 +449,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 141,
+      "karma": 143,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -477,7 +530,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81403,
+      "karma": 81406,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -493,7 +546,7 @@
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 34,
+    "score": 36,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -504,7 +557,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4385,
+      "karma": 4387,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -580,7 +633,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81403,
+      "karma": 81406,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -615,58 +668,6 @@
     },
     "tags": [
       "unix"
-    ]
-  },
-  {
-    "short_id": "yxepcb",
-    "short_id_url": "https://lobste.rs/s/yxepcb",
-    "created_at": "2021-08-08T14:35:15.000-05:00",
-    "title": "Modern software development is cancer (2017)",
-    "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 7,
-    "flags": 12,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yxepcb/modern_software_development_is_cancer",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11656,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "practices",
-      "rant"
-    ]
-  },
-  {
-    "short_id": "2f4l7j",
-    "short_id_url": "https://lobste.rs/s/2f4l7j",
-    "created_at": "2021-08-08T13:32:57.000-05:00",
-    "title": "DIY Air Quality Sensor",
-    "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
-    "score": 27,
-    "flags": 0,
-    "comment_count": 10,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/2f4l7j/diy_air_quality_sensor",
-    "submitter_user": {
-      "username": "bcongdon",
-      "created_at": "2019-12-27T13:23:21.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1251,
-      "avatar_url": "/avatars/bcongdon-100.png",
-      "invited_by_user": "gerikson",
-      "github_username": "bcongdon"
-    },
-    "tags": [
-      "hardware"
     ]
   }
 ]
