@@ -1,11 +1,38 @@
 [
   {
+    "short_id": "xzzrct",
+    "short_id_url": "https://lobste.rs/s/xzzrct",
+    "created_at": "2021-08-08T21:05:52.000-05:00",
+    "title": "Lisping at JPL (2002)",
+    "url": "https://flownet.com/gat/jpl-lisp.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xzzrct/lisping_at_jpl_2002",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81379,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "historical",
+      "lisp"
+    ]
+  },
+  {
     "short_id": "4pz3qg",
     "short_id_url": "https://lobste.rs/s/4pz3qg",
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4353,
+      "karma": 4355,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -92,7 +119,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81378,
+      "karma": 81379,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -135,8 +162,8 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 4,
-    "flags": 6,
+    "score": 3,
+    "flags": 7,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/yxepcb/modern_software_development_is_cancer",
@@ -146,7 +173,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11653,
+      "karma": 11652,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -161,7 +188,7 @@
     "created_at": "2021-08-08T13:32:57.000-05:00",
     "title": "DIY Air Quality Sensor",
     "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -172,7 +199,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1236,
+      "karma": 1237,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -187,7 +214,7 @@
     "created_at": "2021-08-08T10:57:18.000-05:00",
     "title": "seL4 Integrity Enforcement Proved for RISC-V",
     "url": "https://microkerneldude.wordpress.com/2021/08/04/sel4-integrity-enforcement-proved-for-risc-v/",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -198,7 +225,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4567,
+      "karma": 4568,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -241,8 +268,8 @@
     "created_at": "2021-08-08T10:00:38.000-05:00",
     "title": "go mod tidy, but for multi-module monorepos via mad science",
     "url": "https://github.com/StevenACoffman/monotidy",
-    "score": 1,
-    "flags": 0,
+    "score": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/w03oyj/go_mod_tidy_for_multi_module_monorepos_via",
@@ -252,7 +279,7 @@
       "is_admin": false,
       "about": "•ა꧁シ He / Him シ꧂ა• 【ツ】⬆️",
       "is_moderator": false,
-      "karma": 0,
+      "karma": -1,
       "avatar_url": "/avatars/StevenAndrewCoffman-100.png",
       "invited_by_user": "cadey"
     },
@@ -267,8 +294,8 @@
     "title": "Service Reliability Math",
     "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
     "score": 14,
-    "flags": 0,
-    "comment_count": 9,
+    "flags": 1,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/2fs0t3/service_reliability_math",
     "submitter_user": {
@@ -293,8 +320,8 @@
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
     "score": 30,
-    "flags": 0,
-    "comment_count": 19,
+    "flags": 1,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -318,7 +345,7 @@
     "created_at": "2021-08-08T02:10:51.000-05:00",
     "title": "Bringing NetBSD to Zig's Continuous Integration",
     "url": "https://wf.lavatech.top/lun-4/bringing-netbsd-to-zigs-continuous-integration",
-    "score": 22,
+    "score": 23,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -329,7 +356,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 439,
+      "karma": 440,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -384,7 +411,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81378,
+      "karma": 81379,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -411,7 +438,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81378,
+      "karma": 81379,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -426,8 +453,8 @@
     "created_at": "2021-08-07T20:08:33.000-05:00",
     "title": "Size Matters",
     "url": "https://chasewilson.dev/blog/size-matters/",
-    "score": 7,
-    "flags": 0,
+    "score": 6,
+    "flags": 1,
     "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/tqkxfg/size_matters",
@@ -437,7 +464,7 @@
       "is_admin": false,
       "about": "Language developer and Rust programmer",
       "is_moderator": false,
-      "karma": 36,
+      "karma": 35,
       "avatar_url": "/avatars/kixiron-100.png",
       "invited_by_user": "amadeusine",
       "github_username": "Kixiron"
@@ -477,7 +504,7 @@
     "created_at": "2021-08-07T09:49:44.000-05:00",
     "title": "It's Time for Operating Systems to Rediscover Hardware",
     "url": "https://www.youtube.com/watch?v=36myc8wQhLo",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -488,7 +515,7 @@
       "is_admin": false,
       "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
       "is_moderator": false,
-      "karma": 6984,
+      "karma": 6985,
       "avatar_url": "/avatars/GeoffWozniak-100.png",
       "invited_by_user": "vjoel"
     },
@@ -505,7 +532,7 @@
     "url": "https://www.youtube.com/watch?v=RWYkx6-L04Q",
     "score": 8,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/wfht47/j_programming_language_2013",
     "submitter_user": {
@@ -531,7 +558,7 @@
     "created_at": "2021-08-07T09:03:37.000-05:00",
     "title": "License Round Up",
     "url": "https://writing.kemitchell.com/2021/06/21/License-Round-Up.html",
-    "score": 24,
+    "score": 25,
     "flags": 1,
     "comment_count": 9,
     "description": "",
@@ -542,7 +569,7 @@
       "is_admin": false,
       "about": "Previously:\r\n\r\nWhite nerd who grew up in mostly-poor environments with country rednecks, black gangstas, and few opportunities. Well-off just long enough to know how skewed system was. Became a survalist, engineer, researcher, scientist, reformer, and civil rights activist. \r\n\r\nI focused on tech and practices to secure systems and boost human potential. In security, my specialty was high-assurance security to defend against nation-state attackers (esp inventing/evaluating techniques). That's systems provably invulnerable to known classes of attack, limiting damage of unknown classes, recovering to safe state after any attack, and optionally fault-tolerant techniques to keep them at five 9's reliability.\r\n\r\nCurrently (officially June 2020):\r\n\r\nCalled by, returned to, and growing in the Lord Jesus Christ. Since then, I've experienced personal transformation, miracles, and more. 2020 went from a nightmare to an adventure! It all started with the promises of the Word of God (Bible).\r\n\r\nThe Word of God impacted over a billion people of all types in more than 196 countries. Tells us about who God is, us, our problems, His solution, and much wisdom. Takes a *long* time to read, though. \r\n\r\nFor that reason, I put up a [site](https://www.heswithjesus.com) that condenses it to minutes, has a page with evidence it's true, my story, and my old sins. The latter two show Jesus can reach anyone no matter their past or current challenges. My sins up on site that only looses money is proof I'm honest about that. There's no psychological or scientific explanation for much of what's happened: only God could do it. So, please do check out my site!\r\n\r\ndigitalkevlar@gmail.com\r\n\r\nAll of my comments here are licensed under Creative Commons Attribution 4.0 International License.",
       "is_moderator": false,
-      "karma": 22216,
+      "karma": 22217,
       "avatar_url": "/avatars/nickpsecurity-100.png",
       "invited_by_user": "tedu"
     },
@@ -583,7 +610,7 @@
     "created_at": "2021-08-07T08:28:40.000-05:00",
     "title": "Classic unix pipeline example",
     "url": "https://relational-pipes.globalcode.info/v_0/classic-example.xhtml",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 16,
     "description": "",
@@ -594,7 +621,7 @@
       "is_admin": false,
       "about": "Independent software developer, GNU/Linux user, free software supporter.",
       "is_moderator": false,
-      "karma": 668,
+      "karma": 669,
       "avatar_url": "/avatars/franta-100.png",
       "invited_by_user": "Bherzet"
     },
@@ -628,31 +655,6 @@
     },
     "tags": [
       "python"
-    ]
-  },
-  {
-    "short_id": "b0fgtp",
-    "short_id_url": "https://lobste.rs/s/b0fgtp",
-    "created_at": "2021-08-07T02:56:54.000-05:00",
-    "title": "Researchers develop defenses against deep learning hack attacks",
-    "url": "https://www.research.ibm.com/blog/defend-deep-learning-hacks",
-    "score": 1,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/b0fgtp/researchers_develop_defenses_against",
-    "submitter_user": {
-      "username": "erick",
-      "created_at": "2021-08-03T10:01:31.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 12,
-      "avatar_url": "/avatars/erick-100.png",
-      "invited_by_user": "jstoja"
-    },
-    "tags": [
-      "security"
     ]
   }
 ]
