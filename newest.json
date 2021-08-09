@@ -1,11 +1,93 @@
 [
   {
+    "short_id": "tbqyqj",
+    "short_id_url": "https://lobste.rs/s/tbqyqj",
+    "created_at": "2021-08-09T06:08:19.000-05:00",
+    "title": "Sketching - A Language for Creative Coding",
+    "url": "https://soegaard.github.io/sketching/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Sketching is a language/library for creative coding. The focus is to make graphical programs accessible for beginners, artists, educators and designers. Sketching is free to use and the source is available to read and improve.</p>\n<p>The main focus of Sketching is graphical programs. Running a program will display a canvas ready to show static images or animation.</p>\n<p>The inspiration for Sketching came from the Processing project. Processing is a programming language built on top of Java. The Processing language was devised by Ben Fry and Casey Reas.</p>\n<p>Think of Sketching as what Processing would have looked like, if it used Racket as its programming language instead of Java. Alternatively, think of Sketching as Racket with an easy to use graphics library.</p>\n<p>Although inspired by the Processing project, this project has no affiliation with the Processing Foundation.</p>\n<p>Try it.</p>\n<p>Need inspiration? Pick an example and port it to Sketching.</p>\n",
+    "comments_url": "https://lobste.rs/s/tbqyqj/sketching_language_for_creative_coding",
+    "submitter_user": {
+      "username": "soegaard",
+      "created_at": "2016-03-09T07:56:25.000-06:00",
+      "is_admin": false,
+      "about": "http://github.com/soegaard\r\n",
+      "is_moderator": false,
+      "karma": 44,
+      "avatar_url": "/avatars/soegaard-100.png",
+      "invited_by_user": "355E3B"
+    },
+    "tags": [
+      "graphics",
+      "lisp",
+      "programming"
+    ]
+  },
+  {
+    "short_id": "utmzml",
+    "short_id_url": "https://lobste.rs/s/utmzml",
+    "created_at": "2021-08-09T05:58:16.000-05:00",
+    "title": "An overview of Ink programming language",
+    "url": "https://dotink.co/docs/overview/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/utmzml/overview_ink_programming_language",
+    "submitter_user": {
+      "username": "pzel",
+      "created_at": "2015-12-30T16:11:12.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 459,
+      "avatar_url": "/avatars/pzel-100.png",
+      "invited_by_user": "jan",
+      "github_username": "pzel"
+    },
+    "tags": [
+      "go",
+      "plt"
+    ]
+  },
+  {
+    "short_id": "89kzrh",
+    "short_id_url": "https://lobste.rs/s/89kzrh",
+    "created_at": "2021-08-09T05:21:39.000-05:00",
+    "title": "What are you doing this week?",
+    "url": "",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
+    "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
+    "submitter_user": {
+      "username": "caius",
+      "created_at": "2014-05-13T06:58:30.000-05:00",
+      "is_admin": false,
+      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
+      "is_moderator": false,
+      "karma": 6404,
+      "avatar_url": "/avatars/caius-100.png",
+      "invited_by_user": "lauris",
+      "github_username": "caius",
+      "twitter_username": "Caius"
+    },
+    "tags": [
+      "ask",
+      "programming"
+    ]
+  },
+  {
     "short_id": "ynszmh",
     "short_id_url": "https://lobste.rs/s/ynszmh",
     "created_at": "2021-08-09T04:35:16.000-05:00",
     "title": "Falsehoods Programmers Believe About Phone Numbers",
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +98,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3303,
+      "karma": 3305,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -57,9 +139,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 14,
-    "flags": 2,
-    "comment_count": 4,
+    "score": 17,
+    "flags": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -68,7 +150,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 130,
+      "karma": 137,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -137,9 +219,9 @@
     "created_at": "2021-08-08T21:05:52.000-05:00",
     "title": "Lisping at JPL (2002)",
     "url": "https://flownet.com/gat/jpl-lisp.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/xzzrct/lisping_at_jpl_2002",
     "submitter_user": {
@@ -148,7 +230,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81385,
+      "karma": 81387,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -164,7 +246,7 @@
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 22,
+    "score": 24,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -175,7 +257,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4373,
+      "karma": 4375,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -251,7 +333,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81385,
+      "karma": 81387,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -294,7 +376,7 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer (2017)",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 8,
+    "score": 9,
     "flags": 10,
     "comment_count": 6,
     "description": "",
@@ -305,7 +387,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11657,
+      "karma": 11658,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -320,7 +402,7 @@
     "created_at": "2021-08-08T13:32:57.000-05:00",
     "title": "DIY Air Quality Sensor",
     "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
-    "score": 21,
+    "score": 23,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -331,7 +413,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1245,
+      "karma": 1247,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -451,9 +533,9 @@
     "created_at": "2021-08-08T02:21:48.000-05:00",
     "title": "Growing Object-Oriented Software vs what I would do",
     "url": "https://dpc.pw/growing-object-oriented-software-vs-what-i-would-do",
-    "score": 35,
+    "score": 36,
     "flags": 1,
-    "comment_count": 26,
+    "comment_count": 28,
     "description": "",
     "comments_url": "https://lobste.rs/s/iizjtx/growing_object_oriented_software_vs_what",
     "submitter_user": {
@@ -462,7 +544,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 130,
+      "karma": 137,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -543,7 +625,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81385,
+      "karma": 81387,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -570,90 +652,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81385,
+      "karma": 81387,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "security"
-    ]
-  },
-  {
-    "short_id": "tqkxfg",
-    "short_id_url": "https://lobste.rs/s/tqkxfg",
-    "created_at": "2021-08-07T20:08:33.000-05:00",
-    "title": "Size Matters",
-    "url": "https://chasewilson.dev/blog/size-matters/",
-    "score": 6,
-    "flags": 1,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/tqkxfg/size_matters",
-    "submitter_user": {
-      "username": "kixiron",
-      "created_at": "2020-04-19T09:47:03.000-05:00",
-      "is_admin": false,
-      "about": "Language developer and Rust programmer",
-      "is_moderator": false,
-      "karma": 35,
-      "avatar_url": "/avatars/kixiron-100.png",
-      "invited_by_user": "amadeusine",
-      "github_username": "Kixiron"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "dkrxsw",
-    "short_id_url": "https://lobste.rs/s/dkrxsw",
-    "created_at": "2021-08-07T13:19:47.000-05:00",
-    "title": "Lynx leaks password in clear text via SNI (under some circumstances)",
-    "url": "https://www.openwall.com/lists/oss-security/2021/08/07/1",
-    "score": 19,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dkrxsw/lynx_leaks_password_clear_text_via_sni",
-    "submitter_user": {
-      "username": "bfiedler",
-      "created_at": "2020-08-07T17:49:16.000-05:00",
-      "is_admin": false,
-      "about": "Computer Science Master's student at ETH Zurich.\r\n\r\nThere's no Mastodon link support so here you go: https://mastodon.3fx.ch/@bfiedler",
-      "is_moderator": false,
-      "karma": 591,
-      "avatar_url": "/avatars/bfiedler-100.png",
-      "invited_by_user": "pushcx"
-    },
-    "tags": [
-      "security"
-    ]
-  },
-  {
-    "short_id": "ekcrak",
-    "short_id_url": "https://lobste.rs/s/ekcrak",
-    "created_at": "2021-08-07T09:49:44.000-05:00",
-    "title": "It's Time for Operating Systems to Rediscover Hardware",
-    "url": "https://www.youtube.com/watch?v=36myc8wQhLo",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ekcrak/it_s_time_for_operating_systems",
-    "submitter_user": {
-      "username": "GeoffWozniak",
-      "created_at": "2014-03-02T15:01:50.000-06:00",
-      "is_admin": false,
-      "about": "Software developer, mostly interested in compilation, programming languages, and the history of software practices, particularly debugging techniques. No relation to Steve. I work on embedded system compilers.\r\n\r\n[wozniak.ca](http://wozniak.ca)\r\n",
-      "is_moderator": false,
-      "karma": 6987,
-      "avatar_url": "/avatars/GeoffWozniak-100.png",
-      "invited_by_user": "vjoel"
-    },
-    "tags": [
-      "osdev",
-      "video"
     ]
   }
 ]
