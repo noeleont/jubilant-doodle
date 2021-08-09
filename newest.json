@@ -1,5 +1,87 @@
 [
   {
+    "short_id": "ld9hwt",
+    "short_id_url": "https://lobste.rs/s/ld9hwt",
+    "created_at": "2021-08-09T10:06:03.000-05:00",
+    "title": "The Web Ascendant (2015)",
+    "url": "https://buckleyisms.com/blog/the-web-ascendant/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ld9hwt/web_ascendant_2015",
+    "submitter_user": {
+      "username": "carlmjohnson",
+      "created_at": "2021-07-19T11:55:18.000-05:00",
+      "is_admin": false,
+      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
+      "is_moderator": false,
+      "karma": 129,
+      "avatar_url": "/avatars/carlmjohnson-100.png",
+      "invited_by_user": "peterbourgon",
+      "github_username": "carlmjohnson",
+      "twitter_username": "carlmjohnson"
+    },
+    "tags": [
+      "satire",
+      "web"
+    ]
+  },
+  {
+    "short_id": "9jge5j",
+    "short_id_url": "https://lobste.rs/s/9jge5j",
+    "created_at": "2021-08-09T09:38:33.000-05:00",
+    "title": "SolidJS V1.1.0 - Interrupting Cow",
+    "url": "https://github.com/solidjs/solid/releases/tag/v1.1.0",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/9jge5j/solidjs_v1_1_0_interrupting_cow",
+    "submitter_user": {
+      "username": "Miaourt",
+      "created_at": "2020-12-28T05:22:34.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 173,
+      "avatar_url": "/avatars/Miaourt-100.png",
+      "invited_by_user": "jvoisin",
+      "github_username": "Miaourt",
+      "twitter_username": "Miaourt"
+    },
+    "tags": [
+      "release",
+      "web"
+    ]
+  },
+  {
+    "short_id": "nufm9m",
+    "short_id_url": "https://lobste.rs/s/nufm9m",
+    "created_at": "2021-08-09T09:22:58.000-05:00",
+    "title": "No STARTTLS",
+    "url": "https://nostarttls.secvuln.info/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
+    "submitter_user": {
+      "username": "hanno",
+      "created_at": "2014-04-15T16:38:57.000-05:00",
+      "is_admin": false,
+      "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
+      "is_moderator": false,
+      "karma": 1034,
+      "avatar_url": "/avatars/hanno-100.png",
+      "invited_by_user": "lauris"
+    },
+    "tags": [
+      "email",
+      "security"
+    ]
+  },
+  {
     "short_id": "oeav0e",
     "short_id_url": "https://lobste.rs/s/oeav0e",
     "created_at": "2021-08-09T09:11:44.000-05:00",
@@ -32,7 +114,7 @@
     "created_at": "2021-08-09T08:50:48.000-05:00",
     "title": "JavaScript needs more helper functions for iteration (map, filter, etc.) – where should we put them?",
     "url": "https://2ality.com/2021/08/iteration-helpers.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -43,7 +125,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 335,
+      "karma": 336,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -64,9 +146,9 @@
     "created_at": "2021-08-09T07:33:27.000-05:00",
     "title": "Three fundamental flaws of SIMD",
     "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/fahzr4/three_fundamental_flaws_simd",
     "submitter_user": {
@@ -75,7 +157,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81393,
+      "karma": 81396,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -101,7 +183,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81393,
+      "karma": 81396,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -143,7 +225,7 @@
     "created_at": "2021-08-09T06:08:19.000-05:00",
     "title": "Sketching - A Language for Creative Coding",
     "url": "https://soegaard.github.io/sketching/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Sketching is a language/library for creative coding. The focus is to make graphical programs accessible for beginners, artists, educators and designers. Sketching is free to use and the source is available to read and improve.</p>\n<p>The main focus of Sketching is graphical programs. Running a program will display a canvas ready to show static images or animation.</p>\n<p>The inspiration for Sketching came from the Processing project. Processing is a programming language built on top of Java. The Processing language was devised by Ben Fry and Casey Reas.</p>\n<p>Think of Sketching as what Processing would have looked like, if it used Racket as its programming language instead of Java. Alternatively, think of Sketching as Racket with an easy to use graphics library.</p>\n<p>Although inspired by the Processing project, this project has no affiliation with the Processing Foundation.</p>\n<p>Try it.</p>\n<p>Need inspiration? Pick an example and port it to Sketching.</p>\n",
@@ -154,7 +236,7 @@
       "is_admin": false,
       "about": "http://github.com/soegaard\r\n",
       "is_moderator": false,
-      "karma": 47,
+      "karma": 48,
       "avatar_url": "/avatars/soegaard-100.png",
       "invited_by_user": "355E3B"
     },
@@ -197,9 +279,9 @@
     "created_at": "2021-08-09T05:21:39.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
     "submitter_user": {
@@ -208,7 +290,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6410,
+      "karma": 6411,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -225,7 +307,7 @@
     "created_at": "2021-08-09T04:35:16.000-05:00",
     "title": "Falsehoods Programmers Believe About Phone Numbers",
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 9,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -236,7 +318,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3310,
+      "karma": 3312,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -250,7 +332,7 @@
     "created_at": "2021-08-09T03:47:50.000-05:00",
     "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
     "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -261,7 +343,7 @@
       "is_admin": false,
       "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
       "is_moderator": false,
-      "karma": 180,
+      "karma": 181,
       "avatar_url": "/avatars/marianoguerra-100.png",
       "invited_by_user": "unbalancedparentheses"
     },
@@ -277,9 +359,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 18,
+    "score": 19,
     "flags": 9,
-    "comment_count": 17,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -288,7 +370,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 142,
+      "karma": 143,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -358,7 +440,7 @@
     "created_at": "2021-08-08T21:05:52.000-05:00",
     "title": "Lisping at JPL (2002)",
     "url": "https://flownet.com/gat/jpl-lisp.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -369,7 +451,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81393,
+      "karma": 81396,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -385,7 +467,7 @@
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 29,
+    "score": 32,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -396,7 +478,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4380,
+      "karma": 4383,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -472,7 +554,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81393,
+      "karma": 81396,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -541,7 +623,7 @@
     "created_at": "2021-08-08T13:32:57.000-05:00",
     "title": "DIY Air Quality Sensor",
     "url": "https://benjamincongdon.me/blog/2021/08/08/DIY-Air-Quality-Sensor/",
-    "score": 25,
+    "score": 26,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -552,7 +634,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1249,
+      "karma": 1250,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -587,83 +669,6 @@
     "tags": [
       "osdev",
       "security"
-    ]
-  },
-  {
-    "short_id": "rjamdz",
-    "short_id_url": "https://lobste.rs/s/rjamdz",
-    "created_at": "2021-08-08T10:20:50.000-05:00",
-    "title": "Improving responsiveness in text inputs",
-    "url": "https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/",
-    "score": 14,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rjamdz/improving_responsiveness_text_inputs",
-    "submitter_user": {
-      "username": "nolan",
-      "created_at": "2018-01-06T13:39:52.000-06:00",
-      "is_admin": false,
-      "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
-      "is_moderator": false,
-      "karma": 466,
-      "avatar_url": "/avatars/nolan-100.png",
-      "invited_by_user": "calvin"
-    },
-    "tags": [
-      "performance",
-      "web"
-    ]
-  },
-  {
-    "short_id": "w03oyj",
-    "short_id_url": "https://lobste.rs/s/w03oyj",
-    "created_at": "2021-08-08T10:00:38.000-05:00",
-    "title": "go mod tidy, but for multi-module monorepos via mad science",
-    "url": "https://github.com/StevenACoffman/monotidy",
-    "score": 0,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/w03oyj/go_mod_tidy_for_multi_module_monorepos_via",
-    "submitter_user": {
-      "username": "StevenAndrewCoffman",
-      "created_at": "2021-01-27T16:28:02.000-06:00",
-      "is_admin": false,
-      "about": "•ა꧁シ He / Him シ꧂ა• 【ツ】⬆️",
-      "is_moderator": false,
-      "karma": -1,
-      "avatar_url": "/avatars/StevenAndrewCoffman-100.png",
-      "invited_by_user": "cadey"
-    },
-    "tags": [
-      "go"
-    ]
-  },
-  {
-    "short_id": "2fs0t3",
-    "short_id_url": "https://lobste.rs/s/2fs0t3",
-    "created_at": "2021-08-08T09:43:32.000-05:00",
-    "title": "Service Reliability Math",
-    "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
-    "score": 23,
-    "flags": 1,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/2fs0t3/service_reliability_math",
-    "submitter_user": {
-      "username": "mattr",
-      "created_at": "2016-12-09T13:54:15.000-06:00",
-      "is_admin": false,
-      "about": "Past: Kubernetes at Google",
-      "is_moderator": false,
-      "karma": 107,
-      "avatar_url": "/avatars/mattr-100.png",
-      "invited_by_user": "lm",
-      "twitter_username": "mattrickard"
-    },
-    "tags": [
-      "devops"
     ]
   }
 ]
