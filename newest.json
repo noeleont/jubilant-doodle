@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "rt9nzg",
+    "short_id_url": "https://lobste.rs/s/rt9nzg",
+    "created_at": "2021-08-09T07:15:27.000-05:00",
+    "title": "When Zero Cost Abstractions Aren’t Zero Cost",
+    "url": "https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rt9nzg/when_zero_cost_abstractions_aren_t_zero",
+    "submitter_user": {
+      "username": "mgdm",
+      "created_at": "2016-07-04T10:02:16.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 58,
+      "avatar_url": "/avatars/mgdm-100.png",
+      "invited_by_user": "LeahNeukirchen"
+    },
+    "tags": [
+      "performance",
+      "rust"
+    ]
+  },
+  {
     "short_id": "tbqyqj",
     "short_id_url": "https://lobste.rs/s/tbqyqj",
     "created_at": "2021-08-09T06:08:19.000-05:00",
@@ -32,7 +58,7 @@
     "created_at": "2021-08-09T05:58:16.000-05:00",
     "title": "An overview of Ink programming language",
     "url": "https://dotink.co/docs/overview/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 459,
+      "karma": 462,
       "avatar_url": "/avatars/pzel-100.png",
       "invited_by_user": "jan",
       "github_username": "pzel"
@@ -59,9 +85,9 @@
     "created_at": "2021-08-09T05:21:39.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 4,
+    "score": 6,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 5,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
     "submitter_user": {
@@ -70,7 +96,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6404,
+      "karma": 6406,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -87,7 +113,7 @@
     "created_at": "2021-08-09T04:35:16.000-05:00",
     "title": "Falsehoods Programmers Believe About Phone Numbers",
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -98,7 +124,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3305,
+      "karma": 3306,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -139,9 +165,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 17,
-    "flags": 3,
-    "comment_count": 5,
+    "score": 18,
+    "flags": 4,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -150,7 +176,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 137,
+      "karma": 140,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -165,7 +191,7 @@
     "created_at": "2021-08-09T01:33:31.000-05:00",
     "title": "What if ESLint's configuration worked like elm-review?",
     "url": "https://jfmengels.net/configuring-eslint/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -176,7 +202,7 @@
       "is_admin": false,
       "about": "I'm into functional programming and mostly the Elm language. I'm the author of elm-review, a static analysis tool for Elm.",
       "is_moderator": false,
-      "karma": 70,
+      "karma": 71,
       "avatar_url": "/avatars/jfmengels-100.png",
       "invited_by_user": "wolfadex"
     },
@@ -219,7 +245,7 @@
     "created_at": "2021-08-08T21:05:52.000-05:00",
     "title": "Lisping at JPL (2002)",
     "url": "https://flownet.com/gat/jpl-lisp.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -230,7 +256,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81387,
+      "karma": 81388,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -246,9 +272,9 @@
     "created_at": "2021-08-08T19:17:03.000-05:00",
     "title": "Zig wrinkles",
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 24,
+    "score": 25,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/4pz3qg/zig_wrinkles",
     "submitter_user": {
@@ -257,7 +283,7 @@
       "is_admin": false,
       "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
       "is_moderator": false,
-      "karma": 4375,
+      "karma": 4376,
       "avatar_url": "/avatars/trousers-100.png",
       "invited_by_user": "jcs"
     },
@@ -324,7 +350,7 @@
     "url": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html",
     "score": 6,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/ex9pdv/how_write_really_slow_rust_code_part_2",
     "submitter_user": {
@@ -333,7 +359,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81387,
+      "karma": 81388,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -376,9 +402,9 @@
     "created_at": "2021-08-08T14:35:15.000-05:00",
     "title": "Modern software development is cancer (2017)",
     "url": "https://www.dedoimedo.com/computers/software-development-cancer.html",
-    "score": 9,
-    "flags": 10,
-    "comment_count": 6,
+    "score": 7,
+    "flags": 12,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/yxepcb/modern_software_development_is_cancer",
     "submitter_user": {
@@ -387,7 +413,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11658,
+      "karma": 11656,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -458,7 +484,7 @@
     "url": "https://nolanlawson.com/2021/08/08/improving-responsiveness-in-text-inputs/",
     "score": 12,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/rjamdz/improving_responsiveness_text_inputs",
     "submitter_user": {
@@ -507,7 +533,7 @@
     "created_at": "2021-08-08T09:43:32.000-05:00",
     "title": "Service Reliability Math",
     "url": "https://matt-rickard.com/service-reliability-math-that-every-engineer-should-know/",
-    "score": 20,
+    "score": 22,
     "flags": 1,
     "comment_count": 11,
     "description": "",
@@ -518,7 +544,7 @@
       "is_admin": false,
       "about": "Past: Kubernetes at Google",
       "is_moderator": false,
-      "karma": 104,
+      "karma": 106,
       "avatar_url": "/avatars/mattr-100.png",
       "invited_by_user": "lm",
       "twitter_username": "mattrickard"
@@ -544,7 +570,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 137,
+      "karma": 140,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -625,7 +651,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81387,
+      "karma": 81388,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -633,32 +659,6 @@
     "tags": [
       "security",
       "web"
-    ]
-  },
-  {
-    "short_id": "wiopdy",
-    "short_id_url": "https://lobste.rs/s/wiopdy",
-    "created_at": "2021-08-07T22:30:52.000-05:00",
-    "title": "A New Attack Surface on MS Exchange Part 1 - ProxyLogon",
-    "url": "http://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html",
-    "score": 1,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wiopdy/new_attack_surface_on_ms_exchange_part_1",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81387,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "security"
     ]
   }
 ]
