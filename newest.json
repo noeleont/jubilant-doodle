@@ -1,11 +1,64 @@
 [
   {
+    "short_id": "pwees3",
+    "short_id_url": "https://lobste.rs/s/pwees3",
+    "created_at": "2021-08-09T18:05:06.000-05:00",
+    "title": "Open sourcing Winterfell: A STARK prover and verifier",
+    "url": "https://engineering.fb.com/2021/08/04/open-source/winterfell/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/pwees3/open_sourcing_winterfell_stark_prover",
+    "submitter_user": {
+      "username": "dbremner",
+      "created_at": "2012-09-06T19:01:18.000-05:00",
+      "is_admin": false,
+      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
+      "is_moderator": false,
+      "karma": 1990,
+      "avatar_url": "/avatars/dbremner-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "dbremner"
+    },
+    "tags": [
+      "crypto",
+      "rust"
+    ]
+  },
+  {
+    "short_id": "jt2auz",
+    "short_id_url": "https://lobste.rs/s/jt2auz",
+    "created_at": "2021-08-09T17:53:20.000-05:00",
+    "title": "Prefer Declarative State Updaters",
+    "url": "https://kyleshevlin.com/prefer-declarative-state-updaters",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters",
+    "submitter_user": {
+      "username": "soulcutter",
+      "created_at": "2014-02-18T10:29:29.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 2954,
+      "avatar_url": "/avatars/soulcutter-100.png",
+      "invited_by_user": "gabriel",
+      "twitter_username": "soulcutter"
+    },
+    "tags": [
+      "javascript"
+    ]
+  },
+  {
     "short_id": "0emvhc",
     "short_id_url": "https://lobste.rs/s/0emvhc",
     "created_at": "2021-08-09T15:13:20.000-05:00",
     "title": "PostgREST version 8.0",
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
       "is_moderator": false,
-      "karma": 730,
+      "karma": 732,
       "avatar_url": "/avatars/tbonesteaks-100.png",
       "invited_by_user": "wink"
     },
@@ -57,9 +110,9 @@
     "created_at": "2021-08-09T13:15:09.000-05:00",
     "title": "Dial-a-SID",
     "url": "http://www.linusakesson.net/hardware/dial-a-sid/index.php",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/bkprj4/dial_sid",
     "submitter_user": {
@@ -68,7 +121,7 @@
       "is_admin": false,
       "about": "UNIX Mechanic",
       "is_moderator": false,
-      "karma": 156,
+      "karma": 157,
       "avatar_url": "/avatars/lollipopman-100.png",
       "invited_by_user": "stephen",
       "github_username": "lollipopman"
@@ -112,7 +165,7 @@
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
     "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/gtcyz4/build_your_own_next_with_virtual_machine",
     "submitter_user": {
@@ -219,9 +272,9 @@
     "created_at": "2021-08-09T09:22:58.000-05:00",
     "title": "No STARTTLS",
     "url": "https://nostarttls.secvuln.info/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
     "submitter_user": {
@@ -230,7 +283,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1053,
+      "karma": 1054,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -245,9 +298,9 @@
     "created_at": "2021-08-09T08:50:48.000-05:00",
     "title": "JavaScript needs more helper functions for iteration (map, filter, etc.) – where should we put them?",
     "url": "https://2ality.com/2021/08/iteration-helpers.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/ewueaf/javascript_needs_more_helper_functions",
     "submitter_user": {
@@ -256,7 +309,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 337,
+      "karma": 338,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -279,7 +332,7 @@
     "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
     "score": 13,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/fahzr4/three_fundamental_flaws_simd",
     "submitter_user": {
@@ -288,7 +341,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81409,
+      "karma": 81410,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -314,7 +367,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81409,
+      "karma": 81410,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -412,7 +465,7 @@
     "url": "",
     "score": 10,
     "flags": 1,
-    "comment_count": 17,
+    "comment_count": 18,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
     "submitter_user": {
@@ -438,7 +491,7 @@
     "created_at": "2021-08-09T04:35:16.000-05:00",
     "title": "Falsehoods Programmers Believe About Phone Numbers",
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -449,7 +502,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3320,
+      "karma": 3321,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -463,7 +516,7 @@
     "created_at": "2021-08-09T03:47:50.000-05:00",
     "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
     "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -474,7 +527,7 @@
       "is_admin": false,
       "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
       "is_moderator": false,
-      "karma": 188,
+      "karma": 189,
       "avatar_url": "/avatars/marianoguerra-100.png",
       "invited_by_user": "unbalancedparentheses"
     },
@@ -490,9 +543,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 17,
+    "score": 19,
     "flags": 17,
-    "comment_count": 40,
+    "comment_count": 42,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -501,7 +554,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 152,
+      "karma": 156,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -582,7 +635,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81409,
+      "karma": 81410,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -615,57 +668,6 @@
     },
     "tags": [
       "zig"
-    ]
-  },
-  {
-    "short_id": "qpmf25",
-    "short_id_url": "https://lobste.rs/s/qpmf25",
-    "created_at": "2021-08-08T17:53:26.000-05:00",
-    "title": "DebConf21 Schedule",
-    "url": "https://debconf21.debconf.org/schedule/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/qpmf25/debconf21_schedule",
-    "submitter_user": {
-      "username": "legoktm",
-      "created_at": "2021-03-15T23:49:20.000-05:00",
-      "is_admin": false,
-      "about": "MediaWiki core dev, Debian Developer, Wikipedian. Inactive journalist, believer in free software and free knowledge.",
-      "is_moderator": false,
-      "karma": 162,
-      "avatar_url": "/avatars/legoktm-100.png",
-      "invited_by_user": "brennen"
-    },
-    "tags": [
-      "event"
-    ]
-  },
-  {
-    "short_id": "qdyifa",
-    "short_id_url": "https://lobste.rs/s/qdyifa",
-    "created_at": "2021-08-08T16:43:53.000-05:00",
-    "title": "How we built a general purpose key value store for Facebook with ZippyDB",
-    "url": "https://engineering.fb.com/2021/08/06/core-data/zippydb/",
-    "score": 3,
-    "flags": 1,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/qdyifa/how_we_built_general_purpose_key_value",
-    "submitter_user": {
-      "username": "pims",
-      "created_at": "2014-06-18T21:28:29.000-05:00",
-      "is_admin": false,
-      "about": "Curious mind. https://blog.pims.me/",
-      "is_moderator": false,
-      "karma": 679,
-      "avatar_url": "/avatars/pims-100.png",
-      "invited_by_user": "lau"
-    },
-    "tags": [
-      "databases",
-      "distributed"
     ]
   }
 ]
