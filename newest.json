@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "sydqzh",
+    "short_id_url": "https://lobste.rs/s/sydqzh",
+    "created_at": "2021-08-09T14:05:26.000-05:00",
+    "title": "Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself",
+    "url": "https://jesseduffield.com/Beyond-Coupling-And-Cohesion/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/sydqzh/beyond_coupling_cohesion_strategies_for",
+    "submitter_user": {
+      "username": "lcapaldo",
+      "created_at": "2014-02-25T10:56:12.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 295,
+      "avatar_url": "/avatars/lcapaldo-100.png",
+      "invited_by_user": "ckolderup"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "bkprj4",
     "short_id_url": "https://lobste.rs/s/bkprj4",
     "created_at": "2021-08-09T13:15:09.000-05:00",
     "title": "Dial-a-SID",
     "url": "http://www.linusakesson.net/hardware/dial-a-sid/index.php",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "<p>The author rebuilds an old bakelite phone into a jukebox for SID tunes.</p>\n",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "UNIX Mechanic",
       "is_moderator": false,
-      "karma": 153,
+      "karma": 154,
       "avatar_url": "/avatars/lollipopman-100.png",
       "invited_by_user": "stephen",
       "github_username": "lollipopman"
@@ -44,7 +69,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11657,
+      "karma": 11658,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -58,7 +83,7 @@
     "created_at": "2021-08-09T12:06:03.000-05:00",
     "title": "Build your own NeXT with a virtual machine",
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +94,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11657,
+      "karma": 11658,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -167,9 +192,9 @@
     "created_at": "2021-08-09T09:22:58.000-05:00",
     "title": "No STARTTLS",
     "url": "https://nostarttls.secvuln.info/",
-    "score": 5,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
     "submitter_user": {
@@ -178,7 +203,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1038,
+      "karma": 1045,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -204,7 +229,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 336,
+      "karma": 337,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -236,7 +261,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81406,
+      "karma": 81407,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -251,7 +276,7 @@
     "created_at": "2021-08-09T07:32:22.000-05:00",
     "title": "Anecdotes About the macOS Sandbox File Limit",
     "url": "https://buckleyisms.com/blog/anecdotes-about-the-macos-sandbox-file-limit/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -262,7 +287,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81406,
+      "karma": 81407,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -306,7 +331,7 @@
     "url": "https://soegaard.github.io/sketching/",
     "score": 11,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/tbqyqj/sketching_language_for_creative_coding",
     "submitter_user": {
@@ -315,7 +340,7 @@
       "is_admin": false,
       "about": "http://github.com/soegaard\r\n",
       "is_moderator": false,
-      "karma": 54,
+      "karma": 55,
       "avatar_url": "/avatars/soegaard-100.png",
       "invited_by_user": "355E3B"
     },
@@ -411,7 +436,7 @@
     "created_at": "2021-08-09T03:47:50.000-05:00",
     "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
     "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -422,7 +447,7 @@
       "is_admin": false,
       "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
       "is_moderator": false,
-      "karma": 186,
+      "karma": 187,
       "avatar_url": "/avatars/marianoguerra-100.png",
       "invited_by_user": "unbalancedparentheses"
     },
@@ -438,9 +463,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 14,
-    "flags": 14,
-    "comment_count": 35,
+    "score": 13,
+    "flags": 15,
+    "comment_count": 38,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -449,7 +474,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 143,
+      "karma": 144,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -530,7 +555,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81406,
+      "karma": 81407,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -548,7 +573,7 @@
     "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
     "score": 36,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/4pz3qg/zig_wrinkles",
     "submitter_user": {
@@ -633,7 +658,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81406,
+      "karma": 81407,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -641,33 +666,6 @@
     "tags": [
       "performance",
       "rust"
-    ]
-  },
-  {
-    "short_id": "ybinhe",
-    "short_id_url": "https://lobste.rs/s/ybinhe",
-    "created_at": "2021-08-08T14:58:12.000-05:00",
-    "title": "Put This In Your Pipe – Backticks in Julia",
-    "url": "https://julialang.org/blog/2013/04/put-this-in-your-pipe/",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ybinhe/put_this_your_pipe_backticks_julia",
-    "submitter_user": {
-      "username": "mpweiher",
-      "created_at": "2019-11-22T11:22:25.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 919,
-      "avatar_url": "/avatars/mpweiher-100.png",
-      "invited_by_user": "mulle_nat",
-      "github_username": "mpw",
-      "twitter_username": "mpweiher"
-    },
-    "tags": [
-      "unix"
     ]
   }
 ]
