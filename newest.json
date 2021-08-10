@@ -1,5 +1,82 @@
 [
   {
+    "short_id": "cefvgh",
+    "short_id_url": "https://lobste.rs/s/cefvgh",
+    "created_at": "2021-08-10T08:22:38.000-05:00",
+    "title": "Stages of Denial",
+    "url": "https://beyondloom.com/blog/denial.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cefvgh/stages_denial",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81445,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "apl"
+    ]
+  },
+  {
+    "short_id": "tvz9ek",
+    "short_id_url": "https://lobste.rs/s/tvz9ek",
+    "created_at": "2021-08-10T08:20:04.000-05:00",
+    "title": "MinIO: A Bare Metal Drop-In for AWS S3",
+    "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/tvz9ek/minio_bare_metal_drop_for_aws_s3",
+    "submitter_user": {
+      "username": "marklit",
+      "created_at": "2017-02-21T09:57:14.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 206,
+      "avatar_url": "/avatars/marklit-100.png",
+      "invited_by_user": "vdm"
+    },
+    "tags": [
+      "compsci"
+    ]
+  },
+  {
+    "short_id": "uvgfrw",
+    "short_id_url": "https://lobste.rs/s/uvgfrw",
+    "created_at": "2021-08-10T08:12:58.000-05:00",
+    "title": "Are you changing anything in light of Apple's recent CSAM announcement?",
+    "url": "",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Hi friends,</p>\n<p>Like many of you I was following the changes from Apple’s CSAM announcement and feel like I finally had the chance to read through their documentation. It seems fairly well implemented (for what that’s worth).</p>\n<p>I know we already discussed what people thought about the changes, but I was mostly curious whether this changes anything for those of you who are already in (or were thinking of going to) the Apple ecosystem?</p>\n<p>If so, I was especially interested in seeing what viable alternatives you were moving to / evaluating. Do they offer better privacy guarantees?</p>\n<p>I’m personally on the fence…  there’s a lot I liked about the ecosystem to begin with that makes it a little tough to just jump ship, and I’d like to get a good sense of what’s out there to make a better decision.</p>\n<p>(Very sorry if this topic is not OK for Lobsters… please nuke it if so!)</p>\n",
+    "comments_url": "https://lobste.rs/s/uvgfrw/are_you_changing_anything_light_apple_s",
+    "submitter_user": {
+      "username": "shishy",
+      "created_at": "2019-01-24T19:35:35.000-06:00",
+      "is_admin": false,
+      "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
+      "is_moderator": false,
+      "karma": 350,
+      "avatar_url": "/avatars/shishy-100.png",
+      "invited_by_user": "awal"
+    },
+    "tags": [
+      "ask",
+      "privacy"
+    ]
+  },
+  {
     "short_id": "bz9yr5",
     "short_id_url": "https://lobste.rs/s/bz9yr5",
     "created_at": "2021-08-10T05:06:23.000-05:00",
@@ -30,9 +107,9 @@
     "created_at": "2021-08-09T21:12:03.000-05:00",
     "title": "Anti-pattern of the Day: Type Keys",
     "url": "https://jesseduffield.com/Type-Keys/",
-    "score": 7,
+    "score": 8,
     "flags": 1,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/r2kwnl/anti_pattern_day_type_keys",
     "submitter_user": {
@@ -41,7 +118,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81438,
+      "karma": 81445,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -56,9 +133,9 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 12,
+    "score": 17,
     "flags": 0,
-    "comment_count": 18,
+    "comment_count": 24,
     "description": "",
     "comments_url": "https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework",
     "submitter_user": {
@@ -67,7 +144,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81438,
+      "karma": 81445,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -84,7 +161,7 @@
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
     "score": 19,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/u5vzgc/zig_pathtracer",
     "submitter_user": {
@@ -161,9 +238,9 @@
     "created_at": "2021-08-09T15:13:20.000-05:00",
     "title": "PostgREST version 8.0",
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
-    "score": 12,
+    "score": 15,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/0emvhc/postgrest_version_8_0",
     "submitter_user": {
@@ -172,7 +249,7 @@
       "is_admin": false,
       "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
       "is_moderator": false,
-      "karma": 741,
+      "karma": 744,
       "avatar_url": "/avatars/tbonesteaks-100.png",
       "invited_by_user": "wink"
     },
@@ -188,7 +265,7 @@
     "created_at": "2021-08-09T14:05:26.000-05:00",
     "title": "Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself",
     "url": "https://jesseduffield.com/Beyond-Coupling-And-Cohesion/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -199,7 +276,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 297,
+      "karma": 298,
       "avatar_url": "/avatars/lcapaldo-100.png",
       "invited_by_user": "ckolderup"
     },
@@ -213,7 +290,7 @@
     "created_at": "2021-08-09T13:15:09.000-05:00",
     "title": "Dial-a-SID",
     "url": "http://www.linusakesson.net/hardware/dial-a-sid/index.php",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -224,7 +301,7 @@
       "is_admin": false,
       "about": "UNIX Mechanic",
       "is_moderator": false,
-      "karma": 159,
+      "karma": 161,
       "avatar_url": "/avatars/lollipopman-100.png",
       "invited_by_user": "stephen",
       "github_username": "lollipopman"
@@ -252,7 +329,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11663,
+      "karma": 11665,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -266,7 +343,7 @@
     "created_at": "2021-08-09T12:06:03.000-05:00",
     "title": "Build your own NeXT with a virtual machine",
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -277,7 +354,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11663,
+      "karma": 11665,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -444,7 +521,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81438,
+      "karma": 81445,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -470,7 +547,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81438,
+      "karma": 81445,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -512,7 +589,7 @@
     "created_at": "2021-08-09T06:08:19.000-05:00",
     "title": "Sketching - A Language for Creative Coding",
     "url": "https://soegaard.github.io/sketching/",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -523,7 +600,7 @@
       "is_admin": false,
       "about": "http://github.com/soegaard\r\n",
       "is_moderator": false,
-      "karma": 65,
+      "karma": 67,
       "avatar_url": "/avatars/soegaard-100.png",
       "invited_by_user": "355E3B"
     },
@@ -586,85 +663,6 @@
     "tags": [
       "ask",
       "programming"
-    ]
-  },
-  {
-    "short_id": "ynszmh",
-    "short_id_url": "https://lobste.rs/s/ynszmh",
-    "created_at": "2021-08-09T04:35:16.000-05:00",
-    "title": "Falsehoods Programmers Believe About Phone Numbers",
-    "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 27,
-    "flags": 0,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ynszmh/falsehoods_programmers_believe_about",
-    "submitter_user": {
-      "username": "WilhelmVonWeiner",
-      "created_at": "2018-11-18T13:58:20.000-06:00",
-      "is_admin": false,
-      "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
-      "is_moderator": false,
-      "karma": 3331,
-      "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
-      "invited_by_user": "rocx"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "mvjv9y",
-    "short_id_url": "https://lobste.rs/s/mvjv9y",
-    "created_at": "2021-08-09T03:47:50.000-05:00",
-    "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
-    "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
-    "score": 18,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/mvjv9y/eflfe_elixir_flavoured_lisp_flavoured",
-    "submitter_user": {
-      "username": "marianoguerra",
-      "created_at": "2018-05-08T06:19:58.000-05:00",
-      "is_admin": false,
-      "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
-      "is_moderator": false,
-      "karma": 191,
-      "avatar_url": "/avatars/marianoguerra-100.png",
-      "invited_by_user": "unbalancedparentheses"
-    },
-    "tags": [
-      "compilers",
-      "elixir",
-      "lisp"
-    ]
-  },
-  {
-    "short_id": "ul79os",
-    "short_id_url": "https://lobste.rs/s/ul79os",
-    "created_at": "2021-08-09T01:57:34.000-05:00",
-    "title": "Throwing 99 bottles (of OOP) in the trash",
-    "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 15,
-    "flags": 21,
-    "comment_count": 50,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
-    "submitter_user": {
-      "username": "dpc_pw",
-      "created_at": "2021-07-02T13:20:19.000-05:00",
-      "is_admin": false,
-      "about": "https://dpc.pw",
-      "is_moderator": false,
-      "karma": 159,
-      "avatar_url": "/avatars/dpc_pw-100.png",
-      "invited_by_user": "kornel"
-    },
-    "tags": [
-      "book",
-      "practices",
-      "rant"
     ]
   }
 ]
