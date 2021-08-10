@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "vzqic9",
+    "short_id_url": "https://lobste.rs/s/vzqic9",
+    "created_at": "2021-08-10T10:48:31.000-05:00",
+    "title": "Tale of a Failed Startup, or the Day I Created a Mint Clone",
+    "url": "https://benbernardblog.com/tale-of-a-failed-startup-or-the-day-i-created-a-mint-clone/",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/vzqic9/tale_failed_startup_day_i_created_mint",
+    "submitter_user": {
+      "username": "mbenbernard",
+      "created_at": "2017-02-19T12:18:50.000-06:00",
+      "is_admin": false,
+      "about": "I'm a fairly versatile programmer, coding mainly in Python/C#/C++ and more recently with web frameworks such as Flask. I'm currently working on a few side projects; I hope that one of them will eventually take off; who knows! :)",
+      "is_moderator": false,
+      "karma": 79,
+      "avatar_url": "/avatars/mbenbernard-100.png",
+      "invited_by_user": "brycv"
+    },
+    "tags": [
+      "dotnet",
+      "python"
+    ]
+  },
+  {
     "short_id": "c0rkab",
     "short_id_url": "https://lobste.rs/s/c0rkab",
     "created_at": "2021-08-10T09:57:32.000-05:00",
     "title": "Lark.js: Generate a Javascript standalone parser using Lark",
     "url": "https://github.com/lark-parser/Lark.js",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,13 +42,14 @@
       "is_admin": false,
       "about": "I write open-source.\r\n\r\nhttp://github.com/erezsh/",
       "is_moderator": false,
-      "karma": 363,
+      "karma": 364,
       "avatar_url": "/avatars/erezsh-100.png",
       "invited_by_user": "goodger",
       "github_username": "erezsh"
     },
     "tags": [
-      "javascript"
+      "javascript",
+      "show"
     ]
   },
   {
@@ -31,7 +58,7 @@
     "created_at": "2021-08-10T09:40:08.000-05:00",
     "title": "clip: The command line illustration processor",
     "url": "https://clip-lang.org/",
-    "score": 3,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +69,7 @@
       "is_admin": false,
       "about": "https://twitter.com/yonkeltron",
       "is_moderator": false,
-      "karma": 1521,
+      "karma": 1525,
       "avatar_url": "/avatars/yonkeltron-100.png",
       "invited_by_user": "rocx",
       "github_username": "yonkeltron",
@@ -85,7 +112,7 @@
     "created_at": "2021-08-10T09:18:37.000-05:00",
     "title": "Firefox 91 introduces HTTPS by Default in Private Browsing",
     "url": "https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-https-by-default-in-private-browsing/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +123,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5836,
+      "karma": 5841,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -143,9 +170,9 @@
     "created_at": "2021-08-10T08:59:48.000-05:00",
     "title": "Firefox  91.0",
     "url": "https://www.mozilla.org/en-US/firefox/91.0/releasenotes/",
-    "score": 2,
+    "score": 6,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/361gd6/firefox_91_0",
     "submitter_user": {
@@ -154,7 +181,7 @@
       "is_admin": false,
       "about": "I'm just a software engineer who likes his job.\r\n\r\nI'm currently a Site Reliability Engineer at Google, Inc.\r\n\r\n**Opinions are my own, and NOT the views of my current or past employers**",
       "is_moderator": false,
-      "karma": 743,
+      "karma": 749,
       "avatar_url": "/avatars/acatton-100.png",
       "invited_by_user": "csantosb",
       "github_username": "acatton"
@@ -170,7 +197,7 @@
     "created_at": "2021-08-10T08:22:38.000-05:00",
     "title": "Stages of Denial",
     "url": "https://beyondloom.com/blog/denial.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -181,7 +208,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81457,
+      "karma": 81460,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -196,9 +223,9 @@
     "created_at": "2021-08-10T08:20:04.000-05:00",
     "title": "MinIO: A Bare Metal Drop-In for AWS S3",
     "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
-    "score": 5,
+    "score": 8,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/tvz9ek/minio_bare_metal_drop_for_aws_s3",
     "submitter_user": {
@@ -207,7 +234,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 210,
+      "karma": 213,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -221,9 +248,9 @@
     "created_at": "2021-08-10T05:06:23.000-05:00",
     "title": "nix bundle – bundle an application so that it works outside of the Nix store",
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
-    "score": 12,
+    "score": 15,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/bz9yr5/nix_bundle_bundle_application_so_it_works",
     "submitter_user": {
@@ -232,7 +259,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2968,
+      "karma": 2971,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -257,7 +284,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81457,
+      "karma": 81460,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -272,9 +299,9 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 25,
+    "score": 26,
     "flags": 0,
-    "comment_count": 30,
+    "comment_count": 31,
     "description": "",
     "comments_url": "https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework",
     "submitter_user": {
@@ -283,7 +310,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81457,
+      "karma": 81460,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -298,7 +325,7 @@
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -309,7 +336,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2493,
+      "karma": 2494,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -353,7 +380,7 @@
     "url": "https://kyleshevlin.com/prefer-declarative-state-updaters",
     "score": 2,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters",
     "submitter_user": {
@@ -362,7 +389,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2956,
+      "karma": 2958,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -377,9 +404,9 @@
     "created_at": "2021-08-09T15:13:20.000-05:00",
     "title": "PostgREST version 8.0",
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
-    "score": 18,
+    "score": 20,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/0emvhc/postgrest_version_8_0",
     "submitter_user": {
@@ -388,7 +415,7 @@
       "is_admin": false,
       "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
       "is_moderator": false,
-      "karma": 747,
+      "karma": 749,
       "avatar_url": "/avatars/tbonesteaks-100.png",
       "invited_by_user": "wink"
     },
@@ -404,7 +431,7 @@
     "created_at": "2021-08-09T14:05:26.000-05:00",
     "title": "Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself",
     "url": "https://jesseduffield.com/Beyond-Coupling-And-Cohesion/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -415,7 +442,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 298,
+      "karma": 299,
       "avatar_url": "/avatars/lcapaldo-100.png",
       "invited_by_user": "ckolderup"
     },
@@ -546,7 +573,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 136,
+      "karma": 141,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -593,7 +620,7 @@
     "url": "https://nostarttls.secvuln.info/",
     "score": 36,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
     "submitter_user": {
@@ -602,7 +629,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1073,
+      "karma": 1074,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -641,32 +668,6 @@
     },
     "tags": [
       "javascript"
-    ]
-  },
-  {
-    "short_id": "fahzr4",
-    "short_id_url": "https://lobste.rs/s/fahzr4",
-    "created_at": "2021-08-09T07:33:27.000-05:00",
-    "title": "Three fundamental flaws of SIMD",
-    "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-    "score": 22,
-    "flags": 0,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fahzr4/three_fundamental_flaws_simd",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81457,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "assembly"
     ]
   }
 ]
