@@ -6,8 +6,8 @@
     "title": "Anti-pattern of the Day: Type Keys",
     "url": "https://jesseduffield.com/Type-Keys/",
     "score": 3,
-    "flags": 0,
-    "comment_count": 1,
+    "flags": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/r2kwnl/anti_pattern_day_type_keys",
     "submitter_user": {
@@ -138,7 +138,7 @@
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
     "score": 10,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/0emvhc/postgrest_version_8_0",
     "submitter_user": {
@@ -352,7 +352,7 @@
     "url": "https://nostarttls.secvuln.info/",
     "score": 28,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
     "submitter_user": {
@@ -461,7 +461,7 @@
     "created_at": "2021-08-09T07:15:27.000-05:00",
     "title": "When Zero Cost Abstractions Aren’t Zero Cost",
     "url": "https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -472,7 +472,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 74,
+      "karma": 76,
       "avatar_url": "/avatars/mgdm-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -571,7 +571,7 @@
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
     "score": 25,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/ynszmh/falsehoods_programmers_believe_about",
     "submitter_user": {
@@ -580,7 +580,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3328,
+      "karma": 3329,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -621,8 +621,8 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 18,
-    "flags": 18,
+    "score": 16,
+    "flags": 20,
     "comment_count": 48,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
@@ -632,7 +632,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 162,
+      "karma": 160,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -650,7 +650,7 @@
     "url": "https://jfmengels.net/configuring-eslint/",
     "score": 6,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked",
     "submitter_user": {
