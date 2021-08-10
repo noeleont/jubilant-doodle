@@ -1,12 +1,67 @@
 [
   {
+    "short_id": "xwoo77",
+    "short_id_url": "https://lobste.rs/s/xwoo77",
+    "created_at": "2021-08-10T13:50:54.000-05:00",
+    "title": "elementary OS 6 Odin Available Now",
+    "url": "https://blog.elementary.io/elementary-os-6-odin-released/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xwoo77/elementary_os_6_odin_available_now",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81468,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "linux",
+      "release"
+    ]
+  },
+  {
+    "short_id": "dag3n8",
+    "short_id_url": "https://lobste.rs/s/dag3n8",
+    "created_at": "2021-08-10T13:43:51.000-05:00",
+    "title": "Stay Alert: How Chrome Plans to Break the Web",
+    "url": "https://dev.to/richharris/stay-alert-d",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dag3n8/stay_alert_how_chrome_plans_break_web",
+    "submitter_user": {
+      "username": "carlmjohnson",
+      "created_at": "2021-07-19T11:55:18.000-05:00",
+      "is_admin": false,
+      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
+      "is_moderator": false,
+      "karma": 149,
+      "avatar_url": "/avatars/carlmjohnson-100.png",
+      "invited_by_user": "peterbourgon",
+      "github_username": "carlmjohnson",
+      "twitter_username": "carlmjohnson"
+    },
+    "tags": [
+      "javascript",
+      "web"
+    ]
+  },
+  {
     "short_id": "qohjkf",
     "short_id_url": "https://lobste.rs/s/qohjkf",
     "created_at": "2021-08-10T13:01:23.000-05:00",
     "title": "OpenAI Codex",
     "url": "https://openai.com/blog/openai-codex/",
-    "score": 2,
-    "flags": 0,
+    "score": 0,
+    "flags": 2,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/qohjkf/openai_codex",
@@ -16,7 +71,7 @@
       "is_admin": false,
       "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
       "is_moderator": false,
-      "karma": 343,
+      "karma": 341,
       "avatar_url": "/avatars/shishy-100.png",
       "invited_by_user": "awal"
     },
@@ -30,7 +85,7 @@
     "created_at": "2021-08-10T12:24:30.000-05:00",
     "title": "A Tale of Two Copies",
     "url": "https://storj.io/blog/a-tale-of-two-copies",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +96,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 525,
+      "karma": 526,
       "avatar_url": "/avatars/zeebo-100.png",
       "invited_by_user": "jtolds",
       "github_username": "zeebo",
@@ -63,9 +118,9 @@
     "created_at": "2021-08-10T10:48:31.000-05:00",
     "title": "Tale of a Failed Startup, or the Day I Created a Mint Clone",
     "url": "https://benbernardblog.com/tale-of-a-failed-startup-or-the-day-i-created-a-mint-clone/",
-    "score": 0,
-    "flags": 1,
-    "comment_count": 2,
+    "score": -1,
+    "flags": 3,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/vzqic9/tale_failed_startup_day_i_created_mint",
     "submitter_user": {
@@ -74,7 +129,7 @@
       "is_admin": false,
       "about": "I'm a fairly versatile programmer, coding mainly in Python/C#/C++ and more recently with web frameworks such as Flask. I'm currently working on a few side projects; I hope that one of them will eventually take off; who knows! :)",
       "is_moderator": false,
-      "karma": 79,
+      "karma": 78,
       "avatar_url": "/avatars/mbenbernard-100.png",
       "invited_by_user": "brycv"
     },
@@ -116,7 +171,7 @@
     "created_at": "2021-08-10T09:40:08.000-05:00",
     "title": "clip: The command line illustration processor",
     "url": "https://clip-lang.org/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -127,7 +182,7 @@
       "is_admin": false,
       "about": "https://twitter.com/yonkeltron",
       "is_moderator": false,
-      "karma": 1525,
+      "karma": 1526,
       "avatar_url": "/avatars/yonkeltron-100.png",
       "invited_by_user": "rocx",
       "github_username": "yonkeltron",
@@ -172,7 +227,7 @@
     "url": "https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-https-by-default-in-private-browsing/",
     "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/8wrs7j/firefox_91_introduces_https_by_default",
     "submitter_user": {
@@ -204,7 +259,7 @@
     "url": "https://enterprisecraftsmanship.com/posts/growing-object-oriented-software-guided-by-tests-without-mocks/",
     "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ktkpkf/growing_object_oriented_software_guided",
     "submitter_user": {
@@ -228,9 +283,9 @@
     "created_at": "2021-08-10T08:59:48.000-05:00",
     "title": "Firefox  91.0",
     "url": "https://www.mozilla.org/en-US/firefox/91.0/releasenotes/",
-    "score": 8,
+    "score": 10,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/361gd6/firefox_91_0",
     "submitter_user": {
@@ -239,7 +294,7 @@
       "is_admin": false,
       "about": "I'm just a software engineer who likes his job.\r\n\r\nI'm currently a Site Reliability Engineer at Google, Inc.\r\n\r\n**Opinions are my own, and NOT the views of my current or past employers**",
       "is_moderator": false,
-      "karma": 752,
+      "karma": 755,
       "avatar_url": "/avatars/acatton-100.png",
       "invited_by_user": "csantosb",
       "github_username": "acatton"
@@ -266,7 +321,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81465,
+      "karma": 81468,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -281,7 +336,7 @@
     "created_at": "2021-08-10T08:20:04.000-05:00",
     "title": "MinIO: A Bare Metal Drop-In for AWS S3",
     "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
-    "score": 10,
+    "score": 13,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -292,7 +347,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 215,
+      "karma": 218,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -306,7 +361,7 @@
     "created_at": "2021-08-10T05:06:23.000-05:00",
     "title": "nix bundle – bundle an application so that it works outside of the Nix store",
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -317,7 +372,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2972,
+      "karma": 2973,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -331,7 +386,7 @@
     "created_at": "2021-08-09T21:12:03.000-05:00",
     "title": "Anti-pattern of the Day: Type Keys",
     "url": "https://jesseduffield.com/Type-Keys/",
-    "score": 10,
+    "score": 11,
     "flags": 1,
     "comment_count": 8,
     "description": "",
@@ -342,7 +397,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81465,
+      "karma": 81468,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -357,9 +412,9 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 29,
+    "score": 31,
     "flags": 0,
-    "comment_count": 32,
+    "comment_count": 37,
     "description": "",
     "comments_url": "https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework",
     "submitter_user": {
@@ -368,7 +423,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81465,
+      "karma": 81468,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -383,9 +438,9 @@
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 21,
+    "score": 22,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/u5vzgc/zig_pathtracer",
     "submitter_user": {
@@ -394,7 +449,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2494,
+      "karma": 2495,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -603,7 +658,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4419,
+      "karma": 4420,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -612,62 +667,6 @@
     "tags": [
       "dragonflybsd",
       "virtualization"
-    ]
-  },
-  {
-    "short_id": "ld9hwt",
-    "short_id_url": "https://lobste.rs/s/ld9hwt",
-    "created_at": "2021-08-09T10:06:03.000-05:00",
-    "title": "The Web Ascendant (2015)",
-    "url": "https://buckleyisms.com/blog/the-web-ascendant/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ld9hwt/web_ascendant_2015",
-    "submitter_user": {
-      "username": "carlmjohnson",
-      "created_at": "2021-07-19T11:55:18.000-05:00",
-      "is_admin": false,
-      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
-      "is_moderator": false,
-      "karma": 145,
-      "avatar_url": "/avatars/carlmjohnson-100.png",
-      "invited_by_user": "peterbourgon",
-      "github_username": "carlmjohnson",
-      "twitter_username": "carlmjohnson"
-    },
-    "tags": [
-      "satire",
-      "web"
-    ]
-  },
-  {
-    "short_id": "9jge5j",
-    "short_id_url": "https://lobste.rs/s/9jge5j",
-    "created_at": "2021-08-09T09:38:33.000-05:00",
-    "title": "SolidJS V1.1.0 - Interrupting Cow",
-    "url": "https://github.com/solidjs/solid/releases/tag/v1.1.0",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/9jge5j/solidjs_v1_1_0_interrupting_cow",
-    "submitter_user": {
-      "username": "Miaourt",
-      "created_at": "2020-12-28T05:22:34.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 174,
-      "avatar_url": "/avatars/Miaourt-100.png",
-      "invited_by_user": "jvoisin",
-      "github_username": "Miaourt",
-      "twitter_username": "Miaourt"
-    },
-    "tags": [
-      "release",
-      "web"
     ]
   }
 ]
