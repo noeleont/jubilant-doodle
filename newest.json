@@ -1,5 +1,63 @@
 [
   {
+    "short_id": "qohjkf",
+    "short_id_url": "https://lobste.rs/s/qohjkf",
+    "created_at": "2021-08-10T13:01:23.000-05:00",
+    "title": "OpenAI Codex",
+    "url": "https://openai.com/blog/openai-codex/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qohjkf/openai_codex",
+    "submitter_user": {
+      "username": "shishy",
+      "created_at": "2019-01-24T19:35:35.000-06:00",
+      "is_admin": false,
+      "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
+      "is_moderator": false,
+      "karma": 343,
+      "avatar_url": "/avatars/shishy-100.png",
+      "invited_by_user": "awal"
+    },
+    "tags": [
+      "ai"
+    ]
+  },
+  {
+    "short_id": "h09nf3",
+    "short_id_url": "https://lobste.rs/s/h09nf3",
+    "created_at": "2021-08-10T12:24:30.000-05:00",
+    "title": "A Tale of Two Copies",
+    "url": "https://storj.io/blog/a-tale-of-two-copies",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/h09nf3/tale_two_copies",
+    "submitter_user": {
+      "username": "zeebo",
+      "created_at": "2014-05-12T14:39:03.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 525,
+      "avatar_url": "/avatars/zeebo-100.png",
+      "invited_by_user": "jtolds",
+      "github_username": "zeebo",
+      "keybase_signatures": [
+        {
+          "kb_username": "zeebo",
+          "sig_hash": "24d6719a40a8d46da5a402327d87e6d0ec69b76a13a7790688d280af46b94e540f"
+        }
+      ]
+    },
+    "tags": [
+      "go",
+      "performance"
+    ]
+  },
+  {
     "short_id": "vzqic9",
     "short_id_url": "https://lobste.rs/s/vzqic9",
     "created_at": "2021-08-10T10:48:31.000-05:00",
@@ -7,7 +65,7 @@
     "url": "https://benbernardblog.com/tale-of-a-failed-startup-or-the-day-i-created-a-mint-clone/",
     "score": 0,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/vzqic9/tale_failed_startup_day_i_created_mint",
     "submitter_user": {
@@ -31,7 +89,7 @@
     "created_at": "2021-08-10T09:57:32.000-05:00",
     "title": "Lark.js: Generate a Javascript standalone parser using Lark",
     "url": "https://github.com/lark-parser/Lark.js",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +100,7 @@
       "is_admin": false,
       "about": "I write open-source.\r\n\r\nhttp://github.com/erezsh/",
       "is_moderator": false,
-      "karma": 364,
+      "karma": 365,
       "avatar_url": "/avatars/erezsh-100.png",
       "invited_by_user": "goodger",
       "github_username": "erezsh"
@@ -144,7 +202,7 @@
     "created_at": "2021-08-10T09:10:09.000-05:00",
     "title": "Growing Object-Oriented Software, Guided by Tests Without Mocks (2016)",
     "url": "https://enterprisecraftsmanship.com/posts/growing-object-oriented-software-guided-by-tests-without-mocks/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -155,7 +213,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1999,
+      "karma": 2000,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -170,7 +228,7 @@
     "created_at": "2021-08-10T08:59:48.000-05:00",
     "title": "Firefox  91.0",
     "url": "https://www.mozilla.org/en-US/firefox/91.0/releasenotes/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -181,7 +239,7 @@
       "is_admin": false,
       "about": "I'm just a software engineer who likes his job.\r\n\r\nI'm currently a Site Reliability Engineer at Google, Inc.\r\n\r\n**Opinions are my own, and NOT the views of my current or past employers**",
       "is_moderator": false,
-      "karma": 750,
+      "karma": 752,
       "avatar_url": "/avatars/acatton-100.png",
       "invited_by_user": "csantosb",
       "github_username": "acatton"
@@ -208,7 +266,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81464,
+      "karma": 81465,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -223,7 +281,7 @@
     "created_at": "2021-08-10T08:20:04.000-05:00",
     "title": "MinIO: A Bare Metal Drop-In for AWS S3",
     "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -234,7 +292,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 214,
+      "karma": 215,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -248,7 +306,7 @@
     "created_at": "2021-08-10T05:06:23.000-05:00",
     "title": "nix bundle – bundle an application so that it works outside of the Nix store",
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -259,7 +317,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2971,
+      "karma": 2972,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -275,7 +333,7 @@
     "url": "https://jesseduffield.com/Type-Keys/",
     "score": 10,
     "flags": 1,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/r2kwnl/anti_pattern_day_type_keys",
     "submitter_user": {
@@ -284,7 +342,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81464,
+      "karma": 81465,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -299,9 +357,9 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 28,
+    "score": 29,
     "flags": 0,
-    "comment_count": 31,
+    "comment_count": 32,
     "description": "",
     "comments_url": "https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework",
     "submitter_user": {
@@ -310,7 +368,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81464,
+      "karma": 81465,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -362,7 +420,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1999,
+      "karma": 2000,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -404,7 +462,7 @@
     "created_at": "2021-08-09T15:13:20.000-05:00",
     "title": "PostgREST version 8.0",
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -415,7 +473,7 @@
       "is_admin": false,
       "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
       "is_moderator": false,
-      "karma": 750,
+      "karma": 751,
       "avatar_url": "/avatars/tbonesteaks-100.png",
       "invited_by_user": "wink"
     },
@@ -573,7 +631,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 142,
+      "karma": 145,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -610,64 +668,6 @@
     "tags": [
       "release",
       "web"
-    ]
-  },
-  {
-    "short_id": "nufm9m",
-    "short_id_url": "https://lobste.rs/s/nufm9m",
-    "created_at": "2021-08-09T09:22:58.000-05:00",
-    "title": "No STARTTLS",
-    "url": "https://nostarttls.secvuln.info/",
-    "score": 37,
-    "flags": 0,
-    "comment_count": 16,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
-    "submitter_user": {
-      "username": "hanno",
-      "created_at": "2014-04-15T16:38:57.000-05:00",
-      "is_admin": false,
-      "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
-      "is_moderator": false,
-      "karma": 1075,
-      "avatar_url": "/avatars/hanno-100.png",
-      "invited_by_user": "lauris"
-    },
-    "tags": [
-      "email",
-      "security"
-    ]
-  },
-  {
-    "short_id": "ewueaf",
-    "short_id_url": "https://lobste.rs/s/ewueaf",
-    "created_at": "2021-08-09T08:50:48.000-05:00",
-    "title": "JavaScript needs more helper functions for iteration (map, filter, etc.) – where should we put them?",
-    "url": "https://2ality.com/2021/08/iteration-helpers.html",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ewueaf/javascript_needs_more_helper_functions",
-    "submitter_user": {
-      "username": "adamshaylor",
-      "created_at": "2020-10-26T20:04:57.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 342,
-      "avatar_url": "/avatars/adamshaylor-100.png",
-      "invited_by_user": "peterc",
-      "github_username": "adamshaylor",
-      "keybase_signatures": [
-        {
-          "kb_username": "adamshaylor",
-          "sig_hash": "0ebd1a3d88d97f20922147a75889dfcae02b632d94156b9315a6d93384ae2e4f0f"
-        }
-      ]
-    },
-    "tags": [
-      "javascript"
     ]
   }
 ]
