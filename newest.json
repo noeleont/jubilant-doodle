@@ -1,13 +1,65 @@
 [
   {
+    "short_id": "r2kwnl",
+    "short_id_url": "https://lobste.rs/s/r2kwnl",
+    "created_at": "2021-08-09T21:12:03.000-05:00",
+    "title": "Anti-pattern of the Day: Type Keys",
+    "url": "https://jesseduffield.com/Type-Keys/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/r2kwnl/anti_pattern_day_type_keys",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81415,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "short_id": "sjht7g",
+    "short_id_url": "https://lobste.rs/s/sjht7g",
+    "created_at": "2021-08-09T21:11:37.000-05:00",
+    "title": "So you want to write a GUI framework",
+    "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81415,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "u5vzgc",
     "short_id_url": "https://lobste.rs/s/u5vzgc",
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 2,
+    "score": 6,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/u5vzgc/zig_pathtracer",
     "submitter_user": {
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2475,
+      "karma": 2479,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -31,7 +83,7 @@
     "created_at": "2021-08-09T18:05:06.000-05:00",
     "title": "Open sourcing Winterfell: A STARK prover and verifier",
     "url": "https://engineering.fb.com/2021/08/04/open-source/winterfell/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +94,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1990,
+      "karma": 1992,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -58,9 +110,9 @@
     "created_at": "2021-08-09T17:53:20.000-05:00",
     "title": "Prefer Declarative State Updaters",
     "url": "https://kyleshevlin.com/prefer-declarative-state-updaters",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters",
     "submitter_user": {
@@ -69,7 +121,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2954,
+      "karma": 2955,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -84,7 +136,7 @@
     "created_at": "2021-08-09T15:13:20.000-05:00",
     "title": "PostgREST version 8.0",
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
-    "score": 3,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -95,7 +147,7 @@
       "is_admin": false,
       "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
       "is_moderator": false,
-      "karma": 732,
+      "karma": 736,
       "avatar_url": "/avatars/tbonesteaks-100.png",
       "invited_by_user": "wink"
     },
@@ -175,7 +227,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11659,
+      "karma": 11660,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -189,7 +241,7 @@
     "created_at": "2021-08-09T12:06:03.000-05:00",
     "title": "Build your own NeXT with a virtual machine",
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -200,7 +252,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11659,
+      "karma": 11660,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -253,7 +305,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 131,
+      "karma": 130,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -298,7 +350,7 @@
     "created_at": "2021-08-09T09:22:58.000-05:00",
     "title": "No STARTTLS",
     "url": "https://nostarttls.secvuln.info/",
-    "score": 24,
+    "score": 26,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -309,7 +361,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1057,
+      "karma": 1059,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -324,7 +376,7 @@
     "created_at": "2021-08-09T08:50:48.000-05:00",
     "title": "JavaScript needs more helper functions for iteration (map, filter, etc.) – where should we put them?",
     "url": "https://2ality.com/2021/08/iteration-helpers.html",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -335,7 +387,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 339,
+      "karma": 341,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -409,7 +461,7 @@
     "created_at": "2021-08-09T07:15:27.000-05:00",
     "title": "When Zero Cost Abstractions Aren’t Zero Cost",
     "url": "https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -420,7 +472,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 70,
+      "karma": 71,
       "avatar_url": "/avatars/mgdm-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -462,7 +514,7 @@
     "created_at": "2021-08-09T05:58:16.000-05:00",
     "title": "An overview of Ink programming language",
     "url": "https://dotink.co/docs/overview/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -473,7 +525,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 468,
+      "karma": 469,
       "avatar_url": "/avatars/pzel-100.png",
       "invited_by_user": "jan",
       "github_username": "pzel"
@@ -491,7 +543,7 @@
     "url": "",
     "score": 10,
     "flags": 1,
-    "comment_count": 18,
+    "comment_count": 20,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
     "submitter_user": {
@@ -517,9 +569,9 @@
     "created_at": "2021-08-09T04:35:16.000-05:00",
     "title": "Falsehoods Programmers Believe About Phone Numbers",
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 23,
+    "score": 24,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/ynszmh/falsehoods_programmers_believe_about",
     "submitter_user": {
@@ -528,7 +580,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3325,
+      "karma": 3327,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -571,7 +623,7 @@
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
     "score": 18,
     "flags": 18,
-    "comment_count": 45,
+    "comment_count": 48,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -580,7 +632,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 158,
+      "karma": 159,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -614,61 +666,6 @@
     "tags": [
       "elm",
       "javascript"
-    ]
-  },
-  {
-    "short_id": "0wv5xt",
-    "short_id_url": "https://lobste.rs/s/0wv5xt",
-    "created_at": "2021-08-09T00:34:50.000-05:00",
-    "title": "Glitching RISC-V chips: MTVEC corruption for hardening ISA",
-    "url": "https://www.youtube.com/watch?v=iz_Y1lOtX08",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/0wv5xt/glitching_risc_v_chips_mtvec_corruption",
-    "submitter_user": {
-      "username": "glacambre",
-      "created_at": "2019-01-17T00:13:25.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 729,
-      "avatar_url": "/avatars/glacambre-100.png",
-      "invited_by_user": "gthm",
-      "github_username": "glacambre"
-    },
-    "tags": [
-      "hardware",
-      "security",
-      "video"
-    ]
-  },
-  {
-    "short_id": "xzzrct",
-    "short_id_url": "https://lobste.rs/s/xzzrct",
-    "created_at": "2021-08-08T21:05:52.000-05:00",
-    "title": "Lisping at JPL (2002)",
-    "url": "https://flownet.com/gat/jpl-lisp.html",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xzzrct/lisping_at_jpl_2002",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81415,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "historical",
-      "lisp"
     ]
   }
 ]
