@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "ktkpkf",
+    "short_id_url": "https://lobste.rs/s/ktkpkf",
+    "created_at": "2021-08-10T09:10:09.000-05:00",
+    "title": "Growing Object-Oriented Software, Guided by Tests Without Mocks (2016)",
+    "url": "https://enterprisecraftsmanship.com/posts/growing-object-oriented-software-guided-by-tests-without-mocks/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ktkpkf/growing_object_oriented_software_guided",
+    "submitter_user": {
+      "username": "dbremner",
+      "created_at": "2012-09-06T19:01:18.000-05:00",
+      "is_admin": false,
+      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
+      "is_moderator": false,
+      "karma": 1997,
+      "avatar_url": "/avatars/dbremner-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "dbremner"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
+    "short_id": "361gd6",
+    "short_id_url": "https://lobste.rs/s/361gd6",
+    "created_at": "2021-08-10T08:59:48.000-05:00",
+    "title": "Firefox  91.0",
+    "url": "https://www.mozilla.org/en-US/firefox/91.0/releasenotes/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 2,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/361gd6/firefox_91_0",
+    "submitter_user": {
+      "username": "acatton",
+      "created_at": "2015-02-13T18:54:10.000-06:00",
+      "is_admin": false,
+      "about": "I'm just a software engineer who likes his job.\r\n\r\nI'm currently a Site Reliability Engineer at Google, Inc.\r\n\r\n**Opinions are my own, and NOT the views of my current or past employers**",
+      "is_moderator": false,
+      "karma": 741,
+      "avatar_url": "/avatars/acatton-100.png",
+      "invited_by_user": "csantosb",
+      "github_username": "acatton"
+    },
+    "tags": [
+      "browsers",
+      "release"
+    ]
+  },
+  {
     "short_id": "cefvgh",
     "short_id_url": "https://lobste.rs/s/cefvgh",
     "created_at": "2021-08-10T08:22:38.000-05:00",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81445,
+      "karma": 81448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -31,9 +84,9 @@
     "created_at": "2021-08-10T08:20:04.000-05:00",
     "title": "MinIO: A Bare Metal Drop-In for AWS S3",
     "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
-    "score": 1,
+    "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/tvz9ek/minio_bare_metal_drop_for_aws_s3",
     "submitter_user": {
@@ -42,7 +95,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 206,
+      "karma": 208,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -51,38 +104,12 @@
     ]
   },
   {
-    "short_id": "uvgfrw",
-    "short_id_url": "https://lobste.rs/s/uvgfrw",
-    "created_at": "2021-08-10T08:12:58.000-05:00",
-    "title": "Are you changing anything in light of Apple's recent CSAM announcement?",
-    "url": "",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p>Hi friends,</p>\n<p>Like many of you I was following the changes from Apple’s CSAM announcement and feel like I finally had the chance to read through their documentation. It seems fairly well implemented (for what that’s worth).</p>\n<p>I know we already discussed what people thought about the changes, but I was mostly curious whether this changes anything for those of you who are already in (or were thinking of going to) the Apple ecosystem?</p>\n<p>If so, I was especially interested in seeing what viable alternatives you were moving to / evaluating. Do they offer better privacy guarantees?</p>\n<p>I’m personally on the fence…  there’s a lot I liked about the ecosystem to begin with that makes it a little tough to just jump ship, and I’d like to get a good sense of what’s out there to make a better decision.</p>\n<p>(Very sorry if this topic is not OK for Lobsters… please nuke it if so!)</p>\n",
-    "comments_url": "https://lobste.rs/s/uvgfrw/are_you_changing_anything_light_apple_s",
-    "submitter_user": {
-      "username": "shishy",
-      "created_at": "2019-01-24T19:35:35.000-06:00",
-      "is_admin": false,
-      "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
-      "is_moderator": false,
-      "karma": 350,
-      "avatar_url": "/avatars/shishy-100.png",
-      "invited_by_user": "awal"
-    },
-    "tags": [
-      "ask",
-      "privacy"
-    ]
-  },
-  {
     "short_id": "bz9yr5",
     "short_id_url": "https://lobste.rs/s/bz9yr5",
     "created_at": "2021-08-10T05:06:23.000-05:00",
     "title": "nix bundle – bundle an application so that it works outside of the Nix store",
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -93,7 +120,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2965,
+      "karma": 2966,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -109,7 +136,7 @@
     "url": "https://jesseduffield.com/Type-Keys/",
     "score": 8,
     "flags": 1,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/r2kwnl/anti_pattern_day_type_keys",
     "submitter_user": {
@@ -118,7 +145,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81445,
+      "karma": 81448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -133,9 +160,9 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 17,
+    "score": 19,
     "flags": 0,
-    "comment_count": 24,
+    "comment_count": 29,
     "description": "",
     "comments_url": "https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework",
     "submitter_user": {
@@ -144,7 +171,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81445,
+      "karma": 81448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -159,7 +186,7 @@
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -170,7 +197,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2492,
+      "karma": 2493,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -214,7 +241,7 @@
     "url": "https://kyleshevlin.com/prefer-declarative-state-updaters",
     "score": 2,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/jt2auz/prefer_declarative_state_updaters",
     "submitter_user": {
@@ -238,7 +265,7 @@
     "created_at": "2021-08-09T15:13:20.000-05:00",
     "title": "PostgREST version 8.0",
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -249,7 +276,7 @@
       "is_admin": false,
       "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
       "is_moderator": false,
-      "karma": 744,
+      "karma": 746,
       "avatar_url": "/avatars/tbonesteaks-100.png",
       "invited_by_user": "wink"
     },
@@ -407,7 +434,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 133,
+      "karma": 134,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -454,7 +481,7 @@
     "url": "https://nostarttls.secvuln.info/",
     "score": 36,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
     "submitter_user": {
@@ -521,7 +548,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81445,
+      "karma": 81448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -547,7 +574,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81445,
+      "karma": 81448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -635,34 +662,6 @@
     "tags": [
       "go",
       "plt"
-    ]
-  },
-  {
-    "short_id": "89kzrh",
-    "short_id_url": "https://lobste.rs/s/89kzrh",
-    "created_at": "2021-08-09T05:21:39.000-05:00",
-    "title": "What are you doing this week?",
-    "url": "",
-    "score": 11,
-    "flags": 1,
-    "comment_count": 22,
-    "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
-    "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6411,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "ask",
-      "programming"
     ]
   }
 ]
