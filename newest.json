@@ -5,7 +5,7 @@
     "created_at": "2021-08-10T05:06:23.000-05:00",
     "title": "nix bundle – bundle an application so that it works outside of the Nix store",
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
-    "score": 2,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +16,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2958,
+      "karma": 2962,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -41,7 +41,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81433,
+      "karma": 81436,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -56,9 +56,9 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 8,
+    "score": 10,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/sjht7g/so_you_want_write_gui_framework",
     "submitter_user": {
@@ -67,7 +67,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81433,
+      "karma": 81436,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -82,7 +82,7 @@
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -93,7 +93,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2490,
+      "karma": 2491,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -386,7 +386,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1066,
+      "karma": 1067,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -433,9 +433,9 @@
     "created_at": "2021-08-09T07:33:27.000-05:00",
     "title": "Three fundamental flaws of SIMD",
     "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-    "score": 21,
+    "score": 22,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/fahzr4/three_fundamental_flaws_simd",
     "submitter_user": {
@@ -444,7 +444,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81433,
+      "karma": 81436,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -470,7 +470,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81433,
+      "karma": 81436,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -648,7 +648,7 @@
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
     "score": 15,
     "flags": 21,
-    "comment_count": 49,
+    "comment_count": 50,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
