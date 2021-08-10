@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "bz9yr5",
+    "short_id_url": "https://lobste.rs/s/bz9yr5",
+    "created_at": "2021-08-10T05:06:23.000-05:00",
+    "title": "nix bundle – bundle an application so that it works outside of the Nix store",
+    "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bz9yr5/nix_bundle_bundle_application_so_it_works",
+    "submitter_user": {
+      "username": "ehamberg",
+      "created_at": "2014-08-18T02:47:08.000-05:00",
+      "is_admin": false,
+      "about": "https://keybase.io/eh",
+      "is_moderator": false,
+      "karma": 2958,
+      "avatar_url": "/avatars/ehamberg-100.png",
+      "invited_by_user": "oleavr"
+    },
+    "tags": [
+      "unix"
+    ]
+  },
+  {
     "short_id": "r2kwnl",
     "short_id_url": "https://lobste.rs/s/r2kwnl",
     "created_at": "2021-08-09T21:12:03.000-05:00",
     "title": "Anti-pattern of the Day: Type Keys",
     "url": "https://jesseduffield.com/Type-Keys/",
-    "score": 6,
+    "score": 7,
     "flags": 1,
     "comment_count": 3,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81430,
+      "karma": 81433,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -31,7 +56,7 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81430,
+      "karma": 81433,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -57,7 +82,7 @@
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -68,7 +93,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2488,
+      "karma": 2490,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -94,7 +119,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 1996,
+      "karma": 1997,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -227,7 +252,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11661,
+      "karma": 11662,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -241,7 +266,7 @@
     "created_at": "2021-08-09T12:06:03.000-05:00",
     "title": "Build your own NeXT with a virtual machine",
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -252,7 +277,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11661,
+      "karma": 11662,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -352,7 +377,7 @@
     "url": "https://nostarttls.secvuln.info/",
     "score": 32,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
     "submitter_user": {
@@ -361,7 +386,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1065,
+      "karma": 1066,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -378,7 +403,7 @@
     "url": "https://2ality.com/2021/08/iteration-helpers.html",
     "score": 5,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/ewueaf/javascript_needs_more_helper_functions",
     "submitter_user": {
@@ -408,7 +433,7 @@
     "created_at": "2021-08-09T07:33:27.000-05:00",
     "title": "Three fundamental flaws of SIMD",
     "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -419,7 +444,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81430,
+      "karma": 81433,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -445,7 +470,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81430,
+      "karma": 81433,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -487,7 +512,7 @@
     "created_at": "2021-08-09T06:08:19.000-05:00",
     "title": "Sketching - A Language for Creative Coding",
     "url": "https://soegaard.github.io/sketching/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -498,7 +523,7 @@
       "is_admin": false,
       "about": "http://github.com/soegaard\r\n",
       "is_moderator": false,
-      "karma": 64,
+      "karma": 65,
       "avatar_url": "/avatars/soegaard-100.png",
       "invited_by_user": "355E3B"
     },
@@ -541,9 +566,9 @@
     "created_at": "2021-08-09T05:21:39.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 10,
+    "score": 11,
     "flags": 1,
-    "comment_count": 21,
+    "comment_count": 22,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/89kzrh/what_are_you_doing_this_week",
     "submitter_user": {
@@ -552,7 +577,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6410,
+      "karma": 6411,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -571,7 +596,7 @@
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
     "score": 27,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/ynszmh/falsehoods_programmers_believe_about",
     "submitter_user": {
@@ -640,32 +665,6 @@
       "book",
       "practices",
       "rant"
-    ]
-  },
-  {
-    "short_id": "of6l3w",
-    "short_id_url": "https://lobste.rs/s/of6l3w",
-    "created_at": "2021-08-09T01:33:31.000-05:00",
-    "title": "What if ESLint's configuration worked like elm-review?",
-    "url": "https://jfmengels.net/configuring-eslint/",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/of6l3w/what_if_eslint_s_configuration_worked",
-    "submitter_user": {
-      "username": "jfmengels",
-      "created_at": "2020-10-03T11:24:25.000-05:00",
-      "is_admin": false,
-      "about": "I'm into functional programming and mostly the Elm language. I'm the author of elm-review, a static analysis tool for Elm.",
-      "is_moderator": false,
-      "karma": 78,
-      "avatar_url": "/avatars/jfmengels-100.png",
-      "invited_by_user": "wolfadex"
-    },
-    "tags": [
-      "elm",
-      "javascript"
     ]
   }
 ]
