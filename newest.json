@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "u5vzgc",
+    "short_id_url": "https://lobste.rs/s/u5vzgc",
+    "created_at": "2021-08-09T19:19:17.000-05:00",
+    "title": "Zig pathtracer",
+    "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/u5vzgc/zig_pathtracer",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2475,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "games",
+      "zig"
+    ]
+  },
+  {
     "short_id": "pwees3",
     "short_id_url": "https://lobste.rs/s/pwees3",
     "created_at": "2021-08-09T18:05:06.000-05:00",
@@ -85,7 +111,7 @@
     "created_at": "2021-08-09T14:05:26.000-05:00",
     "title": "Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself",
     "url": "https://jesseduffield.com/Beyond-Coupling-And-Cohesion/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +122,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 295,
+      "karma": 297,
       "avatar_url": "/avatars/lcapaldo-100.png",
       "invited_by_user": "ckolderup"
     },
@@ -110,7 +136,7 @@
     "created_at": "2021-08-09T13:15:09.000-05:00",
     "title": "Dial-a-SID",
     "url": "http://www.linusakesson.net/hardware/dial-a-sid/index.php",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -121,7 +147,7 @@
       "is_admin": false,
       "about": "UNIX Mechanic",
       "is_moderator": false,
-      "karma": 157,
+      "karma": 158,
       "avatar_url": "/avatars/lollipopman-100.png",
       "invited_by_user": "stephen",
       "github_username": "lollipopman"
@@ -149,7 +175,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11658,
+      "karma": 11659,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -163,9 +189,9 @@
     "created_at": "2021-08-09T12:06:03.000-05:00",
     "title": "Build your own NeXT with a virtual machine",
     "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/gtcyz4/build_your_own_next_with_virtual_machine",
     "submitter_user": {
@@ -174,7 +200,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11658,
+      "karma": 11659,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -216,7 +242,7 @@
     "created_at": "2021-08-09T10:06:03.000-05:00",
     "title": "The Web Ascendant (2015)",
     "url": "https://buckleyisms.com/blog/the-web-ascendant/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -227,7 +253,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 130,
+      "karma": 131,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -272,9 +298,9 @@
     "created_at": "2021-08-09T09:22:58.000-05:00",
     "title": "No STARTTLS",
     "url": "https://nostarttls.secvuln.info/",
-    "score": 21,
+    "score": 24,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/nufm9m/no_starttls",
     "submitter_user": {
@@ -283,7 +309,7 @@
       "is_admin": false,
       "about": "I'm a freelance journalist, system administrator and free software fan. I am especially interested in cryptography.\r\nhttps://hboeck.de/",
       "is_moderator": false,
-      "karma": 1054,
+      "karma": 1057,
       "avatar_url": "/avatars/hanno-100.png",
       "invited_by_user": "lauris"
     },
@@ -309,7 +335,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 338,
+      "karma": 339,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -330,7 +356,7 @@
     "created_at": "2021-08-09T07:33:27.000-05:00",
     "title": "Three fundamental flaws of SIMD",
     "url": "https://www.bitsnbites.eu/three-fundamental-flaws-of-simd/",
-    "score": 13,
+    "score": 17,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -341,7 +367,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81410,
+      "karma": 81415,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -367,7 +393,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81410,
+      "karma": 81415,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -383,9 +409,9 @@
     "created_at": "2021-08-09T07:15:27.000-05:00",
     "title": "When Zero Cost Abstractions Aren’t Zero Cost",
     "url": "https://blog.polybdenum.com/2021/08/09/when-zero-cost-abstractions-aren-t-zero-cost.html",
-    "score": 11,
+    "score": 13,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/rt9nzg/when_zero_cost_abstractions_aren_t_zero",
     "submitter_user": {
@@ -394,7 +420,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 68,
+      "karma": 70,
       "avatar_url": "/avatars/mgdm-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -491,7 +517,7 @@
     "created_at": "2021-08-09T04:35:16.000-05:00",
     "title": "Falsehoods Programmers Believe About Phone Numbers",
     "url": "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md",
-    "score": 20,
+    "score": 23,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -502,7 +528,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3321,
+      "karma": 3325,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -516,7 +542,7 @@
     "created_at": "2021-08-09T03:47:50.000-05:00",
     "title": "EFLFE: Elixir Flavoured Lisp Flavoured Erlang",
     "url": "http://marianoguerra.org/posts/eflfe-elixir-flavoured-lisp-flavoured-erlang/",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -527,7 +553,7 @@
       "is_admin": false,
       "about": "Co-founder of https://instadeq.com and https://event-fabric.com/\r\n\r\nCreator of the efene programming language, the little riak core book and emesene instant messenger\r\n\r\n\r\nhttp://marianoguerra.org\r\n\r\nhttps://github.com/marianoguerra\r\n\r\nhttp://marianoguerra.github.io/\r\n\r\nhttps://twitter.com/warianoguerra",
       "is_moderator": false,
-      "karma": 189,
+      "karma": 190,
       "avatar_url": "/avatars/marianoguerra-100.png",
       "invited_by_user": "unbalancedparentheses"
     },
@@ -543,9 +569,9 @@
     "created_at": "2021-08-09T01:57:34.000-05:00",
     "title": "Throwing 99 bottles (of OOP) in the trash",
     "url": "https://dpc.pw/throwing-99-bottles-of-oop-in-the-trash",
-    "score": 19,
-    "flags": 17,
-    "comment_count": 42,
+    "score": 18,
+    "flags": 18,
+    "comment_count": 45,
     "description": "",
     "comments_url": "https://lobste.rs/s/ul79os/throwing_99_bottles_oop_trash",
     "submitter_user": {
@@ -554,7 +580,7 @@
       "is_admin": false,
       "about": "https://dpc.pw",
       "is_moderator": false,
-      "karma": 156,
+      "karma": 158,
       "avatar_url": "/avatars/dpc_pw-100.png",
       "invited_by_user": "kornel"
     },
@@ -624,9 +650,9 @@
     "created_at": "2021-08-08T21:05:52.000-05:00",
     "title": "Lisping at JPL (2002)",
     "url": "https://flownet.com/gat/jpl-lisp.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/xzzrct/lisping_at_jpl_2002",
     "submitter_user": {
@@ -635,7 +661,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81410,
+      "karma": 81415,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -643,31 +669,6 @@
     "tags": [
       "historical",
       "lisp"
-    ]
-  },
-  {
-    "short_id": "4pz3qg",
-    "short_id_url": "https://lobste.rs/s/4pz3qg",
-    "created_at": "2021-08-08T19:17:03.000-05:00",
-    "title": "Zig wrinkles",
-    "url": "https://dev.to/stein/zig-dangers-confusions-and-annoyances-280h",
-    "score": 36,
-    "flags": 0,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4pz3qg/zig_wrinkles",
-    "submitter_user": {
-      "username": "trousers",
-      "created_at": "2012-11-01T22:23:30.000-05:00",
-      "is_admin": false,
-      "about": "> \"The problem with quotes on the internet is you never know if they are genuine.\" -- Benjamin Franklin\r\n",
-      "is_moderator": false,
-      "karma": 4387,
-      "avatar_url": "/avatars/trousers-100.png",
-      "invited_by_user": "jcs"
-    },
-    "tags": [
-      "zig"
     ]
   }
 ]
