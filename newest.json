@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "knlon7",
+    "short_id_url": "https://lobste.rs/s/knlon7",
+    "created_at": "2021-08-11T03:58:14.000-05:00",
+    "title": "ChristopherHX/github-act-runner:act as self-hosted runner [cross-platform runner for GitHub actions]",
+    "url": "https://github.com/ChristopherHX/github-act-runner",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/knlon7/christopherhx_github_act_runner_act_as",
+    "submitter_user": {
+      "username": "david_chisnall",
+      "created_at": "2020-03-19T12:44:25.000-05:00",
+      "is_admin": false,
+      "about": "I am a researcher at Microsoft Research Cambridge and a Visiting Researcher at the University of Cambridge Computer Laboratory, working on hardware/software co-design for cloud security.  We recently released a [high-performance memory allocator](https://github.com/Microsoft/snmalloc), which was designed to be used with the [Verona language](https://github.com/Microsoft/Verona).  I remain actively involved in the [CHERI](https://chericpu.org) project, where I led the early language / compiler strand of the research.  \r\n\r\nI was on the FreeBSD Core Team for two terms, have been an LLVM developer since 2008, am the author of the GNUstep Objective-C runtime (libobjc2 and associated clang support), and am responsible for libcxxrt and the BSD-licensed device tree compiler.  ",
+      "is_moderator": false,
+      "karma": 3481,
+      "avatar_url": "/avatars/david_chisnall-100.png",
+      "invited_by_user": "Drakonis",
+      "github_username": "davidchisnall"
+    },
+    "tags": [
+      "testing"
+    ]
+  },
+  {
     "short_id": "xxbrhq",
     "short_id_url": "https://lobste.rs/s/xxbrhq",
     "created_at": "2021-08-10T23:51:06.000-05:00",
@@ -30,7 +56,7 @@
     "created_at": "2021-08-10T23:50:56.000-05:00",
     "title": "Tomb | Take care of the skeletons in your closet",
     "url": "https://www.dyne.org/software/tomb/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +67,7 @@
       "is_admin": false,
       "about": "Python developer, self hosting hobbyist, tinkering is fun!",
       "is_moderator": false,
-      "karma": 198,
+      "karma": 199,
       "avatar_url": "/avatars/binchickin-100.png",
       "invited_by_user": "kzisme"
     },
@@ -57,7 +83,7 @@
     "url": "https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/kwkxcj/illustrated_vqgan",
     "submitter_user": {
@@ -66,7 +92,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20007,
+      "karma": 20008,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -82,7 +108,7 @@
     "created_at": "2021-08-10T18:10:09.000-05:00",
     "title": "The IBM PC, 41 Years Ago",
     "url": "http://www.os2museum.com/wp/the-ibm-pc-41-years-ago/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -93,7 +119,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81520,
+      "karma": 81524,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -135,7 +161,7 @@
     "created_at": "2021-08-10T16:09:50.000-05:00",
     "title": "Crux Development Diary #6",
     "url": "https://opencrux.com/blog/dev-diary-aug-21.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -146,7 +172,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 103,
+      "karma": 104,
       "avatar_url": "/avatars/deobald-100.png",
       "invited_by_user": "rdivyanshu",
       "github_username": "deobald",
@@ -180,7 +206,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81520,
+      "karma": 81524,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -196,7 +222,7 @@
     "created_at": "2021-08-10T13:43:51.000-05:00",
     "title": "Stay Alert: How Chrome Plans to Break the Web",
     "url": "https://dev.to/richharris/stay-alert-d",
-    "score": 28,
+    "score": 29,
     "flags": 1,
     "comment_count": 13,
     "description": "",
@@ -207,7 +233,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 202,
+      "karma": 203,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -224,7 +250,7 @@
     "created_at": "2021-08-10T12:24:30.000-05:00",
     "title": "A Tale of Two Copies",
     "url": "https://storj.io/blog/a-tale-of-two-copies",
-    "score": 11,
+    "score": 12,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -235,7 +261,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 533,
+      "karma": 534,
       "avatar_url": "/avatars/zeebo-100.png",
       "invited_by_user": "jtolds",
       "github_username": "zeebo",
@@ -392,7 +418,7 @@
     "url": "https://www.mozilla.org/en-US/firefox/91.0/releasenotes/",
     "score": 21,
     "flags": 0,
-    "comment_count": 18,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/361gd6/firefox_91_0",
     "submitter_user": {
@@ -417,7 +443,7 @@
     "created_at": "2021-08-10T08:22:38.000-05:00",
     "title": "Stages of Denial",
     "url": "https://beyondloom.com/blog/denial.html",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -428,7 +454,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81520,
+      "karma": 81524,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -470,7 +496,7 @@
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
     "score": 24,
     "flags": 1,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/bz9yr5/nix_bundle_bundle_application_so_it_works",
     "submitter_user": {
@@ -504,7 +530,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81520,
+      "karma": 81524,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -530,7 +556,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81520,
+      "karma": 81524,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -545,7 +571,7 @@
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 26,
+    "score": 27,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -556,7 +582,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2499,
+      "karma": 2500,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -643,31 +669,6 @@
       "api",
       "databases",
       "release"
-    ]
-  },
-  {
-    "short_id": "sydqzh",
-    "short_id_url": "https://lobste.rs/s/sydqzh",
-    "created_at": "2021-08-09T14:05:26.000-05:00",
-    "title": "Beyond Coupling and Cohesion: Strategies For Un-F*cking Yourself",
-    "url": "https://jesseduffield.com/Beyond-Coupling-And-Cohesion/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sydqzh/beyond_coupling_cohesion_strategies_for",
-    "submitter_user": {
-      "username": "lcapaldo",
-      "created_at": "2014-02-25T10:56:12.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 299,
-      "avatar_url": "/avatars/lcapaldo-100.png",
-      "invited_by_user": "ckolderup"
-    },
-    "tags": [
-      "practices"
     ]
   }
 ]
