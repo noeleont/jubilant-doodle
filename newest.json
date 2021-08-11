@@ -16,7 +16,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81485,
+      "karma": 81493,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -32,7 +32,7 @@
     "created_at": "2021-08-10T16:21:09.000-05:00",
     "title": "Nyxt; Another week, another version",
     "url": "https://nyxt.atlas.engineer/article/status1.org",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +43,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 239,
+      "karma": 240,
       "avatar_url": "/avatars/jmercouris-100.png",
       "invited_by_user": "vindarel"
     },
@@ -92,9 +92,9 @@
     "created_at": "2021-08-10T13:50:54.000-05:00",
     "title": "elementary OS 6 Odin Available Now",
     "url": "https://blog.elementary.io/elementary-os-6-odin-released/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/xwoo77/elementary_os_6_odin_available_now",
     "submitter_user": {
@@ -103,7 +103,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81485,
+      "karma": 81493,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -119,9 +119,9 @@
     "created_at": "2021-08-10T13:43:51.000-05:00",
     "title": "Stay Alert: How Chrome Plans to Break the Web",
     "url": "https://dev.to/richharris/stay-alert-d",
-    "score": 14,
+    "score": 16,
     "flags": 1,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/dag3n8/stay_alert_how_chrome_plans_break_web",
     "submitter_user": {
@@ -130,7 +130,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 175,
+      "karma": 180,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -147,7 +147,7 @@
     "created_at": "2021-08-10T12:24:30.000-05:00",
     "title": "A Tale of Two Copies",
     "url": "https://storj.io/blog/a-tale-of-two-copies",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -158,7 +158,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 530,
+      "karma": 531,
       "avatar_url": "/avatars/zeebo-100.png",
       "invited_by_user": "jtolds",
       "github_username": "zeebo",
@@ -182,7 +182,7 @@
     "url": "https://benbernardblog.com/tale-of-a-failed-startup-or-the-day-i-created-a-mint-clone/",
     "score": -3,
     "flags": 5,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/vzqic9/tale_failed_startup_day_i_created_mint",
     "submitter_user": {
@@ -282,38 +282,6 @@
     ]
   },
   {
-    "short_id": "8wrs7j",
-    "short_id_url": "https://lobste.rs/s/8wrs7j",
-    "created_at": "2021-08-10T09:18:37.000-05:00",
-    "title": "Firefox 91 introduces HTTPS by Default in Private Browsing",
-    "url": "https://blog.mozilla.org/security/2021/08/10/firefox-91-introduces-https-by-default-in-private-browsing/",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/8wrs7j/firefox_91_introduces_https_by_default",
-    "submitter_user": {
-      "username": "freddyb",
-      "created_at": "2017-02-02T09:12:16.000-06:00",
-      "is_admin": false,
-      "about": "Security. Mostly in Browsers, but not exclusively.",
-      "is_moderator": false,
-      "karma": 5851,
-      "avatar_url": "/avatars/freddyb-100.png",
-      "invited_by_user": "stas",
-      "keybase_signatures": [
-        {
-          "kb_username": "freddyb",
-          "sig_hash": "550e2f5b27d4b5d558c02dfb2b23a628e90635183c93f993eeea4e16b20c51150f"
-        }
-      ]
-    },
-    "tags": [
-      "browsers",
-      "security"
-    ]
-  },
-  {
     "short_id": "ktkpkf",
     "short_id_url": "https://lobste.rs/s/ktkpkf",
     "created_at": "2021-08-10T09:10:09.000-05:00",
@@ -347,7 +315,7 @@
     "url": "https://www.mozilla.org/en-US/firefox/91.0/releasenotes/",
     "score": 17,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/361gd6/firefox_91_0",
     "submitter_user": {
@@ -372,7 +340,7 @@
     "created_at": "2021-08-10T08:22:38.000-05:00",
     "title": "Stages of Denial",
     "url": "https://beyondloom.com/blog/denial.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -383,7 +351,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81485,
+      "karma": 81493,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -423,9 +391,9 @@
     "created_at": "2021-08-10T05:06:23.000-05:00",
     "title": "nix bundle – bundle an application so that it works outside of the Nix store",
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
-    "score": 19,
-    "flags": 0,
-    "comment_count": 2,
+    "score": 20,
+    "flags": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/bz9yr5/nix_bundle_bundle_application_so_it_works",
     "submitter_user": {
@@ -434,7 +402,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2975,
+      "karma": 2976,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -459,7 +427,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81485,
+      "karma": 81493,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -474,7 +442,7 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 36,
+    "score": 38,
     "flags": 0,
     "comment_count": 39,
     "description": "",
@@ -485,7 +453,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81485,
+      "karma": 81493,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -579,7 +547,7 @@
     "created_at": "2021-08-09T15:13:20.000-05:00",
     "title": "PostgREST version 8.0",
     "url": "https://supabase.io/blog/2021/07/26/supabase-community-day#postgrest-version-80",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -590,7 +558,7 @@
       "is_admin": false,
       "about": "Feel free to email me: 8e99a790-ca26-4895-9ac4-9cdfa208d761@anonaddy.me",
       "is_moderator": false,
-      "karma": 752,
+      "karma": 753,
       "avatar_url": "/avatars/tbonesteaks-100.png",
       "invited_by_user": "wink"
     },
@@ -670,12 +638,37 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11667,
+      "karma": 11668,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
     "tags": [
       "linux"
+    ]
+  },
+  {
+    "short_id": "gtcyz4",
+    "short_id_url": "https://lobste.rs/s/gtcyz4",
+    "created_at": "2021-08-09T12:06:03.000-05:00",
+    "title": "Build your own NeXT with a virtual machine",
+    "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
+    "score": 13,
+    "flags": 0,
+    "comment_count": 4,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gtcyz4/build_your_own_next_with_virtual_machine",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11668,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "virtualization"
     ]
   }
 ]
