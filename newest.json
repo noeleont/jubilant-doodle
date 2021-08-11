@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "kwkxcj",
+    "short_id_url": "https://lobste.rs/s/kwkxcj",
+    "created_at": "2021-08-10T20:13:27.000-05:00",
+    "title": "The Illustrated VQGAN",
+    "url": "https://ljvmiranda921.github.io/notebook/2021/08/08/clip-vqgan/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kwkxcj/illustrated_vqgan",
+    "submitter_user": {
+      "username": "hwayne",
+      "created_at": "2016-12-01T13:09:45.000-06:00",
+      "is_admin": false,
+      "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
+      "is_moderator": false,
+      "karma": 19999,
+      "avatar_url": "/avatars/hwayne-100.png",
+      "invited_by_user": "flyingfisch",
+      "github_username": "hwayne",
+      "twitter_username": "Hillelogram"
+    },
+    "tags": [
+      "ai"
+    ]
+  },
+  {
     "short_id": "i4etjn",
     "short_id_url": "https://lobste.rs/s/i4etjn",
     "created_at": "2021-08-10T18:10:09.000-05:00",
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81493,
+      "karma": 81500,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -92,7 +119,7 @@
     "created_at": "2021-08-10T13:50:54.000-05:00",
     "title": "elementary OS 6 Odin Available Now",
     "url": "https://blog.elementary.io/elementary-os-6-odin-released/",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -103,7 +130,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81493,
+      "karma": 81500,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -119,9 +146,9 @@
     "created_at": "2021-08-10T13:43:51.000-05:00",
     "title": "Stay Alert: How Chrome Plans to Break the Web",
     "url": "https://dev.to/richharris/stay-alert-d",
-    "score": 16,
+    "score": 18,
     "flags": 1,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/dag3n8/stay_alert_how_chrome_plans_break_web",
     "submitter_user": {
@@ -130,7 +157,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 180,
+      "karma": 184,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -147,7 +174,7 @@
     "created_at": "2021-08-10T12:24:30.000-05:00",
     "title": "A Tale of Two Copies",
     "url": "https://storj.io/blog/a-tale-of-two-copies",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -158,7 +185,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 531,
+      "karma": 532,
       "avatar_url": "/avatars/zeebo-100.png",
       "invited_by_user": "jtolds",
       "github_username": "zeebo",
@@ -289,7 +316,7 @@
     "url": "https://enterprisecraftsmanship.com/posts/growing-object-oriented-software-guided-by-tests-without-mocks/",
     "score": 5,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/ktkpkf/growing_object_oriented_software_guided",
     "submitter_user": {
@@ -298,7 +325,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2002,
+      "karma": 2003,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -313,9 +340,9 @@
     "created_at": "2021-08-10T08:59:48.000-05:00",
     "title": "Firefox  91.0",
     "url": "https://www.mozilla.org/en-US/firefox/91.0/releasenotes/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
-    "comment_count": 14,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/361gd6/firefox_91_0",
     "submitter_user": {
@@ -324,7 +351,7 @@
       "is_admin": false,
       "about": "I'm just a software engineer who likes his job.\r\n\r\nI'm currently a Site Reliability Engineer at Google, Inc.\r\n\r\n**Opinions are my own, and NOT the views of my current or past employers**",
       "is_moderator": false,
-      "karma": 763,
+      "karma": 764,
       "avatar_url": "/avatars/acatton-100.png",
       "invited_by_user": "csantosb",
       "github_username": "acatton"
@@ -351,7 +378,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81493,
+      "karma": 81500,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -366,9 +393,9 @@
     "created_at": "2021-08-10T08:20:04.000-05:00",
     "title": "MinIO: A Bare Metal Drop-In for AWS S3",
     "url": "https://tech.marksblogg.com/minio-aws-s3-hdfs.html",
-    "score": 20,
+    "score": 21,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/tvz9ek/minio_bare_metal_drop_for_aws_s3",
     "submitter_user": {
@@ -377,7 +404,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 225,
+      "karma": 226,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -391,7 +418,7 @@
     "created_at": "2021-08-10T05:06:23.000-05:00",
     "title": "nix bundle – bundle an application so that it works outside of the Nix store",
     "url": "https://nixos.org/manual/nix/unstable/command-ref/new-cli/nix3-bundle.html",
-    "score": 20,
+    "score": 21,
     "flags": 1,
     "comment_count": 3,
     "description": "",
@@ -402,7 +429,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2976,
+      "karma": 2977,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -427,7 +454,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81493,
+      "karma": 81500,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -442,7 +469,7 @@
     "created_at": "2021-08-09T21:11:37.000-05:00",
     "title": "So you want to write a GUI framework",
     "url": "https://www.cmyr.net/blog/gui-framework-ingredients.html",
-    "score": 38,
+    "score": 39,
     "flags": 0,
     "comment_count": 39,
     "description": "",
@@ -453,7 +480,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81493,
+      "karma": 81500,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -468,7 +495,7 @@
     "created_at": "2021-08-09T19:19:17.000-05:00",
     "title": "Zig pathtracer",
     "url": "http://msinilo.pl/blog2/post/zig-pathtracer/",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -479,7 +506,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2497,
+      "karma": 2498,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -505,7 +532,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2002,
+      "karma": 2003,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -644,31 +671,6 @@
     },
     "tags": [
       "linux"
-    ]
-  },
-  {
-    "short_id": "gtcyz4",
-    "short_id_url": "https://lobste.rs/s/gtcyz4",
-    "created_at": "2021-08-09T12:06:03.000-05:00",
-    "title": "Build your own NeXT with a virtual machine",
-    "url": "https://learn.adafruit.com/build-your-own-next-with-a-virtual-machine?view=all",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/gtcyz4/build_your_own_next_with_virtual_machine",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11668,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "virtualization"
     ]
   }
 ]
