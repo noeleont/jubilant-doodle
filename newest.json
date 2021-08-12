@@ -1,11 +1,65 @@
 [
   {
+    "short_id": "18axic",
+    "short_id_url": "https://lobste.rs/s/18axic",
+    "created_at": "2021-08-12T09:48:28.000-05:00",
+    "title": "C programming language extension: Cedro pre-processor",
+    "url": "https://sentido-labs.com/en/library/cedro/202106171400/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 3,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/18axic/c_programming_language_extension_cedro",
+    "submitter_user": {
+      "username": "AlbertoGP",
+      "created_at": "2017-10-02T16:09:24.000-05:00",
+      "is_admin": false,
+      "about": "Personal:\r\n\r\n  http://matracas.org\r\n\r\nWork:\r\n\r\n  http://sentido-labs.com",
+      "is_moderator": false,
+      "karma": 102,
+      "avatar_url": "/avatars/AlbertoGP-100.png",
+      "invited_by_user": "phlo"
+    },
+    "tags": [
+      "c",
+      "compilers",
+      "plt",
+      "show"
+    ]
+  },
+  {
+    "short_id": "qad2aa",
+    "short_id_url": "https://lobste.rs/s/qad2aa",
+    "created_at": "2021-08-12T09:42:50.000-05:00",
+    "title": "C3 programming language",
+    "url": "http://www.c3-lang.org/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qad2aa/c3_programming_language",
+    "submitter_user": {
+      "username": "guiraldelli",
+      "created_at": "2018-05-31T14:17:01.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 356,
+      "avatar_url": "/avatars/guiraldelli-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "c",
+      "plt"
+    ]
+  },
+  {
     "short_id": "wntgwy",
     "short_id_url": "https://lobste.rs/s/wntgwy",
     "created_at": "2021-08-12T08:06:23.000-05:00",
     "title": "Essence",
     "url": "https://essence.handmade.network/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +70,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 910,
+      "karma": 911,
       "avatar_url": "/avatars/reezer-100.png",
       "invited_by_user": "groovemonkey"
     },
@@ -30,7 +84,7 @@
     "created_at": "2021-08-12T07:19:53.000-05:00",
     "title": "Permacomputing Update 2021 | viznut",
     "url": "http://viznut.fi/texts-en/permacomputing_update_2021.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +95,7 @@
       "is_admin": false,
       "about": "Aspiring Ms. Frizzle.\r\n\r\nInto forth, scheme, literate programming, cooking, and cycling.\r\n\r\n- [blog](https://eli.li/)\r\n- [wiki](https://pizza.eli.li/wiki/index/)",
       "is_moderator": false,
-      "karma": 309,
+      "karma": 310,
       "avatar_url": "/avatars/banana_oatmeal-100.png",
       "invited_by_user": "acdw"
     },
@@ -55,9 +109,9 @@
     "created_at": "2021-08-12T06:46:16.000-05:00",
     "title": "FreeBSD Experiment Rethinks The OS Install",
     "url": "https://hackaday.com/2021/08/10/freebsd-experiment-rethinks-the-os-install/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/mlhfbx/freebsd_experiment_rethinks_os_install",
     "submitter_user": {
@@ -66,7 +120,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 144,
+      "karma": 146,
       "avatar_url": "/avatars/0mp-100.png",
       "invited_by_user": "sevan"
     },
@@ -80,7 +134,7 @@
     "created_at": "2021-08-12T06:38:36.000-05:00",
     "title": "Session switching with the tmux menu",
     "url": "https://qmacro.org/autodidactics/2021/08/12/session-switching-with-the-tmux-menu/",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -91,7 +145,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 240,
+      "karma": 242,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -118,7 +172,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 349,
+      "karma": 350,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -139,7 +193,7 @@
     "created_at": "2021-08-12T00:04:49.000-05:00",
     "title": "Static vs. Dynamic vs. Jamstack: Where's The Line?",
     "url": "https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -150,7 +204,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 349,
+      "karma": 350,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -182,7 +236,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2986,
+      "karma": 2987,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -197,9 +251,9 @@
     "created_at": "2021-08-11T22:51:26.000-05:00",
     "title": "GitHub’s Engineering Team has moved to Codespaces",
     "url": "https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 14,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/ua9nzd/github_s_engineering_team_has_moved",
     "submitter_user": {
@@ -208,7 +262,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2986,
+      "karma": 2987,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -235,7 +289,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81653,
+      "karma": 81657,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -373,7 +427,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2986,
+      "karma": 2987,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -389,7 +443,7 @@
     "created_at": "2021-08-11T14:37:56.000-05:00",
     "title": "It is not about Elixir",
     "url": "https://underjord.io/it-is-not-about-elixir.html",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -400,7 +454,7 @@
       "is_admin": false,
       "about": "https://twitter.com/yonkeltron",
       "is_moderator": false,
-      "karma": 1551,
+      "karma": 1553,
       "avatar_url": "/avatars/yonkeltron-100.png",
       "invited_by_user": "rocx",
       "github_username": "yonkeltron",
@@ -416,9 +470,9 @@
     "created_at": "2021-08-11T13:20:59.000-05:00",
     "title": "Low Bandwidth Images",
     "url": "https://opguides.info/posts/lowbandwidthimages/",
-    "score": 42,
+    "score": 46,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/oexwrw/low_bandwidth_images",
     "submitter_user": {
@@ -427,7 +481,7 @@
       "is_admin": false,
       "about": "I program guitars and play computers",
       "is_moderator": false,
-      "karma": 54,
+      "karma": 59,
       "avatar_url": "/avatars/Vega-100.png",
       "invited_by_user": "cadey"
     },
@@ -468,9 +522,9 @@
     "created_at": "2021-08-11T10:12:24.000-05:00",
     "title": "The git staging area, the term literally everyone agrees with",
     "url": "https://felipec.wordpress.com/2021/08/10/git-staging-area-rename/",
-    "score": 38,
+    "score": 39,
     "flags": 2,
-    "comment_count": 50,
+    "comment_count": 52,
     "description": "",
     "comments_url": "https://lobste.rs/s/z0y533/git_staging_area_term_literally_everyone",
     "submitter_user": {
@@ -479,7 +533,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81653,
+      "karma": 81657,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -616,63 +670,13 @@
       "is_admin": false,
       "about": "I am a researcher at Microsoft Research Cambridge and a Visiting Researcher at the University of Cambridge Computer Laboratory, working on hardware/software co-design for cloud security.  We recently released a [high-performance memory allocator](https://github.com/Microsoft/snmalloc), which was designed to be used with the [Verona language](https://github.com/Microsoft/Verona).  I remain actively involved in the [CHERI](https://chericpu.org) project, where I led the early language / compiler strand of the research.  \r\n\r\nI was on the FreeBSD Core Team for two terms, have been an LLVM developer since 2008, am the author of the GNUstep Objective-C runtime (libobjc2 and associated clang support), and am responsible for libcxxrt and the BSD-licensed device tree compiler.  ",
       "is_moderator": false,
-      "karma": 3517,
+      "karma": 3519,
       "avatar_url": "/avatars/david_chisnall-100.png",
       "invited_by_user": "Drakonis",
       "github_username": "davidchisnall"
     },
     "tags": [
       "testing"
-    ]
-  },
-  {
-    "short_id": "xxbrhq",
-    "short_id_url": "https://lobste.rs/s/xxbrhq",
-    "created_at": "2021-08-10T23:51:06.000-05:00",
-    "title": "Console Desktop Guide (2018)",
-    "url": "https://pspodcasting.net/dan/blog/2018/console_desktop.html",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xxbrhq/console_desktop_guide_2018",
-    "submitter_user": {
-      "username": "guiraldelli",
-      "created_at": "2018-05-31T14:17:01.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 356,
-      "avatar_url": "/avatars/guiraldelli-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "unix"
-    ]
-  },
-  {
-    "short_id": "tuyqix",
-    "short_id_url": "https://lobste.rs/s/tuyqix",
-    "created_at": "2021-08-10T23:50:56.000-05:00",
-    "title": "Tomb | Take care of the skeletons in your closet",
-    "url": "https://www.dyne.org/software/tomb/",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/tuyqix/tomb_take_care_skeletons_your_closet",
-    "submitter_user": {
-      "username": "binchickin",
-      "created_at": "2020-01-17T13:11:24.000-06:00",
-      "is_admin": false,
-      "about": "Python developer, self hosting hobbyist, tinkering is fun!",
-      "is_moderator": false,
-      "karma": 207,
-      "avatar_url": "/avatars/binchickin-100.png",
-      "invited_by_user": "kzisme"
-    },
-    "tags": [
-      "crypto"
     ]
   }
 ]
