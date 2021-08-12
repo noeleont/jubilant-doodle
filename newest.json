@@ -1,11 +1,65 @@
 [
   {
+    "short_id": "ow0vih",
+    "short_id_url": "https://lobste.rs/s/ow0vih",
+    "created_at": "2021-08-12T16:53:16.000-05:00",
+    "title": "Preview Features in .NET 6 - Generic Math",
+    "url": "https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ow0vih/preview_features_net_6_generic_math",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81669,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "dotnet"
+    ]
+  },
+  {
+    "short_id": "alfbeg",
+    "short_id_url": "https://lobste.rs/s/alfbeg",
+    "created_at": "2021-08-12T16:25:30.000-05:00",
+    "title": "Rust GUI Infrastructure",
+    "url": "http://www.cmyr.net/blog/rust-gui-infra.html",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/alfbeg/rust_gui_infrastructure",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2505,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "a11y",
+      "design",
+      "graphics",
+      "rust"
+    ]
+  },
+  {
     "short_id": "pw4onb",
     "short_id_url": "https://lobste.rs/s/pw4onb",
     "created_at": "2021-08-12T16:02:23.000-05:00",
     "title": "Should the browser use all available memory?",
     "url": "https://jmmv.dev/2021/08/using-all-memory-as-a-cache.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +70,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2595,
+      "karma": 2596,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -35,7 +89,7 @@
     "url": "https://breckyunits.com/user-methods.html",
     "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/rpq6yo/user_methods",
     "submitter_user": {
@@ -85,7 +139,7 @@
     "created_at": "2021-08-12T14:18:55.000-05:00",
     "title": "New features in Neovim 0.5",
     "url": "https://lwn.net/Articles/864712/",
-    "score": 9,
+    "score": 11,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -96,7 +150,7 @@
       "is_admin": false,
       "about": "Software developer",
       "is_moderator": false,
-      "karma": 87,
+      "karma": 89,
       "avatar_url": "/avatars/ayo-100.png",
       "invited_by_user": "markosaric",
       "github_username": "ayoisaiah"
@@ -111,7 +165,7 @@
     "created_at": "2021-08-12T12:58:26.000-05:00",
     "title": "Intel C/C++ compilers complete adoption of LLVM",
     "url": "https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html",
-    "score": 3,
+    "score": 4,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -122,7 +176,7 @@
       "is_admin": false,
       "about": "System and Network engineer.\r\n\r\nInterests: ANSI Art, DNS, NetBSD, OpenBSD, Security, and Text Mode.\r\n\r\nSite: https://www.cambus.net",
       "is_moderator": false,
-      "karma": 3357,
+      "karma": 3358,
       "avatar_url": "/avatars/fcambus-100.png",
       "invited_by_user": "gmcabrita",
       "github_username": "fcambus",
@@ -166,7 +220,7 @@
     "created_at": "2021-08-12T12:47:35.000-05:00",
     "title": "Prototypes: Object-Orientation, Functionally",
     "url": "http://fare.tunes.org/files/cs/poof.pdf",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Abstract:</p>\n<blockquote>\n<p>This paper elucidates the essence of Object-Oriented Programming (OOP), using a constructive approach: we identify a minimal basis of concepts with which to synthesize existing and potential object systems. We reduce them to constructions atop the pure untyped lambda calculus, thereby obtaining both denotational semantics and effective implementation. We start from the simplest recognizable model of prototype-based OOP, so simple it arguably does not even have “objects” as such. We build further models of increasing sophistication, reproducing a growing subset of features found in past object systems, including original combinations. We also examine how our approach can deal with issues like typing, modularity, classes, mutation. We use Scheme to illustrate our approach.</p>\n</blockquote>\n",
@@ -177,7 +231,7 @@
       "is_admin": false,
       "about": "I'm an academic in artificial intelligence. My research has mostly been on AI & games, both games as a testbed for AI and AI for game design. I'm also interested in other kinds of human/machine co-creation, computationally modeling design spaces, and history of technology. Currently an academic in Washington, D.C. (previously: Cornwall, Copenhagen, Santa Cruz, Atlanta, ...).\r\n\r\nWebsite: [kmjn.org](http://www.kmjn.org/)",
       "is_moderator": false,
-      "karma": 6299,
+      "karma": 6300,
       "avatar_url": "/avatars/mjn-100.png",
       "invited_by_user": "itistoday",
       "twitter_username": "mm_jj_nn"
@@ -194,7 +248,7 @@
     "created_at": "2021-08-12T11:00:30.000-05:00",
     "title": "Procedurally generated fish drawings in javascript",
     "url": "https://fishdraw.glitch.me/",
-    "score": 9,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -205,7 +259,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4584,
+      "karma": 4586,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -222,9 +276,9 @@
     "created_at": "2021-08-12T10:42:33.000-05:00",
     "title": "Breaking the web forward",
     "url": "https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html",
-    "score": 29,
+    "score": 32,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/sznhu7/breaking_web_forward",
     "submitter_user": {
@@ -233,7 +287,7 @@
       "is_admin": false,
       "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
       "is_moderator": false,
-      "karma": 1420,
+      "karma": 1423,
       "avatar_url": "/avatars/fkooman-100.png",
       "invited_by_user": "untitaker"
     },
@@ -248,9 +302,9 @@
     "created_at": "2021-08-12T10:36:21.000-05:00",
     "title": "A future for SQL on the web",
     "url": "https://jlongster.com/future-sql-web",
-    "score": 18,
+    "score": 20,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/1ylnel/future_for_sql_on_web",
     "submitter_user": {
@@ -259,7 +313,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 105,
+      "karma": 107,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant",
@@ -288,7 +342,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1053,
+      "karma": 1054,
       "avatar_url": "/avatars/hauleth-100.png",
       "invited_by_user": "skrzyp",
       "github_username": "hauleth",
@@ -305,7 +359,7 @@
     "created_at": "2021-08-12T09:48:28.000-05:00",
     "title": "C programming language extension: Cedro pre-processor",
     "url": "https://sentido-labs.com/en/library/cedro/202106171400/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 16,
     "description": "",
@@ -316,7 +370,7 @@
       "is_admin": false,
       "about": "Personal:\r\n\r\n  http://matracas.org\r\n\r\nWork:\r\n\r\n  http://sentido-labs.com",
       "is_moderator": false,
-      "karma": 116,
+      "karma": 117,
       "avatar_url": "/avatars/AlbertoGP-100.png",
       "invited_by_user": "phlo"
     },
@@ -359,7 +413,7 @@
     "created_at": "2021-08-12T08:06:23.000-05:00",
     "title": "Essence",
     "url": "https://essence.handmade.network/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -370,7 +424,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 919,
+      "karma": 920,
       "avatar_url": "/avatars/reezer-100.png",
       "invited_by_user": "groovemonkey"
     },
@@ -409,7 +463,7 @@
     "created_at": "2021-08-12T06:46:16.000-05:00",
     "title": "FreeBSD Experiment Rethinks The OS Install",
     "url": "https://hackaday.com/2021/08/10/freebsd-experiment-rethinks-the-os-install/",
-    "score": 18,
+    "score": 20,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -420,7 +474,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 157,
+      "karma": 159,
       "avatar_url": "/avatars/0mp-100.png",
       "invited_by_user": "sevan"
     },
@@ -536,7 +590,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2995,
+      "karma": 2997,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -551,9 +605,9 @@
     "created_at": "2021-08-11T22:51:26.000-05:00",
     "title": "GitHub’s Engineering Team has moved to Codespaces",
     "url": "https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 18,
     "description": "",
     "comments_url": "https://lobste.rs/s/ua9nzd/github_s_engineering_team_has_moved",
     "submitter_user": {
@@ -562,7 +616,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2995,
+      "karma": 2997,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -604,7 +658,7 @@
     "created_at": "2021-08-11T21:01:48.000-05:00",
     "title": "Kind: A modern proof language",
     "url": "https://github.com/uwu-tech/Kind",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -615,73 +669,13 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 33,
+      "karma": 34,
       "avatar_url": "/avatars/rjdellecese-100.png",
       "invited_by_user": "bkase"
     },
     "tags": [
       "formalmethods",
       "plt"
-    ]
-  },
-  {
-    "short_id": "nliivc",
-    "short_id_url": "https://lobste.rs/s/nliivc",
-    "created_at": "2021-08-11T16:58:46.000-05:00",
-    "title": "How AUTOSLAB Changes the Memory Unsafety Game",
-    "url": "https://grsecurity.net/how_autoslab_changes_the_memory_unsafety_game",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nliivc/how_autoslab_changes_memory_unsafety",
-    "submitter_user": {
-      "username": "fro",
-      "created_at": "2016-04-13T15:27:31.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1346,
-      "avatar_url": "/avatars/fro-100.png",
-      "invited_by_user": "xero"
-    },
-    "tags": [
-      "linux",
-      "security"
-    ]
-  },
-  {
-    "short_id": "r9pvkn",
-    "short_id_url": "https://lobste.rs/s/r9pvkn",
-    "created_at": "2021-08-11T16:18:56.000-05:00",
-    "title": "Paranoid NixOS on AWS",
-    "url": "https://christine.website/blog/paranoid-nixos-aws-2021-08-11",
-    "score": 23,
-    "flags": 1,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/r9pvkn/paranoid_nixos_on_aws",
-    "submitter_user": {
-      "username": "cadey",
-      "created_at": "2019-03-08T17:23:38.000-06:00",
-      "is_admin": false,
-      "about": "kastermakfa\r\n\r\nko kanro",
-      "is_moderator": false,
-      "karma": 7754,
-      "avatar_url": "/avatars/cadey-100.png",
-      "invited_by_user": "apg",
-      "github_username": "Xe",
-      "twitter_username": "theprincessxena",
-      "keybase_signatures": [
-        {
-          "kb_username": "xena",
-          "sig_hash": "a19dbebc33a79273556666968b3ec01d986d34e4a53cc9e0ece695b9bec4cd6c0f"
-        }
-      ]
-    },
-    "tags": [
-      "devops",
-      "linux"
     ]
   }
 ]
