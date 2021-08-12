@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "xlekpr",
+    "short_id_url": "https://lobste.rs/s/xlekpr",
+    "created_at": "2021-08-11T20:06:17.000-05:00",
+    "title": "mkws - How to add a navigation menu",
+    "url": "https://mkws.sh/p/How%20to%20add%20a%20navigation%20menu.html",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xlekpr/mkws_how_add_navigation_menu",
+    "submitter_user": {
+      "username": "adriangrigore",
+      "created_at": "2019-06-23T05:34:22.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 138,
+      "avatar_url": "/avatars/adriangrigore-100.png",
+      "invited_by_user": "romanzolotarev"
+    },
+    "tags": [
+      "unix",
+      "web"
+    ]
+  },
+  {
     "short_id": "nliivc",
     "short_id_url": "https://lobste.rs/s/nliivc",
     "created_at": "2021-08-11T16:58:46.000-05:00",
@@ -31,7 +57,7 @@
     "created_at": "2021-08-11T16:18:56.000-05:00",
     "title": "Paranoid NixOS on AWS",
     "url": "https://christine.website/blog/paranoid-nixos-aws-2021-08-11",
-    "score": 6,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "kastermakfa\r\n\r\nko kanro",
       "is_moderator": false,
-      "karma": 7734,
+      "karma": 7737,
       "avatar_url": "/avatars/cadey-100.png",
       "invited_by_user": "apg",
       "github_username": "Xe",
@@ -148,9 +174,9 @@
     "created_at": "2021-08-11T13:20:59.000-05:00",
     "title": "Low Bandwidth Images",
     "url": "https://opguides.info/posts/lowbandwidthimages/",
-    "score": 14,
+    "score": 17,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/oexwrw/low_bandwidth_images",
     "submitter_user": {
@@ -159,7 +185,7 @@
       "is_admin": false,
       "about": "I program guitars and play computers",
       "is_moderator": false,
-      "karma": 24,
+      "karma": 27,
       "avatar_url": "/avatars/Vega-100.png",
       "invited_by_user": "cadey"
     },
@@ -200,9 +226,9 @@
     "created_at": "2021-08-11T10:12:24.000-05:00",
     "title": "The git staging area, the term literally everyone agrees with",
     "url": "https://felipec.wordpress.com/2021/08/10/git-staging-area-rename/",
-    "score": 29,
-    "flags": 1,
-    "comment_count": 26,
+    "score": 28,
+    "flags": 2,
+    "comment_count": 28,
     "description": "",
     "comments_url": "https://lobste.rs/s/z0y533/git_staging_area_term_literally_everyone",
     "submitter_user": {
@@ -211,7 +237,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81619,
+      "karma": 81621,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -284,7 +310,7 @@
     "created_at": "2021-08-11T09:54:33.000-05:00",
     "title": "Open-sourcing a more precise time appliance",
     "url": "https://engineering.fb.com/2021/08/11/open-source/time-appliance/",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -295,7 +321,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2015,
+      "karma": 2017,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -311,7 +337,7 @@
     "created_at": "2021-08-11T04:22:57.000-05:00",
     "title": "Bloom Filters - Much, much more than a space efficient hashmap",
     "url": "https://boyter.org/posts/bloom-filter/",
-    "score": 25,
+    "score": 26,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -322,7 +348,7 @@
       "is_admin": false,
       "about": "[klingt.net](https://klingt.net)",
       "is_moderator": false,
-      "karma": 1385,
+      "karma": 1386,
       "avatar_url": "/avatars/klingtnet-100.png",
       "invited_by_user": "ktsl",
       "github_username": "klingtnet"
@@ -348,7 +374,7 @@
       "is_admin": false,
       "about": "I am a researcher at Microsoft Research Cambridge and a Visiting Researcher at the University of Cambridge Computer Laboratory, working on hardware/software co-design for cloud security.  We recently released a [high-performance memory allocator](https://github.com/Microsoft/snmalloc), which was designed to be used with the [Verona language](https://github.com/Microsoft/Verona).  I remain actively involved in the [CHERI](https://chericpu.org) project, where I led the early language / compiler strand of the research.  \r\n\r\nI was on the FreeBSD Core Team for two terms, have been an LLVM developer since 2008, am the author of the GNUstep Objective-C runtime (libobjc2 and associated clang support), and am responsible for libcxxrt and the BSD-licensed device tree compiler.  ",
       "is_moderator": false,
-      "karma": 3503,
+      "karma": 3504,
       "avatar_url": "/avatars/david_chisnall-100.png",
       "invited_by_user": "Drakonis",
       "github_username": "davidchisnall"
@@ -424,7 +450,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20033,
+      "karma": 20034,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -451,7 +477,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81619,
+      "karma": 81621,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -538,7 +564,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81619,
+      "karma": 81621,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -565,7 +591,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 269,
+      "karma": 270,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -662,32 +688,6 @@
     "tags": [
       "graphics",
       "plt"
-    ]
-  },
-  {
-    "short_id": "1kjtma",
-    "short_id_url": "https://lobste.rs/s/1kjtma",
-    "created_at": "2021-08-10T09:29:29.000-05:00",
-    "title": "Privacy and speed with Perl’s Object::Pad",
-    "url": "https://phoenixtrap.com/2021/08/10/privacy-and-speed-with-perls-objectpad/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/1kjtma/privacy_speed_with_perl_s_object_pad",
-    "submitter_user": {
-      "username": "mjgardner",
-      "created_at": "2021-07-21T09:27:46.000-05:00",
-      "is_admin": false,
-      "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
-      "is_moderator": false,
-      "karma": 19,
-      "avatar_url": "/avatars/mjgardner-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "performance",
-      "perl"
     ]
   }
 ]
