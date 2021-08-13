@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "ri3vhv",
+    "short_id_url": "https://lobste.rs/s/ri3vhv",
+    "created_at": "2021-08-12T21:24:57.000-05:00",
+    "title": "Actually secure boot on Fedora",
+    "url": "https://blog.nil.im/?7a",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ri3vhv/actually_secure_boot_on_fedora",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81671,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "linux",
+      "security"
+    ]
+  },
+  {
     "short_id": "j15tds",
     "short_id_url": "https://lobste.rs/s/j15tds",
     "created_at": "2021-08-12T20:49:46.000-05:00",
@@ -119,7 +146,7 @@
     "created_at": "2021-08-12T16:25:30.000-05:00",
     "title": "Rust GUI Infrastructure",
     "url": "http://www.cmyr.net/blog/rust-gui-infra.html",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -130,7 +157,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2508,
+      "karma": 2510,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -227,7 +254,7 @@
     "created_at": "2021-08-12T14:18:55.000-05:00",
     "title": "New features in Neovim 0.5",
     "url": "https://lwn.net/Articles/864712/",
-    "score": 13,
+    "score": 14,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -238,7 +265,7 @@
       "is_admin": false,
       "about": "Software developer",
       "is_moderator": false,
-      "karma": 91,
+      "karma": 92,
       "avatar_url": "/avatars/ayo-100.png",
       "invited_by_user": "markosaric",
       "github_username": "ayoisaiah"
@@ -336,7 +363,7 @@
     "created_at": "2021-08-12T11:00:30.000-05:00",
     "title": "Procedurally generated fish drawings in javascript",
     "url": "https://fishdraw.glitch.me/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -347,7 +374,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4589,
+      "karma": 4590,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -364,9 +391,9 @@
     "created_at": "2021-08-12T10:42:33.000-05:00",
     "title": "Breaking the web forward",
     "url": "https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html",
-    "score": 38,
+    "score": 44,
     "flags": 0,
-    "comment_count": 21,
+    "comment_count": 25,
     "description": "",
     "comments_url": "https://lobste.rs/s/sznhu7/breaking_web_forward",
     "submitter_user": {
@@ -375,7 +402,7 @@
       "is_admin": false,
       "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
       "is_moderator": false,
-      "karma": 1429,
+      "karma": 1435,
       "avatar_url": "/avatars/fkooman-100.png",
       "invited_by_user": "untitaker"
     },
@@ -390,7 +417,7 @@
     "created_at": "2021-08-12T10:36:21.000-05:00",
     "title": "A future for SQL on the web",
     "url": "https://jlongster.com/future-sql-web",
-    "score": 22,
+    "score": 24,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -401,7 +428,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 109,
+      "karma": 111,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant",
@@ -447,9 +474,9 @@
     "created_at": "2021-08-12T09:48:28.000-05:00",
     "title": "C programming language extension: Cedro pre-processor",
     "url": "https://sentido-labs.com/en/library/cedro/202106171400/",
-    "score": 13,
+    "score": 15,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/18axic/c_programming_language_extension_cedro",
     "submitter_user": {
@@ -458,7 +485,7 @@
       "is_admin": false,
       "about": "Personal:\r\n\r\n  http://matracas.org\r\n\r\nWork:\r\n\r\n  http://sentido-labs.com",
       "is_moderator": false,
-      "karma": 117,
+      "karma": 119,
       "avatar_url": "/avatars/AlbertoGP-100.png",
       "invited_by_user": "phlo"
     },
@@ -475,7 +502,7 @@
     "created_at": "2021-08-12T09:42:50.000-05:00",
     "title": "C3 programming language",
     "url": "http://www.c3-lang.org/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -486,7 +513,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 358,
+      "karma": 359,
       "avatar_url": "/avatars/guiraldelli-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -551,7 +578,7 @@
     "created_at": "2021-08-12T06:46:16.000-05:00",
     "title": "FreeBSD Experiment Rethinks The OS Install",
     "url": "https://hackaday.com/2021/08/10/freebsd-experiment-rethinks-the-os-install/",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -562,7 +589,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 160,
+      "karma": 161,
       "avatar_url": "/avatars/0mp-100.png",
       "invited_by_user": "sevan"
     },
@@ -576,7 +603,7 @@
     "created_at": "2021-08-12T06:38:36.000-05:00",
     "title": "Session switching with the tmux menu",
     "url": "https://qmacro.org/autodidactics/2021/08/12/session-switching-with-the-tmux-menu/",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -587,7 +614,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 249,
+      "karma": 250,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -659,32 +686,6 @@
     },
     "tags": [
       "web"
-    ]
-  },
-  {
-    "short_id": "z1gtiw",
-    "short_id_url": "https://lobste.rs/s/z1gtiw",
-    "created_at": "2021-08-11T23:14:31.000-05:00",
-    "title": "A tour of Twist",
-    "url": "https://ryanbigg.com/2021/08/a-tour-of-twist",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/z1gtiw/tour_twist",
-    "submitter_user": {
-      "username": "soulcutter",
-      "created_at": "2014-02-18T10:29:29.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 2997,
-      "avatar_url": "/avatars/soulcutter-100.png",
-      "invited_by_user": "gabriel",
-      "twitter_username": "soulcutter"
-    },
-    "tags": [
-      "ruby"
     ]
   }
 ]
