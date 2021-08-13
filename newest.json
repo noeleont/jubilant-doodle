@@ -1,5 +1,86 @@
 [
   {
+    "short_id": "qw0yja",
+    "short_id_url": "https://lobste.rs/s/qw0yja",
+    "created_at": "2021-08-13T13:42:25.000-05:00",
+    "title": "Atkinson Dithering (2020)",
+    "url": "https://beyondloom.com/blog/dither.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qw0yja/atkinson_dithering_2020",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2529,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "design",
+      "graphics",
+      "mac"
+    ]
+  },
+  {
+    "short_id": "whfvne",
+    "short_id_url": "https://lobste.rs/s/whfvne",
+    "created_at": "2021-08-13T13:41:16.000-05:00",
+    "title": "Your First THINK C Program (2020)",
+    "url": "https://beyondloom.com/blog/thinkc.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/whfvne/your_first_think_c_program_2020",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2529,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "c",
+      "historical",
+      "mac"
+    ]
+  },
+  {
+    "short_id": "rgurzh",
+    "short_id_url": "https://lobste.rs/s/rgurzh",
+    "created_at": "2021-08-13T13:24:16.000-05:00",
+    "title": "The Michael Jackson Design Technique: A study of the theory with applications (2009)",
+    "url": "https://groups.csail.mit.edu/sdg/pubs/2009/hoare-jsp-3-29-09.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>This paper reproduces a report written by Hoare in 1977, in which he explains the fundamental ideas of Jackson’s programming method, JSP. The notions that Hoare uses for this purpose – program traces, selective traces, and combination of selective programs – appeared in the following years in the conceptual foundation of his process algebra, CSP. Hoare shows that the key step in the JSP method, in which multiple stream structures are merged to form a single program structure, can be viewed in two phases. First, each stream – represented as a regular expression – is transformed by applying simple algebraic equalities into an equivalent structure, matching the structures obtained from the other streams. Second, these structures are merged. The paper also includes a wider discussion about the scope and nature of JSP. A new introduction provides some context, and presents in full the examples that Hoare alludes to in his report.</p>\n",
+    "comments_url": "https://lobste.rs/s/rgurzh/michael_jackson_design_technique_study",
+    "submitter_user": {
+      "username": "dbremner",
+      "created_at": "2012-09-06T19:01:18.000-05:00",
+      "is_admin": false,
+      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
+      "is_moderator": false,
+      "karma": 2024,
+      "avatar_url": "/avatars/dbremner-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "dbremner"
+    },
+    "tags": [
+      "pdf",
+      "practices"
+    ]
+  },
+  {
     "short_id": "x1prym",
     "short_id_url": "https://lobste.rs/s/x1prym",
     "created_at": "2021-08-13T13:16:28.000-05:00",
@@ -32,7 +113,7 @@
     "created_at": "2021-08-13T12:43:23.000-05:00",
     "title": "Writing Mobile apps in ClojureScript in 2021",
     "url": "https://www.juxt.pro/blog/clojurescript-native-apps-2021",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +124,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 113,
+      "karma": 114,
       "avatar_url": "/avatars/deobald-100.png",
       "invited_by_user": "rdivyanshu",
       "github_username": "deobald",
@@ -92,9 +173,9 @@
     "created_at": "2021-08-13T08:53:30.000-05:00",
     "title": "What are you doing this weekend?",
     "url": "",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 14,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -103,7 +184,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6417,
+      "karma": 6418,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -122,7 +203,7 @@
     "url": "https://stratus3d.com/blog/2021/08/11/the-meaning-of-dbg-function-names",
     "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/gn6gnx/meaning_dbg_function_names",
     "submitter_user": {
@@ -145,7 +226,7 @@
     "created_at": "2021-08-13T05:24:10.000-05:00",
     "title": "PackagingCon 2021 - a conference for package manager developers and packagers",
     "url": "https://packaging-con.org/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -156,7 +237,7 @@
       "is_admin": false,
       "about": "lukas on #lobsters",
       "is_moderator": false,
-      "karma": 625,
+      "karma": 626,
       "avatar_url": "/avatars/lukas-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -197,9 +278,9 @@
     "created_at": "2021-08-13T02:28:41.000-05:00",
     "title": "Why Observability Requires a Distributed Column Store",
     "url": "https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/",
-    "score": 10,
+    "score": 11,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/xdqyi5/why_observability_requires_distributed",
     "submitter_user": {
@@ -208,7 +289,7 @@
       "is_admin": false,
       "about": "I am a software engineer working at Heroku.",
       "is_moderator": false,
-      "karma": 810,
+      "karma": 811,
       "avatar_url": "/avatars/dmathieu-100.png",
       "invited_by_user": "BenoitTigeot",
       "github_username": "dmathieu"
@@ -223,9 +304,9 @@
     "created_at": "2021-08-13T02:20:09.000-05:00",
     "title": "That One Cool Reader Trick",
     "url": "https://blog.cofree.coffee/2021-08-13-that-one-cool-reader-trick/",
-    "score": 7,
+    "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/djkdet/one_cool_reader_trick",
     "submitter_user": {
@@ -234,7 +315,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 97,
+      "karma": 99,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -274,7 +355,7 @@
     "created_at": "2021-08-12T23:52:21.000-05:00",
     "title": "TLDs -- Putting the 'Fun' in the top of the DNS",
     "url": "https://www.netmeister.org/blog/tlds.html",
-    "score": 12,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -285,7 +366,7 @@
       "is_admin": false,
       "about": "A Linux user for more than a decade, and programming for just as long in a large variety of lanuages.\r\n\r\nPrivacy, numbers and automations make my world go 'round. Find out more at [my website](https://evaryont.me).",
       "is_moderator": false,
-      "karma": 1466,
+      "karma": 1468,
       "avatar_url": "/avatars/nogweii-100.png",
       "invited_by_user": "vjoel",
       "github_username": "nogweii",
@@ -328,7 +409,7 @@
     "created_at": "2021-08-12T20:49:46.000-05:00",
     "title": "A lisp implementation and Rosetta stone in Java, Go, C#, TypeScript and Python",
     "url": "https://github.com/eatonphil/lisp-rosetta-stone",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -339,7 +420,7 @@
       "is_admin": false,
       "about": "Open for something interesting. Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1206,
+      "karma": 1207,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -453,7 +534,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2528,
+      "karma": 2529,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -550,7 +631,7 @@
     "created_at": "2021-08-12T14:18:55.000-05:00",
     "title": "New features in Neovim 0.5",
     "url": "https://lwn.net/Articles/864712/",
-    "score": 32,
+    "score": 34,
     "flags": 1,
     "comment_count": 3,
     "description": "",
@@ -561,7 +642,7 @@
       "is_admin": false,
       "about": "Software developer",
       "is_moderator": false,
-      "karma": 110,
+      "karma": 112,
       "avatar_url": "/avatars/ayo-100.png",
       "invited_by_user": "markosaric",
       "github_username": "ayoisaiah"
@@ -597,88 +678,6 @@
       "c",
       "c++",
       "compilers"
-    ]
-  },
-  {
-    "short_id": "sbujpq",
-    "short_id_url": "https://lobste.rs/s/sbujpq",
-    "created_at": "2021-08-12T12:52:38.000-05:00",
-    "title": "EC2 boot time benchmarking",
-    "url": "https://www.daemonology.net/blog/2021-08-12-EC2-boot-time-benchmarking.html",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sbujpq/ec2_boot_time_benchmarking",
-    "submitter_user": {
-      "username": "rafael",
-      "created_at": "2021-04-23T14:01:41.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 153,
-      "avatar_url": "/avatars/rafael-100.png",
-      "invited_by_user": "technetium"
-    },
-    "tags": [
-      "linux",
-      "unix"
-    ]
-  },
-  {
-    "short_id": "gzsh15",
-    "short_id_url": "https://lobste.rs/s/gzsh15",
-    "created_at": "2021-08-12T12:47:35.000-05:00",
-    "title": "Prototypes: Object-Orientation, Functionally",
-    "url": "http://fare.tunes.org/files/cs/poof.pdf",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p>Abstract:</p>\n<blockquote>\n<p>This paper elucidates the essence of Object-Oriented Programming (OOP), using a constructive approach: we identify a minimal basis of concepts with which to synthesize existing and potential object systems. We reduce them to constructions atop the pure untyped lambda calculus, thereby obtaining both denotational semantics and effective implementation. We start from the simplest recognizable model of prototype-based OOP, so simple it arguably does not even have “objects” as such. We build further models of increasing sophistication, reproducing a growing subset of features found in past object systems, including original combinations. We also examine how our approach can deal with issues like typing, modularity, classes, mutation. We use Scheme to illustrate our approach.</p>\n</blockquote>\n",
-    "comments_url": "https://lobste.rs/s/gzsh15/prototypes_object_orientation",
-    "submitter_user": {
-      "username": "mjn",
-      "created_at": "2015-02-11T16:45:32.000-06:00",
-      "is_admin": false,
-      "about": "I'm an academic in artificial intelligence. My research has mostly been on AI & games, both games as a testbed for AI and AI for game design. I'm also interested in other kinds of human/machine co-creation, computationally modeling design spaces, and history of technology. Currently an academic in Washington, D.C. (previously: Cornwall, Copenhagen, Santa Cruz, Atlanta, ...).\r\n\r\nWebsite: [kmjn.org](http://www.kmjn.org/)",
-      "is_moderator": false,
-      "karma": 6301,
-      "avatar_url": "/avatars/mjn-100.png",
-      "invited_by_user": "itistoday",
-      "twitter_username": "mm_jj_nn"
-    },
-    "tags": [
-      "lisp",
-      "pdf",
-      "plt"
-    ]
-  },
-  {
-    "short_id": "tiymit",
-    "short_id_url": "https://lobste.rs/s/tiymit",
-    "created_at": "2021-08-12T11:00:30.000-05:00",
-    "title": "Procedurally generated fish drawings in javascript",
-    "url": "https://fishdraw.glitch.me/",
-    "score": 27,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/tiymit/procedurally_generated_fish_drawings",
-    "submitter_user": {
-      "username": "unbalancedparentheses",
-      "created_at": "2014-06-21T15:40:39.000-05:00",
-      "is_admin": false,
-      "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
-      "is_moderator": false,
-      "karma": 4602,
-      "avatar_url": "/avatars/unbalancedparentheses-100.png",
-      "invited_by_user": "talboito",
-      "github_username": "unbalancedparentheses",
-      "twitter_username": "unbalancedparen"
-    },
-    "tags": [
-      "graphics",
-      "javascript"
     ]
   }
 ]
