@@ -1,11 +1,62 @@
 [
   {
+    "short_id": "eh8cyk",
+    "short_id_url": "https://lobste.rs/s/eh8cyk",
+    "created_at": "2021-08-13T16:03:54.000-05:00",
+    "title": "Thunderbird 91 Available Now",
+    "url": "https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/eh8cyk/thunderbird_91_available_now",
+    "submitter_user": {
+      "username": "lim",
+      "created_at": "2020-10-14T14:05:51.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 488,
+      "avatar_url": "/avatars/lim-100.png",
+      "invited_by_user": "orbifx"
+    },
+    "tags": [
+      "email",
+      "release"
+    ]
+  },
+  {
+    "short_id": "vfz8sk",
+    "short_id_url": "https://lobste.rs/s/vfz8sk",
+    "created_at": "2021-08-13T16:00:14.000-05:00",
+    "title": "Reverse Engineering The Stream Deck",
+    "url": "https://den.dev/blog/reverse-engineering-stream-deck/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/vfz8sk/reverse_engineering_stream_deck",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11679,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
     "short_id": "qw0yja",
     "short_id_url": "https://lobste.rs/s/qw0yja",
     "created_at": "2021-08-13T13:42:25.000-05:00",
     "title": "Atkinson Dithering (2020)",
     "url": "https://beyondloom.com/blog/dither.html",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +67,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2532,
+      "karma": 2538,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -32,7 +83,7 @@
     "created_at": "2021-08-13T13:41:16.000-05:00",
     "title": "Your First THINK C Program (2020)",
     "url": "https://beyondloom.com/blog/thinkc.html",
-    "score": 4,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +94,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2532,
+      "karma": 2538,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -59,9 +110,9 @@
     "created_at": "2021-08-13T13:24:16.000-05:00",
     "title": "The Michael Jackson Design Technique: A study of the theory with applications (2009)",
     "url": "https://groups.csail.mit.edu/sdg/pubs/2009/hoare-jsp-3-29-09.pdf",
-    "score": 1,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "<p>This paper reproduces a report written by Hoare in 1977, in which he explains the fundamental ideas of Jackson’s programming method, JSP. The notions that Hoare uses for this purpose – program traces, selective traces, and combination of selective programs – appeared in the following years in the conceptual foundation of his process algebra, CSP. Hoare shows that the key step in the JSP method, in which multiple stream structures are merged to form a single program structure, can be viewed in two phases. First, each stream – represented as a regular expression – is transformed by applying simple algebraic equalities into an equivalent structure, matching the structures obtained from the other streams. Second, these structures are merged. The paper also includes a wider discussion about the scope and nature of JSP. A new introduction provides some context, and presents in full the examples that Hoare alludes to in his report.</p>\n",
     "comments_url": "https://lobste.rs/s/rgurzh/michael_jackson_design_technique_study",
     "submitter_user": {
@@ -70,7 +121,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2024,
+      "karma": 2027,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -86,7 +137,7 @@
     "created_at": "2021-08-13T13:16:28.000-05:00",
     "title": "Supporting half-precision floats is really annoying",
     "url": "https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html",
-    "score": 1,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -97,7 +148,7 @@
       "is_admin": false,
       "about": "I'm an academic in artificial intelligence. My research has mostly been on AI & games, both games as a testbed for AI and AI for game design. I'm also interested in other kinds of human/machine co-creation, computationally modeling design spaces, and history of technology. Currently an academic in Washington, D.C. (previously: Cornwall, Copenhagen, Santa Cruz, Atlanta, ...).\r\n\r\nWebsite: [kmjn.org](http://www.kmjn.org/)",
       "is_moderator": false,
-      "karma": 6301,
+      "karma": 6306,
       "avatar_url": "/avatars/mjn-100.png",
       "invited_by_user": "itistoday",
       "twitter_username": "mm_jj_nn"
@@ -113,7 +164,7 @@
     "created_at": "2021-08-13T12:43:23.000-05:00",
     "title": "Writing Mobile apps in ClojureScript in 2021",
     "url": "https://www.juxt.pro/blog/clojurescript-native-apps-2021",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -124,7 +175,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 115,
+      "karma": 117,
       "avatar_url": "/avatars/deobald-100.png",
       "invited_by_user": "rdivyanshu",
       "github_username": "deobald",
@@ -175,7 +226,7 @@
     "url": "",
     "score": 7,
     "flags": 0,
-    "comment_count": 19,
+    "comment_count": 21,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -226,9 +277,9 @@
     "created_at": "2021-08-13T05:24:10.000-05:00",
     "title": "PackagingCon 2021 - a conference for package manager developers and packagers",
     "url": "https://packaging-con.org/",
-    "score": 18,
+    "score": 20,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/hwhyzd/packagingcon_2021_conference_for",
     "submitter_user": {
@@ -237,7 +288,7 @@
       "is_admin": false,
       "about": "lukas on #lobsters",
       "is_moderator": false,
-      "karma": 630,
+      "karma": 632,
       "avatar_url": "/avatars/lukas-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -304,9 +355,9 @@
     "created_at": "2021-08-13T02:20:09.000-05:00",
     "title": "That One Cool Reader Trick",
     "url": "https://blog.cofree.coffee/2021-08-13-that-one-cool-reader-trick/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/djkdet/one_cool_reader_trick",
     "submitter_user": {
@@ -315,7 +366,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 99,
+      "karma": 100,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -330,7 +381,7 @@
     "created_at": "2021-08-13T00:07:01.000-05:00",
     "title": "C++ exceptions under the hood",
     "url": "https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -341,7 +392,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11677,
+      "karma": 11679,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -355,7 +406,7 @@
     "created_at": "2021-08-12T23:52:21.000-05:00",
     "title": "TLDs -- Putting the 'Fun' in the top of the DNS",
     "url": "https://www.netmeister.org/blog/tlds.html",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -366,7 +417,7 @@
       "is_admin": false,
       "about": "A Linux user for more than a decade, and programming for just as long in a large variety of lanuages.\r\n\r\nPrivacy, numbers and automations make my world go 'round. Find out more at [my website](https://evaryont.me).",
       "is_moderator": false,
-      "karma": 1469,
+      "karma": 1471,
       "avatar_url": "/avatars/nogweii-100.png",
       "invited_by_user": "vjoel",
       "github_username": "nogweii",
@@ -393,7 +444,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81687,
+      "karma": 81689,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -453,7 +504,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2024,
+      "karma": 2027,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -508,7 +559,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81687,
+      "karma": 81689,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -525,7 +576,7 @@
     "url": "http://www.cmyr.net/blog/rust-gui-infra.html",
     "score": 27,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/alfbeg/rust_gui_infrastructure",
     "submitter_user": {
@@ -534,7 +585,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2532,
+      "karma": 2538,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -551,9 +602,9 @@
     "created_at": "2021-08-12T16:02:23.000-05:00",
     "title": "Should the browser use all available memory?",
     "url": "https://jmmv.dev/2021/08/using-all-memory-as-a-cache.html",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/pw4onb/should_browser_use_all_available_memory",
     "submitter_user": {
@@ -562,7 +613,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2606,
+      "karma": 2607,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -606,7 +657,7 @@
     "created_at": "2021-08-12T14:43:17.000-05:00",
     "title": "About sizes",
     "url": "https://belaycpp.com/2021/08/12/about-sizes/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -617,67 +668,12 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11677,
+      "karma": 11679,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
     "tags": [
       "c++"
-    ]
-  },
-  {
-    "short_id": "1tzsni",
-    "short_id_url": "https://lobste.rs/s/1tzsni",
-    "created_at": "2021-08-12T14:18:55.000-05:00",
-    "title": "New features in Neovim 0.5",
-    "url": "https://lwn.net/Articles/864712/",
-    "score": 35,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/1tzsni/new_features_neovim_0_5",
-    "submitter_user": {
-      "username": "ayo",
-      "created_at": "2020-07-15T11:09:39.000-05:00",
-      "is_admin": false,
-      "about": "Software developer",
-      "is_moderator": false,
-      "karma": 113,
-      "avatar_url": "/avatars/ayo-100.png",
-      "invited_by_user": "markosaric",
-      "github_username": "ayoisaiah"
-    },
-    "tags": [
-      "vim"
-    ]
-  },
-  {
-    "short_id": "wqrmm4",
-    "short_id_url": "https://lobste.rs/s/wqrmm4",
-    "created_at": "2021-08-12T12:58:26.000-05:00",
-    "title": "Intel C/C++ compilers complete adoption of LLVM",
-    "url": "https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html",
-    "score": 9,
-    "flags": 1,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wqrmm4/intel_c_c_compilers_complete_adoption",
-    "submitter_user": {
-      "username": "fcambus",
-      "created_at": "2012-09-10T08:43:10.000-05:00",
-      "is_admin": false,
-      "about": "System and Network engineer.\r\n\r\nInterests: ANSI Art, DNS, NetBSD, OpenBSD, Security, and Text Mode.\r\n\r\nSite: https://www.cambus.net",
-      "is_moderator": false,
-      "karma": 3363,
-      "avatar_url": "/avatars/fcambus-100.png",
-      "invited_by_user": "gmcabrita",
-      "github_username": "fcambus",
-      "twitter_username": "fcambus"
-    },
-    "tags": [
-      "c",
-      "c++",
-      "compilers"
     ]
   }
 ]
