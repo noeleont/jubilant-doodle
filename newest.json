@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "4yqx20",
+    "short_id_url": "https://lobste.rs/s/4yqx20",
+    "created_at": "2021-08-13T00:07:01.000-05:00",
+    "title": "C++ exceptions under the hood",
+    "url": "https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/4yqx20/c_exceptions_under_hood",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11671,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++"
+    ]
+  },
+  {
+    "short_id": "0ihysv",
+    "short_id_url": "https://lobste.rs/s/0ihysv",
+    "created_at": "2021-08-12T23:52:21.000-05:00",
+    "title": "TLDs -- Putting the 'Fun' in the top of the DNS",
+    "url": "https://www.netmeister.org/blog/tlds.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/0ihysv/tlds_putting_fun_top_dns",
+    "submitter_user": {
+      "username": "nogweii",
+      "created_at": "2014-03-31T19:38:18.000-05:00",
+      "is_admin": false,
+      "about": "A Linux user for more than a decade, and programming for just as long in a large variety of lanuages.\r\n\r\nPrivacy, numbers and automations make my world go 'round. Find out more at [my website](https://evaryont.me).",
+      "is_moderator": false,
+      "karma": 1455,
+      "avatar_url": "/avatars/nogweii-100.png",
+      "invited_by_user": "vjoel",
+      "github_username": "nogweii",
+      "twitter_username": "nogweii"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
     "short_id": "ri3vhv",
     "short_id_url": "https://lobste.rs/s/ri3vhv",
     "created_at": "2021-08-12T21:24:57.000-05:00",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81671,
+      "karma": 81673,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -65,7 +117,7 @@
     "created_at": "2021-08-12T20:17:32.000-05:00",
     "title": "Efficient Stream Compaction on Wide SIMD Many-Core Architectures (2009)",
     "url": "http://www.cse.chalmers.se/%7Euffe/streamcompaction.pdf",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Stream compaction is a common parallel primitive used to remove unwanted elements in sparse data. This allows highly parallel algorithms to maintain performance over several processing steps and reduces overall memory usage.\nFor wide SIMD many-core architectures, we present a novel stream compaction algorithm and explore several variations thereof. Our algorithm is designed to maximize concurrent execution, with minimal  use of synchronization. Bandwidth and auxiliary storage requirements are reduced significantly, which allows for substantially better performance.\nWe have tested our algorithms using CUDA on a PC with an NVIDIA GeForce GTX280 GPU. On this hardware, our reference implementation provides a 3× speedup over previous published algorithms.</p>\n",
@@ -76,7 +128,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2023,
+      "karma": 2024,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -131,7 +183,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81671,
+      "karma": 81673,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -174,7 +226,7 @@
     "created_at": "2021-08-12T16:02:23.000-05:00",
     "title": "Should the browser use all available memory?",
     "url": "https://jmmv.dev/2021/08/using-all-memory-as-a-cache.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -185,7 +237,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2596,
+      "karma": 2597,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -254,9 +306,9 @@
     "created_at": "2021-08-12T14:18:55.000-05:00",
     "title": "New features in Neovim 0.5",
     "url": "https://lwn.net/Articles/864712/",
-    "score": 16,
+    "score": 17,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/1tzsni/new_features_neovim_0_5",
     "submitter_user": {
@@ -265,7 +317,7 @@
       "is_admin": false,
       "about": "Software developer",
       "is_moderator": false,
-      "karma": 94,
+      "karma": 95,
       "avatar_url": "/avatars/ayo-100.png",
       "invited_by_user": "markosaric",
       "github_username": "ayoisaiah"
@@ -363,7 +415,7 @@
     "created_at": "2021-08-12T11:00:30.000-05:00",
     "title": "Procedurally generated fish drawings in javascript",
     "url": "https://fishdraw.glitch.me/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -374,7 +426,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4590,
+      "karma": 4591,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -393,7 +445,7 @@
     "url": "https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html",
     "score": 46,
     "flags": 0,
-    "comment_count": 26,
+    "comment_count": 27,
     "description": "",
     "comments_url": "https://lobste.rs/s/sznhu7/breaking_web_forward",
     "submitter_user": {
@@ -417,7 +469,7 @@
     "created_at": "2021-08-12T10:36:21.000-05:00",
     "title": "A future for SQL on the web",
     "url": "https://jlongster.com/future-sql-web",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -428,7 +480,7 @@
       "is_admin": false,
       "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
       "is_moderator": false,
-      "karma": 111,
+      "karma": 112,
       "avatar_url": "/avatars/maxdeviant-100.png",
       "invited_by_user": "cadey",
       "github_username": "maxdeviant",
@@ -474,7 +526,7 @@
     "created_at": "2021-08-12T09:48:28.000-05:00",
     "title": "C programming language extension: Cedro pre-processor",
     "url": "https://sentido-labs.com/en/library/cedro/202106171400/",
-    "score": 15,
+    "score": 17,
     "flags": 0,
     "comment_count": 17,
     "description": "",
@@ -485,7 +537,7 @@
       "is_admin": false,
       "about": "Personal:\r\n\r\n  http://matracas.org\r\n\r\nWork:\r\n\r\n  http://sentido-labs.com",
       "is_moderator": false,
-      "karma": 119,
+      "karma": 121,
       "avatar_url": "/avatars/AlbertoGP-100.png",
       "invited_by_user": "phlo"
     },
@@ -555,7 +607,7 @@
     "url": "http://viznut.fi/texts-en/permacomputing_update_2021.html",
     "score": 8,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/p34bm7/permacomputing_update_2021_viznut",
     "submitter_user": {
@@ -605,7 +657,7 @@
     "url": "https://qmacro.org/autodidactics/2021/08/12/session-switching-with-the-tmux-menu/",
     "score": 17,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/51bskv/session_switching_with_tmux_menu",
     "submitter_user": {
@@ -622,70 +674,6 @@
     },
     "tags": [
       "unix"
-    ]
-  },
-  {
-    "short_id": "sdlibx",
-    "short_id_url": "https://lobste.rs/s/sdlibx",
-    "created_at": "2021-08-12T00:08:22.000-05:00",
-    "title": "Competitive programming in Haskell: monoidal accumulation",
-    "url": "https://byorgey.wordpress.com/2021/08/11/competitive-programming-in-haskell-monoidal-accumulation/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sdlibx/competitive_programming_haskell",
-    "submitter_user": {
-      "username": "adamshaylor",
-      "created_at": "2020-10-26T20:04:57.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 354,
-      "avatar_url": "/avatars/adamshaylor-100.png",
-      "invited_by_user": "peterc",
-      "github_username": "adamshaylor",
-      "keybase_signatures": [
-        {
-          "kb_username": "adamshaylor",
-          "sig_hash": "0ebd1a3d88d97f20922147a75889dfcae02b632d94156b9315a6d93384ae2e4f0f"
-        }
-      ]
-    },
-    "tags": [
-      "haskell"
-    ]
-  },
-  {
-    "short_id": "ltbde8",
-    "short_id_url": "https://lobste.rs/s/ltbde8",
-    "created_at": "2021-08-12T00:04:49.000-05:00",
-    "title": "Static vs. Dynamic vs. Jamstack: Where's The Line?",
-    "url": "https://css-tricks.com/static-vs-dynamic-vs-jamstack-wheres-the-line/",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ltbde8/static_vs_dynamic_vs_jamstack_where_s_line",
-    "submitter_user": {
-      "username": "adamshaylor",
-      "created_at": "2020-10-26T20:04:57.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 354,
-      "avatar_url": "/avatars/adamshaylor-100.png",
-      "invited_by_user": "peterc",
-      "github_username": "adamshaylor",
-      "keybase_signatures": [
-        {
-          "kb_username": "adamshaylor",
-          "sig_hash": "0ebd1a3d88d97f20922147a75889dfcae02b632d94156b9315a6d93384ae2e4f0f"
-        }
-      ]
-    },
-    "tags": [
-      "web"
     ]
   }
 ]
