@@ -1,11 +1,72 @@
 [
   {
+    "short_id": "x1prym",
+    "short_id_url": "https://lobste.rs/s/x1prym",
+    "created_at": "2021-08-13T13:16:28.000-05:00",
+    "title": "Supporting half-precision floats is really annoying",
+    "url": "https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/x1prym/supporting_half_precision_floats_is",
+    "submitter_user": {
+      "username": "mjn",
+      "created_at": "2015-02-11T16:45:32.000-06:00",
+      "is_admin": false,
+      "about": "I'm an academic in artificial intelligence. My research has mostly been on AI & games, both games as a testbed for AI and AI for game design. I'm also interested in other kinds of human/machine co-creation, computationally modeling design spaces, and history of technology. Currently an academic in Washington, D.C. (previously: Cornwall, Copenhagen, Santa Cruz, Atlanta, ...).\r\n\r\nWebsite: [kmjn.org](http://www.kmjn.org/)",
+      "is_moderator": false,
+      "karma": 6301,
+      "avatar_url": "/avatars/mjn-100.png",
+      "invited_by_user": "itistoday",
+      "twitter_username": "mm_jj_nn"
+    },
+    "tags": [
+      "compilers",
+      "plt"
+    ]
+  },
+  {
+    "short_id": "l2bzid",
+    "short_id_url": "https://lobste.rs/s/l2bzid",
+    "created_at": "2021-08-13T12:43:23.000-05:00",
+    "title": "Writing Mobile apps in ClojureScript in 2021",
+    "url": "https://www.juxt.pro/blog/clojurescript-native-apps-2021",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/l2bzid/writing_mobile_apps_clojurescript_2021",
+    "submitter_user": {
+      "username": "deobald",
+      "created_at": "2018-12-23T10:45:05.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 113,
+      "avatar_url": "/avatars/deobald-100.png",
+      "invited_by_user": "rdivyanshu",
+      "github_username": "deobald",
+      "twitter_username": "deobald",
+      "keybase_signatures": [
+        {
+          "kb_username": "deobald",
+          "sig_hash": "8f1ec286abb9eddcda5ce199db1c34fd000163001c3f2d8c227f63b217f24f4f0f"
+        }
+      ]
+    },
+    "tags": [
+      "clojure",
+      "mobile"
+    ]
+  },
+  {
     "short_id": "clbskr",
     "short_id_url": "https://lobste.rs/s/clbskr",
     "created_at": "2021-08-13T09:02:02.000-05:00",
     "title": "Transfer URLs from Nyxt to your smartphone via QR Codes",
     "url": "https://nyxt.atlas.engineer/article/qr-url.org",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +77,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 243,
+      "karma": 245,
       "avatar_url": "/avatars/jmercouris-100.png",
       "invited_by_user": "vindarel"
     },
@@ -31,9 +92,9 @@
     "created_at": "2021-08-13T08:53:30.000-05:00",
     "title": "What are you doing this weekend?",
     "url": "",
-    "score": 5,
+    "score": 6,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 10,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -42,7 +103,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6416,
+      "karma": 6417,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -59,7 +120,7 @@
     "created_at": "2021-08-13T07:22:00.000-05:00",
     "title": "The Meaning of Dbg Function Names",
     "url": "https://stratus3d.com/blog/2021/08/11/the-meaning-of-dbg-function-names",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +131,7 @@
       "is_admin": false,
       "about": "Software Engineer building things with Erlang, Elixir, Ruby, Lua and Javascript.\r\n\r\nhttp://Stratus3D.com",
       "is_moderator": false,
-      "karma": 239,
+      "karma": 240,
       "avatar_url": "/avatars/Stratus3D-100.png",
       "invited_by_user": "machuga"
     },
@@ -84,9 +145,9 @@
     "created_at": "2021-08-13T05:24:10.000-05:00",
     "title": "PackagingCon 2021 - a conference for package manager developers and packagers",
     "url": "https://packaging-con.org/",
-    "score": 11,
+    "score": 13,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/hwhyzd/packagingcon_2021_conference_for",
     "submitter_user": {
@@ -95,7 +156,7 @@
       "is_admin": false,
       "about": "lukas on #lobsters",
       "is_moderator": false,
-      "karma": 623,
+      "karma": 625,
       "avatar_url": "/avatars/lukas-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -109,7 +170,7 @@
     "created_at": "2021-08-13T02:57:11.000-05:00",
     "title": "How is a Programmer Like a Pathologist?",
     "url": "https://blog.bracha.org/exemplarDemo/exemplar2021.html?snapshot=BankAccountExemplarDemo.vfuel#",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -120,7 +181,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 924,
+      "karma": 925,
       "avatar_url": "/avatars/mpweiher-100.png",
       "invited_by_user": "mulle_nat",
       "github_username": "mpw",
@@ -136,7 +197,7 @@
     "created_at": "2021-08-13T02:28:41.000-05:00",
     "title": "Why Observability Requires a Distributed Column Store",
     "url": "https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/",
-    "score": 8,
+    "score": 10,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -147,7 +208,7 @@
       "is_admin": false,
       "about": "I am a software engineer working at Heroku.",
       "is_moderator": false,
-      "karma": 808,
+      "karma": 810,
       "avatar_url": "/avatars/dmathieu-100.png",
       "invited_by_user": "BenoitTigeot",
       "github_username": "dmathieu"
@@ -251,7 +312,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81683,
+      "karma": 81684,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -366,7 +427,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81683,
+      "karma": 81684,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -383,7 +444,7 @@
     "url": "http://www.cmyr.net/blog/rust-gui-infra.html",
     "score": 26,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/alfbeg/rust_gui_infrastructure",
     "submitter_user": {
@@ -409,7 +470,7 @@
     "created_at": "2021-08-12T16:02:23.000-05:00",
     "title": "Should the browser use all available memory?",
     "url": "https://jmmv.dev/2021/08/using-all-memory-as-a-cache.html",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -420,7 +481,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2605,
+      "karma": 2606,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -598,7 +659,7 @@
     "created_at": "2021-08-12T11:00:30.000-05:00",
     "title": "Procedurally generated fish drawings in javascript",
     "url": "https://fishdraw.glitch.me/",
-    "score": 25,
+    "score": 27,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -609,7 +670,7 @@
       "is_admin": false,
       "about": "I am a developer that loves building distributed systems, especially with open source technologies. My blog is called [Not a Monad Tutorial](http://notamonadtutorial.com/). I am the tech lead of a small company I own called [LambdaClass](https://github.com/lambdaclass/).\r\n\r\nThe language I like the most for that task is Erlang since it has a lot of built-in tools and features that other languages don't have. In companion with Erlang, I usually use databases such as Cassandra, Riak, Elasticsearch, Redis, PostgreSQL and message queues such as Kafka or RabbitMQ. I work a lot with FreeBSD, OpenBSD, Linux and devops tools like Ansible, Chef, Terraform, Grafana and Prometheus. The last year I've started doing some work in the Deep Learning space with Python, Keras, PyTorch and TensorFlow.\r\n\r\nAt last I love playing with OCaml, Racket/Lisp, Rust and Elm. ",
       "is_moderator": false,
-      "karma": 4600,
+      "karma": 4602,
       "avatar_url": "/avatars/unbalancedparentheses-100.png",
       "invited_by_user": "talboito",
       "github_username": "unbalancedparentheses",
@@ -618,61 +679,6 @@
     "tags": [
       "graphics",
       "javascript"
-    ]
-  },
-  {
-    "short_id": "sznhu7",
-    "short_id_url": "https://lobste.rs/s/sznhu7",
-    "created_at": "2021-08-12T10:42:33.000-05:00",
-    "title": "Breaking the web forward",
-    "url": "https://www.quirksmode.org/blog/archives/2021/08/breaking_the_we.html",
-    "score": 64,
-    "flags": 0,
-    "comment_count": 42,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sznhu7/breaking_web_forward",
-    "submitter_user": {
-      "username": "fkooman",
-      "created_at": "2015-09-14T06:39:59.000-05:00",
-      "is_admin": false,
-      "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
-      "is_moderator": false,
-      "karma": 1455,
-      "avatar_url": "/avatars/fkooman-100.png",
-      "invited_by_user": "untitaker"
-    },
-    "tags": [
-      "browsers",
-      "web"
-    ]
-  },
-  {
-    "short_id": "1ylnel",
-    "short_id_url": "https://lobste.rs/s/1ylnel",
-    "created_at": "2021-08-12T10:36:21.000-05:00",
-    "title": "A future for SQL on the web",
-    "url": "https://jlongster.com/future-sql-web",
-    "score": 37,
-    "flags": 0,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/1ylnel/future_for_sql_on_web",
-    "submitter_user": {
-      "username": "maxdeviant",
-      "created_at": "2021-05-10T19:44:31.000-05:00",
-      "is_admin": false,
-      "about": "宝霞龙. 26. Conjurer of code. Devourer of art. Pursuer of æsthetics. Soli Deo gloria. He/him. Engineering at WorkOS.",
-      "is_moderator": false,
-      "karma": 124,
-      "avatar_url": "/avatars/maxdeviant-100.png",
-      "invited_by_user": "cadey",
-      "github_username": "maxdeviant",
-      "twitter_username": "maxdeviant"
-    },
-    "tags": [
-      "databases",
-      "javascript",
-      "web"
     ]
   }
 ]
