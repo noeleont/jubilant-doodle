@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "fqw7la",
+    "short_id_url": "https://lobste.rs/s/fqw7la",
+    "created_at": "2021-08-14T06:57:35.000-05:00",
+    "title": "An Introduction to Hashing in the Era of Machine Learning (2018)",
+    "url": "https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fqw7la/introduction_hashing_era_machine",
+    "submitter_user": {
+      "username": "amirouche",
+      "created_at": "2019-10-02T13:25:07.000-05:00",
+      "is_admin": false,
+      "about": "```scheme\r\n(list (cons 'backend 'python)\r\n      (cons 'frontend 'javascript)\r\n      (cons 'nlp 'wip)\r\n      (cons 'devops 'wip))\r\n```",
+      "is_moderator": false,
+      "karma": 512,
+      "avatar_url": "/avatars/amirouche-100.png",
+      "invited_by_user": "bandali"
+    },
+    "tags": [
+      "ai",
+      "databases"
+    ]
+  },
+  {
     "short_id": "qx4wgz",
     "short_id_url": "https://lobste.rs/s/qx4wgz",
     "created_at": "2021-08-14T05:48:42.000-05:00",
@@ -57,9 +83,9 @@
     "created_at": "2021-08-13T16:24:26.000-05:00",
     "title": "GNU nano is my editor of choice",
     "url": "https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/",
-    "score": 9,
+    "score": 11,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/mtcnxi/gnu_nano_is_my_editor_choice",
     "submitter_user": {
@@ -68,7 +94,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10565,
+      "karma": 10567,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -111,7 +137,7 @@
     "created_at": "2021-08-13T16:03:54.000-05:00",
     "title": "Thunderbird 91 Available Now",
     "url": "https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/",
-    "score": 13,
+    "score": 15,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -122,7 +148,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 504,
+      "karma": 507,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -243,7 +269,7 @@
     "created_at": "2021-08-13T13:16:28.000-05:00",
     "title": "Supporting half-precision floats is really annoying",
     "url": "https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -254,7 +280,7 @@
       "is_admin": false,
       "about": "I'm an academic in artificial intelligence. My research has mostly been on AI & games, both games as a testbed for AI and AI for game design. I'm also interested in other kinds of human/machine co-creation, computationally modeling design spaces, and history of technology. Currently an academic in Washington, D.C. (previously: Cornwall, Copenhagen, Santa Cruz, Atlanta, ...).\r\n\r\nWebsite: [kmjn.org](http://www.kmjn.org/)",
       "is_moderator": false,
-      "karma": 6317,
+      "karma": 6318,
       "avatar_url": "/avatars/mjn-100.png",
       "invited_by_user": "itistoday",
       "twitter_username": "mm_jj_nn"
@@ -304,9 +330,9 @@
     "created_at": "2021-08-13T09:02:02.000-05:00",
     "title": "Transfer URLs from Nyxt to your smartphone via QR Codes",
     "url": "https://nyxt.atlas.engineer/article/qr-url.org",
-    "score": 9,
+    "score": 10,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/clbskr/transfer_urls_from_nyxt_your_smartphone",
     "submitter_user": {
@@ -315,7 +341,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 248,
+      "karma": 249,
       "avatar_url": "/avatars/jmercouris-100.png",
       "invited_by_user": "vindarel"
     },
@@ -332,7 +358,7 @@
     "url": "",
     "score": 8,
     "flags": 1,
-    "comment_count": 26,
+    "comment_count": 27,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -437,7 +463,7 @@
     "url": "https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/",
     "score": 12,
     "flags": 1,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/xdqyi5/why_observability_requires_distributed",
     "submitter_user": {
@@ -646,32 +672,6 @@
     "tags": [
       "ai",
       "video"
-    ]
-  },
-  {
-    "short_id": "ow0vih",
-    "short_id_url": "https://lobste.rs/s/ow0vih",
-    "created_at": "2021-08-12T16:53:16.000-05:00",
-    "title": "Preview Features in .NET 6 - Generic Math",
-    "url": "https://devblogs.microsoft.com/dotnet/preview-features-in-net-6-generic-math/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ow0vih/preview_features_net_6_generic_math",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81710,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "dotnet"
     ]
   }
 ]
