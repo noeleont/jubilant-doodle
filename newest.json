@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "ipw0td",
+    "short_id_url": "https://lobste.rs/s/ipw0td",
+    "created_at": "2021-08-14T11:47:58.000-05:00",
+    "title": "A Deep Dive into Kubernetes External Traffic Policies",
+    "url": "https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ipw0td/deep_dive_into_kubernetes_external",
+    "submitter_user": {
+      "username": "shishy",
+      "created_at": "2019-01-24T19:35:35.000-06:00",
+      "is_admin": false,
+      "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
+      "is_moderator": false,
+      "karma": 341,
+      "avatar_url": "/avatars/shishy-100.png",
+      "invited_by_user": "awal"
+    },
+    "tags": [
+      "devops",
+      "networking"
+    ]
+  },
+  {
     "short_id": "carr7b",
     "short_id_url": "https://lobste.rs/s/carr7b",
     "created_at": "2021-08-14T10:41:22.000-05:00",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81723,
+      "karma": 81724,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -32,7 +58,7 @@
     "created_at": "2021-08-14T10:32:45.000-05:00",
     "title": "Progress Report: August 2021 - Asahi Linux",
     "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "I'm a computer geek working as an SRE in San Francisco. My email is pronoiac@gmail.com.",
       "is_moderator": false,
-      "karma": 291,
+      "karma": 293,
       "avatar_url": "/avatars/pronoiac-100.png",
       "invited_by_user": "causal_agent"
     },
@@ -88,7 +114,7 @@
     "created_at": "2021-08-14T07:46:07.000-05:00",
     "title": "Debian 11 is being released",
     "url": "https://twitter.com/debian/status/1426446755109900293",
-    "score": 15,
+    "score": 19,
     "flags": 2,
     "comment_count": 6,
     "description": "",
@@ -99,7 +125,7 @@
       "is_admin": false,
       "about": "I am a software engineer from Berlin ",
       "is_moderator": false,
-      "karma": 2777,
+      "karma": 2781,
       "avatar_url": "/avatars/fs111-100.png",
       "invited_by_user": "drdoom",
       "github_username": "fs111",
@@ -144,7 +170,7 @@
     "url": "https://matduggan.com/devops-engineer-crash-course/",
     "score": 8,
     "flags": 1,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/qx4wgz/devops_engineer_crash_course_section_1",
     "submitter_user": {
@@ -169,7 +195,7 @@
     "url": "https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/",
     "score": 18,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/g60cjj/exploring_clang_llvm_optimization_on",
     "submitter_user": {
@@ -178,7 +204,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81723,
+      "karma": 81724,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -194,7 +220,7 @@
     "created_at": "2021-08-13T16:24:26.000-05:00",
     "title": "GNU nano is my editor of choice",
     "url": "https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -205,7 +231,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10572,
+      "karma": 10573,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -248,7 +274,7 @@
     "created_at": "2021-08-13T16:03:54.000-05:00",
     "title": "Thunderbird 91 Available Now",
     "url": "https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 16,
     "description": "",
@@ -259,7 +285,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 515,
+      "karma": 516,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -310,7 +336,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2566,
+      "karma": 2567,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -337,7 +363,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2566,
+      "karma": 2567,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -469,7 +495,7 @@
     "url": "",
     "score": 9,
     "flags": 1,
-    "comment_count": 31,
+    "comment_count": 33,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -641,33 +667,6 @@
     },
     "tags": [
       "c++"
-    ]
-  },
-  {
-    "short_id": "0ihysv",
-    "short_id_url": "https://lobste.rs/s/0ihysv",
-    "created_at": "2021-08-12T23:52:21.000-05:00",
-    "title": "TLDs -- Putting the 'Fun' in the top of the DNS",
-    "url": "https://www.netmeister.org/blog/tlds.html",
-    "score": 22,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/0ihysv/tlds_putting_fun_top_dns",
-    "submitter_user": {
-      "username": "nogweii",
-      "created_at": "2014-03-31T19:38:18.000-05:00",
-      "is_admin": false,
-      "about": "A Linux user for more than a decade, and programming for just as long in a large variety of lanuages.\r\n\r\nPrivacy, numbers and automations make my world go 'round. Find out more at [my website](https://evaryont.me).",
-      "is_moderator": false,
-      "karma": 1476,
-      "avatar_url": "/avatars/nogweii-100.png",
-      "invited_by_user": "vjoel",
-      "github_username": "nogweii",
-      "twitter_username": "nogweii"
-    },
-    "tags": [
-      "networking"
     ]
   }
 ]
