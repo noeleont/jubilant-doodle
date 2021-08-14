@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "zwu72v",
+    "short_id_url": "https://lobste.rs/s/zwu72v",
+    "created_at": "2021-08-14T12:40:27.000-05:00",
+    "title": "MeiliSearch: A Minimalist Full-Text Search Engine",
+    "url": "https://tech.marksblogg.com/meilisearch-full-text-search.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zwu72v/meilisearch_minimalist_full_text_search",
+    "submitter_user": {
+      "username": "marklit",
+      "created_at": "2017-02-21T09:57:14.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 241,
+      "avatar_url": "/avatars/marklit-100.png",
+      "invited_by_user": "vdm"
+    },
+    "tags": [
+      "rust"
+    ]
+  },
+  {
     "short_id": "ipw0td",
     "short_id_url": "https://lobste.rs/s/ipw0td",
     "created_at": "2021-08-14T11:47:58.000-05:00",
     "title": "A Deep Dive into Kubernetes External Traffic Policies",
     "url": "https://www.asykim.com/blog/deep-dive-into-kubernetes-external-traffic-policies",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
       "is_moderator": false,
-      "karma": 341,
+      "karma": 342,
       "avatar_url": "/avatars/shishy-100.png",
       "invited_by_user": "awal"
     },
@@ -58,7 +83,7 @@
     "created_at": "2021-08-14T10:32:45.000-05:00",
     "title": "Progress Report: August 2021 - Asahi Linux",
     "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
-    "score": 4,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +94,7 @@
       "is_admin": false,
       "about": "I'm a computer geek working as an SRE in San Francisco. My email is pronoiac@gmail.com.",
       "is_moderator": false,
-      "karma": 293,
+      "karma": 297,
       "avatar_url": "/avatars/pronoiac-100.png",
       "invited_by_user": "causal_agent"
     },
@@ -87,7 +112,7 @@
     "created_at": "2021-08-14T07:51:09.000-05:00",
     "title": "A Deep Dive into Nanite Virtualized Geometry",
     "url": "http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -98,7 +123,7 @@
       "is_admin": false,
       "about": "mikejsavage.co.uk",
       "is_moderator": false,
-      "karma": 2993,
+      "karma": 2994,
       "avatar_url": "/avatars/mikejstenberg-100.png",
       "invited_by_user": "jonl"
     },
@@ -114,7 +139,7 @@
     "created_at": "2021-08-14T07:46:07.000-05:00",
     "title": "Debian 11 is being released",
     "url": "https://twitter.com/debian/status/1426446755109900293",
-    "score": 19,
+    "score": 22,
     "flags": 2,
     "comment_count": 6,
     "description": "",
@@ -125,7 +150,7 @@
       "is_admin": false,
       "about": "I am a software engineer from Berlin ",
       "is_moderator": false,
-      "karma": 2781,
+      "karma": 2784,
       "avatar_url": "/avatars/fs111-100.png",
       "invited_by_user": "drdoom",
       "github_username": "fs111",
@@ -220,7 +245,7 @@
     "created_at": "2021-08-13T16:24:26.000-05:00",
     "title": "GNU nano is my editor of choice",
     "url": "https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -231,7 +256,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10573,
+      "karma": 10575,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -354,7 +379,7 @@
     "url": "https://beyondloom.com/blog/thinkc.html",
     "score": 22,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/whfvne/your_first_think_c_program_2020",
     "submitter_user": {
@@ -406,7 +431,7 @@
     "created_at": "2021-08-13T13:16:28.000-05:00",
     "title": "Supporting half-precision floats is really annoying",
     "url": "https://futhark-lang.org/blog/2021-08-05-half-precision-floats.html",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -417,7 +442,7 @@
       "is_admin": false,
       "about": "I'm an academic in artificial intelligence. My research has mostly been on AI & games, both games as a testbed for AI and AI for game design. I'm also interested in other kinds of human/machine co-creation, computationally modeling design spaces, and history of technology. Currently an academic in Washington, D.C. (previously: Cornwall, Copenhagen, Santa Cruz, Atlanta, ...).\r\n\r\nWebsite: [kmjn.org](http://www.kmjn.org/)",
       "is_moderator": false,
-      "karma": 6323,
+      "karma": 6324,
       "avatar_url": "/avatars/mjn-100.png",
       "invited_by_user": "itistoday",
       "twitter_username": "mm_jj_nn"
@@ -642,31 +667,6 @@
     "tags": [
       "haskell",
       "programming"
-    ]
-  },
-  {
-    "short_id": "4yqx20",
-    "short_id_url": "https://lobste.rs/s/4yqx20",
-    "created_at": "2021-08-13T00:07:01.000-05:00",
-    "title": "C++ exceptions under the hood",
-    "url": "https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4yqx20/c_exceptions_under_hood",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11690,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "c++"
     ]
   }
 ]
