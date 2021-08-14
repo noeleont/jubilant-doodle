@@ -1,13 +1,38 @@
 [
   {
+    "short_id": "qx4wgz",
+    "short_id_url": "https://lobste.rs/s/qx4wgz",
+    "created_at": "2021-08-14T05:48:42.000-05:00",
+    "title": "DevOps Engineer Crash Course - Section 1",
+    "url": "https://matduggan.com/devops-engineer-crash-course/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qx4wgz/devops_engineer_crash_course_section_1",
+    "submitter_user": {
+      "username": "maduggan",
+      "created_at": "2019-03-13T08:43:38.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 137,
+      "avatar_url": "/avatars/maduggan-100.png",
+      "invited_by_user": "stephen"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
     "short_id": "g60cjj",
     "short_id_url": "https://lobste.rs/s/g60cjj",
     "created_at": "2021-08-13T16:59:02.000-05:00",
     "title": "Exploring Clang/LLVM optimization on programming horror",
     "url": "https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/",
-    "score": 9,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/g60cjj/exploring_clang_llvm_optimization_on",
     "submitter_user": {
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81707,
+      "karma": 81710,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -34,7 +59,7 @@
     "url": "https://ariadne.space/2021/08/13/gnu-nano-is-my-editor-of-choice/",
     "score": 9,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/mtcnxi/gnu_nano_is_my_editor_choice",
     "submitter_user": {
@@ -86,7 +111,7 @@
     "created_at": "2021-08-13T16:03:54.000-05:00",
     "title": "Thunderbird 91 Available Now",
     "url": "https://blog.thunderbird.net/2021/08/thunderbird-91-available-now/",
-    "score": 11,
+    "score": 13,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -97,7 +122,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 501,
+      "karma": 504,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -148,7 +173,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2558,
+      "karma": 2560,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -164,7 +189,7 @@
     "created_at": "2021-08-13T13:41:16.000-05:00",
     "title": "Your First THINK C Program (2020)",
     "url": "https://beyondloom.com/blog/thinkc.html",
-    "score": 18,
+    "score": 20,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -175,7 +200,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2558,
+      "karma": 2560,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -487,7 +512,7 @@
     "created_at": "2021-08-12T23:52:21.000-05:00",
     "title": "TLDs -- Putting the 'Fun' in the top of the DNS",
     "url": "https://www.netmeister.org/blog/tlds.html",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -498,7 +523,7 @@
       "is_admin": false,
       "about": "A Linux user for more than a decade, and programming for just as long in a large variety of lanuages.\r\n\r\nPrivacy, numbers and automations make my world go 'round. Find out more at [my website](https://evaryont.me).",
       "is_moderator": false,
-      "karma": 1475,
+      "karma": 1476,
       "avatar_url": "/avatars/nogweii-100.png",
       "invited_by_user": "vjoel",
       "github_username": "nogweii",
@@ -525,7 +550,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81707,
+      "karma": 81710,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -640,41 +665,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81707,
+      "karma": 81710,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "dotnet"
-    ]
-  },
-  {
-    "short_id": "alfbeg",
-    "short_id_url": "https://lobste.rs/s/alfbeg",
-    "created_at": "2021-08-12T16:25:30.000-05:00",
-    "title": "Rust GUI Infrastructure",
-    "url": "http://www.cmyr.net/blog/rust-gui-infra.html",
-    "score": 29,
-    "flags": 0,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/alfbeg/rust_gui_infrastructure",
-    "submitter_user": {
-      "username": "technetium",
-      "created_at": "2020-02-06T19:52:39.000-06:00",
-      "is_admin": false,
-      "about": "A sentient lump of a certain high-density material",
-      "is_moderator": false,
-      "karma": 2558,
-      "avatar_url": "/avatars/technetium-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "a11y",
-      "design",
-      "graphics",
-      "rust"
     ]
   }
 ]
