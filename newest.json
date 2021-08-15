@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "gk8tek",
+    "short_id_url": "https://lobste.rs/s/gk8tek",
+    "created_at": "2021-08-15T09:51:55.000-05:00",
+    "title": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler",
+    "url": "https://github.com/plasma-umass/scalene",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gk8tek/scalene_high_performance_high_precision",
+    "submitter_user": {
+      "username": "amirouche",
+      "created_at": "2019-10-02T13:25:07.000-05:00",
+      "is_admin": false,
+      "about": "```scheme\r\n(list (cons 'backend 'python)\r\n      (cons 'frontend 'javascript)\r\n      (cons 'nlp 'wip)\r\n      (cons 'devops 'wip))\r\n```",
+      "is_moderator": false,
+      "karma": 518,
+      "avatar_url": "/avatars/amirouche-100.png",
+      "invited_by_user": "bandali"
+    },
+    "tags": [
+      "performance",
+      "python"
+    ]
+  },
+  {
     "short_id": "p4roob",
     "short_id_url": "https://lobste.rs/s/p4roob",
     "created_at": "2021-08-15T02:23:06.000-05:00",
     "title": "Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning",
     "url": "https://briancallahan.net/blog/20210814.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "System and Network engineer.\r\n\r\nInterests: ANSI Art, DNS, NetBSD, OpenBSD, Security, and Text Mode.\r\n\r\nSite: https://www.cambus.net",
       "is_moderator": false,
-      "karma": 3370,
+      "karma": 3371,
       "avatar_url": "/avatars/fcambus-100.png",
       "invited_by_user": "gmcabrita",
       "github_username": "fcambus",
@@ -32,8 +58,8 @@
     "created_at": "2021-08-15T02:09:07.000-05:00",
     "title": "Debian 11 \"bullseye\" released",
     "url": "https://lists.debian.org/debian-announce/2021/msg00004.html",
-    "score": 16,
-    "flags": 3,
+    "score": 17,
+    "flags": 4,
     "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ocd2lk/debian_11_bullseye_released",
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "https://github.com/ema\r\nhttps://twitter.com/realEmaRocca\r\nhttps://meta.wikimedia.org/wiki/User:ERocca_(WMF)\r\n",
       "is_moderator": false,
-      "karma": 380,
+      "karma": 381,
       "avatar_url": "/avatars/ema-100.png",
       "invited_by_user": "nkhumphreys"
     },
@@ -140,7 +166,7 @@
     "title": "MeiliSearch: A Minimalist Full-Text Search Engine",
     "url": "https://tech.marksblogg.com/meilisearch-full-text-search.html",
     "score": 23,
-    "flags": 0,
+    "flags": 1,
     "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/zwu72v/meilisearch_minimalist_full_text_search",
@@ -217,7 +243,7 @@
     "created_at": "2021-08-14T10:32:45.000-05:00",
     "title": "Progress Report: August 2021 - Asahi Linux",
     "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
-    "score": 25,
+    "score": 26,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -228,7 +254,7 @@
       "is_admin": false,
       "about": "I'm a computer geek working as an SRE in San Francisco. My email is pronoiac@gmail.com.",
       "is_moderator": false,
-      "karma": 315,
+      "karma": 316,
       "avatar_url": "/avatars/pronoiac-100.png",
       "invited_by_user": "causal_agent"
     },
@@ -275,7 +301,7 @@
     "url": "https://twitter.com/debian/status/1426446755109900293",
     "score": 35,
     "flags": 4,
-    "comment_count": 23,
+    "comment_count": 24,
     "description": "",
     "comments_url": "https://lobste.rs/s/nd8wir/debian_11_is_being_released",
     "submitter_user": {
@@ -390,7 +416,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10583,
+      "karma": 10584,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -644,34 +670,6 @@
     "tags": [
       "browsers",
       "emacs"
-    ]
-  },
-  {
-    "short_id": "rdxtru",
-    "short_id_url": "https://lobste.rs/s/rdxtru",
-    "created_at": "2021-08-13T08:53:30.000-05:00",
-    "title": "What are you doing this weekend?",
-    "url": "",
-    "score": 11,
-    "flags": 1,
-    "comment_count": 34,
-    "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
-    "comments_url": "https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6424,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "ask",
-      "programming"
     ]
   }
 ]
