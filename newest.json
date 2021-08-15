@@ -1,31 +1,5 @@
 [
   {
-    "short_id": "1f7exm",
-    "short_id_url": "https://lobste.rs/s/1f7exm",
-    "created_at": "2021-08-15T02:50:41.000-05:00",
-    "title": "Pseudonymity and the billion-user table",
-    "url": "https://www.jonstokes.com/p/pseudonymity-and-the-billion-user",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/1f7exm/pseudonymity_billion_user_table",
-    "submitter_user": {
-      "username": "Hail_Spacecake",
-      "created_at": "2016-06-07T16:07:14.000-05:00",
-      "is_admin": false,
-      "about": "Programmer by trade and avocation in the SF Bay Area. ",
-      "is_moderator": false,
-      "karma": 3823,
-      "avatar_url": "/avatars/Hail_Spacecake-100.png",
-      "invited_by_user": "awal"
-    },
-    "tags": [
-      "merkle-trees",
-      "privacy"
-    ]
-  },
-  {
     "short_id": "p4roob",
     "short_id_url": "https://lobste.rs/s/p4roob",
     "created_at": "2021-08-15T02:23:06.000-05:00",
@@ -58,7 +32,7 @@
     "created_at": "2021-08-15T02:09:07.000-05:00",
     "title": "Debian 11 \"bullseye\" released",
     "url": "https://lists.debian.org/debian-announce/2021/msg00004.html",
-    "score": 13,
+    "score": 16,
     "flags": 3,
     "comment_count": 1,
     "description": "",
@@ -69,7 +43,7 @@
       "is_admin": false,
       "about": "https://github.com/ema\r\nhttps://twitter.com/realEmaRocca\r\nhttps://meta.wikimedia.org/wiki/User:ERocca_(WMF)\r\n",
       "is_moderator": false,
-      "karma": 377,
+      "karma": 380,
       "avatar_url": "/avatars/ema-100.png",
       "invited_by_user": "nkhumphreys"
     },
@@ -167,7 +141,7 @@
     "url": "https://tech.marksblogg.com/meilisearch-full-text-search.html",
     "score": 23,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/zwu72v/meilisearch_minimalist_full_text_search",
     "submitter_user": {
@@ -670,6 +644,34 @@
     "tags": [
       "browsers",
       "emacs"
+    ]
+  },
+  {
+    "short_id": "rdxtru",
+    "short_id_url": "https://lobste.rs/s/rdxtru",
+    "created_at": "2021-08-13T08:53:30.000-05:00",
+    "title": "What are you doing this weekend?",
+    "url": "",
+    "score": 11,
+    "flags": 1,
+    "comment_count": 34,
+    "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
+    "comments_url": "https://lobste.rs/s/rdxtru/what_are_you_doing_this_weekend",
+    "submitter_user": {
+      "username": "caius",
+      "created_at": "2014-05-13T06:58:30.000-05:00",
+      "is_admin": false,
+      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
+      "is_moderator": false,
+      "karma": 6424,
+      "avatar_url": "/avatars/caius-100.png",
+      "invited_by_user": "lauris",
+      "github_username": "caius",
+      "twitter_username": "Caius"
+    },
+    "tags": [
+      "ask",
+      "programming"
     ]
   }
 ]
