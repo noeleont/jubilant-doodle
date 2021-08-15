@@ -1,5 +1,59 @@
 [
   {
+    "short_id": "fafj9v",
+    "short_id_url": "https://lobste.rs/s/fafj9v",
+    "created_at": "2021-08-14T21:38:14.000-05:00",
+    "title": "Quick Intro to gdb",
+    "url": "https://www.youtube.com/watch?v=xQ0ONbt-qPs",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fafj9v/quick_intro_gdb",
+    "submitter_user": {
+      "username": "vfoley",
+      "created_at": "2014-05-27T20:08:21.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 2344,
+      "avatar_url": "/avatars/vfoley-100.png",
+      "invited_by_user": "Boojum"
+    },
+    "tags": [
+      "debugging",
+      "programming",
+      "video"
+    ]
+  },
+  {
+    "short_id": "lactsb",
+    "short_id_url": "https://lobste.rs/s/lactsb",
+    "created_at": "2021-08-14T21:33:07.000-05:00",
+    "title": "SoundStream: An End-to-End Neural Audio Codec",
+    "url": "http://ai.googleblog.com/2021/08/soundstream-end-to-end-neural-audio.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lactsb/soundstream_end_end_neural_audio_codec",
+    "submitter_user": {
+      "username": "sanxiyn",
+      "created_at": "2015-01-21T09:51:34.000-06:00",
+      "is_admin": false,
+      "about": "I made the initial port of Rust to ARM and Android.",
+      "is_moderator": false,
+      "karma": 8333,
+      "avatar_url": "/avatars/sanxiyn-100.png",
+      "invited_by_user": "steveklabnik",
+      "github_username": "sanxiyn",
+      "twitter_username": "sanxiyn"
+    },
+    "tags": [
+      "ai"
+    ]
+  },
+  {
     "short_id": "zwu72v",
     "short_id_url": "https://lobste.rs/s/zwu72v",
     "created_at": "2021-08-14T12:40:27.000-05:00",
@@ -83,7 +137,7 @@
     "created_at": "2021-08-14T10:32:45.000-05:00",
     "title": "Progress Report: August 2021 - Asahi Linux",
     "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -94,7 +148,7 @@
       "is_admin": false,
       "about": "I'm a computer geek working as an SRE in San Francisco. My email is pronoiac@gmail.com.",
       "is_moderator": false,
-      "karma": 305,
+      "karma": 306,
       "avatar_url": "/avatars/pronoiac-100.png",
       "invited_by_user": "causal_agent"
     },
@@ -615,58 +669,6 @@
     },
     "tags": [
       "compsci"
-    ]
-  },
-  {
-    "short_id": "xdqyi5",
-    "short_id_url": "https://lobste.rs/s/xdqyi5",
-    "created_at": "2021-08-13T02:28:41.000-05:00",
-    "title": "Why Observability Requires a Distributed Column Store",
-    "url": "https://www.honeycomb.io/blog/why-observability-requires-distributed-column-store/",
-    "score": 14,
-    "flags": 1,
-    "comment_count": 9,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xdqyi5/why_observability_requires_distributed",
-    "submitter_user": {
-      "username": "dmathieu",
-      "created_at": "2016-10-18T14:03:56.000-05:00",
-      "is_admin": false,
-      "about": "I am a software engineer working at Heroku.",
-      "is_moderator": false,
-      "karma": 814,
-      "avatar_url": "/avatars/dmathieu-100.png",
-      "invited_by_user": "BenoitTigeot",
-      "github_username": "dmathieu"
-    },
-    "tags": [
-      "distributed"
-    ]
-  },
-  {
-    "short_id": "djkdet",
-    "short_id_url": "https://lobste.rs/s/djkdet",
-    "created_at": "2021-08-13T02:20:09.000-05:00",
-    "title": "That One Cool Reader Trick",
-    "url": "https://blog.cofree.coffee/2021-08-13-that-one-cool-reader-trick/",
-    "score": 14,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/djkdet/one_cool_reader_trick",
-    "submitter_user": {
-      "username": "solomon",
-      "created_at": "2021-02-15T15:34:16.000-06:00",
-      "is_admin": false,
-      "about": "I love functional programming.",
-      "is_moderator": false,
-      "karma": 105,
-      "avatar_url": "/avatars/solomon-100.png",
-      "invited_by_user": "rhonorv"
-    },
-    "tags": [
-      "haskell",
-      "programming"
     ]
   }
 ]
