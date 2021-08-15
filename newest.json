@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "f9afru",
+    "short_id_url": "https://lobste.rs/s/f9afru",
+    "created_at": "2021-08-15T10:20:56.000-05:00",
+    "title": "Blackjack - Probabilities, Strategy, Card Counting - Calculation and Simulation",
+    "url": "https://easylang.online/apps/tut_blackj.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/f9afru/blackjack_probabilities_strategy_card",
+    "submitter_user": {
+      "username": "chkas",
+      "created_at": "2019-07-01T16:56:27.000-05:00",
+      "is_admin": false,
+      "about": "I teach computer science. I am not satisfied with the current teaching programming languages, so I made a new own: https://easylang.online . I am also interested in security and Linux.",
+      "is_moderator": false,
+      "karma": 32,
+      "avatar_url": "/avatars/chkas-100.png",
+      "invited_by_user": "calvin"
+    },
+    "tags": [
+      "math",
+      "programming"
+    ]
+  },
+  {
     "short_id": "gk8tek",
     "short_id_url": "https://lobste.rs/s/gk8tek",
     "created_at": "2021-08-15T09:51:55.000-05:00",
     "title": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler",
     "url": "https://github.com/plasma-umass/scalene",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "```scheme\r\n(list (cons 'backend 'python)\r\n      (cons 'frontend 'javascript)\r\n      (cons 'nlp 'wip)\r\n      (cons 'devops 'wip))\r\n```",
       "is_moderator": false,
-      "karma": 518,
+      "karma": 519,
       "avatar_url": "/avatars/amirouche-100.png",
       "invited_by_user": "bandali"
     },
@@ -31,7 +57,7 @@
     "created_at": "2021-08-15T02:23:06.000-05:00",
     "title": "Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning",
     "url": "https://briancallahan.net/blog/20210814.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "System and Network engineer.\r\n\r\nInterests: ANSI Art, DNS, NetBSD, OpenBSD, Security, and Text Mode.\r\n\r\nSite: https://www.cambus.net",
       "is_moderator": false,
-      "karma": 3371,
+      "karma": 3372,
       "avatar_url": "/avatars/fcambus-100.png",
       "invited_by_user": "gmcabrita",
       "github_username": "fcambus",
@@ -58,9 +84,9 @@
     "created_at": "2021-08-15T02:09:07.000-05:00",
     "title": "Debian 11 \"bullseye\" released",
     "url": "https://lists.debian.org/debian-announce/2021/msg00004.html",
-    "score": 17,
+    "score": 19,
     "flags": 4,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ocd2lk/debian_11_bullseye_released",
     "submitter_user": {
@@ -69,7 +95,7 @@
       "is_admin": false,
       "about": "https://github.com/ema\r\nhttps://twitter.com/realEmaRocca\r\nhttps://meta.wikimedia.org/wiki/User:ERocca_(WMF)\r\n",
       "is_moderator": false,
-      "karma": 381,
+      "karma": 383,
       "avatar_url": "/avatars/ema-100.png",
       "invited_by_user": "nkhumphreys"
     },
@@ -95,7 +121,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81754,
+      "karma": 81758,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -111,7 +137,7 @@
     "created_at": "2021-08-14T21:38:14.000-05:00",
     "title": "Quick Intro to gdb",
     "url": "https://www.youtube.com/watch?v=xQ0ONbt-qPs",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -122,7 +148,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2345,
+      "karma": 2346,
       "avatar_url": "/avatars/vfoley-100.png",
       "invited_by_user": "Boojum"
     },
@@ -216,7 +242,7 @@
     "created_at": "2021-08-14T10:41:22.000-05:00",
     "title": "History of the evolution of the x86 platform, from the IBM PC to the modern era",
     "url": "https://zirblazer.github.io/htmlfiles/pc_evolution.html?ver=123",
-    "score": 12,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -227,7 +253,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81754,
+      "karma": 81758,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -243,7 +269,7 @@
     "created_at": "2021-08-14T10:32:45.000-05:00",
     "title": "Progress Report: August 2021 - Asahi Linux",
     "url": "https://asahilinux.org/2021/08/progress-report-august-2021/",
-    "score": 26,
+    "score": 27,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -254,7 +280,7 @@
       "is_admin": false,
       "about": "I'm a computer geek working as an SRE in San Francisco. My email is pronoiac@gmail.com.",
       "is_moderator": false,
-      "karma": 316,
+      "karma": 317,
       "avatar_url": "/avatars/pronoiac-100.png",
       "invited_by_user": "causal_agent"
     },
@@ -338,7 +364,7 @@
       "is_admin": false,
       "about": "```scheme\r\n(list (cons 'backend 'python)\r\n      (cons 'frontend 'javascript)\r\n      (cons 'nlp 'wip)\r\n      (cons 'devops 'wip))\r\n```",
       "is_moderator": false,
-      "karma": 518,
+      "karma": 519,
       "avatar_url": "/avatars/amirouche-100.png",
       "invited_by_user": "bandali"
     },
@@ -389,7 +415,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81754,
+      "karma": 81758,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -644,32 +670,6 @@
     "tags": [
       "clojure",
       "mobile"
-    ]
-  },
-  {
-    "short_id": "clbskr",
-    "short_id_url": "https://lobste.rs/s/clbskr",
-    "created_at": "2021-08-13T09:02:02.000-05:00",
-    "title": "Transfer URLs from Nyxt to your smartphone via QR Codes",
-    "url": "https://nyxt.atlas.engineer/article/qr-url.org",
-    "score": 16,
-    "flags": 1,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/clbskr/transfer_urls_from_nyxt_your_smartphone",
-    "submitter_user": {
-      "username": "jmercouris",
-      "created_at": "2019-08-19T04:03:42.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 255,
-      "avatar_url": "/avatars/jmercouris-100.png",
-      "invited_by_user": "vindarel"
-    },
-    "tags": [
-      "browsers",
-      "emacs"
     ]
   }
 ]
