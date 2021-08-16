@@ -1,11 +1,63 @@
 [
   {
+    "short_id": "zpqmbl",
+    "short_id_url": "https://lobste.rs/s/zpqmbl",
+    "created_at": "2021-08-16T12:57:43.000-05:00",
+    "title": "A collection of common (interesting) cryptographic mistakes and learning resources",
+    "url": "https://github.com/SalusaSecondus/CryptoGotchas",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zpqmbl/collection_common_interesting",
+    "submitter_user": {
+      "username": "fkooman",
+      "created_at": "2015-09-14T06:39:59.000-05:00",
+      "is_admin": false,
+      "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
+      "is_moderator": false,
+      "karma": 1468,
+      "avatar_url": "/avatars/fkooman-100.png",
+      "invited_by_user": "untitaker"
+    },
+    "tags": [
+      "crypto",
+      "security"
+    ]
+  },
+  {
+    "short_id": "w5qsad",
+    "short_id_url": "https://lobste.rs/s/w5qsad",
+    "created_at": "2021-08-16T12:27:03.000-05:00",
+    "title": "AXPbox 1.1.0 released · (DEC Alpha Emulator for OpenVMS/NetBSD)",
+    "url": "https://github.com/lenticularis39/axpbox/releases/tag/v1.1.0",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/w5qsad/axpbox_1_1_0_released_dec_alpha_emulator",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11721,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "osdev",
+      "release"
+    ]
+  },
+  {
     "short_id": "l1juhw",
     "short_id_url": "https://lobste.rs/s/l1juhw",
     "created_at": "2021-08-16T12:07:18.000-05:00",
     "title": "Why Your Dev Board Won’t Catch On: A Retrospective of Arduino’s Popularity",
     "url": "https://www.linkedin.com/pulse/why-your-dev-board-wont-catch-retrospective-arduinos-popularity",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35855,
+      "karma": 35857,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -30,7 +82,7 @@
     "created_at": "2021-08-16T11:21:21.000-05:00",
     "title": "Vieb - Vim bindings for the web by design",
     "url": "https://vieb.dev/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +93,7 @@
       "is_admin": false,
       "about": "I study the stomatogastric ganglion in crustaceans, mainly lobsters.",
       "is_moderator": false,
-      "karma": 716,
+      "karma": 717,
       "avatar_url": "/avatars/cos-100.png",
       "invited_by_user": "ngoldbaum",
       "github_username": "cosmojg",
@@ -58,7 +110,7 @@
     "created_at": "2021-08-16T08:48:43.000-05:00",
     "title": "Email Authenticity 101: DKIM, DMARC, and SPF",
     "url": "https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +121,7 @@
       "is_admin": false,
       "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
       "is_moderator": false,
-      "karma": 356,
+      "karma": 357,
       "avatar_url": "/avatars/shishy-100.png",
       "invited_by_user": "awal"
     },
@@ -84,7 +136,7 @@
     "created_at": "2021-08-16T08:14:13.000-05:00",
     "title": "Debian celebrates our 28th Anniversary",
     "url": "https://bits.debian.org/2021/08/debianday-2021.html",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +147,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 394,
+      "karma": 395,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -109,7 +161,7 @@
     "created_at": "2021-08-16T07:35:24.000-05:00",
     "title": "Async engines in C++20, Rust, & Zig",
     "url": "https://www.youtube.com/watch?v=Ws3jC6AJC_4",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -120,7 +172,7 @@
       "is_admin": false,
       "about": "Host of Zig SHOWTIME (https://zig.show)\r\n\r\ntwitter: https://twitter.com/croloris\r\ngithub: https://github.com/kristoff-it",
       "is_moderator": false,
-      "karma": 1749,
+      "karma": 1750,
       "avatar_url": "/avatars/kristoff-100.png",
       "invited_by_user": "guyroyse"
     },
@@ -166,7 +218,7 @@
     "created_at": "2021-08-16T04:01:49.000-05:00",
     "title": "Reining in the thundering herd - Getting to 80% CPU utilization with Django",
     "url": "https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -177,7 +229,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2750,
+      "karma": 2751,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -204,7 +256,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2750,
+      "karma": 2751,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -220,9 +272,9 @@
     "created_at": "2021-08-16T01:55:40.000-05:00",
     "title": "Google/zx 3.0 release",
     "url": "https://github.com/google/zx/releases/tag/3.0.0",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/pdpjvo/google_zx_3_0_release",
     "submitter_user": {
@@ -231,7 +283,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 306,
+      "karma": 307,
       "avatar_url": "/avatars/antonmedv-100.png",
       "invited_by_user": "notriddle"
     },
@@ -246,9 +298,9 @@
     "created_at": "2021-08-16T00:09:07.000-05:00",
     "title": "What domain name to use for your home network",
     "url": "https://www.ctrl.blog/entry/homenet-domain-name.html",
-    "score": 20,
+    "score": 22,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/zugtld/what_domain_name_use_for_your_home_network",
     "submitter_user": {
@@ -257,7 +309,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11719,
+      "karma": 11721,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -282,7 +334,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 394,
+      "karma": 395,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -333,7 +385,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 475,
+      "karma": 476,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -359,7 +411,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81799,
+      "karma": 81800,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -375,9 +427,9 @@
     "created_at": "2021-08-15T16:05:35.000-05:00",
     "title": "I figured out how DMARC works, and it almost broke me",
     "url": "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc",
-    "score": 71,
+    "score": 73,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/mslhsa/i_figured_out_how_dmarc_works_it_almost",
     "submitter_user": {
@@ -386,7 +438,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3552,
+      "karma": 3554,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -435,7 +487,7 @@
     "created_at": "2021-08-15T14:46:04.000-05:00",
     "title": "Namespaced De Bruijn indices",
     "url": "https://www.haskellforall.com/2021/08/namespaced-de-bruijn-indices.html",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -446,7 +498,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2991,
+      "karma": 2992,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -462,7 +514,7 @@
     "url": "https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md",
     "score": 18,
     "flags": 0,
-    "comment_count": 19,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/fzms7u/rebase_considered_harmful",
     "submitter_user": {
@@ -523,7 +575,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3332,
+      "karma": 3334,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -566,7 +618,7 @@
     "created_at": "2021-08-15T10:20:56.000-05:00",
     "title": "Blackjack - Probabilities, Strategy, Card Counting - Calculation and Simulation",
     "url": "https://easylang.online/apps/tut_blackj.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -577,7 +629,7 @@
       "is_admin": false,
       "about": "I teach computer science. I am not satisfied with the current teaching programming languages, so I made a new own: https://easylang.online . I am also interested in security and Linux.",
       "is_moderator": false,
-      "karma": 38,
+      "karma": 39,
       "avatar_url": "/avatars/chkas-100.png",
       "invited_by_user": "calvin"
     },
@@ -610,59 +662,6 @@
     "tags": [
       "performance",
       "python"
-    ]
-  },
-  {
-    "short_id": "p4roob",
-    "short_id_url": "https://lobste.rs/s/p4roob",
-    "created_at": "2021-08-15T02:23:06.000-05:00",
-    "title": "Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning",
-    "url": "https://briancallahan.net/blog/20210814.html",
-    "score": 20,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/p4roob/let_s_write_compiler_part_1_introduction",
-    "submitter_user": {
-      "username": "fcambus",
-      "created_at": "2012-09-10T08:43:10.000-05:00",
-      "is_admin": false,
-      "about": "System and Network engineer.\r\n\r\nInterests: ANSI Art, DNS, NetBSD, OpenBSD, Security, and Text Mode.\r\n\r\nSite: https://www.cambus.net",
-      "is_moderator": false,
-      "karma": 3381,
-      "avatar_url": "/avatars/fcambus-100.png",
-      "invited_by_user": "gmcabrita",
-      "github_username": "fcambus",
-      "twitter_username": "fcambus"
-    },
-    "tags": [
-      "compilers"
-    ]
-  },
-  {
-    "short_id": "ocd2lk",
-    "short_id_url": "https://lobste.rs/s/ocd2lk",
-    "created_at": "2021-08-15T02:09:07.000-05:00",
-    "title": "Debian 11 \"bullseye\" released",
-    "url": "https://lists.debian.org/debian-announce/2021/msg00004.html",
-    "score": 44,
-    "flags": 5,
-    "comment_count": 38,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ocd2lk/debian_11_bullseye_released",
-    "submitter_user": {
-      "username": "ema",
-      "created_at": "2017-02-03T03:16:02.000-06:00",
-      "is_admin": false,
-      "about": "https://github.com/ema\r\nhttps://twitter.com/realEmaRocca\r\nhttps://meta.wikimedia.org/wiki/User:ERocca_(WMF)\r\n",
-      "is_moderator": false,
-      "karma": 408,
-      "avatar_url": "/avatars/ema-100.png",
-      "invited_by_user": "nkhumphreys"
-    },
-    "tags": [
-      "linux",
-      "release"
     ]
   }
 ]
