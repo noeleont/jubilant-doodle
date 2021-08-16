@@ -1,11 +1,38 @@
 [
   {
+    "short_id": "ufvijj",
+    "short_id_url": "https://lobste.rs/s/ufvijj",
+    "created_at": "2021-08-16T03:08:26.000-05:00",
+    "title": "A Record Type Representation Trick",
+    "url": "https://weinholt.se/articles/record-type-representation-trick/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ufvijj/record_type_representation_trick",
+    "submitter_user": {
+      "username": "sjamaan",
+      "created_at": "2018-08-30T05:08:17.000-05:00",
+      "is_admin": false,
+      "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
+      "is_moderator": false,
+      "karma": 2740,
+      "avatar_url": "/avatars/sjamaan-100.png",
+      "invited_by_user": "evhan"
+    },
+    "tags": [
+      "lisp",
+      "performance",
+      "plt"
+    ]
+  },
+  {
     "short_id": "pdpjvo",
     "short_id_url": "https://lobste.rs/s/pdpjvo",
     "created_at": "2021-08-16T01:55:40.000-05:00",
     "title": "Google/zx 3.0 release",
     "url": "https://github.com/google/zx/releases/tag/3.0.0",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 298,
+      "karma": 300,
       "avatar_url": "/avatars/antonmedv-100.png",
       "invited_by_user": "notriddle"
     },
@@ -31,9 +58,9 @@
     "created_at": "2021-08-16T00:09:07.000-05:00",
     "title": "What domain name to use for your home network",
     "url": "https://www.ctrl.blog/entry/homenet-domain-name.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/zugtld/what_domain_name_use_for_your_home_network",
     "submitter_user": {
@@ -42,7 +69,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11699,
+      "karma": 11700,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -58,7 +85,7 @@
     "url": "http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html",
     "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/c0t48z/you_can_list_directory_containing_8",
     "submitter_user": {
@@ -133,7 +160,7 @@
     "created_at": "2021-08-15T17:50:51.000-05:00",
     "title": "How to write fast Rust code",
     "url": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -144,7 +171,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81782,
+      "karma": 81783,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -160,7 +187,7 @@
     "created_at": "2021-08-15T16:05:35.000-05:00",
     "title": "I figured out how DMARC works, and it almost broke me",
     "url": "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc",
-    "score": 33,
+    "score": 37,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -171,7 +198,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3514,
+      "karma": 3518,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -351,7 +378,7 @@
     "created_at": "2021-08-15T10:20:56.000-05:00",
     "title": "Blackjack - Probabilities, Strategy, Card Counting - Calculation and Simulation",
     "url": "https://easylang.online/apps/tut_blackj.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -362,7 +389,7 @@
       "is_admin": false,
       "about": "I teach computer science. I am not satisfied with the current teaching programming languages, so I made a new own: https://easylang.online . I am also interested in security and Linux.",
       "is_moderator": false,
-      "karma": 36,
+      "karma": 37,
       "avatar_url": "/avatars/chkas-100.png",
       "invited_by_user": "calvin"
     },
@@ -377,7 +404,7 @@
     "created_at": "2021-08-15T09:51:55.000-05:00",
     "title": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler",
     "url": "https://github.com/plasma-umass/scalene",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -388,7 +415,7 @@
       "is_admin": false,
       "about": "```scheme\r\n(list (cons 'backend 'python)\r\n      (cons 'frontend 'javascript)\r\n      (cons 'nlp 'wip)\r\n      (cons 'devops 'wip))\r\n```",
       "is_moderator": false,
-      "karma": 521,
+      "karma": 522,
       "avatar_url": "/avatars/amirouche-100.png",
       "invited_by_user": "bandali"
     },
@@ -403,7 +430,7 @@
     "created_at": "2021-08-15T02:23:06.000-05:00",
     "title": "Let's write a compiler, part 1: Introduction, selecting a language, and doing some planning",
     "url": "https://briancallahan.net/blog/20210814.html",
-    "score": 14,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -414,7 +441,7 @@
       "is_admin": false,
       "about": "System and Network engineer.\r\n\r\nInterests: ANSI Art, DNS, NetBSD, OpenBSD, Security, and Text Mode.\r\n\r\nSite: https://www.cambus.net",
       "is_moderator": false,
-      "karma": 3377,
+      "karma": 3380,
       "avatar_url": "/avatars/fcambus-100.png",
       "invited_by_user": "gmcabrita",
       "github_username": "fcambus",
@@ -467,7 +494,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81782,
+      "karma": 81783,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -599,7 +626,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81782,
+      "karma": 81783,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -636,33 +663,6 @@
       "mac",
       "reversing",
       "virtualization"
-    ]
-  },
-  {
-    "short_id": "i2vpnd",
-    "short_id_url": "https://lobste.rs/s/i2vpnd",
-    "created_at": "2021-08-14T07:51:09.000-05:00",
-    "title": "A Deep Dive into Nanite Virtualized Geometry",
-    "url": "http://advances.realtimerendering.com/s2021/Karis_Nanite_SIGGRAPH_Advances_2021_final.pdf",
-    "score": 18,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/i2vpnd/deep_dive_into_nanite_virtualized",
-    "submitter_user": {
-      "username": "mikejstenberg",
-      "created_at": "2013-11-10T02:38:16.000-06:00",
-      "is_admin": false,
-      "about": "mikejsavage.co.uk",
-      "is_moderator": false,
-      "karma": 3006,
-      "avatar_url": "/avatars/mikejstenberg-100.png",
-      "invited_by_user": "jonl"
-    },
-    "tags": [
-      "graphics",
-      "pdf",
-      "slides"
     ]
   }
 ]
