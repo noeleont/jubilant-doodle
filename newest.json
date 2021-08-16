@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "pdpjvo",
+    "short_id_url": "https://lobste.rs/s/pdpjvo",
+    "created_at": "2021-08-16T01:55:40.000-05:00",
+    "title": "Google/zx 3.0 release",
+    "url": "https://github.com/google/zx/releases/tag/3.0.0",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/pdpjvo/google_zx_3_0_release",
+    "submitter_user": {
+      "username": "antonmedv",
+      "created_at": "2018-09-20T00:46:59.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 298,
+      "avatar_url": "/avatars/antonmedv-100.png",
+      "invited_by_user": "notriddle"
+    },
+    "tags": [
+      "nodejs",
+      "release"
+    ]
+  },
+  {
     "short_id": "zugtld",
     "short_id_url": "https://lobste.rs/s/zugtld",
     "created_at": "2021-08-16T00:09:07.000-05:00",
@@ -58,7 +84,7 @@
     "url": "https://programming-idioms.org/about#about-block-all-idioms",
     "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/j97hji/programming_idioms",
     "submitter_user": {
@@ -107,7 +133,7 @@
     "created_at": "2021-08-15T17:50:51.000-05:00",
     "title": "How to write fast Rust code",
     "url": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -118,7 +144,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81781,
+      "karma": 81782,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -134,7 +160,7 @@
     "created_at": "2021-08-15T16:05:35.000-05:00",
     "title": "I figured out how DMARC works, and it almost broke me",
     "url": "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc",
-    "score": 32,
+    "score": 33,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -145,7 +171,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3513,
+      "karma": 3514,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -221,7 +247,7 @@
     "url": "https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md",
     "score": 10,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/fzms7u/rebase_considered_harmful",
     "submitter_user": {
@@ -271,9 +297,9 @@
     "created_at": "2021-08-15T13:20:49.000-05:00",
     "title": "Classical Data Structures That Can Outperform Learned Indexes",
     "url": "https://dawn.cs.stanford.edu//2018/01/11/index-baselines/",
-    "score": 31,
+    "score": 32,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/pvjhcl/classical_data_structures_can",
     "submitter_user": {
@@ -282,7 +308,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3320,
+      "karma": 3321,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -404,9 +430,9 @@
     "created_at": "2021-08-15T02:09:07.000-05:00",
     "title": "Debian 11 \"bullseye\" released",
     "url": "https://lists.debian.org/debian-announce/2021/msg00004.html",
-    "score": 37,
+    "score": 39,
     "flags": 5,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/ocd2lk/debian_11_bullseye_released",
     "submitter_user": {
@@ -415,7 +441,7 @@
       "is_admin": false,
       "about": "https://github.com/ema\r\nhttps://twitter.com/realEmaRocca\r\nhttps://meta.wikimedia.org/wiki/User:ERocca_(WMF)\r\n",
       "is_moderator": false,
-      "karma": 401,
+      "karma": 403,
       "avatar_url": "/avatars/ema-100.png",
       "invited_by_user": "nkhumphreys"
     },
@@ -441,7 +467,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81781,
+      "karma": 81782,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -573,7 +599,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81781,
+      "karma": 81782,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -637,34 +663,6 @@
       "graphics",
       "pdf",
       "slides"
-    ]
-  },
-  {
-    "short_id": "nd8wir",
-    "short_id_url": "https://lobste.rs/s/nd8wir",
-    "created_at": "2021-08-14T07:46:07.000-05:00",
-    "title": "Debian 11 is being released",
-    "url": "https://twitter.com/debian/status/1426446755109900293",
-    "score": 37,
-    "flags": 4,
-    "comment_count": 27,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nd8wir/debian_11_is_being_released",
-    "submitter_user": {
-      "username": "fs111",
-      "created_at": "2017-01-04T07:51:28.000-06:00",
-      "is_admin": false,
-      "about": "I am a software engineer from Berlin ",
-      "is_moderator": false,
-      "karma": 2805,
-      "avatar_url": "/avatars/fs111-100.png",
-      "invited_by_user": "drdoom",
-      "github_username": "fs111",
-      "twitter_username": "fs111"
-    },
-    "tags": [
-      "linux",
-      "release"
     ]
   }
 ]
