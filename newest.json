@@ -1,12 +1,37 @@
 [
   {
+    "short_id": "j97hji",
+    "short_id_url": "https://lobste.rs/s/j97hji",
+    "created_at": "2021-08-15T21:18:30.000-05:00",
+    "title": "Programming Idioms",
+    "url": "https://programming-idioms.org/about#about-block-all-idioms",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/j97hji/programming_idioms",
+    "submitter_user": {
+      "username": "erick",
+      "created_at": "2021-08-03T10:01:31.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 16,
+      "avatar_url": "/avatars/erick-100.png",
+      "invited_by_user": "jstoja"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "uizc3n",
     "short_id_url": "https://lobste.rs/s/uizc3n",
     "created_at": "2021-08-15T18:34:27.000-05:00",
     "title": "Does shadow DOM improve style performance?",
     "url": "https://nolanlawson.com/2021/08/15/does-shadow-dom-improve-style-performance/",
-    "score": 1,
-    "flags": 0,
+    "score": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/uizc3n/does_shadow_dom_improve_style",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 468,
+      "karma": 467,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -90,8 +115,8 @@
     "created_at": "2021-08-15T15:52:38.000-05:00",
     "title": "Top 10 Python Libraries for Machine Learning",
     "url": "https://www.zenesys.com/blog/top-10-python-libraries-for-machine-learning",
-    "score": 0,
-    "flags": 1,
+    "score": -1,
+    "flags": 2,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/jjch0a/top_10_python_libraries_for_machine",
@@ -101,7 +126,7 @@
       "is_admin": false,
       "about": "Writer. Editor. Computer geek. Chocoholic. Baseball fan. Not always in that order.",
       "is_moderator": false,
-      "karma": 445,
+      "karma": 444,
       "avatar_url": "/avatars/asteroid-100.png",
       "invited_by_user": "petdance",
       "github_username": "estherschindler",
@@ -206,7 +231,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3316,
+      "karma": 3317,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -640,33 +665,6 @@
     },
     "tags": [
       "devops"
-    ]
-  },
-  {
-    "short_id": "g60cjj",
-    "short_id_url": "https://lobste.rs/s/g60cjj",
-    "created_at": "2021-08-13T16:59:02.000-05:00",
-    "title": "Exploring Clang/LLVM optimization on programming horror",
-    "url": "https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/",
-    "score": 27,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/g60cjj/exploring_clang_llvm_optimization_on",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81777,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "compilers",
-      "performance"
     ]
   }
 ]
