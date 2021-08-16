@@ -1,5 +1,55 @@
 [
   {
+    "short_id": "o8xtic",
+    "short_id_url": "https://lobste.rs/s/o8xtic",
+    "created_at": "2021-08-16T14:49:50.000-05:00",
+    "title": "Slackware Linux 15.0 release candidate one (RC1)",
+    "url": "http://www.slackware.com/changelog/current.php?cpu=x86_64",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/o8xtic/slackware_linux_15_0_release_candidate",
+    "submitter_user": {
+      "username": "nixcraft",
+      "created_at": "2017-12-19T07:46:27.000-06:00",
+      "is_admin": false,
+      "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
+      "is_moderator": false,
+      "karma": 400,
+      "avatar_url": "/avatars/nixcraft-100.png",
+      "invited_by_user": "kintoandar"
+    },
+    "tags": [
+      "linux"
+    ]
+  },
+  {
+    "short_id": "j7mnuc",
+    "short_id_url": "https://lobste.rs/s/j7mnuc",
+    "created_at": "2021-08-16T14:29:38.000-05:00",
+    "title": "PowerShell SSH Client and Remoting Explained —",
+    "url": "https://lazyadmin.nl/powershell/powershell-ssh/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/j7mnuc/powershell_ssh_client_remoting",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11723,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "windows"
+    ]
+  },
+  {
     "short_id": "zpqmbl",
     "short_id_url": "https://lobste.rs/s/zpqmbl",
     "created_at": "2021-08-16T12:57:43.000-05:00",
@@ -42,7 +92,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11721,
+      "karma": 11723,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -57,7 +107,7 @@
     "created_at": "2021-08-16T12:07:18.000-05:00",
     "title": "Why Your Dev Board Won’t Catch On: A Retrospective of Arduino’s Popularity",
     "url": "https://www.linkedin.com/pulse/why-your-dev-board-wont-catch-retrospective-arduinos-popularity",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +118,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35857,
+      "karma": 35858,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -84,7 +134,7 @@
     "url": "https://vieb.dev/",
     "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/t55hv6/vieb_vim_bindings_for_web_by_design",
     "submitter_user": {
@@ -110,7 +160,7 @@
     "created_at": "2021-08-16T08:48:43.000-05:00",
     "title": "Email Authenticity 101: DKIM, DMARC, and SPF",
     "url": "https://www.alexblackie.com/articles/email-authenticity-dkim-spf-dmarc/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -121,7 +171,7 @@
       "is_admin": false,
       "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
       "is_moderator": false,
-      "karma": 358,
+      "karma": 359,
       "avatar_url": "/avatars/shishy-100.png",
       "invited_by_user": "awal"
     },
@@ -136,9 +186,9 @@
     "created_at": "2021-08-16T08:14:13.000-05:00",
     "title": "Debian celebrates our 28th Anniversary",
     "url": "https://bits.debian.org/2021/08/debianday-2021.html",
-    "score": 12,
+    "score": 14,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/vi6kw2/debian_celebrates_our_28th_anniversary",
     "submitter_user": {
@@ -147,7 +197,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 397,
+      "karma": 400,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -272,9 +322,9 @@
     "created_at": "2021-08-16T01:55:40.000-05:00",
     "title": "Google/zx 3.0 release",
     "url": "https://github.com/google/zx/releases/tag/3.0.0",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/pdpjvo/google_zx_3_0_release",
     "submitter_user": {
@@ -283,7 +333,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 308,
+      "karma": 309,
       "avatar_url": "/avatars/antonmedv-100.png",
       "invited_by_user": "notriddle"
     },
@@ -298,7 +348,7 @@
     "created_at": "2021-08-16T00:09:07.000-05:00",
     "title": "What domain name to use for your home network",
     "url": "https://www.ctrl.blog/entry/homenet-domain-name.html",
-    "score": 22,
+    "score": 24,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -309,7 +359,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11721,
+      "karma": 11723,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -323,7 +373,7 @@
     "created_at": "2021-08-16T00:02:42.000-05:00",
     "title": "You can list a directory containing 8 million files! But not with ls",
     "url": "http://be-n.com/spw/you-can-list-a-million-files-in-a-directory-but-not-with-ls.html",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -334,7 +384,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 397,
+      "karma": 400,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -427,7 +477,7 @@
     "created_at": "2021-08-15T16:05:35.000-05:00",
     "title": "I figured out how DMARC works, and it almost broke me",
     "url": "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc",
-    "score": 73,
+    "score": 74,
     "flags": 0,
     "comment_count": 14,
     "description": "",
@@ -438,7 +488,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3554,
+      "karma": 3555,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -610,58 +660,6 @@
     },
     "tags": [
       "practices"
-    ]
-  },
-  {
-    "short_id": "f9afru",
-    "short_id_url": "https://lobste.rs/s/f9afru",
-    "created_at": "2021-08-15T10:20:56.000-05:00",
-    "title": "Blackjack - Probabilities, Strategy, Card Counting - Calculation and Simulation",
-    "url": "https://easylang.online/apps/tut_blackj.html",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/f9afru/blackjack_probabilities_strategy_card",
-    "submitter_user": {
-      "username": "chkas",
-      "created_at": "2019-07-01T16:56:27.000-05:00",
-      "is_admin": false,
-      "about": "I teach computer science. I am not satisfied with the current teaching programming languages, so I made a new own: https://easylang.online . I am also interested in security and Linux.",
-      "is_moderator": false,
-      "karma": 39,
-      "avatar_url": "/avatars/chkas-100.png",
-      "invited_by_user": "calvin"
-    },
-    "tags": [
-      "math",
-      "programming"
-    ]
-  },
-  {
-    "short_id": "gk8tek",
-    "short_id_url": "https://lobste.rs/s/gk8tek",
-    "created_at": "2021-08-15T09:51:55.000-05:00",
-    "title": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler",
-    "url": "https://github.com/plasma-umass/scalene",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/gk8tek/scalene_high_performance_high_precision",
-    "submitter_user": {
-      "username": "amirouche",
-      "created_at": "2019-10-02T13:25:07.000-05:00",
-      "is_admin": false,
-      "about": "```scheme\r\n(list (cons 'backend 'python)\r\n      (cons 'frontend 'javascript)\r\n      (cons 'nlp 'wip)\r\n      (cons 'devops 'wip))\r\n```",
-      "is_moderator": false,
-      "karma": 524,
-      "avatar_url": "/avatars/amirouche-100.png",
-      "invited_by_user": "bandali"
-    },
-    "tags": [
-      "performance",
-      "python"
     ]
   }
 ]
