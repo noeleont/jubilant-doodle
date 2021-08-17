@@ -1,5 +1,82 @@
 [
   {
+    "short_id": "s7h88m",
+    "short_id_url": "https://lobste.rs/s/s7h88m",
+    "created_at": "2021-08-17T17:14:19.000-05:00",
+    "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
+    "url": "https://github.com/ms-jpq/coq_nvim",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/s7h88m/coq_nvim_fast_nvim_completion_sqlite",
+    "submitter_user": {
+      "username": "jawr",
+      "created_at": "2021-03-22T03:18:48.000-05:00",
+      "is_admin": false,
+      "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
+      "is_moderator": false,
+      "karma": 25,
+      "avatar_url": "/avatars/jawr-100.png",
+      "invited_by_user": "rtpg"
+    },
+    "tags": [
+      "vim"
+    ]
+  },
+  {
+    "short_id": "xy6hck",
+    "short_id_url": "https://lobste.rs/s/xy6hck",
+    "created_at": "2021-08-17T16:51:45.000-05:00",
+    "title": "Afterglow: A live-coding environment for Clojure",
+    "url": "https://github.com/Deep-Symmetry/afterglow?",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xy6hck/afterglow_live_coding_environment_for",
+    "submitter_user": {
+      "username": "Yogthos",
+      "created_at": "2017-05-26T15:31:12.000-05:00",
+      "is_admin": false,
+      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
+      "is_moderator": false,
+      "karma": 7080,
+      "avatar_url": "/avatars/Yogthos-100.png",
+      "invited_by_user": "gered"
+    },
+    "tags": [
+      "art",
+      "clojure"
+    ]
+  },
+  {
+    "short_id": "fy0jpi",
+    "short_id_url": "https://lobste.rs/s/fy0jpi",
+    "created_at": "2021-08-17T16:29:28.000-05:00",
+    "title": "a brief history of man pages from twitter",
+    "url": "https://twitter.com/lemay/status/1427648667805093888",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fy0jpi/brief_history_man_pages_from_twitter",
+    "submitter_user": {
+      "username": "mattrose",
+      "created_at": "2018-06-12T13:21:06.000-05:00",
+      "is_admin": false,
+      "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
+      "is_moderator": false,
+      "karma": 1065,
+      "avatar_url": "/avatars/mattrose-100.png",
+      "invited_by_user": "jimdigriz"
+    },
+    "tags": [
+      "historical",
+      "unix"
+    ]
+  },
+  {
     "short_id": "jogucm",
     "short_id_url": "https://lobste.rs/s/jogucm",
     "created_at": "2021-08-17T15:35:07.000-05:00",
@@ -16,7 +93,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20086,
+      "karma": 20087,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -32,7 +109,7 @@
     "created_at": "2021-08-17T14:58:28.000-05:00",
     "title": "Performance Improvements in .NET 6",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +120,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1213,
+      "karma": 1214,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -61,7 +138,7 @@
     "created_at": "2021-08-17T14:54:18.000-05:00",
     "title": "Reversing Commander Keen LZ91 packer",
     "url": "https://www.lodsb.com/reversing-lz91-from-commander-keen",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -72,7 +149,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2048,
+      "karma": 2051,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -88,8 +165,8 @@
     "created_at": "2021-08-17T14:40:43.000-05:00",
     "title": "Porting a Perl script to Raku while keeping the Perl dependencies",
     "url": "https://phoenixtrap.com/2021/08/17/perl-raku-best-frenemies/",
-    "score": 2,
-    "flags": 0,
+    "score": 1,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/6nyzjf/porting_perl_script_raku_while_keeping",
@@ -99,7 +176,7 @@
       "is_admin": false,
       "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
       "is_moderator": false,
-      "karma": 21,
+      "karma": 20,
       "avatar_url": "/avatars/mjgardner-100.png",
       "invited_by_user": "ngoldbaum",
       "github_username": "mjgardner",
@@ -146,9 +223,9 @@
     "created_at": "2021-08-17T14:32:44.000-05:00",
     "title": "Firefox 91 - Revert to old tab style",
     "url": "https://superuser.com/a/1669549/9067",
-    "score": 1,
+    "score": 3,
     "flags": 2,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/5deztm/firefox_91_revert_old_tab_style",
     "submitter_user": {
@@ -157,7 +234,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 146,
+      "karma": 148,
       "avatar_url": "/avatars/thangalin-100.png",
       "invited_by_user": "shazow"
     },
@@ -198,7 +275,7 @@
     "created_at": "2021-08-17T13:34:48.000-05:00",
     "title": "Spectacle-A language for Writing & Checking Formal Specifications in Haskell",
     "url": "https://awakesecurity.com/blog/spectacle-a-language-for-writing-and-checking-formal-specifications-in-haskell/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -209,7 +286,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20086,
+      "karma": 20087,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -226,7 +303,7 @@
     "created_at": "2021-08-17T12:42:59.000-05:00",
     "title": "Karatsuba's Multiplication Trick Summarised in 1 Minute",
     "url": "https://www.youtube.com/watch?v=LCY4dnm88oI",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -237,7 +314,7 @@
       "is_admin": false,
       "about": "Striving to learn as much as possible in Math ∪ Computer Science ∖ Machine Learning, with strong tendencies towards proof assistants, automated reasoning, compilers, programming language theory, software bootstrapping, abstract algebra, cryptography, and security.\r\n\r\nPlaying CTF at p4.team every now and then.",
       "is_moderator": false,
-      "karma": 248,
+      "karma": 249,
       "avatar_url": "/avatars/NieDzejkob-100.png",
       "invited_by_user": "jix",
       "keybase_signatures": [
@@ -259,7 +336,7 @@
     "created_at": "2021-08-17T12:42:39.000-05:00",
     "title": "Mapping concepts to colors (terribly) with the Oklab perceptual colospace",
     "url": "https://nessuent.xyz/posts/2021-08-17_concept_to_color.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -270,7 +347,7 @@
       "is_admin": false,
       "about": "link aggregator https://sic.pm \r\n\r\nhttps://chaos.social/@epilys\r\nhttps://github.com/epilys\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 771,
+      "karma": 772,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -349,7 +426,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1213,
+      "karma": 1214,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -367,9 +444,9 @@
     "created_at": "2021-08-17T10:37:06.000-05:00",
     "title": "Programming Language Fragility",
     "url": "https://cancel.fm/blog/2019-11/language-fragility/",
-    "score": 12,
+    "score": 15,
     "flags": 0,
-    "comment_count": 20,
+    "comment_count": 25,
     "description": "",
     "comments_url": "https://lobste.rs/s/63vqsu/programming_language_fragility",
     "submitter_user": {
@@ -378,7 +455,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 557,
+      "karma": 561,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -392,7 +469,7 @@
     "created_at": "2021-08-17T10:14:32.000-05:00",
     "title": "Adventures in WebRTC: Making Phone Calls from XMPP",
     "url": "https://blog.jmp.chat/b/adventures-in-webrtc-making-phone-calls-from-xmpp-znLOT5",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -403,7 +480,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2821,
+      "karma": 2822,
       "avatar_url": "/avatars/singpolyma-100.png",
       "invited_by_user": "ossguy",
       "github_username": "singpolyma",
@@ -500,9 +577,9 @@
     "created_at": "2021-08-17T09:24:09.000-05:00",
     "title": "New Heterodox Mono: A Didone-esque Monospaced Typeface based on Alexey Kryukov's Old Standard TT",
     "url": "https://github.com/hckiang/font-new-heterodox-mono/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/jnhmtx/new_heterodox_mono_didone_esque",
     "submitter_user": {
@@ -511,7 +588,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2587,
+      "karma": 2588,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -579,9 +656,9 @@
     "created_at": "2021-08-17T08:38:22.000-05:00",
     "title": "Speeding up `atan2f` by 50x",
     "url": "https://mazzo.li/posts/vectorized-atan2.html",
-    "score": 13,
+    "score": 15,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/r8am5c/speeding_up_atan2f_by_50x",
     "submitter_user": {
@@ -590,7 +667,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2048,
+      "karma": 2051,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -600,84 +677,6 @@
       "c",
       "math",
       "performance"
-    ]
-  },
-  {
-    "short_id": "igljpf",
-    "short_id_url": "https://lobste.rs/s/igljpf",
-    "created_at": "2021-08-17T08:24:48.000-05:00",
-    "title": "Linux glibc security fix created a nastier Linux bug",
-    "url": "https://www.zdnet.com/article/linux-glibc-security-fix-created-a-nastier-linux-bug/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/igljpf/linux_glibc_security_fix_created_nastier",
-    "submitter_user": {
-      "username": "Yogthos",
-      "created_at": "2017-05-26T15:31:12.000-05:00",
-      "is_admin": false,
-      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
-      "is_moderator": false,
-      "karma": 7078,
-      "avatar_url": "/avatars/Yogthos-100.png",
-      "invited_by_user": "gered"
-    },
-    "tags": [
-      "linux",
-      "security"
-    ]
-  },
-  {
-    "short_id": "tq0bcf",
-    "short_id_url": "https://lobste.rs/s/tq0bcf",
-    "created_at": "2021-08-17T06:09:16.000-05:00",
-    "title": "The Quest for Very Wide Outlines",
-    "url": "https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9",
-    "score": 21,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/tq0bcf/quest_for_very_wide_outlines",
-    "submitter_user": {
-      "username": "mikejstenberg",
-      "created_at": "2013-11-10T02:38:16.000-06:00",
-      "is_admin": false,
-      "about": "mikejsavage.co.uk",
-      "is_moderator": false,
-      "karma": 3026,
-      "avatar_url": "/avatars/mikejstenberg-100.png",
-      "invited_by_user": "jonl"
-    },
-    "tags": [
-      "graphics"
-    ]
-  },
-  {
-    "short_id": "ehtwox",
-    "short_id_url": "https://lobste.rs/s/ehtwox",
-    "created_at": "2021-08-17T05:39:34.000-05:00",
-    "title": "Psst: Fast Spotify client with native GUI, without Electron, built in Rust",
-    "url": "https://github.com/jpochyla/psst",
-    "score": 49,
-    "flags": 0,
-    "comment_count": 22,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ehtwox/psst_fast_spotify_client_with_native_gui",
-    "submitter_user": {
-      "username": "stick",
-      "created_at": "2021-02-15T16:44:15.000-06:00",
-      "is_admin": false,
-      "about": "**Strengthening the power and independence of individuals via open-source software and hardware projects.**\r\n\r\nCo-founder and CTO of [SatoshiLabs](https://satoshilabs.com).\r\nAll-around hacker working on [Bitcoin](https://bitcoincore.org), [Trezor](https://trezor.io), [NixOS](https://nixos.org) and other open-source projects.",
-      "is_moderator": false,
-      "karma": 59,
-      "avatar_url": "/avatars/stick-100.png",
-      "invited_by_user": "premysl",
-      "github_username": "prusnak",
-      "twitter_username": "pavolrusnak"
-    },
-    "tags": [
-      "rust"
     ]
   }
 ]
