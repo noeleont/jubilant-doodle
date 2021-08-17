@@ -1,13 +1,125 @@
 [
   {
+    "short_id": "ssajnc",
+    "short_id_url": "https://lobste.rs/s/ssajnc",
+    "created_at": "2021-08-17T12:42:59.000-05:00",
+    "title": "Karatsuba's Multiplication Trick Summarised in 1 Minute",
+    "url": "https://www.youtube.com/watch?v=LCY4dnm88oI",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ssajnc/karatsuba_s_multiplication_trick",
+    "submitter_user": {
+      "username": "NieDzejkob",
+      "created_at": "2021-05-06T06:49:21.000-05:00",
+      "is_admin": false,
+      "about": "Striving to learn as much as possible in Math ∪ Computer Science ∖ Machine Learning, with strong tendencies towards proof assistants, automated reasoning, compilers, programming language theory, software bootstrapping, abstract algebra, cryptography, and security.\r\n\r\nPlaying CTF at p4.team every now and then.",
+      "is_moderator": false,
+      "karma": 246,
+      "avatar_url": "/avatars/NieDzejkob-100.png",
+      "invited_by_user": "jix",
+      "keybase_signatures": [
+        {
+          "kb_username": "niedzejkob",
+          "sig_hash": "b0430d6a6e06124e80a3fadf619f22345584426c7baa4b557f01d6a79331d9340f"
+        }
+      ]
+    },
+    "tags": [
+      "compsci",
+      "math",
+      "video"
+    ]
+  },
+  {
+    "short_id": "2alhft",
+    "short_id_url": "https://lobste.rs/s/2alhft",
+    "created_at": "2021-08-17T12:42:39.000-05:00",
+    "title": "Mapping concepts to colors (terribly) with the Oklab perceptual colospace",
+    "url": "https://nessuent.xyz/posts/2021-08-17_concept_to_color.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/2alhft/mapping_concepts_colors_terribly_with",
+    "submitter_user": {
+      "username": "epilys",
+      "created_at": "2017-05-09T09:29:51.000-05:00",
+      "is_admin": false,
+      "about": "link aggregator https://sic.pm \r\n\r\nhttps://chaos.social/@epilys\r\nhttps://github.com/epilys\r\nmeli terminal mail client https://meli.delivery",
+      "is_moderator": false,
+      "karma": 770,
+      "avatar_url": "/avatars/epilys-100.png",
+      "invited_by_user": "river",
+      "github_username": "epilys"
+    },
+    "tags": [
+      "graphics"
+    ]
+  },
+  {
+    "short_id": "61riex",
+    "short_id_url": "https://lobste.rs/s/61riex",
+    "created_at": "2021-08-17T12:40:48.000-05:00",
+    "title": "Evolving Structures in Complex Systems",
+    "url": "https://arxiv.org/pdf/1911.01086.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/61riex/evolving_structures_complex_systems",
+    "submitter_user": {
+      "username": "Ameo",
+      "created_at": "2017-07-03T15:13:43.000-05:00",
+      "is_admin": false,
+      "about": "I'm a programmer.\r\n\r\nI'm interested in a bunch of stuff: Generative art, autonomous systems, low-level optimization, web development, etc. ",
+      "is_moderator": false,
+      "karma": 259,
+      "avatar_url": "/avatars/Ameo-100.png",
+      "invited_by_user": "friendlysock",
+      "github_username": "Ameobea",
+      "twitter_username": "Ameobea10"
+    },
+    "tags": [
+      "compsci",
+      "pdf"
+    ]
+  },
+  {
+    "short_id": "itzv0a",
+    "short_id_url": "https://lobste.rs/s/itzv0a",
+    "created_at": "2021-08-17T12:30:19.000-05:00",
+    "title": "How to create a property wrapper in Swift",
+    "url": "https://swiftwithmajid.com/2021/08/11/how-to-create-a-property-wrapper-in-swift/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/itzv0a/how_create_property_wrapper_swift",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 1955,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "swift"
+    ]
+  },
+  {
     "short_id": "hmiu9j",
     "short_id_url": "https://lobste.rs/s/hmiu9j",
     "created_at": "2021-08-17T11:36:49.000-05:00",
     "title": "Full stack language that compiles to JavaScript with builtin syntax for DOM tags and CSS",
     "url": "https://imba.io/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/hmiu9j/full_stack_language_compiles_javascript",
     "submitter_user": {
@@ -16,7 +128,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1210,
+      "karma": 1211,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -34,9 +146,9 @@
     "created_at": "2021-08-17T10:37:06.000-05:00",
     "title": "Programming Language Fragility",
     "url": "https://cancel.fm/blog/2019-11/language-fragility/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/63vqsu/programming_language_fragility",
     "submitter_user": {
@@ -45,7 +157,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 545,
+      "karma": 549,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -59,7 +171,7 @@
     "created_at": "2021-08-17T10:14:32.000-05:00",
     "title": "Adventures in WebRTC: Making Phone Calls from XMPP",
     "url": "https://blog.jmp.chat/b/adventures-in-webrtc-making-phone-calls-from-xmpp-znLOT5",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +182,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2817,
+      "karma": 2819,
       "avatar_url": "/avatars/singpolyma-100.png",
       "invited_by_user": "ossguy",
       "github_username": "singpolyma",
@@ -103,7 +215,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1954,
+      "karma": 1955,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -128,7 +240,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1954,
+      "karma": 1955,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -142,7 +254,7 @@
     "created_at": "2021-08-17T09:59:05.000-05:00",
     "title": "Another year of Sofle keyboard",
     "url": "https://josef-adamcik.cz/electronics/another_year_for_sofle.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -153,7 +265,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1954,
+      "karma": 1955,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -167,9 +279,9 @@
     "created_at": "2021-08-17T09:24:09.000-05:00",
     "title": "New Heterodox Mono: A Didone-esque Monospaced Typeface based on Alexey Kryukov's Old Standard TT",
     "url": "https://github.com/hckiang/font-new-heterodox-mono/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/jnhmtx/new_heterodox_mono_didone_esque",
     "submitter_user": {
@@ -178,7 +290,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2583,
+      "karma": 2584,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -246,9 +358,9 @@
     "created_at": "2021-08-17T08:38:22.000-05:00",
     "title": "Speeding up `atan2f` by 50x",
     "url": "https://mazzo.li/posts/vectorized-atan2.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/r8am5c/speeding_up_atan2f_by_50x",
     "submitter_user": {
@@ -257,7 +369,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2041,
+      "karma": 2043,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -326,9 +438,9 @@
     "created_at": "2021-08-17T05:39:34.000-05:00",
     "title": "Psst: Fast Spotify client with native GUI, without Electron, built in Rust",
     "url": "https://github.com/jpochyla/psst",
-    "score": 37,
+    "score": 41,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/ehtwox/psst_fast_spotify_client_with_native_gui",
     "submitter_user": {
@@ -337,7 +449,7 @@
       "is_admin": false,
       "about": "**Strengthening the power and independence of individuals via open-source software and hardware projects.**\r\n\r\nCo-founder and CTO of [SatoshiLabs](https://satoshilabs.com).\r\nAll-around hacker working on [Bitcoin](https://bitcoincore.org), [Trezor](https://trezor.io), [NixOS](https://nixos.org) and other open-source projects.",
       "is_moderator": false,
-      "karma": 47,
+      "karma": 51,
       "avatar_url": "/avatars/stick-100.png",
       "invited_by_user": "premysl",
       "github_username": "prusnak",
@@ -353,7 +465,7 @@
     "created_at": "2021-08-17T05:15:14.000-05:00",
     "title": "Introducing incomplete: A Simple Clojure Code Completion Library",
     "url": "http://metaredux.com/posts/2021/08/17/introducing-incomplete-a-simple-clojure-code-completion-library.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -364,7 +476,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 949,
+      "karma": 950,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -416,7 +528,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 431,
+      "karma": 432,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -433,7 +545,7 @@
     "url": "https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html",
     "score": 9,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/mmvusm/homa_receiver_driven_low_latency",
     "submitter_user": {
@@ -442,7 +554,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81832,
+      "karma": 81835,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -485,9 +597,9 @@
     "created_at": "2021-08-16T19:28:44.000-05:00",
     "title": "How Free Monads Yield Extensible Effects",
     "url": "https://blog.cofree.coffee/2021-08-16-how-free-monads-yield-extensible-effects/",
-    "score": 17,
+    "score": 19,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/mcsk6m/how_free_monads_yield_extensible_effects",
     "submitter_user": {
@@ -496,7 +608,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 121,
+      "karma": 123,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -539,7 +651,7 @@
     "url": "https://readable.sourceforge.io/",
     "score": 11,
     "flags": 0,
-    "comment_count": 20,
+    "comment_count": 21,
     "description": "<p>See also: <a href=\"https://dwheeler.com/readable/sweet-expressions.html\" rel=\"ugc\">Curly infix, Modern-expressions, and Sweet-expressions: A suite of readable formats for Lisp-like languages</a>. (<a href=\"https://lobste.rs/s/ciowo8/sweet_expressions_readable_format_for\" rel=\"ugc\">Discussed on Lobsters 4 years ago</a>)</p>\n",
     "comments_url": "https://lobste.rs/s/747lxt/readable_lisp_s_expressions_project",
     "submitter_user": {
@@ -554,107 +666,6 @@
     },
     "tags": [
       "lisp"
-    ]
-  },
-  {
-    "short_id": "wfl1of",
-    "short_id_url": "https://lobste.rs/s/wfl1of",
-    "created_at": "2021-08-16T16:57:21.000-05:00",
-    "title": "Go 1.17 is released",
-    "url": "https://blog.golang.org/go1.17",
-    "score": 58,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wfl1of/go_1_17_is_released",
-    "submitter_user": {
-      "username": "xiaq",
-      "created_at": "2018-03-29T08:24:32.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 317,
-      "avatar_url": "/avatars/xiaq-100.png",
-      "invited_by_user": "nomto"
-    },
-    "tags": [
-      "go",
-      "release"
-    ]
-  },
-  {
-    "short_id": "f47bhp",
-    "short_id_url": "https://lobste.rs/s/f47bhp",
-    "created_at": "2021-08-16T16:46:40.000-05:00",
-    "title": "Announcing Delta – Operational Transform in Elixir",
-    "url": "https://slab.com/blog/announcing-delta-for-elixir/",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/f47bhp/announcing_delta_operational_transform",
-    "submitter_user": {
-      "username": "shyr",
-      "created_at": "2018-12-11T17:10:33.000-06:00",
-      "is_admin": false,
-      "about": "Ruby, Elixir, Shell and JS!",
-      "is_moderator": false,
-      "karma": 50,
-      "avatar_url": "/avatars/shyr-100.png",
-      "invited_by_user": "alynpost"
-    },
-    "tags": [
-      "elixir"
-    ]
-  },
-  {
-    "short_id": "o8xtic",
-    "short_id_url": "https://lobste.rs/s/o8xtic",
-    "created_at": "2021-08-16T14:49:50.000-05:00",
-    "title": "Slackware Linux 15.0 release candidate one (RC1)",
-    "url": "http://www.slackware.com/changelog/current.php?cpu=x86_64",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/o8xtic/slackware_linux_15_0_release_candidate",
-    "submitter_user": {
-      "username": "nixcraft",
-      "created_at": "2017-12-19T07:46:27.000-06:00",
-      "is_admin": false,
-      "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
-      "is_moderator": false,
-      "karma": 431,
-      "avatar_url": "/avatars/nixcraft-100.png",
-      "invited_by_user": "kintoandar"
-    },
-    "tags": [
-      "linux"
-    ]
-  },
-  {
-    "short_id": "j7mnuc",
-    "short_id_url": "https://lobste.rs/s/j7mnuc",
-    "created_at": "2021-08-16T14:29:38.000-05:00",
-    "title": "PowerShell SSH Client and Remoting Explained —",
-    "url": "https://lazyadmin.nl/powershell/powershell-ssh/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/j7mnuc/powershell_ssh_client_remoting",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11742,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "windows"
     ]
   }
 ]
