@@ -1,11 +1,65 @@
 [
   {
+    "short_id": "mmvusm",
+    "short_id_url": "https://lobste.rs/s/mmvusm",
+    "created_at": "2021-08-16T20:38:45.000-05:00",
+    "title": "Homa: A Receiver-Driven Low-Latency Transport Protocol Using Network Priorities, Part I",
+    "url": "https://www.micahlerner.com/2021/08/15/a-linux-kernel-implementation-of-the-homa-transport-protocol.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/mmvusm/homa_receiver_driven_low_latency",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81806,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
+    "short_id": "zd43br",
+    "short_id_url": "https://lobste.rs/s/zd43br",
+    "created_at": "2021-08-16T20:01:28.000-05:00",
+    "title": "Microprocessor Simulation and Program Assembling Using Spreadsheets (2000)",
+    "url": "http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1029.4310&rep=rep1&type=pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zd43br/microprocessor_simulation_program",
+    "submitter_user": {
+      "username": "breck",
+      "created_at": "2019-04-15T00:02:13.000-05:00",
+      "is_admin": false,
+      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
+      "is_moderator": false,
+      "karma": 1014,
+      "avatar_url": "/avatars/breck-100.png",
+      "invited_by_user": "ec",
+      "github_username": "breck7",
+      "twitter_username": "breckyunits"
+    },
+    "tags": [
+      "assembly",
+      "pdf"
+    ]
+  },
+  {
     "short_id": "mcsk6m",
     "short_id_url": "https://lobste.rs/s/mcsk6m",
     "created_at": "2021-08-16T19:28:44.000-05:00",
     "title": "How Free Monads Yield Extensible Effects",
     "url": "https://blog.cofree.coffee/2021-08-16-how-free-monads-yield-extensible-effects/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +70,7 @@
       "is_admin": false,
       "about": "I love functional programming.",
       "is_moderator": false,
-      "karma": 105,
+      "karma": 106,
       "avatar_url": "/avatars/solomon-100.png",
       "invited_by_user": "rhonorv"
     },
@@ -82,7 +136,7 @@
     "created_at": "2021-08-16T16:57:21.000-05:00",
     "title": "Go 1.17 is released",
     "url": "https://blog.golang.org/go1.17",
-    "score": 11,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -93,7 +147,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 270,
+      "karma": 272,
       "avatar_url": "/avatars/xiaq-100.png",
       "invited_by_user": "nomto"
     },
@@ -108,7 +162,7 @@
     "created_at": "2021-08-16T16:46:40.000-05:00",
     "title": "Announcing Delta – Operational Transform in Elixir",
     "url": "https://slab.com/blog/announcing-delta-for-elixir/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -119,7 +173,7 @@
       "is_admin": false,
       "about": "Ruby, Elixir, Shell and JS!",
       "is_moderator": false,
-      "karma": 38,
+      "karma": 40,
       "avatar_url": "/avatars/shyr-100.png",
       "invited_by_user": "alynpost"
     },
@@ -169,7 +223,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11732,
+      "karma": 11735,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -220,7 +274,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11732,
+      "karma": 11735,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -235,9 +289,9 @@
     "created_at": "2021-08-16T12:07:18.000-05:00",
     "title": "Why Your Dev Board Won’t Catch On: A Retrospective of Arduino’s Popularity",
     "url": "https://www.linkedin.com/pulse/why-your-dev-board-wont-catch-retrospective-arduinos-popularity",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/l1juhw/why_your_dev_board_won_t_catch_on",
     "submitter_user": {
@@ -246,7 +300,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35865,
+      "karma": 35866,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -339,7 +393,7 @@
     "created_at": "2021-08-16T07:35:24.000-05:00",
     "title": "Async engines in C++20, Rust, & Zig",
     "url": "https://www.youtube.com/watch?v=Ws3jC6AJC_4",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -350,7 +404,7 @@
       "is_admin": false,
       "about": "Host of Zig SHOWTIME (https://zig.show)\r\n\r\ntwitter: https://twitter.com/croloris\r\ngithub: https://github.com/kristoff-it",
       "is_moderator": false,
-      "karma": 1754,
+      "karma": 1756,
       "avatar_url": "/avatars/kristoff-100.png",
       "invited_by_user": "guyroyse"
     },
@@ -450,7 +504,7 @@
     "created_at": "2021-08-16T01:55:40.000-05:00",
     "title": "Google/zx 3.0 release",
     "url": "https://github.com/google/zx/releases/tag/3.0.0",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -461,7 +515,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 319,
+      "karma": 320,
       "avatar_url": "/avatars/antonmedv-100.png",
       "invited_by_user": "notriddle"
     },
@@ -476,9 +530,9 @@
     "created_at": "2021-08-16T00:09:07.000-05:00",
     "title": "What domain name to use for your home network",
     "url": "https://www.ctrl.blog/entry/homenet-domain-name.html",
-    "score": 29,
+    "score": 32,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/zugtld/what_domain_name_use_for_your_home_network",
     "submitter_user": {
@@ -487,7 +541,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11732,
+      "karma": 11735,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -597,66 +651,6 @@
     "tags": [
       "performance",
       "rust"
-    ]
-  },
-  {
-    "short_id": "mslhsa",
-    "short_id_url": "https://lobste.rs/s/mslhsa",
-    "created_at": "2021-08-15T16:05:35.000-05:00",
-    "title": "I figured out how DMARC works, and it almost broke me",
-    "url": "https://simonandrews.ca/articles/how-to-set-up-spf-dkim-dmarc",
-    "score": 79,
-    "flags": 0,
-    "comment_count": 15,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/mslhsa/i_figured_out_how_dmarc_works_it_almost",
-    "submitter_user": {
-      "username": "knl",
-      "created_at": "2017-07-21T07:12:24.000-05:00",
-      "is_admin": false,
-      "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
-      "is_moderator": false,
-      "karma": 3560,
-      "avatar_url": "/avatars/knl-100.png",
-      "invited_by_user": "james",
-      "github_username": "knl",
-      "keybase_signatures": [
-        {
-          "kb_username": "knl",
-          "sig_hash": "cb1fe17fead6d360f9abca902132b2407ee736f1a243f615ad9757dfe8d17e3b0f"
-        }
-      ]
-    },
-    "tags": [
-      "email"
-    ]
-  },
-  {
-    "short_id": "jjch0a",
-    "short_id_url": "https://lobste.rs/s/jjch0a",
-    "created_at": "2021-08-15T15:52:38.000-05:00",
-    "title": "Top 10 Python Libraries for Machine Learning",
-    "url": "https://www.zenesys.com/blog/top-10-python-libraries-for-machine-learning",
-    "score": -1,
-    "flags": 2,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jjch0a/top_10_python_libraries_for_machine",
-    "submitter_user": {
-      "username": "asteroid",
-      "created_at": "2020-01-29T13:58:14.000-06:00",
-      "is_admin": false,
-      "about": "Writer. Editor. Computer geek. Chocoholic. Baseball fan. Not always in that order.",
-      "is_moderator": false,
-      "karma": 444,
-      "avatar_url": "/avatars/asteroid-100.png",
-      "invited_by_user": "petdance",
-      "github_username": "estherschindler",
-      "twitter_username": "estherschindler"
-    },
-    "tags": [
-      "ai",
-      "python"
     ]
   }
 ]
