@@ -1,13 +1,42 @@
 [
   {
+    "short_id": "hmiu9j",
+    "short_id_url": "https://lobste.rs/s/hmiu9j",
+    "created_at": "2021-08-17T11:36:49.000-05:00",
+    "title": "Full stack language that compiles to JavaScript with builtin syntax for DOM tags and CSS",
+    "url": "https://imba.io/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hmiu9j/full_stack_language_compiles_javascript",
+    "submitter_user": {
+      "username": "eatonphil",
+      "created_at": "2019-09-01T20:23:02.000-05:00",
+      "is_admin": false,
+      "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
+      "is_moderator": false,
+      "karma": 1210,
+      "avatar_url": "/avatars/eatonphil-100.png",
+      "invited_by_user": "calvin",
+      "github_username": "eatonphil",
+      "twitter_username": "phil_eaton"
+    },
+    "tags": [
+      "javascript",
+      "plt",
+      "web"
+    ]
+  },
+  {
     "short_id": "63vqsu",
     "short_id_url": "https://lobste.rs/s/63vqsu",
     "created_at": "2021-08-17T10:37:06.000-05:00",
     "title": "Programming Language Fragility",
     "url": "https://cancel.fm/blog/2019-11/language-fragility/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/63vqsu/programming_language_fragility",
     "submitter_user": {
@@ -16,7 +45,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 543,
+      "karma": 545,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -30,7 +59,7 @@
     "created_at": "2021-08-17T10:14:32.000-05:00",
     "title": "Adventures in WebRTC: Making Phone Calls from XMPP",
     "url": "https://blog.jmp.chat/b/adventures-in-webrtc-making-phone-calls-from-xmpp-znLOT5",
-    "score": 3,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +70,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2813,
+      "karma": 2817,
       "avatar_url": "/avatars/singpolyma-100.png",
       "invited_by_user": "ossguy",
       "github_username": "singpolyma",
@@ -74,7 +103,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1952,
+      "karma": 1954,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -88,7 +117,7 @@
     "created_at": "2021-08-17T10:00:46.000-05:00",
     "title": "Slice Patterns",
     "url": "https://adventures.michaelfbryan.com/posts/daily/slice-patterns/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -99,7 +128,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1952,
+      "karma": 1954,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -113,7 +142,7 @@
     "created_at": "2021-08-17T09:59:05.000-05:00",
     "title": "Another year of Sofle keyboard",
     "url": "https://josef-adamcik.cz/electronics/another_year_for_sofle.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -124,7 +153,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1952,
+      "karma": 1954,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -138,9 +167,9 @@
     "created_at": "2021-08-17T09:24:09.000-05:00",
     "title": "New Heterodox Mono: A Didone-esque Monospaced Typeface based on Alexey Kryukov's Old Standard TT",
     "url": "https://github.com/hckiang/font-new-heterodox-mono/",
-    "score": 5,
+    "score": 8,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/jnhmtx/new_heterodox_mono_didone_esque",
     "submitter_user": {
@@ -149,7 +178,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2580,
+      "karma": 2583,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -217,9 +246,9 @@
     "created_at": "2021-08-17T08:38:22.000-05:00",
     "title": "Speeding up `atan2f` by 50x",
     "url": "https://mazzo.li/posts/vectorized-atan2.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/r8am5c/speeding_up_atan2f_by_50x",
     "submitter_user": {
@@ -228,7 +257,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2040,
+      "karma": 2041,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -246,9 +275,9 @@
     "created_at": "2021-08-17T08:24:48.000-05:00",
     "title": "Linux glibc security fix created a nastier Linux bug",
     "url": "https://www.zdnet.com/article/linux-glibc-security-fix-created-a-nastier-linux-bug/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/igljpf/linux_glibc_security_fix_created_nastier",
     "submitter_user": {
@@ -257,7 +286,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7075,
+      "karma": 7077,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -272,7 +301,7 @@
     "created_at": "2021-08-17T06:09:16.000-05:00",
     "title": "The Quest for Very Wide Outlines",
     "url": "https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9",
-    "score": 14,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -283,7 +312,7 @@
       "is_admin": false,
       "about": "mikejsavage.co.uk",
       "is_moderator": false,
-      "karma": 3019,
+      "karma": 3021,
       "avatar_url": "/avatars/mikejstenberg-100.png",
       "invited_by_user": "jonl"
     },
@@ -297,7 +326,7 @@
     "created_at": "2021-08-17T05:39:34.000-05:00",
     "title": "Psst: Fast Spotify client with native GUI, without Electron, built in Rust",
     "url": "https://github.com/jpochyla/psst",
-    "score": 34,
+    "score": 37,
     "flags": 0,
     "comment_count": 13,
     "description": "",
@@ -308,7 +337,7 @@
       "is_admin": false,
       "about": "**Strengthening the power and independence of individuals via open-source software and hardware projects.**\r\n\r\nCo-founder and CTO of [SatoshiLabs](https://satoshilabs.com).\r\nAll-around hacker working on [Bitcoin](https://bitcoincore.org), [Trezor](https://trezor.io), [NixOS](https://nixos.org) and other open-source projects.",
       "is_moderator": false,
-      "karma": 44,
+      "karma": 47,
       "avatar_url": "/avatars/stick-100.png",
       "invited_by_user": "premysl",
       "github_username": "prusnak",
@@ -335,7 +364,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 948,
+      "karma": 949,
       "avatar_url": "/avatars/bbatsov-100.png",
       "invited_by_user": "dragandj"
     },
@@ -533,9 +562,9 @@
     "created_at": "2021-08-16T16:57:21.000-05:00",
     "title": "Go 1.17 is released",
     "url": "https://blog.golang.org/go1.17",
-    "score": 57,
+    "score": 58,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/wfl1of/go_1_17_is_released",
     "submitter_user": {
@@ -544,7 +573,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 316,
+      "karma": 317,
       "avatar_url": "/avatars/xiaq-100.png",
       "invited_by_user": "nomto"
     },
@@ -626,32 +655,6 @@
     },
     "tags": [
       "windows"
-    ]
-  },
-  {
-    "short_id": "zpqmbl",
-    "short_id_url": "https://lobste.rs/s/zpqmbl",
-    "created_at": "2021-08-16T12:57:43.000-05:00",
-    "title": "A collection of common (interesting) cryptographic mistakes and learning resources",
-    "url": "https://github.com/SalusaSecondus/CryptoGotchas",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/zpqmbl/collection_common_interesting",
-    "submitter_user": {
-      "username": "fkooman",
-      "created_at": "2015-09-14T06:39:59.000-05:00",
-      "is_admin": false,
-      "about": "* Homepage: https://www.tuxed.net/\r\n* Twitter: @fkooman",
-      "is_moderator": false,
-      "karma": 1472,
-      "avatar_url": "/avatars/fkooman-100.png",
-      "invited_by_user": "untitaker"
-    },
-    "tags": [
-      "crypto",
-      "security"
     ]
   }
 ]
