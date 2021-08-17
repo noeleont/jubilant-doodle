@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "63vqsu",
+    "short_id_url": "https://lobste.rs/s/63vqsu",
+    "created_at": "2021-08-17T10:37:06.000-05:00",
+    "title": "Programming Language Fragility",
+    "url": "https://cancel.fm/blog/2019-11/language-fragility/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/63vqsu/programming_language_fragility",
+    "submitter_user": {
+      "username": "lim",
+      "created_at": "2020-10-14T14:05:51.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 543,
+      "avatar_url": "/avatars/lim-100.png",
+      "invited_by_user": "orbifx"
+    },
+    "tags": [
+      "compilers"
+    ]
+  },
+  {
     "short_id": "hkxupm",
     "short_id_url": "https://lobste.rs/s/hkxupm",
     "created_at": "2021-08-17T10:14:32.000-05:00",
     "title": "Adventures in WebRTC: Making Phone Calls from XMPP",
     "url": "https://blog.jmp.chat/b/adventures-in-webrtc-making-phone-calls-from-xmpp-znLOT5",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2811,
+      "karma": 2813,
       "avatar_url": "/avatars/singpolyma-100.png",
       "invited_by_user": "ossguy",
       "github_username": "singpolyma",
@@ -49,7 +74,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1948,
+      "karma": 1952,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -63,7 +88,7 @@
     "created_at": "2021-08-17T10:00:46.000-05:00",
     "title": "Slice Patterns",
     "url": "https://adventures.michaelfbryan.com/posts/daily/slice-patterns/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -74,7 +99,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1948,
+      "karma": 1952,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -88,7 +113,7 @@
     "created_at": "2021-08-17T09:59:05.000-05:00",
     "title": "Another year of Sofle keyboard",
     "url": "https://josef-adamcik.cz/electronics/another_year_for_sofle.html",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -99,7 +124,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1948,
+      "karma": 1952,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -113,7 +138,7 @@
     "created_at": "2021-08-17T09:24:09.000-05:00",
     "title": "New Heterodox Mono: A Didone-esque Monospaced Typeface based on Alexey Kryukov's Old Standard TT",
     "url": "https://github.com/hckiang/font-new-heterodox-mono/",
-    "score": 1,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -124,7 +149,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2576,
+      "karma": 2580,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -192,9 +217,9 @@
     "created_at": "2021-08-17T08:38:22.000-05:00",
     "title": "Speeding up `atan2f` by 50x",
     "url": "https://mazzo.li/posts/vectorized-atan2.html",
-    "score": 4,
+    "score": 6,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/r8am5c/speeding_up_atan2f_by_50x",
     "submitter_user": {
@@ -203,7 +228,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2038,
+      "karma": 2040,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -247,7 +272,7 @@
     "created_at": "2021-08-17T06:09:16.000-05:00",
     "title": "The Quest for Very Wide Outlines",
     "url": "https://bgolus.medium.com/the-quest-for-very-wide-outlines-ba82ed442cd9",
-    "score": 11,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -258,7 +283,7 @@
       "is_admin": false,
       "about": "mikejsavage.co.uk",
       "is_moderator": false,
-      "karma": 3016,
+      "karma": 3019,
       "avatar_url": "/avatars/mikejstenberg-100.png",
       "invited_by_user": "jonl"
     },
@@ -272,9 +297,9 @@
     "created_at": "2021-08-17T05:39:34.000-05:00",
     "title": "Psst: Fast Spotify client with native GUI, without Electron, built in Rust",
     "url": "https://github.com/jpochyla/psst",
-    "score": 31,
+    "score": 34,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/ehtwox/psst_fast_spotify_client_with_native_gui",
     "submitter_user": {
@@ -283,15 +308,14 @@
       "is_admin": false,
       "about": "**Strengthening the power and independence of individuals via open-source software and hardware projects.**\r\n\r\nCo-founder and CTO of [SatoshiLabs](https://satoshilabs.com).\r\nAll-around hacker working on [Bitcoin](https://bitcoincore.org), [Trezor](https://trezor.io), [NixOS](https://nixos.org) and other open-source projects.",
       "is_moderator": false,
-      "karma": 41,
+      "karma": 44,
       "avatar_url": "/avatars/stick-100.png",
       "invited_by_user": "premysl",
       "github_username": "prusnak",
       "twitter_username": "pavolrusnak"
     },
     "tags": [
-      "rust",
-      "show"
+      "rust"
     ]
   },
   {
@@ -389,7 +413,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81825,
+      "karma": 81832,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -486,7 +510,7 @@
     "url": "https://readable.sourceforge.io/",
     "score": 11,
     "flags": 0,
-    "comment_count": 19,
+    "comment_count": 20,
     "description": "<p>See also: <a href=\"https://dwheeler.com/readable/sweet-expressions.html\" rel=\"ugc\">Curly infix, Modern-expressions, and Sweet-expressions: A suite of readable formats for Lisp-like languages</a>. (<a href=\"https://lobste.rs/s/ciowo8/sweet_expressions_readable_format_for\" rel=\"ugc\">Discussed on Lobsters 4 years ago</a>)</p>\n",
     "comments_url": "https://lobste.rs/s/747lxt/readable_lisp_s_expressions_project",
     "submitter_user": {
@@ -509,7 +533,7 @@
     "created_at": "2021-08-16T16:57:21.000-05:00",
     "title": "Go 1.17 is released",
     "url": "https://blog.golang.org/go1.17",
-    "score": 52,
+    "score": 57,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -520,7 +544,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 311,
+      "karma": 316,
       "avatar_url": "/avatars/xiaq-100.png",
       "invited_by_user": "nomto"
     },
@@ -537,7 +561,7 @@
     "url": "https://slab.com/blog/announcing-delta-for-elixir/",
     "score": 12,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/f47bhp/announcing_delta_operational_transform",
     "submitter_user": {
@@ -596,7 +620,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11741,
+      "karma": 11742,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -628,32 +652,6 @@
     "tags": [
       "crypto",
       "security"
-    ]
-  },
-  {
-    "short_id": "w5qsad",
-    "short_id_url": "https://lobste.rs/s/w5qsad",
-    "created_at": "2021-08-16T12:27:03.000-05:00",
-    "title": "AXPbox 1.1.0 released · (DEC Alpha Emulator for OpenVMS/NetBSD)",
-    "url": "https://github.com/lenticularis39/axpbox/releases/tag/v1.1.0",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/w5qsad/axpbox_1_1_0_released_dec_alpha_emulator",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11741,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "osdev",
-      "release"
     ]
   }
 ]
