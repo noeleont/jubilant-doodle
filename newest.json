@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "gplc9j",
+    "short_id_url": "https://lobste.rs/s/gplc9j",
+    "created_at": "2021-08-18T16:21:44.000-05:00",
+    "title": "Designing Virtual Worlds [2003]",
+    "url": "https://mud.co.uk/richard/DesigningVirtualWorlds.pdf",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gplc9j/designing_virtual_worlds_2003",
+    "submitter_user": {
+      "username": "friendlysock",
+      "created_at": "2014-02-20T00:43:41.000-06:00",
+      "is_admin": false,
+      "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
+      "is_moderator": false,
+      "karma": 35879,
+      "avatar_url": "/avatars/friendlysock-100.png",
+      "invited_by_user": "MasonJar"
+    },
+    "tags": [
+      "book",
+      "games",
+      "pdf"
+    ]
+  },
+  {
+    "short_id": "giarhd",
+    "short_id_url": "https://lobste.rs/s/giarhd",
+    "created_at": "2021-08-18T16:18:07.000-05:00",
+    "title": "z3 made unreasonably easy",
+    "url": "https://github.com/RocketRace/easy_z3",
+    "score": 5,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/giarhd/z3_made_unreasonably_easy",
+    "submitter_user": {
+      "username": "videogame_hacker",
+      "created_at": "2019-02-26T16:19:20.000-06:00",
+      "is_admin": false,
+      "about": "they/them\r\n\r\nJava bytecode obfuscation enthusiast, videogame cheat developer, 20 years old.",
+      "is_moderator": false,
+      "karma": 331,
+      "avatar_url": "/avatars/videogame_hacker-100.png",
+      "invited_by_user": "andrewrk"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
     "short_id": "bacgjb",
     "short_id_url": "https://lobste.rs/s/bacgjb",
     "created_at": "2021-08-18T14:03:49.000-05:00",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81930,
+      "karma": 81931,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -57,9 +109,9 @@
     "created_at": "2021-08-18T12:55:34.000-05:00",
     "title": "On Parsers",
     "url": "https://wiki.alopex.li/OnParsers",
-    "score": 8,
+    "score": 14,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/7it43u/on_parsers",
     "submitter_user": {
@@ -68,7 +120,7 @@
       "is_admin": false,
       "about": "Lobsters rules:\r\n\r\n * Always upvote langdev, osdev or gamedev\r\n * Strongly avoid medium or twitter links\r\n * Strongly avoid any thread where the number of comments exceeds the number of upvotes",
       "is_moderator": false,
-      "karma": 4398,
+      "karma": 4404,
       "avatar_url": "/avatars/icefox-100.png",
       "invited_by_user": "shanemhansen"
     },
@@ -165,7 +217,7 @@
     "created_at": "2021-08-18T09:33:34.000-05:00",
     "title": "B-Trees: More Than I Thought I'd Want to Know",
     "url": "https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -176,7 +228,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1273,
+      "karma": 1274,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -202,7 +254,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81930,
+      "karma": 81931,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -219,7 +271,7 @@
     "created_at": "2021-08-18T08:40:29.000-05:00",
     "title": "It never had to be like this: the git \"index\"",
     "url": "https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/",
-    "score": 41,
+    "score": 42,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -230,7 +282,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81930,
+      "karma": 81931,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -245,7 +297,7 @@
     "created_at": "2021-08-18T08:16:51.000-05:00",
     "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
     "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
-    "score": 34,
+    "score": 36,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -256,7 +308,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4471,
+      "karma": 4473,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -309,7 +361,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35878,
+      "karma": 35879,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -375,7 +427,7 @@
     "created_at": "2021-08-18T02:46:39.000-05:00",
     "title": "NetBSD Explained",
     "url": "https://www.makeuseof.com/what-is-netbsd/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -386,7 +438,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 457,
+      "karma": 458,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -429,7 +481,7 @@
     "created_at": "2021-08-18T00:02:22.000-05:00",
     "title": "Install NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11",
     "url": "https://raymii.org/s/articles/NetBSD_on_QEMU_Alpha.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -440,7 +492,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11760,
+      "karma": 11761,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -492,7 +544,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81930,
+      "karma": 81931,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -511,7 +563,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 42,
+    "score": 44,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -522,7 +574,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2637,
+      "karma": 2639,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -547,7 +599,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81930,
+      "karma": 81931,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -607,57 +659,6 @@
     },
     "tags": [
       "databases"
-    ]
-  },
-  {
-    "short_id": "s7h88m",
-    "short_id_url": "https://lobste.rs/s/s7h88m",
-    "created_at": "2021-08-17T17:14:19.000-05:00",
-    "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
-    "url": "https://github.com/ms-jpq/coq_nvim",
-    "score": 31,
-    "flags": 0,
-    "comment_count": 22,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/s7h88m/coq_nvim_fast_nvim_completion_sqlite",
-    "submitter_user": {
-      "username": "jawr",
-      "created_at": "2021-03-22T03:18:48.000-05:00",
-      "is_admin": false,
-      "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
-      "is_moderator": false,
-      "karma": 55,
-      "avatar_url": "/avatars/jawr-100.png",
-      "invited_by_user": "rtpg"
-    },
-    "tags": [
-      "vim"
-    ]
-  },
-  {
-    "short_id": "xy6hck",
-    "short_id_url": "https://lobste.rs/s/xy6hck",
-    "created_at": "2021-08-17T16:51:45.000-05:00",
-    "title": "Afterglow: A live-coding environment for Clojure",
-    "url": "https://github.com/Deep-Symmetry/afterglow?",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xy6hck/afterglow_live_coding_environment_for",
-    "submitter_user": {
-      "username": "Yogthos",
-      "created_at": "2017-05-26T15:31:12.000-05:00",
-      "is_admin": false,
-      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
-      "is_moderator": false,
-      "karma": 7085,
-      "avatar_url": "/avatars/Yogthos-100.png",
-      "invited_by_user": "gered"
-    },
-    "tags": [
-      "art",
-      "clojure"
     ]
   }
 ]
