@@ -1,11 +1,41 @@
 [
   {
+    "short_id": "nsutxa",
+    "short_id_url": "https://lobste.rs/s/nsutxa",
+    "created_at": "2021-08-17T21:10:34.000-05:00",
+    "title": "Let’s Take it Offline: Boosting Brute-Force Attacks on iPhone’s User Authentication through SCA",
+    "url": "https://eprint.iacr.org/2021/460.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p><a href=\"https://eprint.iacr.org/2021/460\" rel=\"ugc\">Details</a></p>\n",
+    "comments_url": "https://lobste.rs/s/nsutxa/let_s_take_it_offline_boosting_brute_force",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81859,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "hardware",
+      "ios",
+      "pdf",
+      "reversing",
+      "security"
+    ]
+  },
+  {
     "short_id": "b3q4kw",
     "short_id_url": "https://lobste.rs/s/b3q4kw",
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +46,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2590,
+      "karma": 2593,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -41,7 +71,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81857,
+      "karma": 81859,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -83,9 +113,9 @@
     "created_at": "2021-08-17T17:26:51.000-05:00",
     "title": "It's Time to Retire the CSV",
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
-    "score": 7,
+    "score": 10,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -94,7 +124,7 @@
       "is_admin": false,
       "about": "Speech recognition at Google by day. Shell pipeline synthesis at [synsh.dev](https://synsh.dev) by night.",
       "is_moderator": false,
-      "karma": 32,
+      "karma": 35,
       "avatar_url": "/avatars/pmr-100.png",
       "invited_by_user": "walleye",
       "github_username": "pat-rondon"
@@ -109,7 +139,7 @@
     "created_at": "2021-08-17T17:14:19.000-05:00",
     "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
     "url": "https://github.com/ms-jpq/coq_nvim",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -120,7 +150,7 @@
       "is_admin": false,
       "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
       "is_moderator": false,
-      "karma": 28,
+      "karma": 30,
       "avatar_url": "/avatars/jawr-100.png",
       "invited_by_user": "rtpg"
     },
@@ -145,7 +175,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7081,
+      "karma": 7082,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -160,7 +190,7 @@
     "created_at": "2021-08-17T16:29:28.000-05:00",
     "title": "a brief history of man pages from twitter",
     "url": "https://twitter.com/lemay/status/1427648667805093888",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -171,7 +201,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1065,
+      "karma": 1066,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -253,7 +283,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2056,
+      "karma": 2058,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -280,7 +310,7 @@
       "is_admin": false,
       "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
       "is_moderator": false,
-      "karma": 21,
+      "karma": 22,
       "avatar_url": "/avatars/mjgardner-100.png",
       "invited_by_user": "ngoldbaum",
       "github_username": "mjgardner",
@@ -327,7 +357,7 @@
     "created_at": "2021-08-17T14:32:44.000-05:00",
     "title": "Firefox 91 - Revert to old tab style",
     "url": "https://superuser.com/a/1669549/9067",
-    "score": 3,
+    "score": 4,
     "flags": 2,
     "comment_count": 3,
     "description": "",
@@ -338,7 +368,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 148,
+      "karma": 149,
       "avatar_url": "/avatars/thangalin-100.png",
       "invited_by_user": "shazow"
     },
@@ -648,31 +678,6 @@
     },
     "tags": [
       "rust"
-    ]
-  },
-  {
-    "short_id": "3vnuso",
-    "short_id_url": "https://lobste.rs/s/3vnuso",
-    "created_at": "2021-08-17T09:59:05.000-05:00",
-    "title": "Another year of Sofle keyboard",
-    "url": "https://josef-adamcik.cz/electronics/another_year_for_sofle.html",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3vnuso/another_year_sofle_keyboard",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1961,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "hardware"
     ]
   }
 ]
