@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "wtrk8t",
+    "short_id_url": "https://lobste.rs/s/wtrk8t",
+    "created_at": "2021-08-18T11:39:07.000-05:00",
+    "title": "Texas Hold'em Poker game in Clojure",
+    "url": "https://github.com/DogLooksGood/holdem?",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wtrk8t/texas_hold_em_poker_game_clojure",
+    "submitter_user": {
+      "username": "Yogthos",
+      "created_at": "2017-05-26T15:31:12.000-05:00",
+      "is_admin": false,
+      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
+      "is_moderator": false,
+      "karma": 7084,
+      "avatar_url": "/avatars/Yogthos-100.png",
+      "invited_by_user": "gered"
+    },
+    "tags": [
+      "clojure",
+      "web"
+    ]
+  },
+  {
     "short_id": "fthlxh",
     "short_id_url": "https://lobste.rs/s/fthlxh",
     "created_at": "2021-08-18T09:52:34.000-05:00",
     "title": "Efficient Hash Probes on Modern Processors (2006)",
     "url": "https://dominoweb.draco.res.ibm.com/reports/rc24100.pdf",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Bucketized versions of Cuckoo hashing can achieve 95– 99% occupancy, without any space overhead for pointers or other structures. However, such methods typically need to consult multiple hash buckets per probe, and have therefore been seen as having worse probe performance than conventional techniques for large tables. We consider workloads typical of database and stream processing, in which keys and payloads are small, and in which a large number of probes are processed in bulk. We show how to improve probe performance by (a) eliminating branch instructions from the probe code, enabling better scheduling and latency-hiding by modern processors, and (b) using SIMD instructions to process multiple keys/payloads in parallel. We show that on modern architectures, probes to a bucketized Cuckoo hash table can be processed much faster than conventional hash table probes, for both small and large memory-resident tables. On a Pentium 4, a probe is two to four times faster, while on the Cell SPE processor a probe is ten times faster.</p>\n",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2068,
+      "karma": 2070,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -33,9 +59,9 @@
     "created_at": "2021-08-18T09:33:34.000-05:00",
     "title": "B-Trees: More Than I Thought I'd Want to Know",
     "url": "https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/",
-    "score": 7,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/za4cxl/b_trees_more_than_i_thought_i_d_want_know",
     "submitter_user": {
@@ -44,7 +70,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1263,
+      "karma": 1268,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -70,7 +96,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81909,
+      "karma": 81910,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -87,7 +113,7 @@
     "created_at": "2021-08-18T08:40:29.000-05:00",
     "title": "It never had to be like this: the git \"index\"",
     "url": "https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -98,7 +124,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81909,
+      "karma": 81910,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -113,7 +139,7 @@
     "created_at": "2021-08-18T08:16:51.000-05:00",
     "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
     "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
-    "score": 15,
+    "score": 24,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -124,7 +150,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4452,
+      "karma": 4461,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -191,7 +217,7 @@
     "created_at": "2021-08-18T05:25:35.000-05:00",
     "title": "Hash collision in Apple NeuralHash model",
     "url": "https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -202,7 +228,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 49,
+      "karma": 50,
       "avatar_url": "/avatars/serhack-100.png",
       "invited_by_user": "asymptotically"
     },
@@ -216,7 +242,7 @@
     "created_at": "2021-08-18T04:35:50.000-05:00",
     "title": "Quick and dirty backpropagation in Haskell",
     "url": "https://mazzo.li/posts/haskell-backprop-short.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -227,7 +253,7 @@
       "is_admin": false,
       "about": "https://mazzo.li",
       "is_moderator": false,
-      "karma": 5,
+      "karma": 6,
       "avatar_url": "/avatars/francesco-100.png",
       "invited_by_user": "knl"
     },
@@ -243,7 +269,7 @@
     "created_at": "2021-08-18T02:46:39.000-05:00",
     "title": "NetBSD Explained",
     "url": "https://www.makeuseof.com/what-is-netbsd/",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -254,7 +280,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 452,
+      "karma": 455,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -270,7 +296,7 @@
     "created_at": "2021-08-18T02:22:02.000-05:00",
     "title": "A few simple tricks to tune your github actions runtime",
     "url": "https://abbbi.github.io/actions/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -281,7 +307,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 88,
+      "karma": 90,
       "avatar_url": "/avatars/abi-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -297,7 +323,7 @@
     "created_at": "2021-08-18T00:02:22.000-05:00",
     "title": "Install NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11",
     "url": "https://raymii.org/s/articles/NetBSD_on_QEMU_Alpha.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -308,7 +334,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11756,
+      "karma": 11757,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -360,7 +386,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81909,
+      "karma": 81910,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -379,7 +405,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 36,
+    "score": 37,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -390,7 +416,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2629,
+      "karma": 2631,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -415,7 +441,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81909,
+      "karma": 81910,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -431,7 +457,7 @@
     "created_at": "2021-08-17T17:58:45.000-05:00",
     "title": "PiMaker/rvc: A 32-bit RISC-V emulator in a shader",
     "url": "https://github.com/PiMaker/rvc",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -442,7 +468,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 415,
+      "karma": 417,
       "avatar_url": "/avatars/df-100.png",
       "invited_by_user": "roshanravan"
     },
@@ -457,9 +483,9 @@
     "created_at": "2021-08-17T17:26:51.000-05:00",
     "title": "It's Time to Retire the CSV",
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
-    "score": 25,
-    "flags": 1,
-    "comment_count": 29,
+    "score": 24,
+    "flags": 2,
+    "comment_count": 32,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -468,7 +494,7 @@
       "is_admin": false,
       "about": "Speech recognition at Google by day. Shell pipeline synthesis at [synsh.dev](https://synsh.dev) by night.",
       "is_moderator": false,
-      "karma": 50,
+      "karma": 49,
       "avatar_url": "/avatars/pmr-100.png",
       "invited_by_user": "walleye",
       "github_username": "pat-rondon"
@@ -483,7 +509,7 @@
     "created_at": "2021-08-17T17:14:19.000-05:00",
     "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
     "url": "https://github.com/ms-jpq/coq_nvim",
-    "score": 26,
+    "score": 27,
     "flags": 0,
     "comment_count": 17,
     "description": "",
@@ -494,7 +520,7 @@
       "is_admin": false,
       "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
       "is_moderator": false,
-      "karma": 50,
+      "karma": 51,
       "avatar_url": "/avatars/jawr-100.png",
       "invited_by_user": "rtpg"
     },
@@ -571,7 +597,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20092,
+      "karma": 20093,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -587,7 +613,7 @@
     "created_at": "2021-08-17T14:58:28.000-05:00",
     "title": "Performance Improvements in .NET 6",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -598,7 +624,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1228,
+      "karma": 1229,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -627,7 +653,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2068,
+      "karma": 2070,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -635,39 +661,6 @@
     "tags": [
       "assembly",
       "reversing"
-    ]
-  },
-  {
-    "short_id": "6nyzjf",
-    "short_id_url": "https://lobste.rs/s/6nyzjf",
-    "created_at": "2021-08-17T14:40:43.000-05:00",
-    "title": "Porting a Perl script to Raku while keeping the Perl dependencies",
-    "url": "https://phoenixtrap.com/2021/08/17/perl-raku-best-frenemies/",
-    "score": 2,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/6nyzjf/porting_perl_script_raku_while_keeping",
-    "submitter_user": {
-      "username": "mjgardner",
-      "created_at": "2021-07-21T09:27:46.000-05:00",
-      "is_admin": false,
-      "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
-      "is_moderator": false,
-      "karma": 22,
-      "avatar_url": "/avatars/mjgardner-100.png",
-      "invited_by_user": "ngoldbaum",
-      "github_username": "mjgardner",
-      "twitter_username": "markjgardner",
-      "keybase_signatures": [
-        {
-          "kb_username": "mjgardner",
-          "sig_hash": "b2d0630c6704278f24665212cf7cf3376e11fa3aa31c0586f69728c5b45c98270f"
-        }
-      ]
-    },
-    "tags": [
-      "perl"
     ]
   }
 ]
