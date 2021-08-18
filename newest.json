@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "6fyh6p",
+    "short_id_url": "https://lobste.rs/s/6fyh6p",
+    "created_at": "2021-08-18T04:35:50.000-05:00",
+    "title": "Quick and dirty backpropagation in Haskell",
+    "url": "https://mazzo.li/posts/haskell-backprop-short.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/6fyh6p/quick_dirty_backpropagation_haskell",
+    "submitter_user": {
+      "username": "francesco",
+      "created_at": "2021-08-16T16:18:25.000-05:00",
+      "is_admin": false,
+      "about": "https://mazzo.li",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/francesco-100.png",
+      "invited_by_user": "knl"
+    },
+    "tags": [
+      "ai",
+      "haskell",
+      "math"
+    ]
+  },
+  {
     "short_id": "mlhpwo",
     "short_id_url": "https://lobste.rs/s/mlhpwo",
     "created_at": "2021-08-18T04:14:03.000-05:00",
@@ -65,20 +92,20 @@
     "short_id": "fbew1s",
     "short_id_url": "https://lobste.rs/s/fbew1s",
     "created_at": "2021-08-18T02:22:02.000-05:00",
-    "title": "Two simple tricks to tune your github actions runtime",
+    "title": "A few simple tricks to tune your github actions runtime",
     "url": "https://abbbi.github.io/actions/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
-    "comments_url": "https://lobste.rs/s/fbew1s/two_simple_tricks_tune_your_github",
+    "comments_url": "https://lobste.rs/s/fbew1s/few_simple_tricks_tune_your_github",
     "submitter_user": {
       "username": "abi",
       "created_at": "2019-10-01T13:50:36.000-05:00",
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 84,
+      "karma": 85,
       "avatar_url": "/avatars/abi-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -157,7 +184,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81875,
+      "karma": 81876,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -176,7 +203,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 16,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -187,7 +214,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2608,
+      "karma": 2610,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -212,7 +239,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81875,
+      "karma": 81876,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -254,9 +281,9 @@
     "created_at": "2021-08-17T17:26:51.000-05:00",
     "title": "It's Time to Retire the CSV",
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
-    "score": 16,
+    "score": 18,
     "flags": 1,
-    "comment_count": 16,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -265,7 +292,7 @@
       "is_admin": false,
       "about": "Speech recognition at Google by day. Shell pipeline synthesis at [synsh.dev](https://synsh.dev) by night.",
       "is_moderator": false,
-      "karma": 41,
+      "karma": 43,
       "avatar_url": "/avatars/pmr-100.png",
       "invited_by_user": "walleye",
       "github_username": "pat-rondon"
@@ -280,9 +307,9 @@
     "created_at": "2021-08-17T17:14:19.000-05:00",
     "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
     "url": "https://github.com/ms-jpq/coq_nvim",
-    "score": 14,
+    "score": 16,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/s7h88m/coq_nvim_fast_nvim_completion_sqlite",
     "submitter_user": {
@@ -291,7 +318,7 @@
       "is_admin": false,
       "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
       "is_moderator": false,
-      "karma": 38,
+      "karma": 40,
       "avatar_url": "/avatars/jawr-100.png",
       "invited_by_user": "rtpg"
     },
@@ -331,7 +358,7 @@
     "created_at": "2021-08-17T16:29:28.000-05:00",
     "title": "a brief history of man pages from twitter",
     "url": "https://twitter.com/lemay/status/1427648667805093888",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -342,7 +369,7 @@
       "is_admin": false,
       "about": "General UNIX/Linux admin, Mac User, cyclist.  Resident of Ottawa, Canada",
       "is_moderator": false,
-      "karma": 1066,
+      "karma": 1067,
       "avatar_url": "/avatars/mattrose-100.png",
       "invited_by_user": "jimdigriz"
     },
@@ -424,7 +451,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2062,
+      "karma": 2063,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -498,9 +525,9 @@
     "created_at": "2021-08-17T14:32:44.000-05:00",
     "title": "Firefox 91 - Revert to old tab style",
     "url": "https://superuser.com/a/1669549/9067",
-    "score": 8,
+    "score": 9,
     "flags": 2,
-    "comment_count": 8,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/5deztm/firefox_91_revert_old_tab_style",
     "submitter_user": {
@@ -509,7 +536,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 153,
+      "karma": 154,
       "avatar_url": "/avatars/thangalin-100.png",
       "invited_by_user": "shazow"
     },
@@ -589,7 +616,7 @@
       "is_admin": false,
       "about": "Striving to learn as much as possible in Math ∪ Computer Science ∖ Machine Learning, with strong tendencies towards proof assistants, automated reasoning, compilers, programming language theory, software bootstrapping, abstract algebra, cryptography, and security.\r\n\r\nPlaying CTF at p4.team every now and then.",
       "is_moderator": false,
-      "karma": 252,
+      "karma": 253,
       "avatar_url": "/avatars/NieDzejkob-100.png",
       "invited_by_user": "jix",
       "keybase_signatures": [
@@ -613,7 +640,7 @@
     "url": "https://nessuent.xyz/posts/2021-08-17_concept_to_color.html",
     "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/2alhft/mapping_concepts_colors_terribly_with",
     "submitter_user": {
@@ -657,31 +684,6 @@
     "tags": [
       "compsci",
       "pdf"
-    ]
-  },
-  {
-    "short_id": "itzv0a",
-    "short_id_url": "https://lobste.rs/s/itzv0a",
-    "created_at": "2021-08-17T12:30:19.000-05:00",
-    "title": "How to create a property wrapper in Swift",
-    "url": "https://swiftwithmajid.com/2021/08/11/how-to-create-a-property-wrapper-in-swift/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/itzv0a/how_create_property_wrapper_swift",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1965,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "swift"
     ]
   }
 ]
