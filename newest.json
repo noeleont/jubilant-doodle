@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "dp0umd",
+    "short_id_url": "https://lobste.rs/s/dp0umd",
+    "created_at": "2021-08-18T08:16:51.000-05:00",
+    "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
+    "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dp0umd/not_linux_distro_review_serenityos_is",
+    "submitter_user": {
+      "username": "lattera",
+      "created_at": "2014-05-30T07:30:38.000-05:00",
+      "is_admin": false,
+      "about": "Cofounder of HardenedBSD, lover of most things opensource.",
+      "is_moderator": false,
+      "karma": 4438,
+      "avatar_url": "/avatars/lattera-100.png",
+      "invited_by_user": "xmj",
+      "github_username": "lattera",
+      "twitter_username": "lattera"
+    },
+    "tags": [
+      "osdev"
+    ]
+  },
+  {
     "short_id": "bjnowq",
     "short_id_url": "https://lobste.rs/s/bjnowq",
     "created_at": "2021-08-18T07:29:08.000-05:00",
@@ -56,7 +83,7 @@
     "created_at": "2021-08-18T05:25:35.000-05:00",
     "title": "Hash collision in Apple NeuralHash model",
     "url": "https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -67,7 +94,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 43,
+      "karma": 45,
       "avatar_url": "/avatars/serhack-100.png",
       "invited_by_user": "asymptotically"
     },
@@ -81,7 +108,7 @@
     "created_at": "2021-08-18T04:35:50.000-05:00",
     "title": "Quick and dirty backpropagation in Haskell",
     "url": "https://mazzo.li/posts/haskell-backprop-short.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -92,7 +119,7 @@
       "is_admin": false,
       "about": "https://mazzo.li",
       "is_moderator": false,
-      "karma": 0,
+      "karma": 1,
       "avatar_url": "/avatars/francesco-100.png",
       "invited_by_user": "knl"
     },
@@ -108,7 +135,7 @@
     "created_at": "2021-08-18T02:46:39.000-05:00",
     "title": "NetBSD Explained",
     "url": "https://www.makeuseof.com/what-is-netbsd/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -119,7 +146,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 450,
+      "karma": 451,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -162,7 +189,7 @@
     "created_at": "2021-08-18T00:02:22.000-05:00",
     "title": "Install NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11",
     "url": "https://raymii.org/s/articles/NetBSD_on_QEMU_Alpha.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -173,7 +200,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11754,
+      "karma": 11755,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -244,7 +271,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 22,
+    "score": 25,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -255,7 +282,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2614,
+      "karma": 2617,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -324,7 +351,7 @@
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
     "score": 22,
     "flags": 1,
-    "comment_count": 22,
+    "comment_count": 25,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -348,9 +375,9 @@
     "created_at": "2021-08-17T17:14:19.000-05:00",
     "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
     "url": "https://github.com/ms-jpq/coq_nvim",
-    "score": 18,
+    "score": 21,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/s7h88m/coq_nvim_fast_nvim_completion_sqlite",
     "submitter_user": {
@@ -359,7 +386,7 @@
       "is_admin": false,
       "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
       "is_moderator": false,
-      "karma": 42,
+      "karma": 45,
       "avatar_url": "/avatars/jawr-100.png",
       "invited_by_user": "rtpg"
     },
@@ -492,7 +519,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2064,
+      "karma": 2066,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -566,9 +593,9 @@
     "created_at": "2021-08-17T14:32:44.000-05:00",
     "title": "Firefox 91 - Revert to old tab style",
     "url": "https://superuser.com/a/1669549/9067",
-    "score": 11,
+    "score": 12,
     "flags": 2,
-    "comment_count": 15,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/5deztm/firefox_91_revert_old_tab_style",
     "submitter_user": {
@@ -577,7 +604,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 156,
+      "karma": 157,
       "avatar_url": "/avatars/thangalin-100.png",
       "invited_by_user": "shazow"
     },
@@ -595,7 +622,7 @@
     "url": "https://www.fosskers.ca/en/blog/contributing-to-emacs",
     "score": 11,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/djq7bm/contributing_emacs",
     "submitter_user": {
@@ -604,7 +631,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11754,
+      "karma": 11755,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -638,39 +665,6 @@
     "tags": [
       "formalmethods",
       "haskell"
-    ]
-  },
-  {
-    "short_id": "ssajnc",
-    "short_id_url": "https://lobste.rs/s/ssajnc",
-    "created_at": "2021-08-17T12:42:59.000-05:00",
-    "title": "Karatsuba's Multiplication Trick Summarised in 1 Minute",
-    "url": "https://www.youtube.com/watch?v=LCY4dnm88oI",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ssajnc/karatsuba_s_multiplication_trick",
-    "submitter_user": {
-      "username": "NieDzejkob",
-      "created_at": "2021-05-06T06:49:21.000-05:00",
-      "is_admin": false,
-      "about": "Striving to learn as much as possible in Math ∪ Computer Science ∖ Machine Learning, with strong tendencies towards proof assistants, automated reasoning, compilers, programming language theory, software bootstrapping, abstract algebra, cryptography, and security.\r\n\r\nPlaying CTF at p4.team every now and then.",
-      "is_moderator": false,
-      "karma": 254,
-      "avatar_url": "/avatars/NieDzejkob-100.png",
-      "invited_by_user": "jix",
-      "keybase_signatures": [
-        {
-          "kb_username": "niedzejkob",
-          "sig_hash": "b0430d6a6e06124e80a3fadf619f22345584426c7baa4b557f01d6a79331d9340f"
-        }
-      ]
-    },
-    "tags": [
-      "compsci",
-      "math",
-      "video"
     ]
   }
 ]
