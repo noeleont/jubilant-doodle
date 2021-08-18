@@ -1,11 +1,46 @@
 [
   {
+    "short_id": "mlhpwo",
+    "short_id_url": "https://lobste.rs/s/mlhpwo",
+    "created_at": "2021-08-18T04:14:03.000-05:00",
+    "title": "Twitter thread disputing Apple's claims about the CSAM NeuralHash",
+    "url": "https://twitter.com/marcan42/status/1427896137696960513",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/mlhpwo/twitter_thread_disputing_apple_s_claims",
+    "submitter_user": {
+      "username": "msfjarvis",
+      "created_at": "2020-04-24T11:41:56.000-05:00",
+      "is_admin": false,
+      "about": "Android and Kotlin developer\r\n",
+      "is_moderator": false,
+      "karma": 531,
+      "avatar_url": "/avatars/msfjarvis-100.png",
+      "invited_by_user": "Amolith",
+      "github_username": "msfjarvis",
+      "twitter_username": "msfjarvis",
+      "keybase_signatures": [
+        {
+          "kb_username": "msf_jarvis",
+          "sig_hash": "f5f470ead2766e391676ad45780f1e24cca0dd85b3ffb4b539eaa9bf594d07da0f"
+        }
+      ]
+    },
+    "tags": [
+      "crypto",
+      "ios",
+      "privacy"
+    ]
+  },
+  {
     "short_id": "bkraeu",
     "short_id_url": "https://lobste.rs/s/bkraeu",
     "created_at": "2021-08-18T02:46:39.000-05:00",
     "title": "NetBSD Explained",
     "url": "https://www.makeuseof.com/what-is-netbsd/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +51,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 446,
+      "karma": 448,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -59,7 +94,7 @@
     "created_at": "2021-08-18T00:02:22.000-05:00",
     "title": "Install NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11",
     "url": "https://raymii.org/s/articles/NetBSD_on_QEMU_Alpha.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +105,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11752,
+      "karma": 11753,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -141,7 +176,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -152,7 +187,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2605,
+      "karma": 2608,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -219,9 +254,9 @@
     "created_at": "2021-08-17T17:26:51.000-05:00",
     "title": "It's Time to Retire the CSV",
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
-    "score": 14,
+    "score": 16,
     "flags": 1,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -230,7 +265,7 @@
       "is_admin": false,
       "about": "Speech recognition at Google by day. Shell pipeline synthesis at [synsh.dev](https://synsh.dev) by night.",
       "is_moderator": false,
-      "karma": 39,
+      "karma": 41,
       "avatar_url": "/avatars/pmr-100.png",
       "invited_by_user": "walleye",
       "github_username": "pat-rondon"
@@ -349,7 +384,7 @@
     "created_at": "2021-08-17T14:58:28.000-05:00",
     "title": "Performance Improvements in .NET 6",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -360,7 +395,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1220,
+      "karma": 1222,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -378,7 +413,7 @@
     "created_at": "2021-08-17T14:54:18.000-05:00",
     "title": "Reversing Commander Keen LZ91 packer",
     "url": "https://www.lodsb.com/reversing-lz91-from-commander-keen",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -389,7 +424,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2059,
+      "karma": 2062,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -463,9 +498,9 @@
     "created_at": "2021-08-17T14:32:44.000-05:00",
     "title": "Firefox 91 - Revert to old tab style",
     "url": "https://superuser.com/a/1669549/9067",
-    "score": 6,
+    "score": 8,
     "flags": 2,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/5deztm/firefox_91_revert_old_tab_style",
     "submitter_user": {
@@ -474,7 +509,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 151,
+      "karma": 153,
       "avatar_url": "/avatars/thangalin-100.png",
       "invited_by_user": "shazow"
     },
@@ -501,7 +536,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11752,
+      "karma": 11753,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -641,41 +676,12 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1963,
+      "karma": 1965,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
     "tags": [
       "swift"
-    ]
-  },
-  {
-    "short_id": "hmiu9j",
-    "short_id_url": "https://lobste.rs/s/hmiu9j",
-    "created_at": "2021-08-17T11:36:49.000-05:00",
-    "title": "Full stack language that compiles to JavaScript with builtin syntax for DOM tags and CSS",
-    "url": "https://imba.io/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hmiu9j/full_stack_language_compiles_javascript",
-    "submitter_user": {
-      "username": "eatonphil",
-      "created_at": "2019-09-01T20:23:02.000-05:00",
-      "is_admin": false,
-      "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
-      "is_moderator": false,
-      "karma": 1220,
-      "avatar_url": "/avatars/eatonphil-100.png",
-      "invited_by_user": "calvin",
-      "github_username": "eatonphil",
-      "twitter_username": "phil_eaton"
-    },
-    "tags": [
-      "javascript",
-      "plt",
-      "web"
     ]
   }
 ]
