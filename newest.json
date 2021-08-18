@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "ufatz6",
+    "short_id_url": "https://lobste.rs/s/ufatz6",
+    "created_at": "2021-08-18T00:02:22.000-05:00",
+    "title": "Install NetBSD 9.2 on a DEC Alpha CPU in QEMU with X11",
+    "url": "https://raymii.org/s/articles/NetBSD_on_QEMU_Alpha.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ufatz6/install_netbsd_9_2_on_dec_alpha_cpu_qemu",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11748,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "netbsd",
+      "virtualization"
+    ]
+  },
+  {
     "short_id": "deoheh",
     "short_id_url": "https://lobste.rs/s/deoheh",
     "created_at": "2021-08-17T22:28:44.000-05:00",
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81862,
+      "karma": 81867,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -61,7 +87,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 6,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -72,7 +98,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2595,
+      "karma": 2599,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -97,7 +123,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81862,
+      "karma": 81867,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -165,7 +191,7 @@
     "created_at": "2021-08-17T17:14:19.000-05:00",
     "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
     "url": "https://github.com/ms-jpq/coq_nvim",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -176,7 +202,7 @@
       "is_admin": false,
       "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
       "is_moderator": false,
-      "karma": 31,
+      "karma": 33,
       "avatar_url": "/avatars/jawr-100.png",
       "invited_by_user": "rtpg"
     },
@@ -385,7 +411,7 @@
     "url": "https://superuser.com/a/1669549/9067",
     "score": 4,
     "flags": 2,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/5deztm/firefox_91_revert_old_tab_style",
     "submitter_user": {
@@ -463,7 +489,7 @@
     "created_at": "2021-08-17T12:42:59.000-05:00",
     "title": "Karatsuba's Multiplication Trick Summarised in 1 Minute",
     "url": "https://www.youtube.com/watch?v=LCY4dnm88oI",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -474,7 +500,7 @@
       "is_admin": false,
       "about": "Striving to learn as much as possible in Math ∪ Computer Science ∖ Machine Learning, with strong tendencies towards proof assistants, automated reasoning, compilers, programming language theory, software bootstrapping, abstract algebra, cryptography, and security.\r\n\r\nPlaying CTF at p4.team every now and then.",
       "is_moderator": false,
-      "karma": 250,
+      "karma": 251,
       "avatar_url": "/avatars/NieDzejkob-100.png",
       "invited_by_user": "jix",
       "keybase_signatures": [
@@ -604,9 +630,9 @@
     "created_at": "2021-08-17T10:37:06.000-05:00",
     "title": "Programming Language Fragility",
     "url": "https://cancel.fm/blog/2019-11/language-fragility/",
-    "score": 18,
+    "score": 19,
     "flags": 0,
-    "comment_count": 29,
+    "comment_count": 31,
     "description": "",
     "comments_url": "https://lobste.rs/s/63vqsu/programming_language_fragility",
     "submitter_user": {
@@ -615,7 +641,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 564,
+      "karma": 565,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -654,31 +680,6 @@
     },
     "tags": [
       "networking"
-    ]
-  },
-  {
-    "short_id": "2rbpcj",
-    "short_id_url": "https://lobste.rs/s/2rbpcj",
-    "created_at": "2021-08-17T10:07:39.000-05:00",
-    "title": "How to do print debugging in SwiftUI",
-    "url": "https://sarunw.com/posts/how-to-do-print-debugging-in-swiftui/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/2rbpcj/how_do_print_debugging_swiftui",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1962,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "swift"
     ]
   }
 ]
