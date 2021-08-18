@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "e31e2n",
+    "short_id_url": "https://lobste.rs/s/e31e2n",
+    "created_at": "2021-08-18T05:25:35.000-05:00",
+    "title": "Hash collision in Apple NeuralHash model",
+    "url": "https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/e31e2n/hash_collision_apple_neuralhash_model",
+    "submitter_user": {
+      "username": "serhack",
+      "created_at": "2020-07-21T09:01:02.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 40,
+      "avatar_url": "/avatars/serhack-100.png",
+      "invited_by_user": "asymptotically"
+    },
+    "tags": [
+      "ios"
+    ]
+  },
+  {
     "short_id": "6fyh6p",
     "short_id_url": "https://lobste.rs/s/6fyh6p",
     "created_at": "2021-08-18T04:35:50.000-05:00",
@@ -67,7 +92,7 @@
     "created_at": "2021-08-18T02:46:39.000-05:00",
     "title": "NetBSD Explained",
     "url": "https://www.makeuseof.com/what-is-netbsd/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -78,7 +103,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 448,
+      "karma": 449,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -184,7 +209,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81876,
+      "karma": 81880,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -203,7 +228,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 18,
+    "score": 21,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -214,7 +239,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2610,
+      "karma": 2613,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -239,7 +264,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81876,
+      "karma": 81880,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -281,9 +306,9 @@
     "created_at": "2021-08-17T17:26:51.000-05:00",
     "title": "It's Time to Retire the CSV",
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
-    "score": 18,
+    "score": 21,
     "flags": 1,
-    "comment_count": 17,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -292,7 +317,7 @@
       "is_admin": false,
       "about": "Speech recognition at Google by day. Shell pipeline synthesis at [synsh.dev](https://synsh.dev) by night.",
       "is_moderator": false,
-      "karma": 43,
+      "karma": 46,
       "avatar_url": "/avatars/pmr-100.png",
       "invited_by_user": "walleye",
       "github_username": "pat-rondon"
@@ -309,7 +334,7 @@
     "url": "https://github.com/ms-jpq/coq_nvim",
     "score": 16,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/s7h88m/coq_nvim_fast_nvim_completion_sqlite",
     "submitter_user": {
@@ -395,7 +420,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20090,
+      "karma": 20091,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -411,7 +436,7 @@
     "created_at": "2021-08-17T14:58:28.000-05:00",
     "title": "Performance Improvements in .NET 6",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -422,7 +447,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1222,
+      "karma": 1224,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -451,7 +476,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2063,
+      "karma": 2064,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -525,7 +550,7 @@
     "created_at": "2021-08-17T14:32:44.000-05:00",
     "title": "Firefox 91 - Revert to old tab style",
     "url": "https://superuser.com/a/1669549/9067",
-    "score": 9,
+    "score": 10,
     "flags": 2,
     "comment_count": 13,
     "description": "",
@@ -536,7 +561,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 154,
+      "karma": 155,
       "avatar_url": "/avatars/thangalin-100.png",
       "invited_by_user": "shazow"
     },
@@ -577,7 +602,7 @@
     "created_at": "2021-08-17T13:34:48.000-05:00",
     "title": "Spectacle-A language for Writing & Checking Formal Specifications in Haskell",
     "url": "https://awakesecurity.com/blog/spectacle-a-language-for-writing-and-checking-formal-specifications-in-haskell/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -588,7 +613,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20090,
+      "karma": 20091,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -656,34 +681,6 @@
     },
     "tags": [
       "graphics"
-    ]
-  },
-  {
-    "short_id": "61riex",
-    "short_id_url": "https://lobste.rs/s/61riex",
-    "created_at": "2021-08-17T12:40:48.000-05:00",
-    "title": "Evolving Structures in Complex Systems",
-    "url": "https://arxiv.org/pdf/1911.01086.pdf",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/61riex/evolving_structures_complex_systems",
-    "submitter_user": {
-      "username": "Ameo",
-      "created_at": "2017-07-03T15:13:43.000-05:00",
-      "is_admin": false,
-      "about": "I'm a programmer.\r\n\r\nI'm interested in a bunch of stuff: Generative art, autonomous systems, low-level optimization, web development, etc. ",
-      "is_moderator": false,
-      "karma": 259,
-      "avatar_url": "/avatars/Ameo-100.png",
-      "invited_by_user": "friendlysock",
-      "github_username": "Ameobea",
-      "twitter_username": "Ameobea10"
-    },
-    "tags": [
-      "compsci",
-      "pdf"
     ]
   }
 ]
