@@ -1,11 +1,91 @@
 [
   {
+    "short_id": "t3p3vw",
+    "short_id_url": "https://lobste.rs/s/t3p3vw",
+    "created_at": "2021-08-18T12:58:26.000-05:00",
+    "title": "Data Lineage at Slack",
+    "url": "https://slack.engineering/data-lineage-at-slack/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/t3p3vw/data_lineage_at_slack",
+    "submitter_user": {
+      "username": "squadette",
+      "created_at": "2014-03-04T11:25:26.000-06:00",
+      "is_admin": false,
+      "about": "...of ghost, of flame, and ashes.",
+      "is_moderator": false,
+      "karma": 430,
+      "avatar_url": "/avatars/squadette-100.png",
+      "invited_by_user": "lauris"
+    },
+    "tags": [
+      "databases",
+      "practices"
+    ]
+  },
+  {
+    "short_id": "7it43u",
+    "short_id_url": "https://lobste.rs/s/7it43u",
+    "created_at": "2021-08-18T12:55:34.000-05:00",
+    "title": "On Parsers",
+    "url": "https://wiki.alopex.li/OnParsers",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/7it43u/on_parsers",
+    "submitter_user": {
+      "username": "icefox",
+      "created_at": "2018-08-26T20:59:16.000-05:00",
+      "is_admin": false,
+      "about": "Lobsters rules:\r\n\r\n * Always upvote langdev, osdev or gamedev\r\n * Strongly avoid medium or twitter links\r\n * Strongly avoid any thread where the number of comments exceeds the number of upvotes",
+      "is_moderator": false,
+      "karma": 4391,
+      "avatar_url": "/avatars/icefox-100.png",
+      "invited_by_user": "shanemhansen"
+    },
+    "tags": [
+      "plt"
+    ]
+  },
+  {
+    "short_id": "fc71r6",
+    "short_id_url": "https://lobste.rs/s/fc71r6",
+    "created_at": "2021-08-18T12:25:23.000-05:00",
+    "title": "How to build your own AI art installation from scratch",
+    "url": "https://github.com/maxvfischer/DIY-ai-art",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fc71r6/how_build_your_own_ai_art_installation",
+    "submitter_user": {
+      "username": "hwayne",
+      "created_at": "2016-12-01T13:09:45.000-06:00",
+      "is_admin": false,
+      "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
+      "is_moderator": false,
+      "karma": 20093,
+      "avatar_url": "/avatars/hwayne-100.png",
+      "invited_by_user": "flyingfisch",
+      "github_username": "hwayne",
+      "twitter_username": "Hillelogram"
+    },
+    "tags": [
+      "ai",
+      "art",
+      "hardware"
+    ]
+  },
+  {
     "short_id": "wtrk8t",
     "short_id_url": "https://lobste.rs/s/wtrk8t",
     "created_at": "2021-08-18T11:39:07.000-05:00",
     "title": "Texas Hold'em Poker game in Clojure",
     "url": "https://github.com/DogLooksGood/holdem?",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +96,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7084,
+      "karma": 7085,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -42,7 +122,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2070,
+      "karma": 2071,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -96,7 +176,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81910,
+      "karma": 81912,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -113,7 +193,7 @@
     "created_at": "2021-08-18T08:40:29.000-05:00",
     "title": "It never had to be like this: the git \"index\"",
     "url": "https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/",
-    "score": 25,
+    "score": 27,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -124,7 +204,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81910,
+      "karma": 81912,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -139,7 +219,7 @@
     "created_at": "2021-08-18T08:16:51.000-05:00",
     "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
     "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -150,7 +230,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4461,
+      "karma": 4462,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -203,7 +283,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35873,
+      "karma": 35874,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -217,7 +297,7 @@
     "created_at": "2021-08-18T05:25:35.000-05:00",
     "title": "Hash collision in Apple NeuralHash model",
     "url": "https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX/issues/1",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -228,7 +308,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 50,
+      "karma": 51,
       "avatar_url": "/avatars/serhack-100.png",
       "invited_by_user": "asymptotically"
     },
@@ -269,7 +349,7 @@
     "created_at": "2021-08-18T02:46:39.000-05:00",
     "title": "NetBSD Explained",
     "url": "https://www.makeuseof.com/what-is-netbsd/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -280,7 +360,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 455,
+      "karma": 456,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -386,7 +466,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81910,
+      "karma": 81912,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -405,7 +485,7 @@
     "created_at": "2021-08-17T20:51:58.000-05:00",
     "title": "Asking nicely for root command execution (and getting it)",
     "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
-    "score": 37,
+    "score": 38,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -416,7 +496,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2631,
+      "karma": 2632,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -441,7 +521,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81910,
+      "karma": 81912,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -457,9 +537,9 @@
     "created_at": "2021-08-17T17:58:45.000-05:00",
     "title": "PiMaker/rvc: A 32-bit RISC-V emulator in a shader",
     "url": "https://github.com/PiMaker/rvc",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/uz4zld/pimaker_rvc_32_bit_risc_v_emulator_shader",
     "submitter_user": {
@@ -468,7 +548,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 417,
+      "karma": 419,
       "avatar_url": "/avatars/df-100.png",
       "invited_by_user": "roshanravan"
     },
@@ -485,7 +565,7 @@
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
     "score": 24,
     "flags": 2,
-    "comment_count": 32,
+    "comment_count": 34,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -511,7 +591,7 @@
     "url": "https://github.com/ms-jpq/coq_nvim",
     "score": 27,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/s7h88m/coq_nvim_fast_nvim_completion_sqlite",
     "submitter_user": {
@@ -545,7 +625,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7084,
+      "karma": 7085,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -578,89 +658,6 @@
     "tags": [
       "historical",
       "unix"
-    ]
-  },
-  {
-    "short_id": "jogucm",
-    "short_id_url": "https://lobste.rs/s/jogucm",
-    "created_at": "2021-08-17T15:35:07.000-05:00",
-    "title": "Wikidata Query Builder",
-    "url": "https://query.wikidata.org/querybuilder/",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jogucm/wikidata_query_builder",
-    "submitter_user": {
-      "username": "hwayne",
-      "created_at": "2016-12-01T13:09:45.000-06:00",
-      "is_admin": false,
-      "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
-      "is_moderator": false,
-      "karma": 20093,
-      "avatar_url": "/avatars/hwayne-100.png",
-      "invited_by_user": "flyingfisch",
-      "github_username": "hwayne",
-      "twitter_username": "Hillelogram"
-    },
-    "tags": [
-      "databases"
-    ]
-  },
-  {
-    "short_id": "v36rtv",
-    "short_id_url": "https://lobste.rs/s/v36rtv",
-    "created_at": "2021-08-17T14:58:28.000-05:00",
-    "title": "Performance Improvements in .NET 6",
-    "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "score": 14,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/v36rtv/performance_improvements_net_6",
-    "submitter_user": {
-      "username": "eatonphil",
-      "created_at": "2019-09-01T20:23:02.000-05:00",
-      "is_admin": false,
-      "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
-      "is_moderator": false,
-      "karma": 1229,
-      "avatar_url": "/avatars/eatonphil-100.png",
-      "invited_by_user": "calvin",
-      "github_username": "eatonphil",
-      "twitter_username": "phil_eaton"
-    },
-    "tags": [
-      "compilers",
-      "dotnet",
-      "performance"
-    ]
-  },
-  {
-    "short_id": "sa9g7m",
-    "short_id_url": "https://lobste.rs/s/sa9g7m",
-    "created_at": "2021-08-17T14:54:18.000-05:00",
-    "title": "Reversing Commander Keen LZ91 packer",
-    "url": "https://www.lodsb.com/reversing-lz91-from-commander-keen",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sa9g7m/reversing_commander_keen_lz91_packer",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 2070,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "assembly",
-      "reversing"
     ]
   }
 ]
