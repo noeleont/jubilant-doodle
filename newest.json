@@ -1,5 +1,57 @@
 [
   {
+    "short_id": "b3q4kw",
+    "short_id_url": "https://lobste.rs/s/b3q4kw",
+    "created_at": "2021-08-17T20:51:58.000-05:00",
+    "title": "Asking nicely for root command execution (and getting it)",
+    "url": "https://rachelbythebay.com/w/2021/08/17/pop/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/b3q4kw/asking_nicely_for_root_command_execution",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2590,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "short_id": "gjoqzf",
+    "short_id_url": "https://lobste.rs/s/gjoqzf",
+    "created_at": "2021-08-17T20:18:29.000-05:00",
+    "title": "Integer Overflow to RCE — ManageEngine Asset Explorer Agent (CVE-2021–20082)",
+    "url": "https://medium.com/tenable-techblog/integer-overflow-to-rce-manageengine-asset-explorer-agent-cve-2021-20082-7e54cb2caad5",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gjoqzf/integer_overflow_rce_manageengine_asset",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81857,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "reversing",
+      "security"
+    ]
+  },
+  {
     "short_id": "uz4zld",
     "short_id_url": "https://lobste.rs/s/uz4zld",
     "created_at": "2021-08-17T17:58:45.000-05:00",
@@ -33,7 +85,7 @@
     "url": "https://www.bitsondisk.com/writing/2021/retire-the-csv/",
     "score": 7,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/t4z2w5/it_s_time_retire_csv",
     "submitter_user": {
@@ -57,7 +109,7 @@
     "created_at": "2021-08-17T17:14:19.000-05:00",
     "title": "coq_nvim: Fast nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization",
     "url": "https://github.com/ms-jpq/coq_nvim",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +120,7 @@
       "is_admin": false,
       "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
       "is_moderator": false,
-      "karma": 26,
+      "karma": 28,
       "avatar_url": "/avatars/jawr-100.png",
       "invited_by_user": "rtpg"
     },
@@ -93,7 +145,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7080,
+      "karma": 7081,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -161,7 +213,7 @@
     "created_at": "2021-08-17T14:58:28.000-05:00",
     "title": "Performance Improvements in .NET 6",
     "url": "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -172,7 +224,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1214,
+      "karma": 1215,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -201,7 +253,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2055,
+      "karma": 2056,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -217,7 +269,7 @@
     "created_at": "2021-08-17T14:40:43.000-05:00",
     "title": "Porting a Perl script to Raku while keeping the Perl dependencies",
     "url": "https://phoenixtrap.com/2021/08/17/perl-raku-best-frenemies/",
-    "score": 1,
+    "score": 2,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -228,7 +280,7 @@
       "is_admin": false,
       "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
       "is_moderator": false,
-      "karma": 20,
+      "karma": 21,
       "avatar_url": "/avatars/mjgardner-100.png",
       "invited_by_user": "ngoldbaum",
       "github_username": "mjgardner",
@@ -453,7 +505,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1960,
+      "karma": 1961,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -478,7 +530,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1214,
+      "karma": 1215,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -496,9 +548,9 @@
     "created_at": "2021-08-17T10:37:06.000-05:00",
     "title": "Programming Language Fragility",
     "url": "https://cancel.fm/blog/2019-11/language-fragility/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
-    "comment_count": 28,
+    "comment_count": 29,
     "description": "",
     "comments_url": "https://lobste.rs/s/63vqsu/programming_language_fragility",
     "submitter_user": {
@@ -507,7 +559,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 563,
+      "karma": 564,
       "avatar_url": "/avatars/lim-100.png",
       "invited_by_user": "orbifx"
     },
@@ -565,7 +617,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1960,
+      "karma": 1961,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -590,7 +642,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1960,
+      "karma": 1961,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -615,65 +667,12 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1960,
+      "karma": 1961,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
     "tags": [
       "hardware"
-    ]
-  },
-  {
-    "short_id": "jnhmtx",
-    "short_id_url": "https://lobste.rs/s/jnhmtx",
-    "created_at": "2021-08-17T09:24:09.000-05:00",
-    "title": "New Heterodox Mono: A Didone-esque Monospaced Typeface based on Alexey Kryukov's Old Standard TT",
-    "url": "https://github.com/hckiang/font-new-heterodox-mono/",
-    "score": 15,
-    "flags": 0,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jnhmtx/new_heterodox_mono_didone_esque",
-    "submitter_user": {
-      "username": "technetium",
-      "created_at": "2020-02-06T19:52:39.000-06:00",
-      "is_admin": false,
-      "about": "A sentient lump of a certain high-density material",
-      "is_moderator": false,
-      "karma": 2590,
-      "avatar_url": "/avatars/technetium-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "design"
-    ]
-  },
-  {
-    "short_id": "e2prel",
-    "short_id_url": "https://lobste.rs/s/e2prel",
-    "created_at": "2021-08-17T09:17:01.000-05:00",
-    "title": "Beyond Firefighter vs. Safety Matches: Growing the DevSecOps Pipeline",
-    "url": "https://www.youtube.com/watch?v=5RkduV_cezs",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/e2prel/beyond_firefighter_vs_safety_matches",
-    "submitter_user": {
-      "username": "lattera",
-      "created_at": "2014-05-30T07:30:38.000-05:00",
-      "is_admin": false,
-      "about": "Cofounder of HardenedBSD, lover of most things opensource.",
-      "is_moderator": false,
-      "karma": 4437,
-      "avatar_url": "/avatars/lattera-100.png",
-      "invited_by_user": "xmj",
-      "github_username": "lattera",
-      "twitter_username": "lattera"
-    },
-    "tags": [
-      "security",
-      "video"
     ]
   }
 ]
