@@ -5,7 +5,7 @@
     "created_at": "2021-08-19T11:36:29.000-05:00",
     "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
     "url": "https://gfx-rs.github.io/2021/08/18/release-0.10.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +16,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 525,
+      "karma": 526,
       "avatar_url": "/avatars/JulianWgs-100.png",
       "invited_by_user": "355E3B",
       "github_username": "JulianWgs"
@@ -25,31 +25,6 @@
       "graphics",
       "rust",
       "web"
-    ]
-  },
-  {
-    "short_id": "ztvnlt",
-    "short_id_url": "https://lobste.rs/s/ztvnlt",
-    "created_at": "2021-08-19T10:55:29.000-05:00",
-    "title": "A Straightforward Way To Extend CSV With Metadata",
-    "url": "https://gist.github.com/seece/97d02d6518db8b9e4c5b81fc686553e2",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ztvnlt/straightforward_way_extend_csv_with",
-    "submitter_user": {
-      "username": "pekkavaa",
-      "created_at": "2018-06-26T00:46:17.000-05:00",
-      "is_admin": false,
-      "about": "Graphics coder",
-      "is_moderator": false,
-      "karma": 484,
-      "avatar_url": "/avatars/pekkavaa-100.png",
-      "invited_by_user": "mikejstenberg"
-    },
-    "tags": [
-      "databases"
     ]
   },
   {
@@ -195,7 +170,7 @@
     "title": "Gentle Guide to Get Started With tmux",
     "url": "https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/",
     "score": 12,
-    "flags": 1,
+    "flags": 2,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/mkcokb/gentle_guide_get_started_with_tmux",
@@ -274,9 +249,9 @@
     "created_at": "2021-08-18T19:54:37.000-05:00",
     "title": "Org habits on iOS? Check! Tasks, you're next",
     "url": "https://xenodium.com/org-habits-on-ios-check-tasks-youre-next/",
-    "score": 8,
-    "flags": 1,
-    "comment_count": 9,
+    "score": 7,
+    "flags": 2,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/aurr46/org_habits_on_ios_check_tasks_you_re_next",
     "submitter_user": {
@@ -311,7 +286,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81958,
+      "karma": 81959,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -356,7 +331,7 @@
     "created_at": "2021-08-18T16:21:44.000-05:00",
     "title": "Designing Virtual Worlds [2003]",
     "url": "https://mud.co.uk/richard/DesigningVirtualWorlds.pdf",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -367,7 +342,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35892,
+      "karma": 35895,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -419,7 +394,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81958,
+      "karma": 81959,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -434,7 +409,7 @@
     "created_at": "2021-08-18T12:58:26.000-05:00",
     "title": "Data Lineage at Slack",
     "url": "https://slack.engineering/data-lineage-at-slack/",
-    "score": 9,
+    "score": 10,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -445,7 +420,7 @@
       "is_admin": false,
       "about": "...of ghost, of flame, and ashes.",
       "is_moderator": false,
-      "karma": 438,
+      "karma": 439,
       "avatar_url": "/avatars/squadette-100.png",
       "invited_by_user": "lauris"
     },
@@ -460,7 +435,7 @@
     "created_at": "2021-08-18T12:55:34.000-05:00",
     "title": "On Parsers",
     "url": "https://wiki.alopex.li/OnParsers",
-    "score": 34,
+    "score": 35,
     "flags": 0,
     "comment_count": 18,
     "description": "",
@@ -471,7 +446,7 @@
       "is_admin": false,
       "about": "Lobsters rules:\r\n\r\n * Always upvote langdev, osdev or gamedev\r\n * Strongly avoid medium or twitter links\r\n * Strongly avoid any thread where the number of comments exceeds the number of upvotes",
       "is_moderator": false,
-      "karma": 4425,
+      "karma": 4426,
       "avatar_url": "/avatars/icefox-100.png",
       "invited_by_user": "shanemhansen"
     },
@@ -568,7 +543,7 @@
     "created_at": "2021-08-18T09:33:34.000-05:00",
     "title": "B-Trees: More Than I Thought I'd Want to Know",
     "url": "https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/",
-    "score": 26,
+    "score": 27,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -579,7 +554,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1282,
+      "karma": 1283,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -605,7 +580,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81958,
+      "karma": 81959,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -624,7 +599,7 @@
     "url": "https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/",
     "score": 55,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/7bo9ml/it_never_had_be_like_this_git_index",
     "submitter_user": {
@@ -633,7 +608,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81958,
+      "karma": 81959,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -648,7 +623,7 @@
     "created_at": "2021-08-18T08:16:51.000-05:00",
     "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
     "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
-    "score": 60,
+    "score": 61,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -659,7 +634,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4501,
+      "karma": 4502,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -667,6 +642,32 @@
     },
     "tags": [
       "osdev"
+    ]
+  },
+  {
+    "short_id": "bjnowq",
+    "short_id_url": "https://lobste.rs/s/bjnowq",
+    "created_at": "2021-08-18T07:29:08.000-05:00",
+    "title": "Understanding Horizontal Pod Autoscaling",
+    "url": "https://www.cloudnatively.com/kubernetes-hpa-explanation/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bjnowq/understanding_horizontal_pod",
+    "submitter_user": {
+      "username": "devupio",
+      "created_at": "2016-08-03T11:39:54.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 12,
+      "avatar_url": "/avatars/devupio-100.png",
+      "invited_by_user": "tiwarinitish86"
+    },
+    "tags": [
+      "api",
+      "devops"
     ]
   }
 ]
