@@ -1,13 +1,40 @@
 [
   {
+    "short_id": "owiqyg",
+    "short_id_url": "https://lobste.rs/s/owiqyg",
+    "created_at": "2021-08-19T10:16:19.000-05:00",
+    "title": "Propositions as Types [2015]",
+    "url": "https://www.youtube.com/watch?v=IOiZatlZtGU",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/owiqyg/propositions_as_types_2015",
+    "submitter_user": {
+      "username": "av",
+      "created_at": "2015-03-22T08:27:17.000-05:00",
+      "is_admin": false,
+      "about": "Python Enthusiast.",
+      "is_moderator": false,
+      "karma": 10130,
+      "avatar_url": "/avatars/av-100.png",
+      "invited_by_user": "kshn"
+    },
+    "tags": [
+      "math",
+      "programming",
+      "video"
+    ]
+  },
+  {
     "short_id": "v8iqgb",
     "short_id_url": "https://lobste.rs/s/v8iqgb",
     "created_at": "2021-08-19T08:22:55.000-05:00",
     "title": "Configuration (and configuration files) is not and cannot be generic",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/v8iqgb/configuration_configuration_files_is",
     "submitter_user": {
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 313,
+      "karma": 314,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -58,7 +85,7 @@
     "created_at": "2021-08-19T06:51:56.000-05:00",
     "title": "Decentralized ETS Counters for Better Scalability",
     "url": "https://blog.erlang.org/scalable-ets-counters/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +96,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 2998,
+      "karma": 2999,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -200,7 +227,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81954,
+      "karma": 81956,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -228,7 +255,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 313,
+      "karma": 314,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -247,7 +274,7 @@
     "url": "https://mud.co.uk/richard/DesigningVirtualWorlds.pdf",
     "score": 9,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/gplc9j/designing_virtual_worlds_2003",
     "submitter_user": {
@@ -272,7 +299,7 @@
     "created_at": "2021-08-18T16:18:07.000-05:00",
     "title": "z3 made unreasonably easy",
     "url": "https://github.com/RocketRace/easy_z3",
-    "score": 27,
+    "score": 28,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -283,7 +310,7 @@
       "is_admin": false,
       "about": "they/them\r\n\r\nJava bytecode obfuscation enthusiast, videogame cheat developer, 20 years old.",
       "is_moderator": false,
-      "karma": 353,
+      "karma": 354,
       "avatar_url": "/avatars/videogame_hacker-100.png",
       "invited_by_user": "andrewrk"
     },
@@ -297,7 +324,7 @@
     "created_at": "2021-08-18T14:03:49.000-05:00",
     "title": "The IBM 1401 datacenter simulator - experience 1960's mainframe programming",
     "url": "https://rolffson.de/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -308,7 +335,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81954,
+      "karma": 81956,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -324,7 +351,7 @@
     "title": "Data Lineage at Slack",
     "url": "https://slack.engineering/data-lineage-at-slack/",
     "score": 9,
-    "flags": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/t3p3vw/data_lineage_at_slack",
@@ -349,9 +376,9 @@
     "created_at": "2021-08-18T12:55:34.000-05:00",
     "title": "On Parsers",
     "url": "https://wiki.alopex.li/OnParsers",
-    "score": 32,
+    "score": 34,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/7it43u/on_parsers",
     "submitter_user": {
@@ -360,7 +387,7 @@
       "is_admin": false,
       "about": "Lobsters rules:\r\n\r\n * Always upvote langdev, osdev or gamedev\r\n * Strongly avoid medium or twitter links\r\n * Strongly avoid any thread where the number of comments exceeds the number of upvotes",
       "is_moderator": false,
-      "karma": 4423,
+      "karma": 4425,
       "avatar_url": "/avatars/icefox-100.png",
       "invited_by_user": "shanemhansen"
     },
@@ -457,7 +484,7 @@
     "created_at": "2021-08-18T09:33:34.000-05:00",
     "title": "B-Trees: More Than I Thought I'd Want to Know",
     "url": "https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -468,7 +495,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1279,
+      "karma": 1280,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -494,7 +521,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81954,
+      "karma": 81956,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -511,7 +538,7 @@
     "created_at": "2021-08-18T08:40:29.000-05:00",
     "title": "It never had to be like this: the git \"index\"",
     "url": "https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/",
-    "score": 53,
+    "score": 54,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -522,7 +549,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81954,
+      "karma": 81956,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -537,9 +564,9 @@
     "created_at": "2021-08-18T08:16:51.000-05:00",
     "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
     "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
-    "score": 56,
+    "score": 58,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/dp0umd/not_linux_distro_review_serenityos_is",
     "submitter_user": {
@@ -548,7 +575,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4496,
+      "karma": 4499,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -632,33 +659,6 @@
     },
     "tags": [
       "ios"
-    ]
-  },
-  {
-    "short_id": "6fyh6p",
-    "short_id_url": "https://lobste.rs/s/6fyh6p",
-    "created_at": "2021-08-18T04:35:50.000-05:00",
-    "title": "Quick and dirty backpropagation in Haskell",
-    "url": "https://mazzo.li/posts/haskell-backprop-short.html",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/6fyh6p/quick_dirty_backpropagation_haskell",
-    "submitter_user": {
-      "username": "francesco",
-      "created_at": "2021-08-16T16:18:25.000-05:00",
-      "is_admin": false,
-      "about": "https://mazzo.li",
-      "is_moderator": false,
-      "karma": 8,
-      "avatar_url": "/avatars/francesco-100.png",
-      "invited_by_user": "knl"
-    },
-    "tags": [
-      "ai",
-      "haskell",
-      "math"
     ]
   }
 ]
