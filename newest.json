@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "ydvbhv",
+    "short_id_url": "https://lobste.rs/s/ydvbhv",
+    "created_at": "2021-08-19T11:36:29.000-05:00",
+    "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
+    "url": "https://gfx-rs.github.io/2021/08/18/release-0.10.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ydvbhv/release_pure_rust_v0_10_call_for_testing",
+    "submitter_user": {
+      "username": "JulianWgs",
+      "created_at": "2020-09-24T14:54:13.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 525,
+      "avatar_url": "/avatars/JulianWgs-100.png",
+      "invited_by_user": "355E3B",
+      "github_username": "JulianWgs"
+    },
+    "tags": [
+      "graphics",
+      "rust",
+      "web"
+    ]
+  },
+  {
     "short_id": "ztvnlt",
     "short_id_url": "https://lobste.rs/s/ztvnlt",
     "created_at": "2021-08-19T10:55:29.000-05:00",
@@ -30,9 +58,9 @@
     "created_at": "2021-08-19T10:38:20.000-05:00",
     "title": "Using the wgrep package in Emacs to rewrite grep results from lots of files",
     "url": "https://sachachua.com/blog/2021/08/using-the-wgrep-package-in-emacs-to-rewrite-grep-results-from-lots-of-files/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/jm7wxz/using_wgrep_package_emacs_rewrite_grep",
     "submitter_user": {
@@ -41,7 +69,7 @@
       "is_admin": false,
       "about": "learning / yearning",
       "is_moderator": false,
-      "karma": 54,
+      "karma": 55,
       "avatar_url": "/avatars/MrFantastik-100.png",
       "invited_by_user": "lukas",
       "keybase_signatures": [
@@ -88,9 +116,9 @@
     "created_at": "2021-08-19T08:22:55.000-05:00",
     "title": "Configuration (and configuration files) is not and cannot be generic",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/v8iqgb/configuration_configuration_files_is",
     "submitter_user": {
@@ -99,7 +127,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 315,
+      "karma": 316,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -141,7 +169,7 @@
     "created_at": "2021-08-19T06:51:56.000-05:00",
     "title": "Decentralized ETS Counters for Better Scalability",
     "url": "https://blog.erlang.org/scalable-ets-counters/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -152,7 +180,7 @@
       "is_admin": false,
       "about": "https://keybase.io/eh",
       "is_moderator": false,
-      "karma": 3000,
+      "karma": 3001,
       "avatar_url": "/avatars/ehamberg-100.png",
       "invited_by_user": "oleavr"
     },
@@ -166,7 +194,7 @@
     "created_at": "2021-08-19T01:56:12.000-05:00",
     "title": "Gentle Guide to Get Started With tmux",
     "url": "https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/",
-    "score": 9,
+    "score": 12,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -177,7 +205,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 222,
+      "karma": 225,
       "avatar_url": "/avatars/nikolalsvk-100.png",
       "invited_by_user": "ngoldbaum",
       "github_username": "nikolalsvk",
@@ -220,7 +248,7 @@
     "created_at": "2021-08-18T21:30:11.000-05:00",
     "title": "Review: Why FP Matters (Hughes)",
     "url": "https://cuddly-octo-palm-tree.com/posts/2021-03-07-review-whyfp/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -231,7 +259,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7090,
+      "karma": 7091,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -246,9 +274,9 @@
     "created_at": "2021-08-18T19:54:37.000-05:00",
     "title": "Org habits on iOS? Check! Tasks, you're next",
     "url": "https://xenodium.com/org-habits-on-ios-check-tasks-youre-next/",
-    "score": 6,
+    "score": 8,
     "flags": 1,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/aurr46/org_habits_on_ios_check_tasks_you_re_next",
     "submitter_user": {
@@ -257,7 +285,7 @@
       "is_admin": false,
       "about": "Building software and having a little fun along the way. I live in Emacs somewhere in London.",
       "is_moderator": false,
-      "karma": 161,
+      "karma": 163,
       "avatar_url": "/avatars/xenodium-100.png",
       "invited_by_user": "GeoffWozniak"
     },
@@ -311,7 +339,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 315,
+      "karma": 316,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -339,7 +367,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35891,
+      "karma": 35892,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -434,7 +462,7 @@
     "url": "https://wiki.alopex.li/OnParsers",
     "score": 34,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 18,
     "description": "",
     "comments_url": "https://lobste.rs/s/7it43u/on_parsers",
     "submitter_user": {
@@ -497,7 +525,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7090,
+      "karma": 7091,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -596,7 +624,7 @@
     "url": "https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/",
     "score": 55,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/7bo9ml/it_never_had_be_like_this_git_index",
     "submitter_user": {
@@ -620,7 +648,7 @@
     "created_at": "2021-08-18T08:16:51.000-05:00",
     "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
     "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
-    "score": 59,
+    "score": 60,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -631,7 +659,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4500,
+      "karma": 4501,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -639,32 +667,6 @@
     },
     "tags": [
       "osdev"
-    ]
-  },
-  {
-    "short_id": "bjnowq",
-    "short_id_url": "https://lobste.rs/s/bjnowq",
-    "created_at": "2021-08-18T07:29:08.000-05:00",
-    "title": "Understanding Horizontal Pod Autoscaling",
-    "url": "https://www.cloudnatively.com/kubernetes-hpa-explanation/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bjnowq/understanding_horizontal_pod",
-    "submitter_user": {
-      "username": "devupio",
-      "created_at": "2016-08-03T11:39:54.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 12,
-      "avatar_url": "/avatars/devupio-100.png",
-      "invited_by_user": "tiwarinitish86"
-    },
-    "tags": [
-      "api",
-      "devops"
     ]
   }
 ]
