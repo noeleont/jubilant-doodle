@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "mmjzxz",
+    "short_id_url": "https://lobste.rs/s/mmjzxz",
+    "created_at": "2021-08-18T18:26:38.000-05:00",
+    "title": "Reverse-engineering a vintage power supply chip from die photos",
+    "url": "http://www.righto.com/2021/08/reverse-engineering-vintage-power.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/mmjzxz/reverse_engineering_vintage_power",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81933,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "hardware",
+      "historical",
+      "reversing"
+    ]
+  },
+  {
     "short_id": "kgqp89",
     "short_id_url": "https://lobste.rs/s/kgqp89",
     "created_at": "2021-08-18T18:11:11.000-05:00",
@@ -44,7 +72,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35880,
+      "karma": 35881,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -60,7 +88,7 @@
     "created_at": "2021-08-18T16:18:07.000-05:00",
     "title": "z3 made unreasonably easy",
     "url": "https://github.com/RocketRace/easy_z3",
-    "score": 6,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -71,7 +99,7 @@
       "is_admin": false,
       "about": "they/them\r\n\r\nJava bytecode obfuscation enthusiast, videogame cheat developer, 20 years old.",
       "is_moderator": false,
-      "karma": 332,
+      "karma": 336,
       "avatar_url": "/avatars/videogame_hacker-100.png",
       "invited_by_user": "andrewrk"
     },
@@ -96,7 +124,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81932,
+      "karma": 81933,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -137,9 +165,9 @@
     "created_at": "2021-08-18T12:55:34.000-05:00",
     "title": "On Parsers",
     "url": "https://wiki.alopex.li/OnParsers",
-    "score": 16,
+    "score": 19,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/7it43u/on_parsers",
     "submitter_user": {
@@ -148,7 +176,7 @@
       "is_admin": false,
       "about": "Lobsters rules:\r\n\r\n * Always upvote langdev, osdev or gamedev\r\n * Strongly avoid medium or twitter links\r\n * Strongly avoid any thread where the number of comments exceeds the number of upvotes",
       "is_moderator": false,
-      "karma": 4406,
+      "karma": 4409,
       "avatar_url": "/avatars/icefox-100.png",
       "invited_by_user": "shanemhansen"
     },
@@ -245,7 +273,7 @@
     "created_at": "2021-08-18T09:33:34.000-05:00",
     "title": "B-Trees: More Than I Thought I'd Want to Know",
     "url": "https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -256,7 +284,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1274,
+      "karma": 1275,
       "avatar_url": "/avatars/bcongdon-100.png",
       "invited_by_user": "gerikson",
       "github_username": "bcongdon"
@@ -282,7 +310,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81932,
+      "karma": 81933,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -310,7 +338,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81932,
+      "karma": 81933,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -325,7 +353,7 @@
     "created_at": "2021-08-18T08:16:51.000-05:00",
     "title": "Not-a-Linux distro review: SerenityOS is a Unix-y love letter to the ’90s",
     "url": "https://arstechnica.com/gadgets/2021/08/not-a-linux-distro-review-serenityos-is-a-unix-y-love-letter-to-the-90s/",
-    "score": 37,
+    "score": 38,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -336,7 +364,7 @@
       "is_admin": false,
       "about": "Cofounder of HardenedBSD, lover of most things opensource.",
       "is_moderator": false,
-      "karma": 4474,
+      "karma": 4476,
       "avatar_url": "/avatars/lattera-100.png",
       "invited_by_user": "xmj",
       "github_username": "lattera",
@@ -389,7 +417,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35880,
+      "karma": 35881,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -455,7 +483,7 @@
     "created_at": "2021-08-18T02:46:39.000-05:00",
     "title": "NetBSD Explained",
     "url": "https://www.makeuseof.com/what-is-netbsd/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -466,7 +494,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 458,
+      "karma": 459,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -482,9 +510,9 @@
     "created_at": "2021-08-18T02:22:02.000-05:00",
     "title": "A few simple tricks to tune your github actions runtime",
     "url": "https://abbbi.github.io/actions/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/fbew1s/few_simple_tricks_tune_your_github",
     "submitter_user": {
@@ -493,7 +521,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 93,
+      "karma": 94,
       "avatar_url": "/avatars/abi-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -572,7 +600,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81932,
+      "karma": 81933,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -627,7 +655,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81932,
+      "karma": 81933,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -635,32 +663,6 @@
     "tags": [
       "reversing",
       "security"
-    ]
-  },
-  {
-    "short_id": "uz4zld",
-    "short_id_url": "https://lobste.rs/s/uz4zld",
-    "created_at": "2021-08-17T17:58:45.000-05:00",
-    "title": "PiMaker/rvc: A 32-bit RISC-V emulator in a shader",
-    "url": "https://github.com/PiMaker/rvc",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uz4zld/pimaker_rvc_32_bit_risc_v_emulator_shader",
-    "submitter_user": {
-      "username": "df",
-      "created_at": "2019-12-17T11:43:16.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 419,
-      "avatar_url": "/avatars/df-100.png",
-      "invited_by_user": "roshanravan"
-    },
-    "tags": [
-      "graphics",
-      "hardware"
     ]
   }
 ]
