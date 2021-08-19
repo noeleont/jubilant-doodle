@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "ia6zhb",
+    "short_id_url": "https://lobste.rs/s/ia6zhb",
+    "created_at": "2021-08-19T13:47:57.000-05:00",
+    "title": "Universality in Two Dimensions (2013)",
+    "url": "http://www.cs.tau.ac.il/~nachumd/papers/2D.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ia6zhb/universality_two_dimensions_2013",
+    "submitter_user": {
+      "username": "breck",
+      "created_at": "2019-04-15T00:02:13.000-05:00",
+      "is_admin": false,
+      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
+      "is_moderator": false,
+      "karma": 1019,
+      "avatar_url": "/avatars/breck-100.png",
+      "invited_by_user": "ec",
+      "github_username": "breck7",
+      "twitter_username": "breckyunits"
+    },
+    "tags": [
+      "pdf",
+      "plt"
+    ]
+  },
+  {
     "short_id": "ydvbhv",
     "short_id_url": "https://lobste.rs/s/ydvbhv",
     "created_at": "2021-08-19T11:36:29.000-05:00",
@@ -33,7 +61,7 @@
     "created_at": "2021-08-19T10:38:20.000-05:00",
     "title": "Using the wgrep package in Emacs to rewrite grep results from lots of files",
     "url": "https://sachachua.com/blog/2021/08/using-the-wgrep-package-in-emacs-to-rewrite-grep-results-from-lots-of-files/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -44,7 +72,7 @@
       "is_admin": false,
       "about": "learning / yearning",
       "is_moderator": false,
-      "karma": 55,
+      "karma": 56,
       "avatar_url": "/avatars/MrFantastik-100.png",
       "invited_by_user": "lukas",
       "keybase_signatures": [
@@ -91,9 +119,9 @@
     "created_at": "2021-08-19T08:22:55.000-05:00",
     "title": "Configuration (and configuration files) is not and cannot be generic",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric",
-    "score": 5,
+    "score": 8,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/v8iqgb/configuration_configuration_files_is",
     "submitter_user": {
@@ -102,7 +130,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 316,
+      "karma": 319,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -196,7 +224,7 @@
     "created_at": "2021-08-19T01:15:46.000-05:00",
     "title": "How an A.I. is Becoming the World's Best Pokemon Player",
     "url": "https://www.youtube.com/watch?v=rhvj7CmTRkg",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -207,7 +235,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2749,
+      "karma": 2750,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -251,7 +279,7 @@
     "url": "https://xenodium.com/org-habits-on-ios-check-tasks-youre-next/",
     "score": 7,
     "flags": 2,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/aurr46/org_habits_on_ios_check_tasks_you_re_next",
     "submitter_user": {
@@ -286,7 +314,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81959,
+      "karma": 81964,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -314,7 +342,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 316,
+      "karma": 319,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -358,7 +386,7 @@
     "created_at": "2021-08-18T16:18:07.000-05:00",
     "title": "z3 made unreasonably easy",
     "url": "https://github.com/RocketRace/easy_z3",
-    "score": 29,
+    "score": 30,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -369,7 +397,7 @@
       "is_admin": false,
       "about": "they/them\r\n\r\nJava bytecode obfuscation enthusiast, videogame cheat developer, 20 years old.",
       "is_moderator": false,
-      "karma": 355,
+      "karma": 356,
       "avatar_url": "/avatars/videogame_hacker-100.png",
       "invited_by_user": "andrewrk"
     },
@@ -394,7 +422,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81959,
+      "karma": 81964,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -411,7 +439,7 @@
     "url": "https://slack.engineering/data-lineage-at-slack/",
     "score": 10,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/t3p3vw/data_lineage_at_slack",
     "submitter_user": {
@@ -435,7 +463,7 @@
     "created_at": "2021-08-18T12:55:34.000-05:00",
     "title": "On Parsers",
     "url": "https://wiki.alopex.li/OnParsers",
-    "score": 35,
+    "score": 36,
     "flags": 0,
     "comment_count": 18,
     "description": "",
@@ -446,7 +474,7 @@
       "is_admin": false,
       "about": "Lobsters rules:\r\n\r\n * Always upvote langdev, osdev or gamedev\r\n * Strongly avoid medium or twitter links\r\n * Strongly avoid any thread where the number of comments exceeds the number of upvotes",
       "is_moderator": false,
-      "karma": 4426,
+      "karma": 4427,
       "avatar_url": "/avatars/icefox-100.png",
       "invited_by_user": "shanemhansen"
     },
@@ -580,7 +608,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81959,
+      "karma": 81964,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -597,9 +625,9 @@
     "created_at": "2021-08-18T08:40:29.000-05:00",
     "title": "It never had to be like this: the git \"index\"",
     "url": "https://sporks.space/2021/08/18/it-never-had-to-be-like-this-the-git-index/",
-    "score": 55,
+    "score": 57,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/7bo9ml/it_never_had_be_like_this_git_index",
     "submitter_user": {
@@ -608,7 +636,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81959,
+      "karma": 81964,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -642,32 +670,6 @@
     },
     "tags": [
       "osdev"
-    ]
-  },
-  {
-    "short_id": "bjnowq",
-    "short_id_url": "https://lobste.rs/s/bjnowq",
-    "created_at": "2021-08-18T07:29:08.000-05:00",
-    "title": "Understanding Horizontal Pod Autoscaling",
-    "url": "https://www.cloudnatively.com/kubernetes-hpa-explanation/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bjnowq/understanding_horizontal_pod",
-    "submitter_user": {
-      "username": "devupio",
-      "created_at": "2016-08-03T11:39:54.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 12,
-      "avatar_url": "/avatars/devupio-100.png",
-      "invited_by_user": "tiwarinitish86"
-    },
-    "tags": [
-      "api",
-      "devops"
     ]
   }
 ]
