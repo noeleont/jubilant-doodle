@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "b38obk",
+    "short_id_url": "https://lobste.rs/s/b38obk",
+    "created_at": "2021-08-20T04:37:17.000-05:00",
+    "title": "Clojure-like destructuring in brev",
+    "url": "https://idiomdrottning.org/clojure-like-destructuring-in-brev",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/b38obk/clojure_like_destructuring_brev",
+    "submitter_user": {
+      "username": "snan",
+      "created_at": "2021-02-07T08:24:03.000-06:00",
+      "is_admin": false,
+      "about": "- [Idiomdrottning](https://idiomdrottning.org)",
+      "is_moderator": false,
+      "karma": 176,
+      "avatar_url": "/avatars/snan-100.png",
+      "invited_by_user": "cadadr"
+    },
+    "tags": [
+      "lisp"
+    ]
+  },
+  {
     "short_id": "pysgzj",
     "short_id_url": "https://lobste.rs/s/pysgzj",
     "created_at": "2021-08-20T03:53:59.000-05:00",
@@ -56,7 +81,7 @@
     "created_at": "2021-08-20T03:07:04.000-05:00",
     "title": "PostgreSQL count(*) made fast",
     "url": "https://www.cybertec-postgresql.com/en/postgresql-count-made-fast/",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -67,7 +92,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2757,
+      "karma": 2760,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -93,7 +118,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1517,
+      "karma": 1518,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -108,7 +133,7 @@
     "created_at": "2021-08-19T21:30:47.000-05:00",
     "title": "Plua revisited: Lua for PalmOS (and resurrecting plua2c)",
     "url": "http://oldvcr.blogspot.com/2021/08/plua-revisited-lua-for-palmos-and.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -119,7 +144,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1517,
+      "karma": 1518,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -145,7 +170,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81996,
+      "karma": 81998,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -215,7 +240,7 @@
     "created_at": "2021-08-19T17:28:50.000-05:00",
     "title": "Patterns in confusing explanations",
     "url": "https://jvns.ca/blog/confusing-explanations/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -226,7 +251,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81996,
+      "karma": 81998,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -252,7 +277,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11791,
+      "karma": 11794,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -266,7 +291,7 @@
     "created_at": "2021-08-19T16:18:32.000-05:00",
     "title": "Writing a JSON parser from scratch in TypeScript",
     "url": "https://www.brandons.me/blog/casual-parsing-javascript",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -277,7 +302,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1232,
+      "karma": 1233,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -293,9 +318,9 @@
     "created_at": "2021-08-19T16:13:45.000-05:00",
     "title": "Here's another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "score": 21,
+    "score": 24,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/pfxfy4/here_s_another_free_ca_as_alternative_let_s",
     "submitter_user": {
@@ -304,7 +329,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11791,
+      "karma": 11794,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -345,7 +370,7 @@
     "created_at": "2021-08-19T16:05:02.000-05:00",
     "title": "What scientists must know about hardware to write fast code",
     "url": "https://viralinstruction.com/posts/hardware/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -356,7 +381,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81996,
+      "karma": 81998,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -427,7 +452,7 @@
     "created_at": "2021-08-19T11:36:29.000-05:00",
     "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
     "url": "https://gfx-rs.github.io/2021/08/18/release-0.10.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -438,7 +463,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 530,
+      "karma": 531,
       "avatar_url": "/avatars/JulianWgs-100.png",
       "invited_by_user": "355E3B",
       "github_username": "JulianWgs"
@@ -486,7 +511,7 @@
     "created_at": "2021-08-19T10:16:19.000-05:00",
     "title": "Propositions as Types [2015]",
     "url": "https://www.youtube.com/watch?v=IOiZatlZtGU",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -497,7 +522,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10135,
+      "karma": 10136,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -591,7 +616,7 @@
     "created_at": "2021-08-19T01:56:12.000-05:00",
     "title": "Gentle Guide to Get Started With tmux",
     "url": "https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/",
-    "score": 20,
+    "score": 21,
     "flags": 3,
     "comment_count": 0,
     "description": "",
@@ -602,7 +627,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 233,
+      "karma": 234,
       "avatar_url": "/avatars/nikolalsvk-100.png",
       "invited_by_user": "ngoldbaum",
       "github_username": "nikolalsvk",
@@ -637,32 +662,6 @@
       "ai",
       "games",
       "video"
-    ]
-  },
-  {
-    "short_id": "kfx2vr",
-    "short_id_url": "https://lobste.rs/s/kfx2vr",
-    "created_at": "2021-08-18T21:30:11.000-05:00",
-    "title": "Review: Why FP Matters (Hughes)",
-    "url": "https://cuddly-octo-palm-tree.com/posts/2021-03-07-review-whyfp/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/kfx2vr/review_why_fp_matters_hughes",
-    "submitter_user": {
-      "username": "Yogthos",
-      "created_at": "2017-05-26T15:31:12.000-05:00",
-      "is_admin": false,
-      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
-      "is_moderator": false,
-      "karma": 7092,
-      "avatar_url": "/avatars/Yogthos-100.png",
-      "invited_by_user": "gered"
-    },
-    "tags": [
-      "clojure",
-      "programming"
     ]
   }
 ]
