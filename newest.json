@@ -1,5 +1,60 @@
 [
   {
+    "short_id": "8kxcvy",
+    "short_id_url": "https://lobste.rs/s/8kxcvy",
+    "created_at": "2021-08-20T10:11:43.000-05:00",
+    "title": "Lobste.rs Password Reset Vulnerability",
+    "url": "https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 5,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/8kxcvy/lobste_rs_password_reset_vulnerability",
+    "submitter_user": {
+      "username": "soatok",
+      "created_at": "2020-10-09T21:36:56.000-05:00",
+      "is_admin": false,
+      "about": "I'm a furry and I blog about cryptography stuff.",
+      "is_moderator": false,
+      "karma": 966,
+      "avatar_url": "/avatars/soatok-100.png",
+      "invited_by_user": "sarciszewski",
+      "github_username": "soatok",
+      "twitter_username": "SoatokDhole"
+    },
+    "tags": [
+      "crypto",
+      "security"
+    ]
+  },
+  {
+    "short_id": "gtlzbv",
+    "short_id_url": "https://lobste.rs/s/gtlzbv",
+    "created_at": "2021-08-20T09:37:52.000-05:00",
+    "title": "i-probably-didnt-backdoor-this: Using Reproducible Builds to verify a Rust binary",
+    "url": "https://github.com/kpcyrd/i-probably-didnt-backdoor-this",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gtlzbv/i_probably_didnt_backdoor_this_using",
+    "submitter_user": {
+      "username": "kpcyrd",
+      "created_at": "2020-02-18T07:52:26.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 10,
+      "avatar_url": "/avatars/kpcyrd-100.png",
+      "invited_by_user": "gerikson"
+    },
+    "tags": [
+      "programming",
+      "rust",
+      "security"
+    ]
+  },
+  {
     "short_id": "dqmxny",
     "short_id_url": "https://lobste.rs/s/dqmxny",
     "created_at": "2021-08-20T08:45:21.000-05:00",
@@ -16,7 +71,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82013,
+      "karma": 82016,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -135,7 +190,7 @@
     "url": "https://tech.marksblogg.com/snappy-s2-compression-golang.html",
     "score": 1,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/rfngw1/faster_compression_with_snappy_s_s2",
     "submitter_user": {
@@ -158,9 +213,9 @@
     "created_at": "2021-08-20T06:19:30.000-05:00",
     "title": "What are you doing this weekend?",
     "url": "",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 9,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/uzeutu/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -169,7 +224,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6449,
+      "karma": 6452,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -186,9 +241,9 @@
     "created_at": "2021-08-20T06:18:54.000-05:00",
     "title": "Consume less, create more",
     "url": "https://blog.tjcx.me/p/consume-less-create-more",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 4,
+    "score": 10,
+    "flags": 1,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/pmtetr/consume_less_create_more",
     "submitter_user": {
@@ -197,7 +252,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6449,
+      "karma": 6452,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -238,7 +293,7 @@
     "created_at": "2021-08-20T03:53:59.000-05:00",
     "title": "20 Years of Haiku",
     "url": "https://www.haiku-os.org/news/2021-08-18_20_years_of_haiku/",
-    "score": 2,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -249,7 +304,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2079,
+      "karma": 2082,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -289,7 +344,7 @@
     "created_at": "2021-08-20T03:07:04.000-05:00",
     "title": "PostgreSQL count(*) made fast",
     "url": "https://www.cybertec-postgresql.com/en/postgresql-count-made-fast/",
-    "score": 8,
+    "score": 11,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -300,7 +355,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2766,
+      "karma": 2772,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -315,7 +370,7 @@
     "created_at": "2021-08-20T00:42:18.000-05:00",
     "title": "fachat/MicroPET revision 2",
     "url": "https://github.com/fachat/MicroPET",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -326,7 +381,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1520,
+      "karma": 1521,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -352,7 +407,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1520,
+      "karma": 1521,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -378,7 +433,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82013,
+      "karma": 82016,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -448,7 +503,7 @@
     "created_at": "2021-08-19T17:28:50.000-05:00",
     "title": "Patterns in confusing explanations",
     "url": "https://jvns.ca/blog/confusing-explanations/",
-    "score": 23,
+    "score": 25,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -459,7 +514,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82013,
+      "karma": 82016,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -485,7 +540,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11805,
+      "karma": 11806,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -526,7 +581,7 @@
     "created_at": "2021-08-19T16:13:45.000-05:00",
     "title": "Here's another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "score": 32,
+    "score": 33,
     "flags": 0,
     "comment_count": 15,
     "description": "",
@@ -537,7 +592,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11805,
+      "karma": 11806,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -578,7 +633,7 @@
     "created_at": "2021-08-19T16:05:02.000-05:00",
     "title": "What scientists must know about hardware to write fast code",
     "url": "https://viralinstruction.com/posts/hardware/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -589,7 +644,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82013,
+      "karma": 82016,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -598,60 +653,6 @@
       "performance",
       "programming",
       "science"
-    ]
-  },
-  {
-    "short_id": "ffpdog",
-    "short_id_url": "https://lobste.rs/s/ffpdog",
-    "created_at": "2021-08-19T15:50:29.000-05:00",
-    "title": "A 5x reduction in RAM usage with Zoekt memory optimizations",
-    "url": "https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud/",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ffpdog/5x_reduction_ram_usage_with_zoekt_memory",
-    "submitter_user": {
-      "username": "indigo",
-      "created_at": "2015-10-15T11:52:50.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 605,
-      "avatar_url": "/avatars/indigo-100.png",
-      "invited_by_user": "tluyben2"
-    },
-    "tags": [
-      "go",
-      "performance"
-    ]
-  },
-  {
-    "short_id": "ia6zhb",
-    "short_id_url": "https://lobste.rs/s/ia6zhb",
-    "created_at": "2021-08-19T13:47:57.000-05:00",
-    "title": "Universality in Two Dimensions (2013)",
-    "url": "http://www.cs.tau.ac.il/~nachumd/papers/2D.pdf",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ia6zhb/universality_two_dimensions_2013",
-    "submitter_user": {
-      "username": "breck",
-      "created_at": "2019-04-15T00:02:13.000-05:00",
-      "is_admin": false,
-      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
-      "is_moderator": false,
-      "karma": 1019,
-      "avatar_url": "/avatars/breck-100.png",
-      "invited_by_user": "ec",
-      "github_username": "breck7",
-      "twitter_username": "breckyunits"
-    },
-    "tags": [
-      "pdf",
-      "plt"
     ]
   }
 ]
