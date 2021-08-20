@@ -1,13 +1,40 @@
 [
   {
+    "short_id": "yd2ldr",
+    "short_id_url": "https://lobste.rs/s/yd2ldr",
+    "created_at": "2021-08-19T19:27:06.000-05:00",
+    "title": "memfd_secret() in 5.14",
+    "url": "https://lwn.net/Articles/865256/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yd2ldr/memfd_secret_5_14",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 81974,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "api",
+      "linux"
+    ]
+  },
+  {
     "short_id": "bwgj9r",
     "short_id_url": "https://lobste.rs/s/bwgj9r",
     "created_at": "2021-08-19T18:07:12.000-05:00",
     "title": "Ruby vs Python, the Definitive FAQ (2016)",
     "url": "https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be",
-    "score": 1,
+    "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/bwgj9r/ruby_vs_python_definitive_faq_2016",
     "submitter_user": {
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20096,
+      "karma": 20100,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -33,7 +60,7 @@
     "created_at": "2021-08-19T17:59:40.000-05:00",
     "title": "Setting new expectations for open source maintainers",
     "url": "https://opensource.com/article/21/8/open-source-maintainers",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -44,7 +71,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 3004,
+      "karma": 3005,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -85,9 +112,9 @@
     "created_at": "2021-08-19T16:32:17.000-05:00",
     "title": "Commander X16: A Dreamy 8 Bit Computer Comes Closer To Reality",
     "url": "https://hackaday.com/2021/08/18/commander-x16-a-dreamy-8-bit-computer-comes-closer-to-reality/",
-    "score": 3,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/hyxknm/commander_x16_dreamy_8_bit_computer_comes",
     "submitter_user": {
@@ -96,7 +123,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11767,
+      "karma": 11773,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -137,7 +164,7 @@
     "created_at": "2021-08-19T16:13:45.000-05:00",
     "title": "Here's another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "score": 2,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -148,7 +175,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11767,
+      "karma": 11773,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -271,7 +298,7 @@
     "created_at": "2021-08-19T11:36:29.000-05:00",
     "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
     "url": "https://gfx-rs.github.io/2021/08/18/release-0.10.html",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -282,7 +309,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 527,
+      "karma": 529,
       "avatar_url": "/avatars/JulianWgs-100.png",
       "invited_by_user": "355E3B",
       "github_username": "JulianWgs"
@@ -330,7 +357,7 @@
     "created_at": "2021-08-19T10:16:19.000-05:00",
     "title": "Propositions as Types [2015]",
     "url": "https://www.youtube.com/watch?v=IOiZatlZtGU",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -341,7 +368,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10133,
+      "karma": 10134,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -357,9 +384,9 @@
     "created_at": "2021-08-19T08:22:55.000-05:00",
     "title": "Configuration (and configuration files) is not and cannot be generic",
     "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/ConfigurationIsNotGeneric",
-    "score": 16,
+    "score": 17,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/v8iqgb/configuration_configuration_files_is",
     "submitter_user": {
@@ -368,7 +395,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 327,
+      "karma": 328,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -515,7 +542,7 @@
     "created_at": "2021-08-18T19:54:37.000-05:00",
     "title": "Org habits on iOS? Check! Tasks, you're next",
     "url": "https://xenodium.com/org-habits-on-ios-check-tasks-youre-next/",
-    "score": 12,
+    "score": 13,
     "flags": 2,
     "comment_count": 12,
     "description": "",
@@ -526,7 +553,7 @@
       "is_admin": false,
       "about": "Building software and having a little fun along the way. I live in Emacs somewhere in London.",
       "is_moderator": false,
-      "karma": 169,
+      "karma": 170,
       "avatar_url": "/avatars/xenodium-100.png",
       "invited_by_user": "GeoffWozniak"
     },
@@ -580,7 +607,7 @@
       "is_admin": false,
       "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
       "is_moderator": false,
-      "karma": 327,
+      "karma": 328,
       "avatar_url": "/avatars/carlmjohnson-100.png",
       "invited_by_user": "peterbourgon",
       "github_username": "carlmjohnson",
@@ -641,32 +668,6 @@
     },
     "tags": [
       "python"
-    ]
-  },
-  {
-    "short_id": "bacgjb",
-    "short_id_url": "https://lobste.rs/s/bacgjb",
-    "created_at": "2021-08-18T14:03:49.000-05:00",
-    "title": "The IBM 1401 datacenter simulator - experience 1960's mainframe programming",
-    "url": "https://rolffson.de/",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bacgjb/ibm_1401_datacenter_simulator",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81974,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "historical"
     ]
   }
 ]
