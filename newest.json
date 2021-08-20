@@ -1,5 +1,56 @@
 [
   {
+    "short_id": "pysgzj",
+    "short_id_url": "https://lobste.rs/s/pysgzj",
+    "created_at": "2021-08-20T03:53:59.000-05:00",
+    "title": "20 Years of Haiku",
+    "url": "https://www.haiku-os.org/news/2021-08-18_20_years_of_haiku/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/pysgzj/20_years_haiku",
+    "submitter_user": {
+      "username": "SoapDog",
+      "created_at": "2018-01-28T14:45:55.000-06:00",
+      "is_admin": false,
+      "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
+      "is_moderator": false,
+      "karma": 2078,
+      "avatar_url": "/avatars/SoapDog-100.png",
+      "invited_by_user": "vladikoff"
+    },
+    "tags": [
+      "osdev"
+    ]
+  },
+  {
+    "short_id": "ziou7q",
+    "short_id_url": "https://lobste.rs/s/ziou7q",
+    "created_at": "2021-08-20T03:29:26.000-05:00",
+    "title": "Introducing Glommio, a Thread per Core Crate for Rust & Linux (2020)",
+    "url": "https://www.datadoghq.com/blog/engineering/introducing-glommio/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ziou7q/introducing_glommio_thread_per_core",
+    "submitter_user": {
+      "username": "amirouche",
+      "created_at": "2019-10-02T13:25:07.000-05:00",
+      "is_admin": false,
+      "about": "```scheme\r\n(list (cons 'backend 'python)\r\n      (cons 'frontend 'javascript)\r\n      (cons 'nlp 'wip)\r\n      (cons 'devops 'wip))\r\n```",
+      "is_moderator": false,
+      "karma": 532,
+      "avatar_url": "/avatars/amirouche-100.png",
+      "invited_by_user": "bandali"
+    },
+    "tags": [
+      "networking",
+      "rust"
+    ]
+  },
+  {
     "short_id": "ctcwho",
     "short_id_url": "https://lobste.rs/s/ctcwho",
     "created_at": "2021-08-20T03:07:04.000-05:00",
@@ -7,7 +58,7 @@
     "url": "https://www.cybertec-postgresql.com/en/postgresql-count-made-fast/",
     "score": 1,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/ctcwho/postgresql_count_made_fast",
     "submitter_user": {
@@ -42,7 +93,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1516,
+      "karma": 1517,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -57,7 +108,7 @@
     "created_at": "2021-08-19T21:30:47.000-05:00",
     "title": "Plua revisited: Lua for PalmOS (and resurrecting plua2c)",
     "url": "http://oldvcr.blogspot.com/2021/08/plua-revisited-lua-for-palmos-and.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +119,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1516,
+      "karma": 1517,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -94,7 +145,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81989,
+      "karma": 81996,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -138,9 +189,9 @@
     "created_at": "2021-08-19T17:59:40.000-05:00",
     "title": "Setting new expectations for open source maintainers",
     "url": "https://opensource.com/article/21/8/open-source-maintainers",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/pttovd/setting_new_expectations_for_open_source",
     "submitter_user": {
@@ -149,7 +200,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 3009,
+      "karma": 3010,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -164,7 +215,7 @@
     "created_at": "2021-08-19T17:28:50.000-05:00",
     "title": "Patterns in confusing explanations",
     "url": "https://jvns.ca/blog/confusing-explanations/",
-    "score": 10,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -175,7 +226,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81989,
+      "karma": 81996,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -201,7 +252,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11788,
+      "karma": 11791,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -242,9 +293,9 @@
     "created_at": "2021-08-19T16:13:45.000-05:00",
     "title": "Here's another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "score": 18,
+    "score": 21,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/pfxfy4/here_s_another_free_ca_as_alternative_let_s",
     "submitter_user": {
@@ -253,7 +304,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11788,
+      "karma": 11791,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -294,7 +345,7 @@
     "created_at": "2021-08-19T16:05:02.000-05:00",
     "title": "What scientists must know about hardware to write fast code",
     "url": "https://viralinstruction.com/posts/hardware/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -305,7 +356,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 81989,
+      "karma": 81996,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -612,60 +663,6 @@
     "tags": [
       "clojure",
       "programming"
-    ]
-  },
-  {
-    "short_id": "aurr46",
-    "short_id_url": "https://lobste.rs/s/aurr46",
-    "created_at": "2021-08-18T19:54:37.000-05:00",
-    "title": "Org habits on iOS? Check! Tasks, you're next",
-    "url": "https://xenodium.com/org-habits-on-ios-check-tasks-youre-next/",
-    "score": 14,
-    "flags": 2,
-    "comment_count": 14,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/aurr46/org_habits_on_ios_check_tasks_you_re_next",
-    "submitter_user": {
-      "username": "xenodium",
-      "created_at": "2021-05-30T13:15:40.000-05:00",
-      "is_admin": false,
-      "about": "Building software and having a little fun along the way. I live in Emacs somewhere in London.",
-      "is_moderator": false,
-      "karma": 171,
-      "avatar_url": "/avatars/xenodium-100.png",
-      "invited_by_user": "GeoffWozniak"
-    },
-    "tags": [
-      "emacs",
-      "ios"
-    ]
-  },
-  {
-    "short_id": "mmjzxz",
-    "short_id_url": "https://lobste.rs/s/mmjzxz",
-    "created_at": "2021-08-18T18:26:38.000-05:00",
-    "title": "Reverse-engineering a vintage power supply chip from die photos",
-    "url": "http://www.righto.com/2021/08/reverse-engineering-vintage-power.html",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/mmjzxz/reverse_engineering_vintage_power",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 81989,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "hardware",
-      "historical",
-      "reversing"
     ]
   }
 ]
