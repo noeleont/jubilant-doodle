@@ -1,13 +1,72 @@
 [
   {
+    "short_id": "5asrov",
+    "short_id_url": "https://lobste.rs/s/5asrov",
+    "created_at": "2021-08-20T12:41:02.000-05:00",
+    "title": "Auto-correct Git commands",
+    "url": "https://bhupesh.gitbook.io/notes/git/autocorrect-git-commands",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/5asrov/auto_correct_git_commands",
+    "submitter_user": {
+      "username": "bhupesh",
+      "created_at": "2021-02-17T01:26:25.000-06:00",
+      "is_admin": false,
+      "about": "Developer • FOSS Creator • Tech Writer\r\n---\r\nFind me on [Web](https://bhupesh-v.github.io) | [Twitter](https://www.twitter.com/bhupeshimself) | [GitHub](https://github.com/Bhupesh-V)",
+      "is_moderator": false,
+      "karma": 10,
+      "avatar_url": "/avatars/bhupesh-100.png",
+      "invited_by_user": "sathyabhat",
+      "github_username": "Bhupesh-V"
+    },
+    "tags": [
+      "vcs"
+    ]
+  },
+  {
+    "short_id": "qti7vd",
+    "short_id_url": "https://lobste.rs/s/qti7vd",
+    "created_at": "2021-08-20T12:25:37.000-05:00",
+    "title": "JUXT Clojure Radar 2021",
+    "url": "https://www.juxt.pro/radar",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qti7vd/juxt_clojure_radar_2021",
+    "submitter_user": {
+      "username": "deobald",
+      "created_at": "2018-12-23T10:45:05.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 132,
+      "avatar_url": "/avatars/deobald-100.png",
+      "invited_by_user": "rdivyanshu",
+      "github_username": "deobald",
+      "twitter_username": "deobald",
+      "keybase_signatures": [
+        {
+          "kb_username": "deobald",
+          "sig_hash": "8f1ec286abb9eddcda5ce199db1c34fd000163001c3f2d8c227f63b217f24f4f0f"
+        }
+      ]
+    },
+    "tags": [
+      "clojure"
+    ]
+  },
+  {
     "short_id": "8kxcvy",
     "short_id_url": "https://lobste.rs/s/8kxcvy",
     "created_at": "2021-08-20T10:11:43.000-05:00",
     "title": "Lobste.rs Password Reset Vulnerability",
     "url": "https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/",
-    "score": 28,
+    "score": 36,
     "flags": 0,
-    "comment_count": 14,
+    "comment_count": 18,
     "description": "",
     "comments_url": "https://lobste.rs/s/8kxcvy/lobste_rs_password_reset_vulnerability",
     "submitter_user": {
@@ -16,7 +75,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1005,
+      "karma": 1015,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -71,7 +130,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82030,
+      "karma": 82033,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -213,9 +272,9 @@
     "created_at": "2021-08-20T06:19:30.000-05:00",
     "title": "What are you doing this weekend?",
     "url": "",
-    "score": 8,
+    "score": 9,
     "flags": 1,
-    "comment_count": 17,
+    "comment_count": 19,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/uzeutu/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -224,7 +283,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6423,
+      "karma": 6424,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -266,7 +325,7 @@
     "created_at": "2021-08-20T03:53:59.000-05:00",
     "title": "20 Years of Haiku",
     "url": "https://www.haiku-os.org/news/2021-08-18_20_years_of_haiku/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -277,7 +336,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2088,
+      "karma": 2089,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -354,7 +413,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1521,
+      "karma": 1522,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -369,7 +428,7 @@
     "created_at": "2021-08-19T21:30:47.000-05:00",
     "title": "Plua revisited: Lua for PalmOS (and resurrecting plua2c)",
     "url": "http://oldvcr.blogspot.com/2021/08/plua-revisited-lua-for-palmos-and.html",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -380,7 +439,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1521,
+      "karma": 1522,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -395,7 +454,7 @@
     "created_at": "2021-08-19T19:27:06.000-05:00",
     "title": "memfd_secret() in 5.14",
     "url": "https://lwn.net/Articles/865256/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -406,7 +465,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82030,
+      "karma": 82033,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -422,7 +481,7 @@
     "created_at": "2021-08-19T18:07:12.000-05:00",
     "title": "Ruby vs Python, the Definitive FAQ (2016)",
     "url": "https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be",
-    "score": 28,
+    "score": 29,
     "flags": 0,
     "comment_count": 11,
     "description": "",
@@ -433,7 +492,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20131,
+      "karma": 20139,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -476,7 +535,7 @@
     "created_at": "2021-08-19T17:28:50.000-05:00",
     "title": "Patterns in confusing explanations",
     "url": "https://jvns.ca/blog/confusing-explanations/",
-    "score": 36,
+    "score": 38,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -487,7 +546,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82030,
+      "karma": 82033,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -598,60 +657,6 @@
     },
     "tags": [
       "debugging"
-    ]
-  },
-  {
-    "short_id": "ie9jc4",
-    "short_id_url": "https://lobste.rs/s/ie9jc4",
-    "created_at": "2021-08-19T16:05:02.000-05:00",
-    "title": "What scientists must know about hardware to write fast code",
-    "url": "https://viralinstruction.com/posts/hardware/",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ie9jc4/what_scientists_must_know_about_hardware",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82030,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "performance",
-      "programming",
-      "science"
-    ]
-  },
-  {
-    "short_id": "ffpdog",
-    "short_id_url": "https://lobste.rs/s/ffpdog",
-    "created_at": "2021-08-19T15:50:29.000-05:00",
-    "title": "A 5x reduction in RAM usage with Zoekt memory optimizations",
-    "url": "https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud/",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ffpdog/5x_reduction_ram_usage_with_zoekt_memory",
-    "submitter_user": {
-      "username": "indigo",
-      "created_at": "2015-10-15T11:52:50.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 605,
-      "avatar_url": "/avatars/indigo-100.png",
-      "invited_by_user": "tluyben2"
-    },
-    "tags": [
-      "go",
-      "performance"
     ]
   }
 ]
