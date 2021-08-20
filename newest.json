@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "dqmxny",
+    "short_id_url": "https://lobste.rs/s/dqmxny",
+    "created_at": "2021-08-20T08:45:21.000-05:00",
+    "title": "Fun with regular expressions: part I",
+    "url": "https://yurichev.com/news/20210819_RE1/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dqmxny/fun_with_regular_expressions_part_i",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82013,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "fyjcvc",
     "short_id_url": "https://lobste.rs/s/fyjcvc",
     "created_at": "2021-08-20T07:34:25.000-05:00",
@@ -134,7 +160,7 @@
     "url": "",
     "score": 6,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/uzeutu/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -143,7 +169,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6446,
+      "karma": 6449,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -160,9 +186,9 @@
     "created_at": "2021-08-20T06:18:54.000-05:00",
     "title": "Consume less, create more",
     "url": "https://blog.tjcx.me/p/consume-less-create-more",
-    "score": 5,
+    "score": 8,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/pmtetr/consume_less_create_more",
     "submitter_user": {
@@ -171,7 +197,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6446,
+      "karma": 6449,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -187,7 +213,7 @@
     "created_at": "2021-08-20T04:37:17.000-05:00",
     "title": "Clojure-like destructuring in brev",
     "url": "https://idiomdrottning.org/clojure-like-destructuring-in-brev",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -198,7 +224,7 @@
       "is_admin": false,
       "about": "- [Idiomdrottning](https://idiomdrottning.org)",
       "is_moderator": false,
-      "karma": 177,
+      "karma": 179,
       "avatar_url": "/avatars/snan-100.png",
       "invited_by_user": "cadadr"
     },
@@ -212,7 +238,7 @@
     "created_at": "2021-08-20T03:53:59.000-05:00",
     "title": "20 Years of Haiku",
     "url": "https://www.haiku-os.org/news/2021-08-18_20_years_of_haiku/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -223,7 +249,7 @@
       "is_admin": false,
       "about": "Founder of Amora Labs, educator and technologist from Brazil. Mozilla Rep and TechSpeaker, learning how to toot and happy on a decentralized world\r\n\r\nTwitter: @soapdog\r\n\r\nMastodon: @soapdog@toot.cafe\r\n\r\nScuttlebutt: @gaQw6z30GpfsW9k8V5ED4pHrg8zmrqku24zTSAINhRg=.ed25519",
       "is_moderator": false,
-      "karma": 2078,
+      "karma": 2079,
       "avatar_url": "/avatars/SoapDog-100.png",
       "invited_by_user": "vladikoff"
     },
@@ -263,7 +289,7 @@
     "created_at": "2021-08-20T03:07:04.000-05:00",
     "title": "PostgreSQL count(*) made fast",
     "url": "https://www.cybertec-postgresql.com/en/postgresql-count-made-fast/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -274,7 +300,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2765,
+      "karma": 2766,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -341,9 +367,9 @@
     "created_at": "2021-08-19T19:27:06.000-05:00",
     "title": "memfd_secret() in 5.14",
     "url": "https://lwn.net/Articles/865256/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/yd2ldr/memfd_secret_5_14",
     "submitter_user": {
@@ -352,7 +378,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82006,
+      "karma": 82013,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -368,9 +394,9 @@
     "created_at": "2021-08-19T18:07:12.000-05:00",
     "title": "Ruby vs Python, the Definitive FAQ (2016)",
     "url": "https://hackernoon.com/ruby-vs-python-the-definitive-faq-5cb0046292be",
-    "score": 23,
+    "score": 26,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/bwgj9r/ruby_vs_python_definitive_faq_2016",
     "submitter_user": {
@@ -379,7 +405,7 @@
       "is_admin": false,
       "about": "I'm a programmer in the Chicago area. I like writing about weird programming techniques. Outside of programming I'm an avid juggler and chocolatier.",
       "is_moderator": false,
-      "karma": 20125,
+      "karma": 20129,
       "avatar_url": "/avatars/hwayne-100.png",
       "invited_by_user": "flyingfisch",
       "github_username": "hwayne",
@@ -422,7 +448,7 @@
     "created_at": "2021-08-19T17:28:50.000-05:00",
     "title": "Patterns in confusing explanations",
     "url": "https://jvns.ca/blog/confusing-explanations/",
-    "score": 20,
+    "score": 23,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -433,7 +459,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82006,
+      "karma": 82013,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -448,9 +474,9 @@
     "created_at": "2021-08-19T16:32:17.000-05:00",
     "title": "Commander X16: A Dreamy 8 Bit Computer Comes Closer To Reality",
     "url": "https://hackaday.com/2021/08/18/commander-x16-a-dreamy-8-bit-computer-comes-closer-to-reality/",
-    "score": 10,
+    "score": 11,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/hyxknm/commander_x16_dreamy_8_bit_computer_comes",
     "submitter_user": {
@@ -459,7 +485,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11802,
+      "karma": 11805,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -500,9 +526,9 @@
     "created_at": "2021-08-19T16:13:45.000-05:00",
     "title": "Here's another free CA as an alternative to Let's Encrypt",
     "url": "https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/",
-    "score": 30,
+    "score": 32,
     "flags": 0,
-    "comment_count": 14,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/pfxfy4/here_s_another_free_ca_as_alternative_let_s",
     "submitter_user": {
@@ -511,7 +537,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11802,
+      "karma": 11805,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -552,7 +578,7 @@
     "created_at": "2021-08-19T16:05:02.000-05:00",
     "title": "What scientists must know about hardware to write fast code",
     "url": "https://viralinstruction.com/posts/hardware/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -563,7 +589,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82006,
+      "karma": 82013,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -626,34 +652,6 @@
     "tags": [
       "pdf",
       "plt"
-    ]
-  },
-  {
-    "short_id": "ydvbhv",
-    "short_id_url": "https://lobste.rs/s/ydvbhv",
-    "created_at": "2021-08-19T11:36:29.000-05:00",
-    "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
-    "url": "https://gfx-rs.github.io/2021/08/18/release-0.10.html",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ydvbhv/release_pure_rust_v0_10_call_for_testing",
-    "submitter_user": {
-      "username": "JulianWgs",
-      "created_at": "2020-09-24T14:54:13.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 531,
-      "avatar_url": "/avatars/JulianWgs-100.png",
-      "invited_by_user": "355E3B",
-      "github_username": "JulianWgs"
-    },
-    "tags": [
-      "graphics",
-      "rust",
-      "web"
     ]
   }
 ]
