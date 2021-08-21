@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "nhkbxs",
+    "short_id_url": "https://lobste.rs/s/nhkbxs",
+    "created_at": "2021-08-21T04:50:17.000-05:00",
+    "title": "Generics enabled by default in Go tip",
+    "url": "https://go-review.googlesource.com/c/go/+/343732/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/nhkbxs/generics_enabled_by_default_go_tip",
+    "submitter_user": {
+      "username": "jawr",
+      "created_at": "2021-03-22T03:18:48.000-05:00",
+      "is_admin": false,
+      "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
+      "is_moderator": false,
+      "karma": 61,
+      "avatar_url": "/avatars/jawr-100.png",
+      "invited_by_user": "rtpg"
+    },
+    "tags": [
+      "go"
+    ]
+  },
+  {
     "short_id": "u4ymdx",
     "short_id_url": "https://lobste.rs/s/u4ymdx",
     "created_at": "2021-08-21T01:20:30.000-05:00",
@@ -59,9 +84,9 @@
     "created_at": "2021-08-21T00:47:14.000-05:00",
     "title": "Adventures using and repairing an X131e laptop from 2011",
     "url": "https://halestrom.net/darksleep/blog/047_x131e_repair/",
-    "score": 6,
+    "score": 9,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/qptz4r/adventures_using_repairing_x131e_laptop",
     "submitter_user": {
@@ -70,7 +95,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11822,
+      "karma": 11825,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -218,9 +243,9 @@
     "created_at": "2021-08-20T18:11:44.000-05:00",
     "title": "VoidLinux in FreeBSD Jail; with init",
     "url": "https://antranigv.am/weblog_en/posts/2021-08-21-00-37/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ojbed4/voidlinux_freebsd_jail_with_init",
     "submitter_user": {
@@ -229,7 +254,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1046,
+      "karma": 1047,
       "avatar_url": "/avatars/jornane-100.png",
       "invited_by_user": "fkooman"
     },
@@ -269,7 +294,7 @@
     "created_at": "2021-08-20T13:51:39.000-05:00",
     "title": "Modern web apps without JavaScript bundling or transpiling",
     "url": "https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -280,7 +305,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 377,
+      "karma": 379,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -302,7 +327,7 @@
     "created_at": "2021-08-20T13:49:02.000-05:00",
     "title": "How Unicode helps to ruin your software",
     "url": "https://blog.typeable.io/posts/2021-08-17-unicode.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -313,7 +338,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 377,
+      "karma": 379,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -420,7 +445,7 @@
     "created_at": "2021-08-20T10:11:43.000-05:00",
     "title": "Hypothetical Timing Attack on MariaDB Through Lobste.rs Password Reset",
     "url": "https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/",
-    "score": 64,
+    "score": 66,
     "flags": 1,
     "comment_count": 47,
     "description": "",
@@ -431,7 +456,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1065,
+      "karma": 1067,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -648,31 +673,6 @@
     "tags": [
       "ask",
       "programming"
-    ]
-  },
-  {
-    "short_id": "b38obk",
-    "short_id_url": "https://lobste.rs/s/b38obk",
-    "created_at": "2021-08-20T04:37:17.000-05:00",
-    "title": "Clojure-like destructuring in brev",
-    "url": "https://idiomdrottning.org/clojure-like-destructuring-in-brev",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/b38obk/clojure_like_destructuring_brev",
-    "submitter_user": {
-      "username": "snan",
-      "created_at": "2021-02-07T08:24:03.000-06:00",
-      "is_admin": false,
-      "about": "- [Idiomdrottning](https://idiomdrottning.org)",
-      "is_moderator": false,
-      "karma": 180,
-      "avatar_url": "/avatars/snan-100.png",
-      "invited_by_user": "cadadr"
-    },
-    "tags": [
-      "lisp"
     ]
   }
 ]
