@@ -1,5 +1,86 @@
 [
   {
+    "short_id": "up2rzh",
+    "short_id_url": "https://lobste.rs/s/up2rzh",
+    "created_at": "2021-08-20T22:11:08.000-05:00",
+    "title": "The big-load anti-pattern",
+    "url": "https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/up2rzh/big_load_anti_pattern",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82046,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "short_id": "3nq9ty",
+    "short_id_url": "https://lobste.rs/s/3nq9ty",
+    "created_at": "2021-08-20T22:06:37.000-05:00",
+    "title": "How database indexing actually works internally?",
+    "url": "https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3nq9ty/how_database_indexing_actually_works",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82046,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "databases"
+    ]
+  },
+  {
+    "short_id": "xqfrds",
+    "short_id_url": "https://lobste.rs/s/xqfrds",
+    "created_at": "2021-08-20T21:33:19.000-05:00",
+    "title": "Whomst styles?",
+    "url": "https://www.robinsloan.com/notes/whomst-styles/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xqfrds/whomst_styles",
+    "submitter_user": {
+      "username": "carlmjohnson",
+      "created_at": "2021-07-19T11:55:18.000-05:00",
+      "is_admin": false,
+      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
+      "is_moderator": false,
+      "karma": 332,
+      "avatar_url": "/avatars/carlmjohnson-100.png",
+      "invited_by_user": "peterbourgon",
+      "github_username": "carlmjohnson",
+      "twitter_username": "carlmjohnson"
+    },
+    "tags": [
+      "css",
+      "design",
+      "web"
+    ]
+  },
+  {
     "short_id": "p7hxt9",
     "short_id_url": "https://lobste.rs/s/p7hxt9",
     "created_at": "2021-08-20T18:52:45.000-05:00",
@@ -16,7 +97,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1351,
+      "karma": 1352,
       "avatar_url": "/avatars/fro-100.png",
       "invited_by_user": "xero"
     },
@@ -31,7 +112,7 @@
     "created_at": "2021-08-20T18:15:54.000-05:00",
     "title": "macOS 11's hidden security improvements",
     "url": "https://blog.malwarebytes.com/mac/2021/08/macos-11s-hidden-security-improvements/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +123,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1351,
+      "karma": 1352,
       "avatar_url": "/avatars/fro-100.png",
       "invited_by_user": "xero"
     },
@@ -108,7 +189,7 @@
     "created_at": "2021-08-20T13:51:39.000-05:00",
     "title": "Modern web apps without JavaScript bundling or transpiling",
     "url": "https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755",
-    "score": 9,
+    "score": 11,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -119,7 +200,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 369,
+      "karma": 371,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -143,7 +224,7 @@
     "url": "https://blog.typeable.io/posts/2021-08-17-unicode.html",
     "score": 7,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/3sbvvg/how_unicode_helps_ruin_your_software",
     "submitter_user": {
@@ -152,7 +233,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 369,
+      "karma": 371,
       "avatar_url": "/avatars/adamshaylor-100.png",
       "invited_by_user": "peterc",
       "github_username": "adamshaylor",
@@ -261,7 +342,7 @@
     "url": "https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/",
     "score": 56,
     "flags": 1,
-    "comment_count": 41,
+    "comment_count": 42,
     "description": "",
     "comments_url": "https://lobste.rs/s/8kxcvy/hypothetical_timing_attack_on_mariadb",
     "submitter_user": {
@@ -270,7 +351,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1052,
+      "karma": 1054,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -325,7 +406,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82045,
+      "karma": 82046,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -469,7 +550,7 @@
     "url": "",
     "score": 12,
     "flags": 1,
-    "comment_count": 31,
+    "comment_count": 32,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/uzeutu/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -573,7 +654,7 @@
     "url": "https://www.cybertec-postgresql.com/en/postgresql-count-made-fast/",
     "score": 14,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/ctcwho/postgresql_count_made_fast",
     "submitter_user": {
@@ -589,85 +670,6 @@
     "tags": [
       "databases",
       "performance"
-    ]
-  },
-  {
-    "short_id": "uz3ybz",
-    "short_id_url": "https://lobste.rs/s/uz3ybz",
-    "created_at": "2021-08-20T00:42:18.000-05:00",
-    "title": "fachat/MicroPET revision 2",
-    "url": "https://github.com/fachat/MicroPET",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uz3ybz/fachat_micropet_revision_2",
-    "submitter_user": {
-      "username": "classichasclass",
-      "created_at": "2018-11-05T18:45:47.000-06:00",
-      "is_admin": false,
-      "about": "mostly harmless",
-      "is_moderator": false,
-      "karma": 1522,
-      "avatar_url": "/avatars/classichasclass-100.png",
-      "invited_by_user": "sevan"
-    },
-    "tags": [
-      "hardware",
-      "historical"
-    ]
-  },
-  {
-    "short_id": "ih8aur",
-    "short_id_url": "https://lobste.rs/s/ih8aur",
-    "created_at": "2021-08-19T21:30:47.000-05:00",
-    "title": "Plua revisited: Lua for PalmOS (and resurrecting plua2c)",
-    "url": "http://oldvcr.blogspot.com/2021/08/plua-revisited-lua-for-palmos-and.html",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ih8aur/plua_revisited_lua_for_palmos",
-    "submitter_user": {
-      "username": "classichasclass",
-      "created_at": "2018-11-05T18:45:47.000-06:00",
-      "is_admin": false,
-      "about": "mostly harmless",
-      "is_moderator": false,
-      "karma": 1522,
-      "avatar_url": "/avatars/classichasclass-100.png",
-      "invited_by_user": "sevan"
-    },
-    "tags": [
-      "historical",
-      "lua"
-    ]
-  },
-  {
-    "short_id": "yd2ldr",
-    "short_id_url": "https://lobste.rs/s/yd2ldr",
-    "created_at": "2021-08-19T19:27:06.000-05:00",
-    "title": "memfd_secret() in 5.14",
-    "url": "https://lwn.net/Articles/865256/",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yd2ldr/memfd_secret_5_14",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82045,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "api",
-      "linux"
     ]
   }
 ]
