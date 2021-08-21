@@ -1,11 +1,63 @@
 [
   {
+    "short_id": "byppin",
+    "short_id_url": "https://lobste.rs/s/byppin",
+    "created_at": "2021-08-21T09:56:59.000-05:00",
+    "title": "Using Tree Structures with Pagination to build Folder Navigation",
+    "url": "https://medium.com/frame-io-engineering/hierarchy-and-pagination-traversing-the-folder-tree-1ba641ec2ce7",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/byppin/using_tree_structures_with_pagination",
+    "submitter_user": {
+      "username": "soulcutter",
+      "created_at": "2014-02-18T10:29:29.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 3017,
+      "avatar_url": "/avatars/soulcutter-100.png",
+      "invited_by_user": "gabriel",
+      "twitter_username": "soulcutter"
+    },
+    "tags": [
+      "performance",
+      "scaling"
+    ]
+  },
+  {
+    "short_id": "g9z2jl",
+    "short_id_url": "https://lobste.rs/s/g9z2jl",
+    "created_at": "2021-08-21T09:25:18.000-05:00",
+    "title": "Benefits of not using an IDE",
+    "url": "https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 2,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/g9z2jl/benefits_not_using_ide",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11840,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "n5bst6",
     "short_id_url": "https://lobste.rs/s/n5bst6",
     "created_at": "2021-08-21T07:03:19.000-05:00",
     "title": "Lisp-1 vs Lisp-2",
     "url": "http://ergoemacs.org/emacs/lisp1_vs_lisp2.html",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme), [Muboard](https://github.com/susam/muboard), and [Uncap](https://github.com/susam/uncap).\r\n\r\nPosting about C, Python, Lisp, TeX, Emacs, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
       "is_moderator": false,
-      "karma": 828,
+      "karma": 830,
       "avatar_url": "/avatars/susam-100.png",
       "invited_by_user": "premysl",
       "github_username": "susam",
@@ -43,7 +95,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82059,
+      "karma": 82063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -72,7 +124,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82059,
+      "karma": 82063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -98,7 +150,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82059,
+      "karma": 82063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -108,40 +160,12 @@
     ]
   },
   {
-    "short_id": "4viegt",
-    "short_id_url": "https://lobste.rs/s/4viegt",
-    "created_at": "2021-08-21T06:03:18.000-05:00",
-    "title": "We don't 'do' learning. It does us",
-    "url": "https://danielbmarkham.com/we-dont-do-learning-we-direct-it/",
-    "score": 0,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/4viegt/we_don_t_do_learning_it_does_us",
-    "submitter_user": {
-      "username": "DanielBMarkham",
-      "created_at": "2018-12-05T06:48:52.000-06:00",
-      "is_admin": false,
-      "about": "[\"com\";\"danielbmarkham\"] |> List.rev |> String.concat \".\";;\r\n\r\nhttp://bedfordtechnologygroup.com/links.html",
-      "is_moderator": false,
-      "karma": 1303,
-      "avatar_url": "/avatars/DanielBMarkham-100.png",
-      "invited_by_user": "mfeathers",
-      "github_username": "DanielBMarkham",
-      "twitter_username": "danielbmarkham"
-    },
-    "tags": [
-      "philosophy",
-      "practices"
-    ]
-  },
-  {
     "short_id": "nhkbxs",
     "short_id_url": "https://lobste.rs/s/nhkbxs",
     "created_at": "2021-08-21T04:50:17.000-05:00",
     "title": "Generics enabled by default in Go tip",
     "url": "https://go-review.googlesource.com/c/go/+/343732/",
-    "score": 7,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -152,7 +176,7 @@
       "is_admin": false,
       "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
       "is_moderator": false,
-      "karma": 67,
+      "karma": 72,
       "avatar_url": "/avatars/jawr-100.png",
       "invited_by_user": "rtpg"
     },
@@ -166,7 +190,7 @@
     "created_at": "2021-08-21T01:20:30.000-05:00",
     "title": "The Beauty of Bézier Curves",
     "url": "https://www.youtube.com/watch?v=aVwxzDHniEw",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -177,7 +201,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35922,
+      "karma": 35924,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -220,9 +244,9 @@
     "created_at": "2021-08-21T00:47:14.000-05:00",
     "title": "Adventures using and repairing an X131e laptop from 2011",
     "url": "https://halestrom.net/darksleep/blog/047_x131e_repair/",
-    "score": 17,
+    "score": 19,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/qptz4r/adventures_using_repairing_x131e_laptop",
     "submitter_user": {
@@ -231,7 +255,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11837,
+      "karma": 11840,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -246,7 +270,7 @@
     "created_at": "2021-08-20T22:11:08.000-05:00",
     "title": "The big-load anti-pattern",
     "url": "https://lemire.me/blog/2021/08/21/the-big-load-anti-pattern/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -257,7 +281,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82059,
+      "karma": 82063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -272,7 +296,7 @@
     "created_at": "2021-08-20T22:06:37.000-05:00",
     "title": "How database indexing actually works internally?",
     "url": "https://blog.pankajtanwar.in/how-database-indexing-actually-works-internally",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -283,7 +307,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82059,
+      "karma": 82063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -432,7 +456,7 @@
     "url": "https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755",
     "score": 18,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/6os9mq/modern_web_apps_without_javascript",
     "submitter_user": {
@@ -465,7 +489,7 @@
     "url": "https://blog.typeable.io/posts/2021-08-17-unicode.html",
     "score": 10,
     "flags": 0,
-    "comment_count": 14,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/3sbvvg/how_unicode_helps_ruin_your_software",
     "submitter_user": {
@@ -522,8 +546,8 @@
     "created_at": "2021-08-20T12:41:02.000-05:00",
     "title": "Auto-correct Git commands",
     "url": "https://bhupesh.gitbook.io/notes/git/autocorrect-git-commands",
-    "score": 9,
-    "flags": 1,
+    "score": 10,
+    "flags": 0,
     "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/5asrov/auto_correct_git_commands",
@@ -533,7 +557,7 @@
       "is_admin": false,
       "about": "Developer • FOSS Creator • Tech Writer\r\n---\r\nFind me on [Web](https://bhupesh-v.github.io) | [Twitter](https://www.twitter.com/bhupeshimself) | [GitHub](https://github.com/Bhupesh-V)",
       "is_moderator": false,
-      "karma": 17,
+      "karma": 18,
       "avatar_url": "/avatars/bhupesh-100.png",
       "invited_by_user": "sathyabhat",
       "github_username": "Bhupesh-V"
@@ -581,9 +605,9 @@
     "created_at": "2021-08-20T10:11:43.000-05:00",
     "title": "Hypothetical Timing Attack on MariaDB Through Lobste.rs Password Reset",
     "url": "https://soatok.blog/2021/08/20/lobste-rs-password-reset-vulnerability/",
-    "score": 73,
+    "score": 75,
     "flags": 1,
-    "comment_count": 47,
+    "comment_count": 48,
     "description": "",
     "comments_url": "https://lobste.rs/s/8kxcvy/hypothetical_timing_attack_on_mariadb",
     "submitter_user": {
@@ -592,7 +616,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1076,
+      "karma": 1082,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -647,38 +671,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82059,
+      "karma": 82063,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "fyjcvc",
-    "short_id_url": "https://lobste.rs/s/fyjcvc",
-    "created_at": "2021-08-20T07:34:25.000-05:00",
-    "title": "Complex Procedural Rust Macros",
-    "url": "https://www.getsynth.com/docs/blog/2021/08/09/macro",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fyjcvc/complex_procedural_rust_macros",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 1975,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "rust"
     ]
   }
 ]
