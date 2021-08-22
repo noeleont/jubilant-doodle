@@ -1,13 +1,73 @@
 [
   {
+    "short_id": "yhvw83",
+    "short_id_url": "https://lobste.rs/s/yhvw83",
+    "created_at": "2021-08-22T13:59:52.000-05:00",
+    "title": "Demonstrate ability to read memfd_secret() data from the kernel",
+    "url": "https://github.com/JonathonReinhart/nosecmem",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yhvw83/demonstrate_ability_read_memfd_secret",
+    "submitter_user": {
+      "username": "vladislavp",
+      "created_at": "2019-01-21T08:38:06.000-06:00",
+      "is_admin": false,
+      "about": "Consultant:   Enterprise Architecture, Data Governance, IAM, Distributed Backends dev, Android dev, SPA.",
+      "is_moderator": false,
+      "karma": 606,
+      "avatar_url": "/avatars/vladislavp-100.png",
+      "invited_by_user": "wink"
+    },
+    "tags": [
+      "linux",
+      "security"
+    ]
+  },
+  {
+    "short_id": "jz98ci",
+    "short_id_url": "https://lobste.rs/s/jz98ci",
+    "created_at": "2021-08-22T13:56:27.000-05:00",
+    "title": "Large Rust Workspaces",
+    "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/jz98ci/large_rust_workspaces",
+    "submitter_user": {
+      "username": "nerosnm",
+      "created_at": "2019-01-29T04:39:23.000-06:00",
+      "is_admin": false,
+      "about": "Mobile & Rust Engineer at [Ditto](https://ditto.live). Enthusiastic about Rust, Swift and LaTeX, and interested in systems programming, developer tooling, compilers, operating systems, artificial general intelligence, and machine learning, among other areas. He/him.",
+      "is_moderator": false,
+      "karma": 1120,
+      "avatar_url": "/avatars/nerosnm-100.png",
+      "invited_by_user": "aleph",
+      "github_username": "nerosnm",
+      "twitter_username": "nerosnm",
+      "keybase_signatures": [
+        {
+          "kb_username": "nerosnm",
+          "sig_hash": "08c7ac1d425dd59308a6b8ae6f656fa98bbaf8bfe7863a16170f37bff7847bb80f"
+        }
+      ]
+    },
+    "tags": [
+      "practices",
+      "rust"
+    ]
+  },
+  {
     "short_id": "gkplai",
     "short_id_url": "https://lobste.rs/s/gkplai",
     "created_at": "2021-08-22T12:36:09.000-05:00",
     "title": "The Perils of File Typing",
     "url": "https://invisibleup.com/articles/34/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkplai/perils_file_typing",
     "submitter_user": {
@@ -16,7 +76,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82143,
+      "karma": 82146,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -60,9 +120,9 @@
     "created_at": "2021-08-22T10:21:14.000-05:00",
     "title": "Bringing the Unix Philosophy to the 21st Century",
     "url": "https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/",
-    "score": 5,
+    "score": 7,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century",
     "submitter_user": {
@@ -71,7 +131,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 269,
+      "karma": 271,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -115,9 +175,9 @@
     "created_at": "2021-08-22T10:08:54.000-05:00",
     "title": "First class comments",
     "url": "http://len.falken.ink/p-lang/first-class-comments.txt",
-    "score": 11,
+    "score": 15,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "<p>TIL <a href=\"https://github.com/langjam/langjam\" rel=\"ugc\">https://github.com/langjam/langjam</a>, so I wrote a quick idea around the theme.</p>\n",
     "comments_url": "https://lobste.rs/s/u6tusd/first_class_comments",
     "submitter_user": {
@@ -126,7 +186,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1700,
+      "karma": 1704,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -192,7 +252,7 @@
     "created_at": "2021-08-22T07:22:20.000-05:00",
     "title": "Paranoid Scientist",
     "url": "https://github.com/mwshinn/paranoidscientist",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -203,7 +263,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4890,
+      "karma": 4891,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -219,7 +279,7 @@
     "created_at": "2021-08-22T04:20:54.000-05:00",
     "title": "Linux is dead, long-live Docker monoculture",
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
-    "score": 12,
+    "score": 13,
     "flags": 1,
     "comment_count": 14,
     "description": "",
@@ -230,7 +290,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11884,
+      "karma": 11885,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -257,7 +317,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11884,
+      "karma": 11885,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -272,7 +332,7 @@
     "created_at": "2021-08-21T17:20:29.000-05:00",
     "title": "Understanding Network Access in Windows AppContainers",
     "url": "https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -283,7 +343,7 @@
       "is_admin": false,
       "about": "Agora, Anarchy, Action\r\n\r\nlbstrs (((at))) h4h (((dot))) xyz",
       "is_moderator": false,
-      "karma": 1188,
+      "karma": 1189,
       "avatar_url": "/avatars/ssl-100.png",
       "invited_by_user": "kawera"
     },
@@ -309,7 +369,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11884,
+      "karma": 11885,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -353,7 +413,7 @@
     "url": "https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html",
     "score": 41,
     "flags": 1,
-    "comment_count": 27,
+    "comment_count": 31,
     "description": "",
     "comments_url": "https://lobste.rs/s/bg3fzn/perhaps_wsl2_should_be_wake_up_call",
     "submitter_user": {
@@ -362,7 +422,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82143,
+      "karma": 82146,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -379,7 +439,7 @@
     "created_at": "2021-08-21T14:37:44.000-05:00",
     "title": "mojozork: Online, multiplayer Zork",
     "url": "https://github.com/icculus/mojozork",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "<p>I had to edit the title to make it fit here.</p>\n<p>There is more information available <a href=\"https://www.patreon.com/posts/54997062\" rel=\"ugc\">at Patreon</a>, but I didn’t feel right directly submitting a Patreon link.</p>\n<p>(To be clear, this is not my project or code, just something wonderful.)</p>\n",
@@ -390,7 +450,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10585,
+      "karma": 10586,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -406,9 +466,9 @@
     "created_at": "2021-08-21T12:46:20.000-05:00",
     "title": "Parser generators vs. handwritten parsers: surveying major language implementations in 2021",
     "url": "https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html",
-    "score": 29,
+    "score": 30,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/10pkib/parser_generators_vs_handwritten",
     "submitter_user": {
@@ -417,7 +477,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1261,
+      "karma": 1262,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -436,7 +496,7 @@
     "url": "https://baturin.org/blog/life-before-unicode/",
     "score": 38,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/bn8kfw/life_before_unicode_russia",
     "submitter_user": {
@@ -460,7 +520,7 @@
     "created_at": "2021-08-21T11:11:34.000-05:00",
     "title": "An Opinionated Guide to xargs",
     "url": "https://www.oilshell.org/blog/2021/08/xargs.html",
-    "score": 42,
+    "score": 43,
     "flags": 0,
     "comment_count": 15,
     "description": "",
@@ -471,7 +531,7 @@
       "is_admin": false,
       "about": "Working on http://www.oilshell.org/\r\n",
       "is_moderator": false,
-      "karma": 6061,
+      "karma": 6062,
       "avatar_url": "/avatars/andyc-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -524,7 +584,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11884,
+      "karma": 11885,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -565,7 +625,7 @@
     "created_at": "2021-08-21T06:46:02.000-05:00",
     "title": "The story of ispc: origins (part 1)",
     "url": "https://pharr.org/matt/blog/2018/04/18/ispc-origins",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -576,7 +636,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82143,
+      "karma": 82146,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -605,64 +665,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82143,
+      "karma": 82146,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "math"
-    ]
-  },
-  {
-    "short_id": "lfiguz",
-    "short_id_url": "https://lobste.rs/s/lfiguz",
-    "created_at": "2021-08-21T06:40:03.000-05:00",
-    "title": "Memory-safe programming in the Linux Kernel (No not RUST) — eBPF",
-    "url": "https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lfiguz/memory_safe_programming_linux_kernel_no",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82143,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "linux"
-    ]
-  },
-  {
-    "short_id": "nhkbxs",
-    "short_id_url": "https://lobste.rs/s/nhkbxs",
-    "created_at": "2021-08-21T04:50:17.000-05:00",
-    "title": "Generics enabled by default in Go tip",
-    "url": "https://go-review.googlesource.com/c/go/+/343732/",
-    "score": 20,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nhkbxs/generics_enabled_by_default_go_tip",
-    "submitter_user": {
-      "username": "jawr",
-      "created_at": "2021-03-22T03:18:48.000-05:00",
-      "is_admin": false,
-      "about": " Tinker Toiler Solder.. Hi @ https://jl.lu",
-      "is_moderator": false,
-      "karma": 80,
-      "avatar_url": "/avatars/jawr-100.png",
-      "invited_by_user": "rtpg"
-    },
-    "tags": [
-      "go"
     ]
   }
 ]
