@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "gczafi",
+    "short_id_url": "https://lobste.rs/s/gczafi",
+    "created_at": "2021-08-22T08:16:18.000-05:00",
+    "title": "FreeBSD development on Docker support",
+    "url": "https://reviews.freebsd.org/D21570",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gczafi/freebsd_development_on_docker_support",
+    "submitter_user": {
+      "username": "pl",
+      "created_at": "2014-10-02T03:49:25.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 389,
+      "avatar_url": "/avatars/pl-100.png",
+      "invited_by_user": "dkreuter"
+    },
+    "tags": [
+      "devops",
+      "freebsd",
+      "osdev"
+    ]
+  },
+  {
     "short_id": "h843mu",
     "short_id_url": "https://lobste.rs/s/h843mu",
     "created_at": "2021-08-22T07:22:20.000-05:00",
@@ -32,9 +59,9 @@
     "created_at": "2021-08-22T04:20:54.000-05:00",
     "title": "Linux is dead, long-live Docker monoculture",
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 2,
+    "score": 4,
+    "flags": 1,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -43,7 +70,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11866,
+      "karma": 11868,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -96,7 +123,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11866,
+      "karma": 11868,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -148,7 +175,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11866,
+      "karma": 11868,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -190,9 +217,9 @@
     "created_at": "2021-08-21T15:46:12.000-05:00",
     "title": "Perhaps WSL2 Should be a Wake-up Call",
     "url": "https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html",
-    "score": 36,
+    "score": 38,
     "flags": 1,
-    "comment_count": 9,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/bg3fzn/perhaps_wsl2_should_be_wake_up_call",
     "submitter_user": {
@@ -201,7 +228,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82130,
+      "karma": 82132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -218,7 +245,7 @@
     "created_at": "2021-08-21T14:37:44.000-05:00",
     "title": "mojozork: Online, multiplayer Zork",
     "url": "https://github.com/icculus/mojozork",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 1,
     "description": "<p>I had to edit the title to make it fit here.</p>\n<p>There is more information available <a href=\"https://www.patreon.com/posts/54997062\" rel=\"ugc\">at Patreon</a>, but I didn’t feel right directly submitting a Patreon link.</p>\n<p>(To be clear, this is not my project or code, just something wonderful.)</p>\n",
@@ -229,7 +256,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10581,
+      "karma": 10582,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -245,9 +272,9 @@
     "created_at": "2021-08-21T12:46:20.000-05:00",
     "title": "Parser generators vs. handwritten parsers: surveying major language implementations in 2021",
     "url": "https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html",
-    "score": 23,
+    "score": 24,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/10pkib/parser_generators_vs_handwritten",
     "submitter_user": {
@@ -256,7 +283,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1255,
+      "karma": 1256,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -273,7 +300,7 @@
     "created_at": "2021-08-21T11:48:26.000-05:00",
     "title": "Life before Unicode [in Russia]",
     "url": "https://baturin.org/blog/life-before-unicode/",
-    "score": 29,
+    "score": 30,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -284,7 +311,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3482,
+      "karma": 3484,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -299,7 +326,7 @@
     "created_at": "2021-08-21T11:11:34.000-05:00",
     "title": "An Opinionated Guide to xargs",
     "url": "https://www.oilshell.org/blog/2021/08/xargs.html",
-    "score": 33,
+    "score": 36,
     "flags": 0,
     "comment_count": 14,
     "description": "",
@@ -310,7 +337,7 @@
       "is_admin": false,
       "about": "Working on http://www.oilshell.org/\r\n",
       "is_moderator": false,
-      "karma": 6048,
+      "karma": 6053,
       "avatar_url": "/avatars/andyc-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -325,7 +352,7 @@
     "created_at": "2021-08-21T09:56:59.000-05:00",
     "title": "Using Tree Structures with Pagination to build Folder Navigation",
     "url": "https://medium.com/frame-io-engineering/hierarchy-and-pagination-traversing-the-folder-tree-1ba641ec2ce7",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -336,7 +363,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 3020,
+      "karma": 3021,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -352,9 +379,9 @@
     "created_at": "2021-08-21T09:25:18.000-05:00",
     "title": "Benefits of not using an IDE",
     "url": "https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/g9z2jl/benefits_not_using_ide",
     "submitter_user": {
@@ -363,7 +390,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11866,
+      "karma": 11868,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -415,7 +442,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82130,
+      "karma": 82132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -444,7 +471,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82130,
+      "karma": 82132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -470,7 +497,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82130,
+      "karma": 82132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -510,7 +537,7 @@
     "created_at": "2021-08-21T01:20:30.000-05:00",
     "title": "The Beauty of Bézier Curves",
     "url": "https://www.youtube.com/watch?v=aVwxzDHniEw",
-    "score": 20,
+    "score": 21,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -521,7 +548,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35942,
+      "karma": 35943,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -575,7 +602,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11866,
+      "karma": 11868,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -601,7 +628,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82130,
+      "karma": 82132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -627,42 +654,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82130,
+      "karma": 82132,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "databases"
-    ]
-  },
-  {
-    "short_id": "xqfrds",
-    "short_id_url": "https://lobste.rs/s/xqfrds",
-    "created_at": "2021-08-20T21:33:19.000-05:00",
-    "title": "Whomst styles?",
-    "url": "https://www.robinsloan.com/notes/whomst-styles/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xqfrds/whomst_styles",
-    "submitter_user": {
-      "username": "carlmjohnson",
-      "created_at": "2021-07-19T11:55:18.000-05:00",
-      "is_admin": false,
-      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
-      "is_moderator": false,
-      "karma": 336,
-      "avatar_url": "/avatars/carlmjohnson-100.png",
-      "invited_by_user": "peterbourgon",
-      "github_username": "carlmjohnson",
-      "twitter_username": "carlmjohnson"
-    },
-    "tags": [
-      "css",
-      "design",
-      "web"
     ]
   }
 ]
