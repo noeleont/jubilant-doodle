@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "rhtpyh",
+    "short_id_url": "https://lobste.rs/s/rhtpyh",
+    "created_at": "2021-08-22T08:43:32.000-05:00",
+    "title": "Equal Rights for Functional Objects or, The More Things Change, The More They Are the Same (1992)",
+    "url": "https://p.hagelb.org/equal-rights-for-functional-objects.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rhtpyh/equal_rights_for_functional_objects_more",
+    "submitter_user": {
+      "username": "WilhelmVonWeiner",
+      "created_at": "2018-11-18T13:58:20.000-06:00",
+      "is_admin": false,
+      "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
+      "is_moderator": false,
+      "karma": 3351,
+      "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
+      "invited_by_user": "rocx"
+    },
+    "tags": [
+      "plt"
+    ]
+  },
+  {
     "short_id": "gczafi",
     "short_id_url": "https://lobste.rs/s/gczafi",
     "created_at": "2021-08-22T08:16:18.000-05:00",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 389,
+      "karma": 392,
       "avatar_url": "/avatars/pl-100.png",
       "invited_by_user": "dkreuter"
     },
@@ -59,9 +84,9 @@
     "created_at": "2021-08-22T04:20:54.000-05:00",
     "title": "Linux is dead, long-live Docker monoculture",
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
-    "score": 4,
+    "score": 7,
     "flags": 1,
-    "comment_count": 6,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -70,7 +95,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11868,
+      "karma": 11873,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -80,39 +105,12 @@
     ]
   },
   {
-    "short_id": "iaqjg4",
-    "short_id_url": "https://lobste.rs/s/iaqjg4",
-    "created_at": "2021-08-22T01:24:44.000-05:00",
-    "title": "The growth of computational power per dollar looks exponential even on a log scale",
-    "url": "https://twitter.com/marekgibney/status/1429322745385562113",
-    "score": -1,
-    "flags": 2,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/iaqjg4/growth_computational_power_per_dollar",
-    "submitter_user": {
-      "username": "no_gravity",
-      "created_at": "2015-02-02T12:38:26.000-06:00",
-      "is_admin": false,
-      "about": "I build online tools. Serial entrepreneur. Like to meet like-minded people.",
-      "is_moderator": false,
-      "karma": 588,
-      "avatar_url": "/avatars/no_gravity-100.png",
-      "invited_by_user": "SomeKittens"
-    },
-    "tags": [
-      "compsci",
-      "finance",
-      "hardware"
-    ]
-  },
-  {
     "short_id": "f17hjk",
     "short_id_url": "https://lobste.rs/s/f17hjk",
     "created_at": "2021-08-22T00:28:58.000-05:00",
     "title": "One week with FreeBSD 13 on an Acer Aspire One ZG5",
     "url": "http://box.matto.nl/one-week-with-freebsd-13-on-an-acer-aspire-one-zg5.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -123,7 +121,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11868,
+      "karma": 11873,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -164,7 +162,7 @@
     "created_at": "2021-08-21T16:24:02.000-05:00",
     "title": "Remote desktop on NetBSD with Xnest (no VNC)",
     "url": "https://raymii.org/s/articles/Remote_desktop_on_NetBSD_with_Xnest_no_VNC.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -175,7 +173,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11868,
+      "karma": 11873,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -219,7 +217,7 @@
     "url": "https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html",
     "score": 38,
     "flags": 1,
-    "comment_count": 11,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/bg3fzn/perhaps_wsl2_should_be_wake_up_call",
     "submitter_user": {
@@ -272,7 +270,7 @@
     "created_at": "2021-08-21T12:46:20.000-05:00",
     "title": "Parser generators vs. handwritten parsers: surveying major language implementations in 2021",
     "url": "https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -283,7 +281,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1256,
+      "karma": 1257,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -300,7 +298,7 @@
     "created_at": "2021-08-21T11:48:26.000-05:00",
     "title": "Life before Unicode [in Russia]",
     "url": "https://baturin.org/blog/life-before-unicode/",
-    "score": 30,
+    "score": 32,
     "flags": 0,
     "comment_count": 7,
     "description": "",
@@ -311,7 +309,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3484,
+      "karma": 3487,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -326,7 +324,7 @@
     "created_at": "2021-08-21T11:11:34.000-05:00",
     "title": "An Opinionated Guide to xargs",
     "url": "https://www.oilshell.org/blog/2021/08/xargs.html",
-    "score": 36,
+    "score": 37,
     "flags": 0,
     "comment_count": 14,
     "description": "",
@@ -337,7 +335,7 @@
       "is_admin": false,
       "about": "Working on http://www.oilshell.org/\r\n",
       "is_moderator": false,
-      "karma": 6053,
+      "karma": 6054,
       "avatar_url": "/avatars/andyc-100.png",
       "invited_by_user": "flyingfisch"
     },
@@ -352,9 +350,9 @@
     "created_at": "2021-08-21T09:56:59.000-05:00",
     "title": "Using Tree Structures with Pagination to build Folder Navigation",
     "url": "https://medium.com/frame-io-engineering/hierarchy-and-pagination-traversing-the-folder-tree-1ba641ec2ce7",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/byppin/using_tree_structures_with_pagination",
     "submitter_user": {
@@ -363,7 +361,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 3021,
+      "karma": 3022,
       "avatar_url": "/avatars/soulcutter-100.png",
       "invited_by_user": "gabriel",
       "twitter_username": "soulcutter"
@@ -390,7 +388,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11868,
+      "karma": 11873,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -488,7 +486,7 @@
     "url": "https://www.coscreen.co/engineering/posts/memory-safe-programming-kernel/",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/lfiguz/memory_safe_programming_linux_kernel_no",
     "submitter_user": {
@@ -602,7 +600,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11868,
+      "karma": 11873,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
