@@ -1,11 +1,62 @@
 [
   {
+    "short_id": "43fxuk",
+    "short_id_url": "https://lobste.rs/s/43fxuk",
+    "created_at": "2021-08-22T17:11:28.000-05:00",
+    "title": "PlsExplain: A small dynamic programming language where every value is explained by a comment",
+    "url": "https://github.com/langjam/jam0001/tree/main/hope",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/43fxuk/plsexplain_small_dynamic_programming",
+    "submitter_user": {
+      "username": "asrp",
+      "created_at": "2017-01-29T12:42:09.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 466,
+      "avatar_url": "/avatars/asrp-100.png",
+      "invited_by_user": "awal"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "short_id": "jcws1m",
+    "short_id_url": "https://lobste.rs/s/jcws1m",
+    "created_at": "2021-08-22T16:35:56.000-05:00",
+    "title": "Persism 1.2.0 Released - A zero ceremony ORM for Java",
+    "url": "https://github.com/sproket/Persism",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Persism is a wood simple, auto discovery, auto configuration, and convention over configuration ORM (Object Relational Mapping) library for Java.</p>\n<p>Version 1.2.0 release notes.</p>\n<p>Added support for Views\nAdded query ‘select *’ method to session\nFinalized support for Informix (Tests added)\nChanged query statements to make explicit forward only and read only\nImprove readRecord performance\nAdded BIT column to byte property conversion</p>\n",
+    "comments_url": "https://lobste.rs/s/jcws1m/persism_1_2_0_released_zero_ceremony_orm",
+    "submitter_user": {
+      "username": "sproketboy",
+      "created_at": "2021-03-03T13:32:17.000-06:00",
+      "is_admin": false,
+      "about": "Software developer 20+ years - Java and .NET mostly.",
+      "is_moderator": false,
+      "karma": 2,
+      "avatar_url": "/avatars/sproketboy-100.png",
+      "invited_by_user": "msw"
+    },
+    "tags": [
+      "databases",
+      "java"
+    ]
+  },
+  {
     "short_id": "a4yiel",
     "short_id_url": "https://lobste.rs/s/a4yiel",
     "created_at": "2021-08-22T15:14:51.000-05:00",
     "title": "Speeding up IndexedDB reads and writes",
     "url": "https://nolanlawson.com/2021/08/22/speeding-up-indexeddb-reads-and-writes/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +67,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 484,
+      "karma": 485,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -43,7 +94,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11888,
+      "karma": 11890,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -114,7 +165,7 @@
     "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
     "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/jz98ci/large_rust_workspaces",
     "submitter_user": {
@@ -146,9 +197,9 @@
     "created_at": "2021-08-22T12:36:09.000-05:00",
     "title": "The Perils of File Typing",
     "url": "https://invisibleup.com/articles/34/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkplai/perils_file_typing",
     "submitter_user": {
@@ -157,7 +208,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82151,
+      "karma": 82152,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -173,9 +224,9 @@
     "created_at": "2021-08-22T12:06:26.000-05:00",
     "title": "GitUI v0.17 adds: compare commits",
     "url": "https://github.com/extrawurst/gitui/releases/tag/v0.17",
-    "score": 3,
+    "score": 5,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/nxsnvk/gitui_v0_17_adds_compare_commits",
     "submitter_user": {
@@ -184,7 +235,7 @@
       "is_admin": false,
       "about": "Founder of gameroasters and @liveask1, #indie #gamedev, #rust enthusiast, worked previously at @innogames , @ubisoft",
       "is_moderator": false,
-      "karma": 229,
+      "karma": 231,
       "avatar_url": "/avatars/extrawurst-100.png",
       "invited_by_user": "Napster",
       "github_username": "extrawurst"
@@ -201,9 +252,9 @@
     "created_at": "2021-08-22T10:21:14.000-05:00",
     "title": "Bringing the Unix Philosophy to the 21st Century",
     "url": "https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/",
-    "score": 11,
+    "score": 14,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century",
     "submitter_user": {
@@ -212,7 +263,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 275,
+      "karma": 278,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -292,7 +343,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3357,
+      "karma": 3358,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -317,7 +368,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 405,
+      "karma": 406,
       "avatar_url": "/avatars/pl-100.png",
       "invited_by_user": "dkreuter"
     },
@@ -333,7 +384,7 @@
     "created_at": "2021-08-22T07:22:20.000-05:00",
     "title": "Paranoid Scientist",
     "url": "https://github.com/mwshinn/paranoidscientist",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -344,7 +395,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4891,
+      "karma": 4892,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -360,9 +411,9 @@
     "created_at": "2021-08-22T04:20:54.000-05:00",
     "title": "Linux is dead, long-live Docker monoculture",
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
-    "score": 13,
+    "score": 15,
     "flags": 1,
-    "comment_count": 17,
+    "comment_count": 20,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -371,7 +422,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11888,
+      "karma": 11890,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -398,7 +449,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11888,
+      "karma": 11890,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -450,7 +501,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11888,
+      "karma": 11890,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -494,7 +545,7 @@
     "url": "https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html",
     "score": 42,
     "flags": 1,
-    "comment_count": 31,
+    "comment_count": 32,
     "description": "",
     "comments_url": "https://lobste.rs/s/bg3fzn/perhaps_wsl2_should_be_wake_up_call",
     "submitter_user": {
@@ -503,7 +554,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82151,
+      "karma": 82152,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -531,7 +582,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10589,
+      "karma": 10590,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -547,7 +598,7 @@
     "created_at": "2021-08-21T12:46:20.000-05:00",
     "title": "Parser generators vs. handwritten parsers: surveying major language implementations in 2021",
     "url": "https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html",
-    "score": 32,
+    "score": 33,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -558,7 +609,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1264,
+      "karma": 1265,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -619,58 +670,6 @@
     "tags": [
       "programming",
       "unix"
-    ]
-  },
-  {
-    "short_id": "byppin",
-    "short_id_url": "https://lobste.rs/s/byppin",
-    "created_at": "2021-08-21T09:56:59.000-05:00",
-    "title": "Using Tree Structures with Pagination to build Folder Navigation",
-    "url": "https://medium.com/frame-io-engineering/hierarchy-and-pagination-traversing-the-folder-tree-1ba641ec2ce7",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/byppin/using_tree_structures_with_pagination",
-    "submitter_user": {
-      "username": "soulcutter",
-      "created_at": "2014-02-18T10:29:29.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 3023,
-      "avatar_url": "/avatars/soulcutter-100.png",
-      "invited_by_user": "gabriel",
-      "twitter_username": "soulcutter"
-    },
-    "tags": [
-      "performance",
-      "scaling"
-    ]
-  },
-  {
-    "short_id": "g9z2jl",
-    "short_id_url": "https://lobste.rs/s/g9z2jl",
-    "created_at": "2021-08-21T09:25:18.000-05:00",
-    "title": "Benefits of not using an IDE",
-    "url": "https://alexander-hansen.dev/blog/benefits-of-not-using-an-ide",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 18,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/g9z2jl/benefits_not_using_ide",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11888,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "practices"
     ]
   }
 ]
