@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "e3na5c",
+    "short_id_url": "https://lobste.rs/s/e3na5c",
+    "created_at": "2021-08-22T19:47:02.000-05:00",
+    "title": "Conditionally setting your gitconfig",
+    "url": "https://utf9k.net/blog/conditional-gitconfig/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/e3na5c/conditionally_setting_your_gitconfig",
+    "submitter_user": {
+      "username": "zk",
+      "created_at": "2020-04-27T03:55:21.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 150,
+      "avatar_url": "/avatars/zk-100.png",
+      "invited_by_user": "dyl"
+    },
+    "tags": [
+      "vcs"
+    ]
+  },
+  {
     "short_id": "43fxuk",
     "short_id_url": "https://lobste.rs/s/43fxuk",
     "created_at": "2021-08-22T17:11:28.000-05:00",
     "title": "PlsExplain: A small dynamic programming language where every value is explained by a comment",
     "url": "https://github.com/langjam/jam0001/tree/main/hope",
-    "score": 2,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 467,
+      "karma": 470,
       "avatar_url": "/avatars/asrp-100.png",
       "invited_by_user": "awal"
     },
@@ -94,7 +119,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -137,7 +162,7 @@
     "created_at": "2021-08-22T13:59:52.000-05:00",
     "title": "Demonstrate ability to read memfd_secret() data from the kernel",
     "url": "https://github.com/JonathonReinhart/nosecmem",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -148,7 +173,7 @@
       "is_admin": false,
       "about": "Consultant:   Enterprise Architecture, Data Governance, IAM, Distributed Backends dev, Android dev, SPA.",
       "is_moderator": false,
-      "karma": 607,
+      "karma": 608,
       "avatar_url": "/avatars/vladislavp-100.png",
       "invited_by_user": "wink"
     },
@@ -163,7 +188,7 @@
     "created_at": "2021-08-22T13:56:27.000-05:00",
     "title": "Large Rust Workspaces",
     "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -174,7 +199,7 @@
       "is_admin": false,
       "about": "Mobile & Rust Engineer at [Ditto](https://ditto.live). Enthusiastic about Rust, Swift and LaTeX, and interested in systems programming, developer tooling, compilers, operating systems, artificial general intelligence, and machine learning, among other areas. He/him.",
       "is_moderator": false,
-      "karma": 1124,
+      "karma": 1126,
       "avatar_url": "/avatars/nerosnm-100.png",
       "invited_by_user": "aleph",
       "github_username": "nerosnm",
@@ -197,9 +222,9 @@
     "created_at": "2021-08-22T12:36:09.000-05:00",
     "title": "The Perils of File Typing",
     "url": "https://invisibleup.com/articles/34/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkplai/perils_file_typing",
     "submitter_user": {
@@ -208,7 +233,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82154,
+      "karma": 82159,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -252,9 +277,9 @@
     "created_at": "2021-08-22T10:21:14.000-05:00",
     "title": "Bringing the Unix Philosophy to the 21st Century",
     "url": "https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/",
-    "score": 17,
+    "score": 18,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century",
     "submitter_user": {
@@ -263,7 +288,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 282,
+      "karma": 283,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -307,7 +332,7 @@
     "created_at": "2021-08-22T10:08:54.000-05:00",
     "title": "First class comments",
     "url": "http://len.falken.ink/p-lang/first-class-comments.txt",
-    "score": 21,
+    "score": 23,
     "flags": 0,
     "comment_count": 15,
     "description": "<p>TIL <a href=\"https://github.com/langjam/langjam\" rel=\"ugc\">https://github.com/langjam/langjam</a>, so I wrote a quick idea around the theme.</p>\n",
@@ -318,7 +343,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1710,
+      "karma": 1712,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -411,9 +436,9 @@
     "created_at": "2021-08-22T04:20:54.000-05:00",
     "title": "Linux is dead, long-live Docker monoculture",
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
-    "score": 15,
+    "score": 16,
     "flags": 1,
-    "comment_count": 20,
+    "comment_count": 22,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -422,7 +447,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -449,7 +474,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -501,7 +526,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -543,9 +568,9 @@
     "created_at": "2021-08-21T15:46:12.000-05:00",
     "title": "Perhaps WSL2 Should be a Wake-up Call",
     "url": "https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html",
-    "score": 42,
+    "score": 43,
     "flags": 1,
-    "comment_count": 33,
+    "comment_count": 35,
     "description": "",
     "comments_url": "https://lobste.rs/s/bg3fzn/perhaps_wsl2_should_be_wake_up_call",
     "submitter_user": {
@@ -554,7 +579,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82154,
+      "karma": 82159,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -582,7 +607,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10591,
+      "karma": 10592,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -644,32 +669,6 @@
     },
     "tags": [
       "historical"
-    ]
-  },
-  {
-    "short_id": "xestey",
-    "short_id_url": "https://lobste.rs/s/xestey",
-    "created_at": "2021-08-21T11:11:34.000-05:00",
-    "title": "An Opinionated Guide to xargs",
-    "url": "https://www.oilshell.org/blog/2021/08/xargs.html",
-    "score": 44,
-    "flags": 0,
-    "comment_count": 15,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xestey/opinionated_guide_xargs",
-    "submitter_user": {
-      "username": "andyc",
-      "created_at": "2016-11-29T12:37:37.000-06:00",
-      "is_admin": false,
-      "about": "Working on http://www.oilshell.org/\r\n",
-      "is_moderator": false,
-      "karma": 6063,
-      "avatar_url": "/avatars/andyc-100.png",
-      "invited_by_user": "flyingfisch"
-    },
-    "tags": [
-      "programming",
-      "unix"
     ]
   }
 ]
