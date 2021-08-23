@@ -1,11 +1,94 @@
 [
   {
+    "short_id": "f7pmkw",
+    "short_id_url": "https://lobste.rs/s/f7pmkw",
+    "created_at": "2021-08-23T10:49:20.000-05:00",
+    "title": "The new GHC diagnostic infrastructure",
+    "url": "https://well-typed.com/blog/2021/08/the-new-ghc-diagnostic-infrastructure/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/f7pmkw/new_ghc_diagnostic_infrastructure",
+    "submitter_user": {
+      "username": "pushcx",
+      "created_at": "2012-08-14T20:25:08.000-05:00",
+      "is_admin": true,
+      "about": "Hi, I'm [Peter Bhat Harkins](https://malaprop.org), a programmer and entrepreneur from Chicago. From June 2014 to winter of 2015 I typically posted a dozen stories per day to [help](https://lobste.rs/s/9pm09z/what_is_on_topic_what_is_not/comments/nie0yn#c_nie0yn) the site reach a critical mass of regular visitors. In October 2017 I became the site administrator after the site creator @jcs stepped down.\r\n\r\n * Please don’t message me for an invitation if we're complete strangers; check <a href=\"https://lobste.rs/u\">the user list</a> for someone you know or ask [in chat](https://lobste.rs/chat).\r\n * Submit a [`meta`](https://lobste.rs/t/meta) post for feature requests (including new tags) to let the community discuss. Bug reports and \"is this a bug?\" should go to [the issue tracker](https://github.com/lobsters/lobsters/issues).\r\n * [Message me](https://lobste.rs/messages?to=pushcx) for administrative and moderator things. I don't see everything and I gotta sleep sometime.\r\n * E-mail my first name @malaprop.org regarding site security or if you can't log in to message me. If I've posted or commented about something here or in the chat room, I'd almost certainly love to talk more about it.\r\n",
+      "is_moderator": true,
+      "avatar_url": "/avatars/pushcx-100.png",
+      "invited_by_user": "jcs",
+      "github_username": "pushcx",
+      "twitter_username": "pushcx",
+      "keybase_signatures": [
+        {
+          "kb_username": "pushcx",
+          "sig_hash": "de6fb28b501c211e88fabddeacc834c6b922d738efd6b4108ce871879d039e510f"
+        }
+      ]
+    },
+    "tags": [
+      "compilers",
+      "haskell"
+    ]
+  },
+  {
+    "short_id": "gfgf26",
+    "short_id_url": "https://lobste.rs/s/gfgf26",
+    "created_at": "2021-08-23T10:26:16.000-05:00",
+    "title": "Stitching together Athena tables with SymlinkTextInputFormat",
+    "url": "https://the.athena.guide/articles/stitching-tables-with-symlinktextinputformat/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/gfgf26/stitching_together_athena_tables_with",
+    "submitter_user": {
+      "username": "iconara",
+      "created_at": "2014-01-09T03:23:29.000-06:00",
+      "is_admin": false,
+      "about": "★ Big Data Chef and Director of Technology at Burt\r\n\r\nhttps://twitter.com/iconara\r\nhttps://github.com/iconara",
+      "is_moderator": false,
+      "karma": 120,
+      "avatar_url": "/avatars/iconara-100.png",
+      "invited_by_user": "jdp"
+    },
+    "tags": [
+      "databases"
+    ]
+  },
+  {
+    "short_id": "j3anqz",
+    "short_id_url": "https://lobste.rs/s/j3anqz",
+    "created_at": "2021-08-23T10:19:55.000-05:00",
+    "title": "Decomposing a massive Rails monolith with Kirsten Westeinde, software development manager, Shopify",
+    "url": "https://about.sourcegraph.com/podcast/refactoring-shopify-codebase-kirsten-westeinde/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/j3anqz/decomposing_massive_rails_monolith_with",
+    "submitter_user": {
+      "username": "unicodeveloper",
+      "created_at": "2021-08-23T10:16:30.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/unicodeveloper-100.png",
+      "invited_by_user": "tsenart"
+    },
+    "tags": [
+      "ruby"
+    ]
+  },
+  {
     "short_id": "odfwve",
     "short_id_url": "https://lobste.rs/s/odfwve",
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 1,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +99,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 55,
+      "karma": 61,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -30,7 +113,7 @@
     "created_at": "2021-08-23T09:14:03.000-05:00",
     "title": "nom 7.0 released",
     "url": "https://www.reddit.com/r/rust/comments/p9usvq/nom_70_release_fast_parser_combinators_now/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +124,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1148,
+      "karma": 1149,
       "avatar_url": "/avatars/faitswulff-100.png",
       "invited_by_user": "gsylvie"
     },
@@ -82,7 +165,7 @@
     "created_at": "2021-08-23T08:59:33.000-05:00",
     "title": "Cloudflare WARP for Linux",
     "url": "https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -93,7 +176,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1,
+      "karma": 3,
       "avatar_url": "/avatars/deylami-100.png",
       "invited_by_user": "badtuple"
     },
@@ -109,7 +192,7 @@
     "created_at": "2021-08-23T08:37:29.000-05:00",
     "title": "AirDrop alternative through a web browser using WebRTC",
     "url": "https://snapdrop.net",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -120,7 +203,7 @@
       "is_admin": false,
       "about": "I write bugs for a living.",
       "is_moderator": false,
-      "karma": 17,
+      "karma": 19,
       "avatar_url": "/avatars/garritfra-100.png",
       "invited_by_user": "asym"
     },
@@ -162,7 +245,7 @@
     "created_at": "2021-08-23T08:03:02.000-05:00",
     "title": "JNJ: J bindings for Janet",
     "url": "https://git.sr.ht/~subsetpark/jnj",
-    "score": 5,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -173,7 +256,7 @@
       "is_admin": false,
       "about": "I'm a serious person.",
       "is_moderator": false,
-      "karma": 950,
+      "karma": 954,
       "avatar_url": "/avatars/zdsmith-100.png",
       "invited_by_user": "mjec",
       "github_username": "subsetpark",
@@ -224,7 +307,7 @@
     "url": "",
     "score": 6,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week",
     "submitter_user": {
@@ -331,9 +414,9 @@
     "created_at": "2021-08-23T02:10:30.000-05:00",
     "title": "anansi: A NoWeb-inspired literate programming preprocessor (2012)",
     "url": "https://john-millikin.com/software/anansi",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/xd89lv/anansi_noweb_inspired_literate",
     "submitter_user": {
@@ -342,7 +425,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2,
+      "karma": 4,
       "avatar_url": "/avatars/jmillikin-100.png",
       "invited_by_user": "pushcx"
     },
@@ -357,7 +440,7 @@
     "created_at": "2021-08-23T00:29:46.000-05:00",
     "title": "h2c - headers to curl",
     "url": "https://curl.se/h2c/",
-    "score": 11,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -368,7 +451,7 @@
       "is_admin": false,
       "about": "Software Engineering | Free Software | 🐡",
       "is_moderator": false,
-      "karma": 242,
+      "karma": 244,
       "avatar_url": "/avatars/emilengler-100.png",
       "invited_by_user": "awesomekling",
       "github_username": "emilengler"
@@ -383,7 +466,7 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 42,
+    "score": 52,
     "flags": 0,
     "comment_count": 9,
     "description": "",
@@ -394,7 +477,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 191,
+      "karma": 201,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -433,7 +516,7 @@
     "created_at": "2021-08-22T16:35:56.000-05:00",
     "title": "Persism 1.2.0 Released - A zero ceremony ORM for Java",
     "url": "https://github.com/sproket/Persism",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 5,
     "description": "<p>Persism is a wood simple, auto discovery, auto configuration, and convention over configuration ORM (Object Relational Mapping) library for Java.</p>\n<p>Version 1.2.0 release notes.</p>\n<p>Added support for Views\nAdded query ‘select *’ method to session\nFinalized support for Informix (Tests added)\nChanged query statements to make explicit forward only and read only\nImprove readRecord performance\nAdded BIT column to byte property conversion</p>\n",
@@ -444,7 +527,7 @@
       "is_admin": false,
       "about": "Software developer 20+ years - Java and .NET mostly.",
       "is_moderator": false,
-      "karma": 7,
+      "karma": 8,
       "avatar_url": "/avatars/sproketboy-100.png",
       "invited_by_user": "msw"
     },
@@ -566,7 +649,7 @@
     "created_at": "2021-08-22T13:56:27.000-05:00",
     "title": "Large Rust Workspaces",
     "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -577,7 +660,7 @@
       "is_admin": false,
       "about": "Mobile & Rust Engineer at [Ditto](https://ditto.live). Enthusiastic about Rust, Swift and LaTeX, and interested in systems programming, developer tooling, compilers, operating systems, artificial general intelligence, and machine learning, among other areas. He/him.",
       "is_moderator": false,
-      "karma": 1133,
+      "karma": 1134,
       "avatar_url": "/avatars/nerosnm-100.png",
       "invited_by_user": "aleph",
       "github_username": "nerosnm",
@@ -592,89 +675,6 @@
     "tags": [
       "practices",
       "rust"
-    ]
-  },
-  {
-    "short_id": "gkplai",
-    "short_id_url": "https://lobste.rs/s/gkplai",
-    "created_at": "2021-08-22T12:36:09.000-05:00",
-    "title": "The Perils of File Typing",
-    "url": "https://invisibleup.com/articles/34/",
-    "score": 15,
-    "flags": 0,
-    "comment_count": 15,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/gkplai/perils_file_typing",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82183,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "historical",
-      "programming"
-    ]
-  },
-  {
-    "short_id": "nxsnvk",
-    "short_id_url": "https://lobste.rs/s/nxsnvk",
-    "created_at": "2021-08-22T12:06:26.000-05:00",
-    "title": "GitUI v0.17 adds: compare commits",
-    "url": "https://github.com/extrawurst/gitui/releases/tag/v0.17",
-    "score": 12,
-    "flags": 1,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/nxsnvk/gitui_v0_17_adds_compare_commits",
-    "submitter_user": {
-      "username": "extrawurst",
-      "created_at": "2020-04-14T08:34:10.000-05:00",
-      "is_admin": false,
-      "about": "Founder of gameroasters and @liveask1, #indie #gamedev, #rust enthusiast, worked previously at @innogames , @ubisoft",
-      "is_moderator": false,
-      "karma": 239,
-      "avatar_url": "/avatars/extrawurst-100.png",
-      "invited_by_user": "Napster",
-      "github_username": "extrawurst"
-    },
-    "tags": [
-      "release",
-      "rust",
-      "vcs"
-    ]
-  },
-  {
-    "short_id": "ovregk",
-    "short_id_url": "https://lobste.rs/s/ovregk",
-    "created_at": "2021-08-22T10:21:14.000-05:00",
-    "title": "Bringing the Unix Philosophy to the 21st Century",
-    "url": "https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/",
-    "score": 41,
-    "flags": 0,
-    "comment_count": 33,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century",
-    "submitter_user": {
-      "username": "qmacro",
-      "created_at": "2020-01-24T10:48:42.000-06:00",
-      "is_admin": false,
-      "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
-      "is_moderator": false,
-      "karma": 306,
-      "avatar_url": "/avatars/qmacro-100.png",
-      "invited_by_user": "martinrue",
-      "github_username": "qmacro",
-      "twitter_username": "qmacro"
-    },
-    "tags": [
-      "historical",
-      "unix"
     ]
   }
 ]
