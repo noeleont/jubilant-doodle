@@ -1,11 +1,61 @@
 [
   {
+    "short_id": "549fnv",
+    "short_id_url": "https://lobste.rs/s/549fnv",
+    "created_at": "2021-08-23T16:01:17.000-05:00",
+    "title": "Gateway Teams - a strategy for spreading development practice in organizations",
+    "url": "https://michaelfeathers.silvrback.com/gateway-teams",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/549fnv/gateway_teams_strategy_for_spreading",
+    "submitter_user": {
+      "username": "mfeathers",
+      "created_at": "2017-10-30T10:30:24.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1198,
+      "avatar_url": "/avatars/mfeathers-100.png",
+      "invited_by_user": "singpolyma"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
+    "short_id": "j31knr",
+    "short_id_url": "https://lobste.rs/s/j31knr",
+    "created_at": "2021-08-23T15:23:15.000-05:00",
+    "title": "Native Commands in PowerShell - A New Approach - Part 2",
+    "url": "https://devblogs.microsoft.com/powershell/native-commands-in-powershell-a-new-approach-part-2/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/j31knr/native_commands_powershell_new_approach",
+    "submitter_user": {
+      "username": "Brekkjern",
+      "created_at": "2019-11-11T08:38:09.000-06:00",
+      "is_admin": false,
+      "about": "```X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*```",
+      "is_moderator": false,
+      "karma": 545,
+      "avatar_url": "/avatars/Brekkjern-100.png",
+      "invited_by_user": "Foxboron"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "lq1r6e",
     "short_id_url": "https://lobste.rs/s/lq1r6e",
     "created_at": "2021-08-23T15:12:40.000-05:00",
     "title": "Cross compiling Windows binaries from Linux",
     "url": "https://jake-shadle.github.io/xwin/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +66,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 349,
+      "karma": 350,
       "avatar_url": "/avatars/rlabrecque-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -140,7 +190,7 @@
     "created_at": "2021-08-23T10:49:20.000-05:00",
     "title": "The new GHC diagnostic infrastructure",
     "url": "https://well-typed.com/blog/2021/08/the-new-ghc-diagnostic-infrastructure/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -223,9 +273,9 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 37,
+    "score": 44,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/odfwve/i_turned_on_csp_all_i_got_was_this_crappy",
     "submitter_user": {
@@ -234,7 +284,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 91,
+      "karma": 98,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -327,9 +377,9 @@
     "created_at": "2021-08-23T08:37:29.000-05:00",
     "title": "AirDrop alternative through a web browser using WebRTC",
     "url": "https://snapdrop.net",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/lyd19u/airdrop_alternative_through_web_browser",
     "submitter_user": {
@@ -338,7 +388,7 @@
       "is_admin": false,
       "about": "I write bugs for a living.",
       "is_moderator": false,
-      "karma": 21,
+      "karma": 22,
       "avatar_url": "/avatars/garritfra-100.png",
       "invited_by_user": "asym"
     },
@@ -353,7 +403,7 @@
     "created_at": "2021-08-23T08:06:01.000-05:00",
     "title": "Knuth-Morris-Pratt string-searching algorithm (part I) + my homebrew algorithms formally verified using CBMC",
     "url": "https://yurichev.com/news/20210121_Knuth_Morris_Pratt_1/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -364,7 +414,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82187,
+      "karma": 82189,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -380,7 +430,7 @@
     "created_at": "2021-08-23T08:03:02.000-05:00",
     "title": "JNJ: J bindings for Janet",
     "url": "https://git.sr.ht/~subsetpark/jnj",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -391,7 +441,7 @@
       "is_admin": false,
       "about": "I'm a serious person.",
       "is_moderator": false,
-      "karma": 961,
+      "karma": 962,
       "avatar_url": "/avatars/zdsmith-100.png",
       "invited_by_user": "mjec",
       "github_username": "subsetpark",
@@ -442,7 +492,7 @@
     "url": "",
     "score": 8,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 18,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week",
     "submitter_user": {
@@ -601,7 +651,7 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 56,
+    "score": 58,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -612,63 +662,12 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 205,
+      "karma": 207,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
     "tags": [
       "vcs"
-    ]
-  },
-  {
-    "short_id": "43fxuk",
-    "short_id_url": "https://lobste.rs/s/43fxuk",
-    "created_at": "2021-08-22T17:11:28.000-05:00",
-    "title": "PlsExplain: A small dynamic programming language where every value is explained by a comment",
-    "url": "https://github.com/langjam/jam0001/tree/main/hope",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/43fxuk/plsexplain_small_dynamic_programming",
-    "submitter_user": {
-      "username": "asrp",
-      "created_at": "2017-01-29T12:42:09.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 483,
-      "avatar_url": "/avatars/asrp-100.png",
-      "invited_by_user": "awal"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "jcws1m",
-    "short_id_url": "https://lobste.rs/s/jcws1m",
-    "created_at": "2021-08-22T16:35:56.000-05:00",
-    "title": "Persism 1.2.0 Released - A zero ceremony ORM for Java",
-    "url": "https://github.com/sproket/Persism",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "<p>Persism is a wood simple, auto discovery, auto configuration, and convention over configuration ORM (Object Relational Mapping) library for Java.</p>\n<p>Version 1.2.0 release notes.</p>\n<p>Added support for Views\nAdded query ‘select *’ method to session\nFinalized support for Informix (Tests added)\nChanged query statements to make explicit forward only and read only\nImprove readRecord performance\nAdded BIT column to byte property conversion</p>\n",
-    "comments_url": "https://lobste.rs/s/jcws1m/persism_1_2_0_released_zero_ceremony_orm",
-    "submitter_user": {
-      "username": "sproketboy",
-      "created_at": "2021-03-03T13:32:17.000-06:00",
-      "is_admin": false,
-      "about": "Software developer 20+ years - Java and .NET mostly.",
-      "is_moderator": false,
-      "karma": 8,
-      "avatar_url": "/avatars/sproketboy-100.png",
-      "invited_by_user": "msw"
-    },
-    "tags": [
-      "databases",
-      "java"
     ]
   }
 ]
