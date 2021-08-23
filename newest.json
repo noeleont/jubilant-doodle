@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "xd89lv",
+    "short_id_url": "https://lobste.rs/s/xd89lv",
+    "created_at": "2021-08-23T02:10:30.000-05:00",
+    "title": "anansi: A NoWeb-inspired literate programming preprocessor (2012)",
+    "url": "https://john-millikin.com/software/anansi",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/xd89lv/anansi_noweb_inspired_literate",
+    "submitter_user": {
+      "username": "jmillikin",
+      "created_at": "2021-07-22T09:39:26.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/jmillikin-100.png",
+      "invited_by_user": "pushcx"
+    },
+    "tags": [
+      "haskell",
+      "programming"
+    ]
+  },
+  {
     "short_id": "37s3b0",
     "short_id_url": "https://lobste.rs/s/37s3b0",
     "created_at": "2021-08-23T00:29:46.000-05:00",
     "title": "h2c - headers to curl",
     "url": "https://curl.se/h2c/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Software Engineering | Free Software | 🐡",
       "is_moderator": false,
-      "karma": 233,
+      "karma": 235,
       "avatar_url": "/avatars/emilengler-100.png",
       "invited_by_user": "awesomekling",
       "github_username": "emilengler"
@@ -31,7 +57,7 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 9,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 158,
+      "karma": 161,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -56,9 +82,9 @@
     "created_at": "2021-08-22T17:11:28.000-05:00",
     "title": "PlsExplain: A small dynamic programming language where every value is explained by a comment",
     "url": "https://github.com/langjam/jam0001/tree/main/hope",
-    "score": 11,
+    "score": 12,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/43fxuk/plsexplain_small_dynamic_programming",
     "submitter_user": {
@@ -67,7 +93,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 476,
+      "karma": 477,
       "avatar_url": "/avatars/asrp-100.png",
       "invited_by_user": "awal"
     },
@@ -145,7 +171,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -250,7 +276,7 @@
     "url": "https://invisibleup.com/articles/34/",
     "score": 13,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkplai/perils_file_typing",
     "submitter_user": {
@@ -259,7 +285,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82172,
+      "karma": 82175,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -305,7 +331,7 @@
     "url": "https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/",
     "score": 28,
     "flags": 0,
-    "comment_count": 22,
+    "comment_count": 24,
     "description": "",
     "comments_url": "https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century",
     "submitter_user": {
@@ -360,7 +386,7 @@
     "url": "http://len.falken.ink/p-lang/first-class-comments.txt",
     "score": 28,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 19,
     "description": "<p>TIL <a href=\"https://github.com/langjam/langjam\" rel=\"ugc\">https://github.com/langjam/langjam</a>, so I wrote a quick idea around the theme.</p>\n",
     "comments_url": "https://lobste.rs/s/u6tusd/first_class_comments",
     "submitter_user": {
@@ -383,7 +409,7 @@
     "created_at": "2021-08-22T08:43:32.000-05:00",
     "title": "Equal Rights for Functional Objects or, The More Things Change, The More They Are the Same (1992)",
     "url": "https://p.hagelb.org/equal-rights-for-functional-objects.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -394,7 +420,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3360,
+      "karma": 3361,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -419,7 +445,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 412,
+      "karma": 413,
       "avatar_url": "/avatars/pl-100.png",
       "invited_by_user": "dkreuter"
     },
@@ -462,9 +488,9 @@
     "created_at": "2021-08-22T04:20:54.000-05:00",
     "title": "Linux is dead, long-live Docker monoculture",
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
-    "score": 16,
+    "score": 17,
     "flags": 1,
-    "comment_count": 24,
+    "comment_count": 25,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -473,7 +499,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -500,7 +526,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -552,7 +578,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11890,
+      "karma": 11891,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -605,7 +631,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82172,
+      "karma": 82175,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -633,7 +659,7 @@
       "is_admin": false,
       "about": "\r\n",
       "is_moderator": false,
-      "karma": 10594,
+      "karma": 10596,
       "avatar_url": "/avatars/lorddimwit-100.png",
       "invited_by_user": "cks",
       "github_username": "deadpixi"
@@ -641,34 +667,6 @@
     "tags": [
       "c",
       "games"
-    ]
-  },
-  {
-    "short_id": "10pkib",
-    "short_id_url": "https://lobste.rs/s/10pkib",
-    "created_at": "2021-08-21T12:46:20.000-05:00",
-    "title": "Parser generators vs. handwritten parsers: surveying major language implementations in 2021",
-    "url": "https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html",
-    "score": 34,
-    "flags": 0,
-    "comment_count": 10,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/10pkib/parser_generators_vs_handwritten",
-    "submitter_user": {
-      "username": "eatonphil",
-      "created_at": "2019-09-01T20:23:02.000-05:00",
-      "is_admin": false,
-      "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
-      "is_moderator": false,
-      "karma": 1266,
-      "avatar_url": "/avatars/eatonphil-100.png",
-      "invited_by_user": "calvin",
-      "github_username": "eatonphil",
-      "twitter_username": "phil_eaton"
-    },
-    "tags": [
-      "compilers",
-      "plt"
     ]
   }
 ]
