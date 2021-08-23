@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "rzbdfr",
+    "short_id_url": "https://lobste.rs/s/rzbdfr",
+    "created_at": "2021-08-23T06:35:21.000-05:00",
+    "title": "What are you doing this week?",
+    "url": "",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
+    "comments_url": "https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week",
+    "submitter_user": {
+      "username": "caius",
+      "created_at": "2014-05-13T06:58:30.000-05:00",
+      "is_admin": false,
+      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
+      "is_moderator": false,
+      "karma": 6430,
+      "avatar_url": "/avatars/caius-100.png",
+      "invited_by_user": "lauris",
+      "github_username": "caius",
+      "twitter_username": "Caius"
+    },
+    "tags": [
+      "ask",
+      "programming"
+    ]
+  },
+  {
     "short_id": "kmc8ms",
     "short_id_url": "https://lobste.rs/s/kmc8ms",
     "created_at": "2021-08-23T06:04:44.000-05:00",
@@ -31,7 +59,7 @@
     "created_at": "2021-08-23T05:21:13.000-05:00",
     "title": "The Essence of Datalog",
     "url": "https://dodisturb.me/posts/2018-12-25-The-Essence-of-Datalog.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +70,7 @@
       "is_admin": false,
       "about": "Software developer, protocol hipster\r\n\r\nOn libera.chat as \"c355e3b\"",
       "is_moderator": false,
-      "karma": 4703,
+      "karma": 4704,
       "avatar_url": "/avatars/355E3B-100.png",
       "invited_by_user": "pushcx",
       "github_username": "hmadison",
@@ -59,7 +87,7 @@
     "created_at": "2021-08-23T03:11:56.000-05:00",
     "title": "mkinitcpio v31 and UEFI stubs",
     "url": "https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +98,7 @@
       "is_admin": false,
       "about": "F/OSS Developer and Arch Linux Trusted User doing packaging and security.\r\n\r\nInterested in Golang, development and supply chain security.",
       "is_moderator": false,
-      "karma": 646,
+      "karma": 648,
       "avatar_url": "/avatars/Foxboron-100.png",
       "invited_by_user": "jelly",
       "github_username": "Foxboron",
@@ -97,7 +125,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1,
+      "karma": 2,
       "avatar_url": "/avatars/jmillikin-100.png",
       "invited_by_user": "pushcx"
     },
@@ -138,9 +166,9 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 24,
+    "score": 30,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/e3na5c/conditionally_setting_your_gitconfig",
     "submitter_user": {
@@ -149,7 +177,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 173,
+      "karma": 179,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -163,7 +191,7 @@
     "created_at": "2021-08-22T17:11:28.000-05:00",
     "title": "PlsExplain: A small dynamic programming language where every value is explained by a comment",
     "url": "https://github.com/langjam/jam0001/tree/main/hope",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -174,7 +202,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 479,
+      "karma": 480,
       "avatar_url": "/avatars/asrp-100.png",
       "invited_by_user": "awal"
     },
@@ -188,9 +216,9 @@
     "created_at": "2021-08-22T16:35:56.000-05:00",
     "title": "Persism 1.2.0 Released - A zero ceremony ORM for Java",
     "url": "https://github.com/sproket/Persism",
-    "score": 4,
+    "score": 6,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "<p>Persism is a wood simple, auto discovery, auto configuration, and convention over configuration ORM (Object Relational Mapping) library for Java.</p>\n<p>Version 1.2.0 release notes.</p>\n<p>Added support for Views\nAdded query ‘select *’ method to session\nFinalized support for Informix (Tests added)\nChanged query statements to make explicit forward only and read only\nImprove readRecord performance\nAdded BIT column to byte property conversion</p>\n",
     "comments_url": "https://lobste.rs/s/jcws1m/persism_1_2_0_released_zero_ceremony_orm",
     "submitter_user": {
@@ -199,7 +227,7 @@
       "is_admin": false,
       "about": "Software developer 20+ years - Java and .NET mostly.",
       "is_moderator": false,
-      "karma": 4,
+      "karma": 6,
       "avatar_url": "/avatars/sproketboy-100.png",
       "invited_by_user": "msw"
     },
@@ -321,9 +349,9 @@
     "created_at": "2021-08-22T13:56:27.000-05:00",
     "title": "Large Rust Workspaces",
     "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
-    "score": 11,
+    "score": 12,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/jz98ci/large_rust_workspaces",
     "submitter_user": {
@@ -332,7 +360,7 @@
       "is_admin": false,
       "about": "Mobile & Rust Engineer at [Ditto](https://ditto.live). Enthusiastic about Rust, Swift and LaTeX, and interested in systems programming, developer tooling, compilers, operating systems, artificial general intelligence, and machine learning, among other areas. He/him.",
       "is_moderator": false,
-      "karma": 1130,
+      "karma": 1131,
       "avatar_url": "/avatars/nerosnm-100.png",
       "invited_by_user": "aleph",
       "github_username": "nerosnm",
@@ -355,7 +383,7 @@
     "created_at": "2021-08-22T12:36:09.000-05:00",
     "title": "The Perils of File Typing",
     "url": "https://invisibleup.com/articles/34/",
-    "score": 13,
+    "score": 15,
     "flags": 0,
     "comment_count": 12,
     "description": "",
@@ -366,7 +394,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82178,
+      "karma": 82180,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -382,7 +410,7 @@
     "created_at": "2021-08-22T12:06:26.000-05:00",
     "title": "GitUI v0.17 adds: compare commits",
     "url": "https://github.com/extrawurst/gitui/releases/tag/v0.17",
-    "score": 11,
+    "score": 12,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -393,7 +421,7 @@
       "is_admin": false,
       "about": "Founder of gameroasters and @liveask1, #indie #gamedev, #rust enthusiast, worked previously at @innogames , @ubisoft",
       "is_moderator": false,
-      "karma": 238,
+      "karma": 239,
       "avatar_url": "/avatars/extrawurst-100.png",
       "invited_by_user": "Napster",
       "github_username": "extrawurst"
@@ -490,7 +518,7 @@
     "created_at": "2021-08-22T08:43:32.000-05:00",
     "title": "Equal Rights for Functional Objects or, The More Things Change, The More They Are the Same (1992)",
     "url": "https://p.hagelb.org/equal-rights-for-functional-objects.html",
-    "score": 5,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -501,7 +529,7 @@
       "is_admin": false,
       "about": "\"Give me a problem with 1,000,000 lines of C. But don't expect me to read the C, I couldn't. And don't think I'll have to write 10,000 lines of Forth. Just give me the specs of the problem, and documentation of the interface.\"\r\n\r\n\\- Charles \"Chuck\" H. Moore",
       "is_moderator": false,
-      "karma": 3361,
+      "karma": 3360,
       "avatar_url": "/avatars/WilhelmVonWeiner-100.png",
       "invited_by_user": "rocx"
     },
@@ -515,7 +543,7 @@
     "created_at": "2021-08-22T08:16:18.000-05:00",
     "title": "FreeBSD development on Docker support",
     "url": "https://reviews.freebsd.org/D21570",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -526,7 +554,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 417,
+      "karma": 421,
       "avatar_url": "/avatars/pl-100.png",
       "invited_by_user": "dkreuter"
     },
@@ -571,7 +599,7 @@
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
     "score": 18,
     "flags": 1,
-    "comment_count": 30,
+    "comment_count": 32,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -640,31 +668,6 @@
     "tags": [
       "security",
       "windows"
-    ]
-  },
-  {
-    "short_id": "immlh8",
-    "short_id_url": "https://lobste.rs/s/immlh8",
-    "created_at": "2021-08-21T16:24:02.000-05:00",
-    "title": "Remote desktop on NetBSD with Xnest (no VNC)",
-    "url": "https://raymii.org/s/articles/Remote_desktop_on_NetBSD_with_Xnest_no_VNC.html",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/immlh8/remote_desktop_on_netbsd_with_xnest_no_vnc",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11894,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "netbsd"
     ]
   }
 ]
