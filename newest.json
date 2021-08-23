@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "yeqdoq",
+    "short_id_url": "https://lobste.rs/s/yeqdoq",
+    "created_at": "2021-08-23T03:11:56.000-05:00",
+    "title": "mkinitcpio v31 and UEFI stubs",
+    "url": "https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yeqdoq/mkinitcpio_v31_uefi_stubs",
+    "submitter_user": {
+      "username": "Foxboron",
+      "created_at": "2019-11-06T05:54:41.000-06:00",
+      "is_admin": false,
+      "about": "F/OSS Developer and Arch Linux Trusted User doing packaging and security.\r\n\r\nInterested in Golang, development and supply chain security.",
+      "is_moderator": false,
+      "karma": 646,
+      "avatar_url": "/avatars/Foxboron-100.png",
+      "invited_by_user": "jelly",
+      "github_username": "Foxboron",
+      "twitter_username": "MortenLinderud"
+    },
+    "tags": [
+      "linux"
+    ]
+  },
+  {
     "short_id": "xd89lv",
     "short_id_url": "https://lobste.rs/s/xd89lv",
     "created_at": "2021-08-23T02:10:30.000-05:00",
@@ -57,7 +84,7 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 12,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +95,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 161,
+      "karma": 165,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -82,7 +109,7 @@
     "created_at": "2021-08-22T17:11:28.000-05:00",
     "title": "PlsExplain: A small dynamic programming language where every value is explained by a comment",
     "url": "https://github.com/langjam/jam0001/tree/main/hope",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -93,7 +120,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 477,
+      "karma": 478,
       "avatar_url": "/avatars/asrp-100.png",
       "invited_by_user": "awal"
     },
@@ -107,7 +134,7 @@
     "created_at": "2021-08-22T16:35:56.000-05:00",
     "title": "Persism 1.2.0 Released - A zero ceremony ORM for Java",
     "url": "https://github.com/sproket/Persism",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 2,
     "description": "<p>Persism is a wood simple, auto discovery, auto configuration, and convention over configuration ORM (Object Relational Mapping) library for Java.</p>\n<p>Version 1.2.0 release notes.</p>\n<p>Added support for Views\nAdded query ‘select *’ method to session\nFinalized support for Informix (Tests added)\nChanged query statements to make explicit forward only and read only\nImprove readRecord performance\nAdded BIT column to byte property conversion</p>\n",
@@ -118,7 +145,7 @@
       "is_admin": false,
       "about": "Software developer 20+ years - Java and .NET mostly.",
       "is_moderator": false,
-      "karma": 3,
+      "karma": 4,
       "avatar_url": "/avatars/sproketboy-100.png",
       "invited_by_user": "msw"
     },
@@ -160,7 +187,7 @@
     "created_at": "2021-08-22T14:34:28.000-05:00",
     "title": "An Alternative Conditional Compilation Approach with Modern C++",
     "url": "https://archive.md/fpo7X",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -171,7 +198,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11891,
+      "karma": 11892,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -285,7 +312,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82175,
+      "karma": 82176,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -301,7 +328,7 @@
     "created_at": "2021-08-22T12:06:26.000-05:00",
     "title": "GitUI v0.17 adds: compare commits",
     "url": "https://github.com/extrawurst/gitui/releases/tag/v0.17",
-    "score": 8,
+    "score": 9,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -312,7 +339,7 @@
       "is_admin": false,
       "about": "Founder of gameroasters and @liveask1, #indie #gamedev, #rust enthusiast, worked previously at @innogames , @ubisoft",
       "is_moderator": false,
-      "karma": 234,
+      "karma": 235,
       "avatar_url": "/avatars/extrawurst-100.png",
       "invited_by_user": "Napster",
       "github_username": "extrawurst"
@@ -329,9 +356,9 @@
     "created_at": "2021-08-22T10:21:14.000-05:00",
     "title": "Bringing the Unix Philosophy to the 21st Century",
     "url": "https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/",
-    "score": 28,
+    "score": 32,
     "flags": 0,
-    "comment_count": 24,
+    "comment_count": 25,
     "description": "",
     "comments_url": "https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century",
     "submitter_user": {
@@ -340,7 +367,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 293,
+      "karma": 297,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -384,7 +411,7 @@
     "created_at": "2021-08-22T10:08:54.000-05:00",
     "title": "First class comments",
     "url": "http://len.falken.ink/p-lang/first-class-comments.txt",
-    "score": 28,
+    "score": 30,
     "flags": 0,
     "comment_count": 19,
     "description": "<p>TIL <a href=\"https://github.com/langjam/langjam\" rel=\"ugc\">https://github.com/langjam/langjam</a>, so I wrote a quick idea around the theme.</p>\n",
@@ -395,7 +422,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1717,
+      "karma": 1719,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -445,7 +472,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 413,
+      "karma": 415,
       "avatar_url": "/avatars/pl-100.png",
       "invited_by_user": "dkreuter"
     },
@@ -490,7 +517,7 @@
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
     "score": 17,
     "flags": 1,
-    "comment_count": 25,
+    "comment_count": 27,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -499,7 +526,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11891,
+      "karma": 11892,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -526,7 +553,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11891,
+      "karma": 11892,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -578,7 +605,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11891,
+      "karma": 11892,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -631,7 +658,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82175,
+      "karma": 82176,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -640,33 +667,6 @@
       "linux",
       "rant",
       "windows"
-    ]
-  },
-  {
-    "short_id": "q7jekr",
-    "short_id_url": "https://lobste.rs/s/q7jekr",
-    "created_at": "2021-08-21T14:37:44.000-05:00",
-    "title": "mojozork: Online, multiplayer Zork",
-    "url": "https://github.com/icculus/mojozork",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "<p>I had to edit the title to make it fit here.</p>\n<p>There is more information available <a href=\"https://www.patreon.com/posts/54997062\" rel=\"ugc\">at Patreon</a>, but I didn’t feel right directly submitting a Patreon link.</p>\n<p>(To be clear, this is not my project or code, just something wonderful.)</p>\n",
-    "comments_url": "https://lobste.rs/s/q7jekr/mojozork_online_multiplayer_zork",
-    "submitter_user": {
-      "username": "lorddimwit",
-      "created_at": "2016-08-15T09:39:45.000-05:00",
-      "is_admin": false,
-      "about": "\r\n",
-      "is_moderator": false,
-      "karma": 10596,
-      "avatar_url": "/avatars/lorddimwit-100.png",
-      "invited_by_user": "cks",
-      "github_username": "deadpixi"
-    },
-    "tags": [
-      "c",
-      "games"
     ]
   }
 ]
