@@ -1,13 +1,100 @@
 [
   {
+    "short_id": "hf3zl4",
+    "short_id_url": "https://lobste.rs/s/hf3zl4",
+    "created_at": "2021-08-23T08:06:01.000-05:00",
+    "title": "Knuth-Morris-Pratt string-searching algorithm (part I) + my homebrew algorithms formally verified using CBMC",
+    "url": "https://yurichev.com/news/20210121_Knuth_Morris_Pratt_1/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hf3zl4/knuth_morris_pratt_string_searching",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82181,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "c",
+      "formalmethods"
+    ]
+  },
+  {
+    "short_id": "lgeh3a",
+    "short_id_url": "https://lobste.rs/s/lgeh3a",
+    "created_at": "2021-08-23T08:03:02.000-05:00",
+    "title": "JNJ: J bindings for Janet",
+    "url": "https://git.sr.ht/~subsetpark/jnj",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lgeh3a/jnj_j_bindings_for_janet",
+    "submitter_user": {
+      "username": "zdsmith",
+      "created_at": "2016-10-14T19:46:22.000-05:00",
+      "is_admin": false,
+      "about": "I'm a serious person.",
+      "is_moderator": false,
+      "karma": 946,
+      "avatar_url": "/avatars/zdsmith-100.png",
+      "invited_by_user": "mjec",
+      "github_username": "subsetpark",
+      "twitter_username": "zdsmith",
+      "keybase_signatures": [
+        {
+          "kb_username": "zdsmith",
+          "sig_hash": "752a22eda58615eb62e0e11669b750821a13a6b9cb2386c9d4193831d47fc3c50f"
+        }
+      ]
+    },
+    "tags": [
+      "apl",
+      "lisp",
+      "show"
+    ]
+  },
+  {
+    "short_id": "bgkrf7",
+    "short_id_url": "https://lobste.rs/s/bgkrf7",
+    "created_at": "2021-08-23T07:55:07.000-05:00",
+    "title": "Using static protocol APIs to create conforming instances",
+    "url": "https://www.swiftbysundell.com/articles/using-static-protocol-apis-to-create-conforming-instances",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bgkrf7/using_static_protocol_apis_create",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 1976,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "swift"
+    ]
+  },
+  {
     "short_id": "rzbdfr",
     "short_id_url": "https://lobste.rs/s/rzbdfr",
     "created_at": "2021-08-23T06:35:21.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 2,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week",
     "submitter_user": {
@@ -16,7 +103,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6430,
+      "karma": 6432,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -89,7 +176,7 @@
     "url": "https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/",
     "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/yeqdoq/mkinitcpio_v31_uefi_stubs",
     "submitter_user": {
@@ -140,9 +227,9 @@
     "created_at": "2021-08-23T00:29:46.000-05:00",
     "title": "h2c - headers to curl",
     "url": "https://curl.se/h2c/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/37s3b0/h2c_headers_curl",
     "submitter_user": {
@@ -151,7 +238,7 @@
       "is_admin": false,
       "about": "Software Engineering | Free Software | 🐡",
       "is_moderator": false,
-      "karma": 235,
+      "karma": 237,
       "avatar_url": "/avatars/emilengler-100.png",
       "invited_by_user": "awesomekling",
       "github_username": "emilengler"
@@ -166,9 +253,9 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 30,
+    "score": 32,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/e3na5c/conditionally_setting_your_gitconfig",
     "submitter_user": {
@@ -177,7 +264,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 179,
+      "karma": 181,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -280,7 +367,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11894,
+      "karma": 11895,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -349,9 +436,9 @@
     "created_at": "2021-08-22T13:56:27.000-05:00",
     "title": "Large Rust Workspaces",
     "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/jz98ci/large_rust_workspaces",
     "submitter_user": {
@@ -360,7 +447,7 @@
       "is_admin": false,
       "about": "Mobile & Rust Engineer at [Ditto](https://ditto.live). Enthusiastic about Rust, Swift and LaTeX, and interested in systems programming, developer tooling, compilers, operating systems, artificial general intelligence, and machine learning, among other areas. He/him.",
       "is_moderator": false,
-      "karma": 1131,
+      "karma": 1132,
       "avatar_url": "/avatars/nerosnm-100.png",
       "invited_by_user": "aleph",
       "github_username": "nerosnm",
@@ -385,7 +472,7 @@
     "url": "https://invisibleup.com/articles/34/",
     "score": 15,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/gkplai/perils_file_typing",
     "submitter_user": {
@@ -394,7 +481,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82180,
+      "karma": 82181,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -438,9 +525,9 @@
     "created_at": "2021-08-22T10:21:14.000-05:00",
     "title": "Bringing the Unix Philosophy to the 21st Century",
     "url": "https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/",
-    "score": 36,
+    "score": 37,
     "flags": 0,
-    "comment_count": 26,
+    "comment_count": 29,
     "description": "",
     "comments_url": "https://lobste.rs/s/ovregk/bringing_unix_philosophy_21st_century",
     "submitter_user": {
@@ -449,7 +536,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 301,
+      "karma": 302,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -493,7 +580,7 @@
     "created_at": "2021-08-22T10:08:54.000-05:00",
     "title": "First class comments",
     "url": "http://len.falken.ink/p-lang/first-class-comments.txt",
-    "score": 33,
+    "score": 34,
     "flags": 0,
     "comment_count": 21,
     "description": "<p>TIL <a href=\"https://github.com/langjam/langjam\" rel=\"ugc\">https://github.com/langjam/langjam</a>, so I wrote a quick idea around the theme.</p>\n",
@@ -504,7 +591,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1722,
+      "karma": 1723,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -543,7 +630,7 @@
     "created_at": "2021-08-22T08:16:18.000-05:00",
     "title": "FreeBSD development on Docker support",
     "url": "https://reviews.freebsd.org/D21570",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -554,7 +641,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 421,
+      "karma": 423,
       "avatar_url": "/avatars/pl-100.png",
       "invited_by_user": "dkreuter"
     },
@@ -589,85 +676,6 @@
     "tags": [
       "plt",
       "python"
-    ]
-  },
-  {
-    "short_id": "c2pqd3",
-    "short_id_url": "https://lobste.rs/s/c2pqd3",
-    "created_at": "2021-08-22T04:20:54.000-05:00",
-    "title": "Linux is dead, long-live Docker monoculture",
-    "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
-    "score": 18,
-    "flags": 1,
-    "comment_count": 32,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11894,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "devops",
-      "freebsd",
-      "rant"
-    ]
-  },
-  {
-    "short_id": "f17hjk",
-    "short_id_url": "https://lobste.rs/s/f17hjk",
-    "created_at": "2021-08-22T00:28:58.000-05:00",
-    "title": "One week with FreeBSD 13 on an Acer Aspire One ZG5",
-    "url": "http://box.matto.nl/one-week-with-freebsd-13-on-an-acer-aspire-one-zg5.html",
-    "score": 6,
-    "flags": 1,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/f17hjk/one_week_with_freebsd_13_on_acer_aspire_one",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11894,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "freebsd",
-      "hardware"
-    ]
-  },
-  {
-    "short_id": "uwolxl",
-    "short_id_url": "https://lobste.rs/s/uwolxl",
-    "created_at": "2021-08-21T17:20:29.000-05:00",
-    "title": "Understanding Network Access in Windows AppContainers",
-    "url": "https://googleprojectzero.blogspot.com/2021/08/understanding-network-access-windows-app.html",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uwolxl/understanding_network_access_windows",
-    "submitter_user": {
-      "username": "ssl",
-      "created_at": "2014-04-16T02:02:09.000-05:00",
-      "is_admin": false,
-      "about": "Agora, Anarchy, Action\r\n\r\nlbstrs (((at))) h4h (((dot))) xyz",
-      "is_moderator": false,
-      "karma": 1189,
-      "avatar_url": "/avatars/ssl-100.png",
-      "invited_by_user": "kawera"
-    },
-    "tags": [
-      "security",
-      "windows"
     ]
   }
 ]
