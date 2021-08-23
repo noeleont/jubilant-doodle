@@ -1,5 +1,63 @@
 [
   {
+    "short_id": "7t4y1p",
+    "short_id_url": "https://lobste.rs/s/7t4y1p",
+    "created_at": "2021-08-23T12:15:12.000-05:00",
+    "title": "The Rendering of Mafia: Definitive Edition",
+    "url": "http://www.elopezr.com/the-rendering-of-mafia-definitive-edition/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/7t4y1p/rendering_mafia_definitive_edition",
+    "submitter_user": {
+      "username": "werat",
+      "created_at": "2021-03-29T12:59:48.000-05:00",
+      "is_admin": false,
+      "about": "Software engineer at Google (Stadia, devtools). Making your favorite games run in the cloud.",
+      "is_moderator": false,
+      "karma": 147,
+      "avatar_url": "/avatars/werat-100.png",
+      "invited_by_user": "hoistbypetard"
+    },
+    "tags": [
+      "games",
+      "graphics"
+    ]
+  },
+  {
+    "short_id": "jwmm1u",
+    "short_id_url": "https://lobste.rs/s/jwmm1u",
+    "created_at": "2021-08-23T11:58:31.000-05:00",
+    "title": "Ode to a Streaming ByteString; Or: Lazy I/O without Shooting Yourself in the Foot",
+    "url": "https://blog.sumtypeofway.com/posts/ode-to-a-streaming-bytestream.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/jwmm1u/ode_streaming_bytestring_lazy_i_o_without",
+    "submitter_user": {
+      "username": "pushcx",
+      "created_at": "2012-08-14T20:25:08.000-05:00",
+      "is_admin": true,
+      "about": "Hi, I'm [Peter Bhat Harkins](https://malaprop.org), a programmer and entrepreneur from Chicago. From June 2014 to winter of 2015 I typically posted a dozen stories per day to [help](https://lobste.rs/s/9pm09z/what_is_on_topic_what_is_not/comments/nie0yn#c_nie0yn) the site reach a critical mass of regular visitors. In October 2017 I became the site administrator after the site creator @jcs stepped down.\r\n\r\n * Please don’t message me for an invitation if we're complete strangers; check <a href=\"https://lobste.rs/u\">the user list</a> for someone you know or ask [in chat](https://lobste.rs/chat).\r\n * Submit a [`meta`](https://lobste.rs/t/meta) post for feature requests (including new tags) to let the community discuss. Bug reports and \"is this a bug?\" should go to [the issue tracker](https://github.com/lobsters/lobsters/issues).\r\n * [Message me](https://lobste.rs/messages?to=pushcx) for administrative and moderator things. I don't see everything and I gotta sleep sometime.\r\n * E-mail my first name @malaprop.org regarding site security or if you can't log in to message me. If I've posted or commented about something here or in the chat room, I'd almost certainly love to talk more about it.\r\n",
+      "is_moderator": true,
+      "avatar_url": "/avatars/pushcx-100.png",
+      "invited_by_user": "jcs",
+      "github_username": "pushcx",
+      "twitter_username": "pushcx",
+      "keybase_signatures": [
+        {
+          "kb_username": "pushcx",
+          "sig_hash": "de6fb28b501c211e88fabddeacc834c6b922d738efd6b4108ce871879d039e510f"
+        }
+      ]
+    },
+    "tags": [
+      "haskell"
+    ]
+  },
+  {
     "short_id": "f7pmkw",
     "short_id_url": "https://lobste.rs/s/f7pmkw",
     "created_at": "2021-08-23T10:49:20.000-05:00",
@@ -88,8 +146,8 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 7,
-    "flags": 0,
+    "score": 9,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/odfwve/i_turned_on_csp_all_i_got_was_this_crappy",
@@ -99,7 +157,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 61,
+      "karma": 63,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -113,9 +171,9 @@
     "created_at": "2021-08-23T09:14:03.000-05:00",
     "title": "nom 7.0 released",
     "url": "https://www.reddit.com/r/rust/comments/p9usvq/nom_70_release_fast_parser_combinators_now/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/evj8od/nom_7_0_released",
     "submitter_user": {
@@ -124,7 +182,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1149,
+      "karma": 1150,
       "avatar_url": "/avatars/faitswulff-100.png",
       "invited_by_user": "gsylvie"
     },
@@ -194,7 +252,7 @@
     "url": "https://snapdrop.net",
     "score": 6,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/lyd19u/airdrop_alternative_through_web_browser",
     "submitter_user": {
@@ -218,7 +276,7 @@
     "created_at": "2021-08-23T08:06:01.000-05:00",
     "title": "Knuth-Morris-Pratt string-searching algorithm (part I) + my homebrew algorithms formally verified using CBMC",
     "url": "https://yurichev.com/news/20210121_Knuth_Morris_Pratt_1/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -229,7 +287,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82183,
+      "karma": 82185,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -245,7 +303,7 @@
     "created_at": "2021-08-23T08:03:02.000-05:00",
     "title": "JNJ: J bindings for Janet",
     "url": "https://git.sr.ht/~subsetpark/jnj",
-    "score": 9,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -256,7 +314,7 @@
       "is_admin": false,
       "about": "I'm a serious person.",
       "is_moderator": false,
-      "karma": 954,
+      "karma": 957,
       "avatar_url": "/avatars/zdsmith-100.png",
       "invited_by_user": "mjec",
       "github_username": "subsetpark",
@@ -440,7 +498,7 @@
     "created_at": "2021-08-23T00:29:46.000-05:00",
     "title": "h2c - headers to curl",
     "url": "https://curl.se/h2c/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -451,7 +509,7 @@
       "is_admin": false,
       "about": "Software Engineering | Free Software | 🐡",
       "is_moderator": false,
-      "karma": 244,
+      "karma": 245,
       "avatar_url": "/avatars/emilengler-100.png",
       "invited_by_user": "awesomekling",
       "github_username": "emilengler"
@@ -466,9 +524,9 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 52,
+    "score": 54,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/e3na5c/conditionally_setting_your_gitconfig",
     "submitter_user": {
@@ -477,7 +535,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 201,
+      "karma": 203,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -544,7 +602,7 @@
     "url": "https://nolanlawson.com/2021/08/22/speeding-up-indexeddb-reads-and-writes/",
     "score": 7,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/a4yiel/speeding_up_indexeddb_reads_writes",
     "submitter_user": {
@@ -615,66 +673,6 @@
       "historical",
       "pdf",
       "unix"
-    ]
-  },
-  {
-    "short_id": "yhvw83",
-    "short_id_url": "https://lobste.rs/s/yhvw83",
-    "created_at": "2021-08-22T13:59:52.000-05:00",
-    "title": "Demonstrate ability to read memfd_secret() data from the kernel",
-    "url": "https://github.com/JonathonReinhart/nosecmem",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yhvw83/demonstrate_ability_read_memfd_secret",
-    "submitter_user": {
-      "username": "vladislavp",
-      "created_at": "2019-01-21T08:38:06.000-06:00",
-      "is_admin": false,
-      "about": "Consultant:   Enterprise Architecture, Data Governance, IAM, Distributed Backends dev, Android dev, SPA.",
-      "is_moderator": false,
-      "karma": 610,
-      "avatar_url": "/avatars/vladislavp-100.png",
-      "invited_by_user": "wink"
-    },
-    "tags": [
-      "linux",
-      "security"
-    ]
-  },
-  {
-    "short_id": "jz98ci",
-    "short_id_url": "https://lobste.rs/s/jz98ci",
-    "created_at": "2021-08-22T13:56:27.000-05:00",
-    "title": "Large Rust Workspaces",
-    "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
-    "score": 15,
-    "flags": 0,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jz98ci/large_rust_workspaces",
-    "submitter_user": {
-      "username": "nerosnm",
-      "created_at": "2019-01-29T04:39:23.000-06:00",
-      "is_admin": false,
-      "about": "Mobile & Rust Engineer at [Ditto](https://ditto.live). Enthusiastic about Rust, Swift and LaTeX, and interested in systems programming, developer tooling, compilers, operating systems, artificial general intelligence, and machine learning, among other areas. He/him.",
-      "is_moderator": false,
-      "karma": 1134,
-      "avatar_url": "/avatars/nerosnm-100.png",
-      "invited_by_user": "aleph",
-      "github_username": "nerosnm",
-      "twitter_username": "nerosnm",
-      "keybase_signatures": [
-        {
-          "kb_username": "nerosnm",
-          "sig_hash": "08c7ac1d425dd59308a6b8ae6f656fa98bbaf8bfe7863a16170f37bff7847bb80f"
-        }
-      ]
-    },
-    "tags": [
-      "practices",
-      "rust"
     ]
   }
 ]
