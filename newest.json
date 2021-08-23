@@ -1,5 +1,82 @@
 [
   {
+    "short_id": "ocd99n",
+    "short_id_url": "https://lobste.rs/s/ocd99n",
+    "created_at": "2021-08-23T13:57:31.000-05:00",
+    "title": "Fun with an ATTiny85, Liyafy HC-35 keypad with eight LEDs, and a serial to parallel shift register",
+    "url": "https://www.nu42.com/2021/01/attiny85-liyafy-hc-35-8-led-keypad-serial-in-parallel-out-shift-register.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ocd99n/fun_with_attiny85_liyafy_hc_35_keypad_with",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11896,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
+    "short_id": "nokgzp",
+    "short_id_url": "https://lobste.rs/s/nokgzp",
+    "created_at": "2021-08-23T13:56:17.000-05:00",
+    "title": "My favourite Raspberry Pi 4 cases",
+    "url": "https://mansfield-devine.com/speculatrix/2021/08/my-favourite-raspberry-pi-4-cases/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/nokgzp/my_favourite_raspberry_pi_4_cases",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11896,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
+    "short_id": "ojgors",
+    "short_id_url": "https://lobste.rs/s/ojgors",
+    "created_at": "2021-08-23T13:54:17.000-05:00",
+    "title": "Audiobooks for Computer Science Students",
+    "url": "https://buderflys.com/blogs/blog/audiobooks-for-computer-science-students",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ojgors/audiobooks_for_computer_science",
+    "submitter_user": {
+      "username": "BitAstronaut",
+      "created_at": "2020-04-06T00:45:31.000-05:00",
+      "is_admin": false,
+      "about": "Software engineering student at the University of Northern Colorado where I am conducting undergraduate research on the use of autonomous drones in wildfire mitigation. \r\n\r\nI am currently searching for an internship for the 2021 summer.\r\n\r\ndm@dougmellon.com",
+      "is_moderator": false,
+      "karma": 48,
+      "avatar_url": "/avatars/BitAstronaut-100.png",
+      "invited_by_user": "maxverse"
+    },
+    "tags": [
+      "audio",
+      "book",
+      "compsci"
+    ]
+  },
+  {
     "short_id": "7t4y1p",
     "short_id_url": "https://lobste.rs/s/7t4y1p",
     "created_at": "2021-08-23T12:15:12.000-05:00",
@@ -63,7 +140,7 @@
     "created_at": "2021-08-23T10:49:20.000-05:00",
     "title": "The new GHC diagnostic infrastructure",
     "url": "https://well-typed.com/blog/2021/08/the-new-ghc-diagnostic-infrastructure/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -146,7 +223,7 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 18,
+    "score": 30,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -157,7 +234,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 72,
+      "karma": 84,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -197,7 +274,7 @@
     "created_at": "2021-08-23T09:04:11.000-05:00",
     "title": "UNIX Syscalls (2018)",
     "url": "https://john-millikin.com/unix-syscalls",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -208,7 +285,7 @@
       "is_admin": false,
       "about": "OpenBSD and Emacs hacker, always learning something new",
       "is_moderator": false,
-      "karma": 20,
+      "karma": 21,
       "avatar_url": "/avatars/dante-100.png",
       "invited_by_user": "kline"
     },
@@ -287,7 +364,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82186,
+      "karma": 82187,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -314,7 +391,7 @@
       "is_admin": false,
       "about": "I'm a serious person.",
       "is_moderator": false,
-      "karma": 959,
+      "karma": 960,
       "avatar_url": "/avatars/zdsmith-100.png",
       "invited_by_user": "mjec",
       "github_username": "subsetpark",
@@ -365,7 +442,7 @@
     "url": "",
     "score": 7,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 15,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week",
     "submitter_user": {
@@ -524,7 +601,7 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 55,
+    "score": 56,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -535,7 +612,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 204,
+      "karma": 205,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -549,7 +626,7 @@
     "created_at": "2021-08-22T17:11:28.000-05:00",
     "title": "PlsExplain: A small dynamic programming language where every value is explained by a comment",
     "url": "https://github.com/langjam/jam0001/tree/main/hope",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -560,7 +637,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 482,
+      "karma": 483,
       "avatar_url": "/avatars/asrp-100.png",
       "invited_by_user": "awal"
     },
@@ -592,87 +669,6 @@
     "tags": [
       "databases",
       "java"
-    ]
-  },
-  {
-    "short_id": "a4yiel",
-    "short_id_url": "https://lobste.rs/s/a4yiel",
-    "created_at": "2021-08-22T15:14:51.000-05:00",
-    "title": "Speeding up IndexedDB reads and writes",
-    "url": "https://nolanlawson.com/2021/08/22/speeding-up-indexeddb-reads-and-writes/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/a4yiel/speeding_up_indexeddb_reads_writes",
-    "submitter_user": {
-      "username": "nolan",
-      "created_at": "2018-01-06T13:39:52.000-06:00",
-      "is_admin": false,
-      "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
-      "is_moderator": false,
-      "karma": 489,
-      "avatar_url": "/avatars/nolan-100.png",
-      "invited_by_user": "calvin"
-    },
-    "tags": [
-      "browsers",
-      "performance",
-      "web"
-    ]
-  },
-  {
-    "short_id": "dethnc",
-    "short_id_url": "https://lobste.rs/s/dethnc",
-    "created_at": "2021-08-22T14:34:28.000-05:00",
-    "title": "An Alternative Conditional Compilation Approach with Modern C++",
-    "url": "https://archive.md/fpo7X",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dethnc/alternative_conditional_compilation",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11896,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "c++"
-    ]
-  },
-  {
-    "short_id": "ymktdd",
-    "short_id_url": "https://lobste.rs/s/ymktdd",
-    "created_at": "2021-08-22T14:34:15.000-05:00",
-    "title": "First Edition Unix Manual 'Miscellaneous' Section (1971)",
-    "url": "http://web.archive.org/web/20000829224359/http://cm.bell-labs.com/cm/cs/who/dmr/man71.pdf",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ymktdd/first_edition_unix_manual_miscellaneous",
-    "submitter_user": {
-      "username": "susam",
-      "created_at": "2020-04-29T15:40:43.000-05:00",
-      "is_admin": false,
-      "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme), [Muboard](https://github.com/susam/muboard), and [Uncap](https://github.com/susam/uncap).\r\n\r\nPosting about C, Python, Lisp, TeX, Emacs, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
-      "is_moderator": false,
-      "karma": 838,
-      "avatar_url": "/avatars/susam-100.png",
-      "invited_by_user": "premysl",
-      "github_username": "susam",
-      "twitter_username": "susam"
-    },
-    "tags": [
-      "historical",
-      "pdf",
-      "unix"
     ]
   }
 ]
