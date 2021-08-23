@@ -1,5 +1,59 @@
 [
   {
+    "short_id": "kmc8ms",
+    "short_id_url": "https://lobste.rs/s/kmc8ms",
+    "created_at": "2021-08-23T06:04:44.000-05:00",
+    "title": "AUTOCOMF: Automatic Configuration from Comments",
+    "url": "https://github.com/athas/autocomf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kmc8ms/autocomf_automatic_configuration_from",
+    "submitter_user": {
+      "username": "munksgaard",
+      "created_at": "2020-02-25T08:52:36.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 144,
+      "avatar_url": "/avatars/munksgaard-100.png",
+      "invited_by_user": "athas"
+    },
+    "tags": [
+      "plt",
+      "programming"
+    ]
+  },
+  {
+    "short_id": "dsgpzb",
+    "short_id_url": "https://lobste.rs/s/dsgpzb",
+    "created_at": "2021-08-23T05:21:13.000-05:00",
+    "title": "The Essence of Datalog",
+    "url": "https://dodisturb.me/posts/2018-12-25-The-Essence-of-Datalog.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dsgpzb/essence_datalog",
+    "submitter_user": {
+      "username": "355E3B",
+      "created_at": "2015-12-16T09:48:38.000-06:00",
+      "is_admin": false,
+      "about": "Software developer, protocol hipster\r\n\r\nOn libera.chat as \"c355e3b\"",
+      "is_moderator": false,
+      "karma": 4703,
+      "avatar_url": "/avatars/355E3B-100.png",
+      "invited_by_user": "pushcx",
+      "github_username": "hmadison",
+      "twitter_username": "355E3B"
+    },
+    "tags": [
+      "haskell",
+      "plt"
+    ]
+  },
+  {
     "short_id": "yeqdoq",
     "short_id_url": "https://lobste.rs/s/yeqdoq",
     "created_at": "2021-08-23T03:11:56.000-05:00",
@@ -84,9 +138,9 @@
     "created_at": "2021-08-22T19:47:02.000-05:00",
     "title": "Conditionally setting your gitconfig",
     "url": "https://utf9k.net/blog/conditional-gitconfig/",
-    "score": 21,
+    "score": 24,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/e3na5c/conditionally_setting_your_gitconfig",
     "submitter_user": {
@@ -95,7 +149,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 170,
+      "karma": 173,
       "avatar_url": "/avatars/zk-100.png",
       "invited_by_user": "dyl"
     },
@@ -111,7 +165,7 @@
     "url": "https://github.com/langjam/jam0001/tree/main/hope",
     "score": 13,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/43fxuk/plsexplain_small_dynamic_programming",
     "submitter_user": {
@@ -120,7 +174,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 478,
+      "karma": 479,
       "avatar_url": "/avatars/asrp-100.png",
       "invited_by_user": "awal"
     },
@@ -136,7 +190,7 @@
     "url": "https://github.com/sproket/Persism",
     "score": 4,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "<p>Persism is a wood simple, auto discovery, auto configuration, and convention over configuration ORM (Object Relational Mapping) library for Java.</p>\n<p>Version 1.2.0 release notes.</p>\n<p>Added support for Views\nAdded query ‘select *’ method to session\nFinalized support for Informix (Tests added)\nChanged query statements to make explicit forward only and read only\nImprove readRecord performance\nAdded BIT column to byte property conversion</p>\n",
     "comments_url": "https://lobste.rs/s/jcws1m/persism_1_2_0_released_zero_ceremony_orm",
     "submitter_user": {
@@ -160,7 +214,7 @@
     "created_at": "2021-08-22T15:14:51.000-05:00",
     "title": "Speeding up IndexedDB reads and writes",
     "url": "https://nolanlawson.com/2021/08/22/speeding-up-indexeddb-reads-and-writes/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -171,7 +225,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 488,
+      "karma": 489,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -212,7 +266,7 @@
     "created_at": "2021-08-22T14:34:15.000-05:00",
     "title": "First Edition Unix Manual 'Miscellaneous' Section (1971)",
     "url": "http://web.archive.org/web/20000829224359/http://cm.bell-labs.com/cm/cs/who/dmr/man71.pdf",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -223,7 +277,7 @@
       "is_admin": false,
       "about": "Ardent user of Debian, Firefox, and Emacs.\r\n\r\nDeveloper of [TeXMe](https://github.com/susam/texme), [Muboard](https://github.com/susam/muboard), and [Uncap](https://github.com/susam/uncap).\r\n\r\nPosting about C, Python, Lisp, TeX, Emacs, Linux, information security, mathematics, etc.\r\n\r\nMy shell prompt on Fridays: `PS1=$(printf \"\\\\w\\xf0\\x9f\\x8d\\xba  \")`",
       "is_moderator": false,
-      "karma": 836,
+      "karma": 837,
       "avatar_url": "/avatars/susam-100.png",
       "invited_by_user": "premysl",
       "github_username": "susam",
@@ -267,7 +321,7 @@
     "created_at": "2021-08-22T13:56:27.000-05:00",
     "title": "Large Rust Workspaces",
     "url": "https://matklad.github.io//2021/08/22/large-rust-workspaces.html",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -278,7 +332,7 @@
       "is_admin": false,
       "about": "Mobile & Rust Engineer at [Ditto](https://ditto.live). Enthusiastic about Rust, Swift and LaTeX, and interested in systems programming, developer tooling, compilers, operating systems, artificial general intelligence, and machine learning, among other areas. He/him.",
       "is_moderator": false,
-      "karma": 1129,
+      "karma": 1130,
       "avatar_url": "/avatars/nerosnm-100.png",
       "invited_by_user": "aleph",
       "github_username": "nerosnm",
@@ -312,7 +366,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82176,
+      "karma": 82178,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -328,7 +382,7 @@
     "created_at": "2021-08-22T12:06:26.000-05:00",
     "title": "GitUI v0.17 adds: compare commits",
     "url": "https://github.com/extrawurst/gitui/releases/tag/v0.17",
-    "score": 10,
+    "score": 11,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -339,7 +393,7 @@
       "is_admin": false,
       "about": "Founder of gameroasters and @liveask1, #indie #gamedev, #rust enthusiast, worked previously at @innogames , @ubisoft",
       "is_moderator": false,
-      "karma": 237,
+      "karma": 238,
       "avatar_url": "/avatars/extrawurst-100.png",
       "invited_by_user": "Napster",
       "github_username": "extrawurst"
@@ -411,7 +465,7 @@
     "created_at": "2021-08-22T10:08:54.000-05:00",
     "title": "First class comments",
     "url": "http://len.falken.ink/p-lang/first-class-comments.txt",
-    "score": 32,
+    "score": 33,
     "flags": 0,
     "comment_count": 21,
     "description": "<p>TIL <a href=\"https://github.com/langjam/langjam\" rel=\"ugc\">https://github.com/langjam/langjam</a>, so I wrote a quick idea around the theme.</p>\n",
@@ -422,7 +476,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1721,
+      "karma": 1722,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -472,7 +526,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 416,
+      "karma": 417,
       "avatar_url": "/avatars/pl-100.png",
       "invited_by_user": "dkreuter"
     },
@@ -517,7 +571,7 @@
     "url": "https://antranigv.am/weblog_en/posts/2021-08-13-13-37/",
     "score": 18,
     "flags": 1,
-    "comment_count": 29,
+    "comment_count": 30,
     "description": "",
     "comments_url": "https://lobste.rs/s/c2pqd3/linux_is_dead_long_live_docker",
     "submitter_user": {
@@ -611,62 +665,6 @@
     },
     "tags": [
       "netbsd"
-    ]
-  },
-  {
-    "short_id": "lu0d2r",
-    "short_id_url": "https://lobste.rs/s/lu0d2r",
-    "created_at": "2021-08-21T16:07:48.000-05:00",
-    "title": "A Data-Centric Introduction to Computing",
-    "url": "https://dcic-world.org/2021-08-21/part_intro.html#%28part._.Overview%29",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lu0d2r/data_centric_introduction_computing",
-    "submitter_user": {
-      "username": "spdegabrielle",
-      "created_at": "2019-04-01T09:07:57.000-05:00",
-      "is_admin": false,
-      "about": "Health Systems Integration developer. https://github.com/spdegabrielle https://www.linkedin.com/in/stephen-de-gabrielle/ https://twitter.com/spdegabrielle",
-      "is_moderator": false,
-      "karma": 105,
-      "avatar_url": "/avatars/spdegabrielle-100.png",
-      "invited_by_user": "jkirchartz",
-      "github_username": "spdegabrielle",
-      "twitter_username": "spdegabrielle"
-    },
-    "tags": [
-      "book",
-      "python"
-    ]
-  },
-  {
-    "short_id": "bg3fzn",
-    "short_id_url": "https://lobste.rs/s/bg3fzn",
-    "created_at": "2021-08-21T15:46:12.000-05:00",
-    "title": "Perhaps WSL2 Should be a Wake-up Call",
-    "url": "https://64k.space/perhaps-wsl2-should-be-a-wake-up-call.html",
-    "score": 44,
-    "flags": 1,
-    "comment_count": 40,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bg3fzn/perhaps_wsl2_should_be_wake_up_call",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82176,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "linux",
-      "rant",
-      "windows"
     ]
   }
 ]
