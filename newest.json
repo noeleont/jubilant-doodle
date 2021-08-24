@@ -1,5 +1,37 @@
 [
   {
+    "short_id": "irh204",
+    "short_id_url": "https://lobste.rs/s/irh204",
+    "created_at": "2021-08-24T16:43:47.000-05:00",
+    "title": "API Tokens: A Tedious Survey",
+    "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/irh204/api_tokens_tedious_survey",
+    "submitter_user": {
+      "username": "pushcx",
+      "created_at": "2012-08-14T20:25:08.000-05:00",
+      "is_admin": true,
+      "about": "Hi, I'm [Peter Bhat Harkins](https://malaprop.org), a programmer and entrepreneur from Chicago. From June 2014 to winter of 2015 I typically posted a dozen stories per day to [help](https://lobste.rs/s/9pm09z/what_is_on_topic_what_is_not/comments/nie0yn#c_nie0yn) the site reach a critical mass of regular visitors. In October 2017 I became the site administrator after the site creator @jcs stepped down.\r\n\r\n * Please don’t message me for an invitation if we're complete strangers; check <a href=\"https://lobste.rs/u\">the user list</a> for someone you know or ask [in chat](https://lobste.rs/chat).\r\n * Submit a [`meta`](https://lobste.rs/t/meta) post for feature requests (including new tags) to let the community discuss. Bug reports and \"is this a bug?\" should go to [the issue tracker](https://github.com/lobsters/lobsters/issues).\r\n * [Message me](https://lobste.rs/messages?to=pushcx) for administrative and moderator things. I don't see everything and I gotta sleep sometime.\r\n * E-mail my first name @malaprop.org regarding site security or if you can't log in to message me. If I've posted or commented about something here or in the chat room, I'd almost certainly love to talk more about it.\r\n",
+      "is_moderator": true,
+      "avatar_url": "/avatars/pushcx-100.png",
+      "invited_by_user": "jcs",
+      "github_username": "pushcx",
+      "twitter_username": "pushcx",
+      "keybase_signatures": [
+        {
+          "kb_username": "pushcx",
+          "sig_hash": "de6fb28b501c211e88fabddeacc834c6b922d738efd6b4108ce871879d039e510f"
+        }
+      ]
+    },
+    "tags": [
+      "security"
+    ]
+  },
+  {
     "short_id": "zexbay",
     "short_id_url": "https://lobste.rs/s/zexbay",
     "created_at": "2021-08-24T15:21:35.000-05:00",
@@ -31,7 +63,7 @@
     "created_at": "2021-08-24T15:09:03.000-05:00",
     "title": "InitWare (a systemd fork) has been ported to MacOS",
     "url": "https://anetbsduser.wordpress.com/2021/08/24/initware-comes-to-macos/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>See <a href=\"https://github.com/InitWare/InitWare\" rel=\"ugc\">https://github.com/InitWare/InitWare</a> for more details.</p>\n",
@@ -42,7 +74,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 779,
+      "karma": 781,
       "avatar_url": "/avatars/luiz-100.png",
       "invited_by_user": "FRIGN",
       "github_username": "kori"
@@ -58,9 +90,9 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 6,
+    "score": 7,
     "flags": 2,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/lwdmoh/razer_bug_lets_you_become_windows_10_admin",
     "submitter_user": {
@@ -69,7 +101,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 576,
+      "karma": 577,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -94,7 +126,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10158,
+      "karma": 10160,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -110,7 +142,7 @@
     "created_at": "2021-08-24T11:22:17.000-05:00",
     "title": "An Introduction to JQ",
     "url": "https://earthly.dev/blog/jq-select/",
-    "score": 21,
+    "score": 23,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -121,7 +153,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10158,
+      "karma": 10160,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -172,7 +204,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35972,
+      "karma": 35973,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -250,7 +282,7 @@
     "created_at": "2021-08-24T09:59:52.000-05:00",
     "title": "Hacking a Polish TTS to (mostly) speak Esperanto",
     "url": "https://parol.martinrue.com",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -261,7 +293,7 @@
       "is_admin": false,
       "about": "Making things. Languages. Building a language learning app: https://yakk.app. ",
       "is_moderator": false,
-      "karma": 262,
+      "karma": 263,
       "avatar_url": "/avatars/martinrue-100.png",
       "invited_by_user": "caius"
     },
@@ -275,9 +307,9 @@
     "created_at": "2021-08-24T09:54:09.000-05:00",
     "title": "Programmers Don’t Understand Hash Functions",
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 26,
+    "score": 30,
     "flags": 0,
-    "comment_count": 19,
+    "comment_count": 17,
     "description": "",
     "comments_url": "https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash",
     "submitter_user": {
@@ -286,7 +318,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1142,
+      "karma": 1151,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -302,7 +334,7 @@
     "created_at": "2021-08-24T09:42:12.000-05:00",
     "title": "Typed DSL in Go (or sum types and GADTs in Go)",
     "url": "https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -313,7 +345,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1389,
+      "karma": 1391,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -328,7 +360,7 @@
     "created_at": "2021-08-24T09:29:23.000-05:00",
     "title": "TLA+: Viewed from 40,000 Feet and Ground Level",
     "url": "https://www.youtube.com/watch?v=Ocxczi-CvRQ",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -339,7 +371,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 93,
+      "karma": 94,
       "avatar_url": "/avatars/lemmster-100.png",
       "invited_by_user": "molloy"
     },
@@ -367,7 +399,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2006,
+      "karma": 2010,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -406,7 +438,7 @@
     "created_at": "2021-08-24T07:47:58.000-05:00",
     "title": "My Journey With SerenityOS, So Far",
     "url": "https://linus.dev/posts/my-journey-with-serenityos/",
-    "score": 21,
+    "score": 25,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -417,7 +449,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2006,
+      "karma": 2010,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -456,7 +488,7 @@
     "created_at": "2021-08-24T04:52:36.000-05:00",
     "title": "Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git",
     "url": "https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -467,7 +499,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 288,
+      "karma": 289,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -481,9 +513,9 @@
     "created_at": "2021-08-24T04:46:19.000-05:00",
     "title": "Apple's bizarre crackdown on multicast",
     "url": "https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html",
-    "score": 21,
+    "score": 23,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/73ozkc/apple_s_bizarre_crackdown_on_multicast",
     "submitter_user": {
@@ -492,7 +524,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 469,
+      "karma": 472,
       "avatar_url": "/avatars/thombles-100.png",
       "invited_by_user": "calvin"
     },
@@ -507,9 +539,9 @@
     "created_at": "2021-08-24T04:09:13.000-05:00",
     "title": "The most underused browser feature",
     "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
-    "score": 15,
+    "score": 17,
     "flags": 1,
-    "comment_count": 12,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/hrllse/most_underused_browser_feature",
     "submitter_user": {
@@ -518,7 +550,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 186,
+      "karma": 189,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -532,9 +564,9 @@
     "created_at": "2021-08-24T03:19:14.000-05:00",
     "title": "Ement.el: A Matrix client for Emacs",
     "url": "https://github.com/alphapapa/ement.el",
-    "score": 19,
+    "score": 20,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/dzml03/ement_el_matrix_client_for_emacs",
     "submitter_user": {
@@ -543,7 +575,7 @@
       "is_admin": false,
       "about": "I like Emacs and Org-mode.  :)",
       "is_moderator": false,
-      "karma": 18,
+      "karma": 19,
       "avatar_url": "/avatars/alphapapa-100.png",
       "invited_by_user": "abo-abo"
     },
@@ -559,7 +591,7 @@
     "url": "https://andrewjudson.com/emacs/2021/08/23/emacs.html",
     "score": 11,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/xtdtsd/using_emacs_ide_world",
     "submitter_user": {
@@ -584,7 +616,7 @@
     "created_at": "2021-08-24T01:09:44.000-05:00",
     "title": "Why WebKit supports AVIF but Safari does not",
     "url": "https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 14,
     "description": "",
@@ -595,7 +627,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 186,
+      "karma": 189,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -630,34 +662,6 @@
       "art",
       "graphics",
       "math"
-    ]
-  },
-  {
-    "short_id": "twplhx",
-    "short_id_url": "https://lobste.rs/s/twplhx",
-    "created_at": "2021-08-23T21:40:56.000-05:00",
-    "title": "An Empirical Cybersecurity Evaluation of GitHub Copilot’s Code Contributions",
-    "url": "https://arxiv.org/pdf/2108.09293.pdf",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p><a href=\"https://arxiv.org/abs/2108.09293\" rel=\"ugc\">arXiv</a></p>\n",
-    "comments_url": "https://lobste.rs/s/twplhx/empirical_cybersecurity_evaluation",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82214,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "ai",
-      "pdf",
-      "security"
     ]
   }
 ]
