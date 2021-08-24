@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "zexbay",
+    "short_id_url": "https://lobste.rs/s/zexbay",
+    "created_at": "2021-08-24T15:21:35.000-05:00",
+    "title": "How Discord Stores Billions of Messages (2017)",
+    "url": "https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zexbay/how_discord_stores_billions_messages",
+    "submitter_user": {
+      "username": "indigo",
+      "created_at": "2015-10-15T11:52:50.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 609,
+      "avatar_url": "/avatars/indigo-100.png",
+      "invited_by_user": "tluyben2"
+    },
+    "tags": [
+      "databases",
+      "web"
+    ]
+  },
+  {
     "short_id": "tbrgnh",
     "short_id_url": "https://lobste.rs/s/tbrgnh",
     "created_at": "2021-08-24T15:09:03.000-05:00",
@@ -32,7 +58,7 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 4,
+    "score": 6,
     "flags": 2,
     "comment_count": 3,
     "description": "",
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 574,
+      "karma": 576,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -68,7 +94,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10155,
+      "karma": 10158,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -84,7 +110,7 @@
     "created_at": "2021-08-24T11:22:17.000-05:00",
     "title": "An Introduction to JQ",
     "url": "https://earthly.dev/blog/jq-select/",
-    "score": 18,
+    "score": 21,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +121,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10155,
+      "karma": 10158,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -146,7 +172,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35970,
+      "karma": 35972,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -161,9 +187,9 @@
     "created_at": "2021-08-24T10:44:58.000-05:00",
     "title": "Why it's not possible to synchronize turn signals (but also absolutely is)",
     "url": "https://www.youtube.com/watch?v=2z5A-COlDPk",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/d6foxz/why_it_s_not_possible_synchronize_turn",
     "submitter_user": {
@@ -172,7 +198,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2767,
+      "karma": 2769,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -249,9 +275,9 @@
     "created_at": "2021-08-24T09:54:09.000-05:00",
     "title": "Programmers Don’t Understand Hash Functions",
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 24,
+    "score": 26,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 19,
     "description": "",
     "comments_url": "https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash",
     "submitter_user": {
@@ -260,7 +286,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1137,
+      "karma": 1142,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -276,9 +302,9 @@
     "created_at": "2021-08-24T09:42:12.000-05:00",
     "title": "Typed DSL in Go (or sum types and GADTs in Go)",
     "url": "https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ",
-    "score": 16,
+    "score": 17,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/jomvjd/typed_dsl_go_sum_types_gadts_go",
     "submitter_user": {
@@ -287,7 +313,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1387,
+      "karma": 1389,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -341,7 +367,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2005,
+      "karma": 2006,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -380,9 +406,9 @@
     "created_at": "2021-08-24T07:47:58.000-05:00",
     "title": "My Journey With SerenityOS, So Far",
     "url": "https://linus.dev/posts/my-journey-with-serenityos/",
-    "score": 20,
+    "score": 21,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/3gw3hv/my_journey_with_serenityos_so_far",
     "submitter_user": {
@@ -391,7 +417,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2005,
+      "karma": 2006,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -416,7 +442,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2680,
+      "karma": 2681,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -430,7 +456,7 @@
     "created_at": "2021-08-24T04:52:36.000-05:00",
     "title": "Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git",
     "url": "https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -441,7 +467,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 287,
+      "karma": 288,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -455,9 +481,9 @@
     "created_at": "2021-08-24T04:46:19.000-05:00",
     "title": "Apple's bizarre crackdown on multicast",
     "url": "https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html",
-    "score": 19,
+    "score": 21,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/73ozkc/apple_s_bizarre_crackdown_on_multicast",
     "submitter_user": {
@@ -466,7 +492,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 467,
+      "karma": 469,
       "avatar_url": "/avatars/thombles-100.png",
       "invited_by_user": "calvin"
     },
@@ -481,9 +507,9 @@
     "created_at": "2021-08-24T04:09:13.000-05:00",
     "title": "The most underused browser feature",
     "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
-    "score": 13,
+    "score": 15,
     "flags": 1,
-    "comment_count": 10,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/hrllse/most_underused_browser_feature",
     "submitter_user": {
@@ -492,7 +518,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 183,
+      "karma": 186,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -558,7 +584,7 @@
     "created_at": "2021-08-24T01:09:44.000-05:00",
     "title": "Why WebKit supports AVIF but Safari does not",
     "url": "https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 14,
     "description": "",
@@ -569,7 +595,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 183,
+      "karma": 186,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -584,7 +610,7 @@
     "created_at": "2021-08-23T22:25:11.000-05:00",
     "title": "Hiding Images in Plain Sight: The Physics Of Magic Windows",
     "url": "https://mattferraro.dev/posts/caustics-engineering",
-    "score": 29,
+    "score": 31,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -595,7 +621,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3545,
+      "karma": 3547,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -632,33 +658,6 @@
       "ai",
       "pdf",
       "security"
-    ]
-  },
-  {
-    "short_id": "hrouoj",
-    "short_id_url": "https://lobste.rs/s/hrouoj",
-    "created_at": "2021-08-23T21:35:49.000-05:00",
-    "title": "Indented Heredocs Demo: Markdown, Textile, and BBCode in one file with no escaping",
-    "url": "https://breckyunits.com/markups/",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hrouoj/indented_heredocs_demo_markdown_textile",
-    "submitter_user": {
-      "username": "breck",
-      "created_at": "2019-04-15T00:02:13.000-05:00",
-      "is_admin": false,
-      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
-      "is_moderator": false,
-      "karma": 1023,
-      "avatar_url": "/avatars/breck-100.png",
-      "invited_by_user": "ec",
-      "github_username": "breck7",
-      "twitter_username": "breckyunits"
-    },
-    "tags": [
-      "plt"
     ]
   }
 ]
