@@ -1,11 +1,62 @@
 [
   {
+    "short_id": "lxm2rh",
+    "short_id_url": "https://lobste.rs/s/lxm2rh",
+    "created_at": "2021-08-24T07:11:34.000-05:00",
+    "title": "Optimizing the Nethack 4.3 Save System",
+    "url": "http://nethack4.org/blog/save-optimization.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lxm2rh/optimizing_nethack_4_3_save_system",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2674,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "short_id": "05a1jg",
+    "short_id_url": "https://lobste.rs/s/05a1jg",
+    "created_at": "2021-08-24T07:10:48.000-05:00",
+    "title": "Windows 10’s security is easily thwarted just by plugging in a Razer peripheral",
+    "url": "https://www.pcgamer.com/razer-windows-10-security-flaw-admin/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/05a1jg/windows_10_s_security_is_easily_thwarted",
+    "submitter_user": {
+      "username": "Yogthos",
+      "created_at": "2017-05-26T15:31:12.000-05:00",
+      "is_admin": false,
+      "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
+      "is_moderator": false,
+      "karma": 7094,
+      "avatar_url": "/avatars/Yogthos-100.png",
+      "invited_by_user": "gered"
+    },
+    "tags": [
+      "security",
+      "windows"
+    ]
+  },
+  {
     "short_id": "oyp1qw",
     "short_id_url": "https://lobste.rs/s/oyp1qw",
     "created_at": "2021-08-24T04:52:36.000-05:00",
     "title": "Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git",
     "url": "https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +67,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 273,
+      "karma": 275,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -30,7 +81,7 @@
     "created_at": "2021-08-24T04:46:19.000-05:00",
     "title": "Apple's bizarre crackdown on multicast",
     "url": "https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html",
-    "score": 5,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +92,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 443,
+      "karma": 447,
       "avatar_url": "/avatars/thombles-100.png",
       "invited_by_user": "calvin"
     },
@@ -56,7 +107,7 @@
     "created_at": "2021-08-24T04:09:13.000-05:00",
     "title": "The most underused browser feature",
     "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
-    "score": 1,
+    "score": 2,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -67,7 +118,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 168,
+      "karma": 170,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -81,9 +132,9 @@
     "created_at": "2021-08-24T03:19:14.000-05:00",
     "title": "Ement.el: A Matrix client for Emacs",
     "url": "https://github.com/alphapapa/ement.el",
-    "score": 2,
+    "score": 6,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/dzml03/ement_el_matrix_client_for_emacs",
     "submitter_user": {
@@ -92,7 +143,7 @@
       "is_admin": false,
       "about": "I like Emacs and Org-mode.  :)",
       "is_moderator": false,
-      "karma": 1,
+      "karma": 5,
       "avatar_url": "/avatars/alphapapa-100.png",
       "invited_by_user": "abo-abo"
     },
@@ -106,7 +157,7 @@
     "created_at": "2021-08-24T02:39:38.000-05:00",
     "title": "Using Emacs in an IDE world",
     "url": "https://andrewjudson.com/emacs/2021/08/23/emacs.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -117,7 +168,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 570,
+      "karma": 571,
       "avatar_url": "/avatars/judson-100.png",
       "invited_by_user": "baweaver",
       "github_username": "AndrewJudson",
@@ -133,9 +184,9 @@
     "created_at": "2021-08-24T01:09:44.000-05:00",
     "title": "Why WebKit supports AVIF but Safari does not",
     "url": "https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 8,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/bx4m9g/why_webkit_supports_avif_safari_does_not",
     "submitter_user": {
@@ -144,7 +195,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 168,
+      "karma": 170,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -159,7 +210,7 @@
     "created_at": "2021-08-23T22:25:11.000-05:00",
     "title": "Hiding Images in Plain Sight: The Physics Of Magic Windows",
     "url": "https://mattferraro.dev/posts/caustics-engineering",
-    "score": 17,
+    "score": 19,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -170,7 +221,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3529,
+      "karma": 3531,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -294,7 +345,7 @@
     "created_at": "2021-08-23T16:55:51.000-05:00",
     "title": "How I Experience Web Today",
     "url": "https://how-i-experience-web-today.com/",
-    "score": 23,
+    "score": 24,
     "flags": 1,
     "comment_count": 3,
     "description": "<p>I didn’t get what this was about until I turned off my ad blocker…</p>\n",
@@ -305,7 +356,7 @@
       "is_admin": false,
       "about": "An autodidact crafting code + content for the web. I write about amateur neuroscience on [The Autodidacts](http://autodidacts.io), and built [NeuroBB](http://neurobb.com), [Algebrarules.com](http://algebrarules.com), [Automathic.org](http://automathic.org), [EEGrunt](http://github.com/curiositry/EEGrunt), some blog themes, and more. Open-source enthusiast/evangelist. Find me [GitHub](http://github.com/curiositry) and [Twitter](http://twitter.com/curiositry).",
       "is_moderator": false,
-      "karma": 301,
+      "karma": 302,
       "avatar_url": "/avatars/Curiositry-100.png",
       "invited_by_user": "hayk"
     },
@@ -372,7 +423,7 @@
     "url": "https://jake-shadle.github.io/xwin/",
     "score": 13,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/lq1r6e/cross_compiling_windows_binaries_from",
     "submitter_user": {
@@ -447,7 +498,7 @@
     "created_at": "2021-08-23T12:15:12.000-05:00",
     "title": "The Rendering of Mafia: Definitive Edition",
     "url": "http://www.elopezr.com/the-rendering-of-mafia-definitive-edition/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -458,7 +509,7 @@
       "is_admin": false,
       "about": "Software engineer at Google (Stadia, devtools). Making your favorite games run in the cloud.",
       "is_moderator": false,
-      "karma": 152,
+      "karma": 153,
       "avatar_url": "/avatars/werat-100.png",
       "invited_by_user": "hoistbypetard"
     },
@@ -588,7 +639,7 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 76,
+    "score": 79,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -599,64 +650,12 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 130,
+      "karma": 133,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
     "tags": [
       "security"
-    ]
-  },
-  {
-    "short_id": "evj8od",
-    "short_id_url": "https://lobste.rs/s/evj8od",
-    "created_at": "2021-08-23T09:14:03.000-05:00",
-    "title": "nom 7.0 released",
-    "url": "https://www.reddit.com/r/rust/comments/p9usvq/nom_70_release_fast_parser_combinators_now/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/evj8od/nom_7_0_released",
-    "submitter_user": {
-      "username": "faitswulff",
-      "created_at": "2017-04-03T00:20:29.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1150,
-      "avatar_url": "/avatars/faitswulff-100.png",
-      "invited_by_user": "gsylvie"
-    },
-    "tags": [
-      "compilers",
-      "rust"
-    ]
-  },
-  {
-    "short_id": "yielxx",
-    "short_id_url": "https://lobste.rs/s/yielxx",
-    "created_at": "2021-08-23T09:04:11.000-05:00",
-    "title": "UNIX Syscalls (2018)",
-    "url": "https://john-millikin.com/unix-syscalls",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yielxx/unix_syscalls_2018",
-    "submitter_user": {
-      "username": "dante",
-      "created_at": "2020-08-15T14:24:21.000-05:00",
-      "is_admin": false,
-      "about": "OpenBSD and Emacs hacker, always learning something new",
-      "is_moderator": false,
-      "karma": 22,
-      "avatar_url": "/avatars/dante-100.png",
-      "invited_by_user": "kline"
-    },
-    "tags": [
-      "assembly",
-      "unix"
     ]
   }
 ]
