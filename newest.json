@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "hrllse",
+    "short_id_url": "https://lobste.rs/s/hrllse",
+    "created_at": "2021-08-24T04:09:13.000-05:00",
+    "title": "The most underused browser feature",
+    "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hrllse/most_underused_browser_feature",
+    "submitter_user": {
+      "username": "frenkel",
+      "created_at": "2021-01-25T10:22:40.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 165,
+      "avatar_url": "/avatars/frenkel-100.png",
+      "invited_by_user": "pushcx"
+    },
+    "tags": [
+      "browsers"
+    ]
+  },
+  {
     "short_id": "dzml03",
     "short_id_url": "https://lobste.rs/s/dzml03",
     "created_at": "2021-08-24T03:19:14.000-05:00",
@@ -30,7 +55,7 @@
     "created_at": "2021-08-24T02:39:38.000-05:00",
     "title": "Using Emacs in an IDE world",
     "url": "https://andrewjudson.com/emacs/2021/08/23/emacs.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +66,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 565,
+      "karma": 566,
       "avatar_url": "/avatars/judson-100.png",
       "invited_by_user": "baweaver",
       "github_username": "AndrewJudson",
@@ -59,7 +84,7 @@
     "url": "https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/",
     "score": 3,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/bx4m9g/why_webkit_supports_avif_safari_does_not",
     "submitter_user": {
@@ -83,7 +108,7 @@
     "created_at": "2021-08-23T22:25:11.000-05:00",
     "title": "Hiding Images in Plain Sight: The Physics Of Magic Windows",
     "url": "https://mattferraro.dev/posts/caustics-engineering",
-    "score": 9,
+    "score": 12,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -94,7 +119,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3520,
+      "karma": 3523,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -111,7 +136,7 @@
     "created_at": "2021-08-23T21:40:56.000-05:00",
     "title": "An Empirical Cybersecurity Evaluation of GitHub Copilot’s Code Contributions",
     "url": "https://arxiv.org/pdf/2108.09293.pdf",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "<p><a href=\"https://arxiv.org/abs/2108.09293\" rel=\"ugc\">arXiv</a></p>\n",
@@ -122,7 +147,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82196,
+      "karma": 82200,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -202,7 +227,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82196,
+      "karma": 82200,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -244,7 +269,7 @@
     "created_at": "2021-08-23T16:01:17.000-05:00",
     "title": "Gateway Teams - a strategy for spreading development practice in organizations",
     "url": "https://michaelfeathers.silvrback.com/gateway-teams",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -255,7 +280,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1206,
+      "karma": 1207,
       "avatar_url": "/avatars/mfeathers-100.png",
       "invited_by_user": "singpolyma"
     },
@@ -332,7 +357,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11908,
+      "karma": 11909,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -346,7 +371,7 @@
     "created_at": "2021-08-23T13:56:17.000-05:00",
     "title": "My favourite Raspberry Pi 4 cases",
     "url": "https://mansfield-devine.com/speculatrix/2021/08/my-favourite-raspberry-pi-4-cases/",
-    "score": 11,
+    "score": 12,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -357,7 +382,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11908,
+      "karma": 11909,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -512,7 +537,7 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 66,
+    "score": 68,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -523,7 +548,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 120,
+      "karma": 122,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -634,33 +659,6 @@
     "tags": [
       "networking",
       "web"
-    ]
-  },
-  {
-    "short_id": "hf3zl4",
-    "short_id_url": "https://lobste.rs/s/hf3zl4",
-    "created_at": "2021-08-23T08:06:01.000-05:00",
-    "title": "Knuth-Morris-Pratt string-searching algorithm (part I) + my homebrew algorithms formally verified using CBMC",
-    "url": "https://yurichev.com/news/20210121_Knuth_Morris_Pratt_1/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hf3zl4/knuth_morris_pratt_string_searching",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82196,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "c",
-      "formalmethods"
     ]
   }
 ]
