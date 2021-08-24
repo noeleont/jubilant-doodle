@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "bx4m9g",
+    "short_id_url": "https://lobste.rs/s/bx4m9g",
+    "created_at": "2021-08-24T01:09:44.000-05:00",
+    "title": "Why WebKit supports AVIF but Safari does not",
+    "url": "https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bx4m9g/why_webkit_supports_avif_safari_does_not",
+    "submitter_user": {
+      "username": "frenkel",
+      "created_at": "2021-01-25T10:22:40.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 163,
+      "avatar_url": "/avatars/frenkel-100.png",
+      "invited_by_user": "pushcx"
+    },
+    "tags": [
+      "browsers",
+      "web"
+    ]
+  },
+  {
     "short_id": "xqflkx",
     "short_id_url": "https://lobste.rs/s/xqflkx",
     "created_at": "2021-08-23T22:25:11.000-05:00",
@@ -88,7 +114,7 @@
     "created_at": "2021-08-23T21:30:09.000-05:00",
     "title": "Palettes in terminals: why gamma is a problem (2017)",
     "url": "http://nethack4.org/blog/gamma.html",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -99,7 +125,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2670,
+      "karma": 2673,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -140,7 +166,7 @@
     "created_at": "2021-08-23T16:55:51.000-05:00",
     "title": "How I Experience Web Today",
     "url": "https://how-i-experience-web-today.com/",
-    "score": 6,
+    "score": 10,
     "flags": 1,
     "comment_count": 0,
     "description": "<p>I didn’t get what this was about until I turned off my ad blocker…</p>\n",
@@ -151,7 +177,7 @@
       "is_admin": false,
       "about": "An autodidact crafting code + content for the web. I write about amateur neuroscience on [The Autodidacts](http://autodidacts.io), and built [NeuroBB](http://neurobb.com), [Algebrarules.com](http://algebrarules.com), [Automathic.org](http://automathic.org), [EEGrunt](http://github.com/curiositry/EEGrunt), some blog themes, and more. Open-source enthusiast/evangelist. Find me [GitHub](http://github.com/curiositry) and [Twitter](http://twitter.com/curiositry).",
       "is_moderator": false,
-      "karma": 284,
+      "karma": 288,
       "avatar_url": "/avatars/Curiositry-100.png",
       "invited_by_user": "hayk"
     },
@@ -166,9 +192,9 @@
     "created_at": "2021-08-23T16:01:17.000-05:00",
     "title": "Gateway Teams - a strategy for spreading development practice in organizations",
     "url": "https://michaelfeathers.silvrback.com/gateway-teams",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/549fnv/gateway_teams_strategy_for_spreading",
     "submitter_user": {
@@ -177,7 +203,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1203,
+      "karma": 1204,
       "avatar_url": "/avatars/mfeathers-100.png",
       "invited_by_user": "singpolyma"
     },
@@ -293,7 +319,7 @@
     "created_at": "2021-08-23T12:15:12.000-05:00",
     "title": "The Rendering of Mafia: Definitive Edition",
     "url": "http://www.elopezr.com/the-rendering-of-mafia-definitive-edition/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -304,7 +330,7 @@
       "is_admin": false,
       "about": "Software engineer at Google (Stadia, devtools). Making your favorite games run in the cloud.",
       "is_moderator": false,
-      "karma": 150,
+      "karma": 151,
       "avatar_url": "/avatars/werat-100.png",
       "invited_by_user": "hoistbypetard"
     },
@@ -434,9 +460,9 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 62,
+    "score": 64,
     "flags": 1,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/odfwve/i_turned_on_csp_all_i_got_was_this_crappy",
     "submitter_user": {
@@ -445,7 +471,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 116,
+      "karma": 118,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -643,34 +669,6 @@
     },
     "tags": [
       "swift"
-    ]
-  },
-  {
-    "short_id": "rzbdfr",
-    "short_id_url": "https://lobste.rs/s/rzbdfr",
-    "created_at": "2021-08-23T06:35:21.000-05:00",
-    "title": "What are you doing this week?",
-    "url": "",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 27,
-    "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
-    "comments_url": "https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6437,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "ask",
-      "programming"
     ]
   }
 ]
