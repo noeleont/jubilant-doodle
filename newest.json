@@ -1,5 +1,172 @@
 [
   {
+    "short_id": "simo6f",
+    "short_id_url": "https://lobste.rs/s/simo6f",
+    "created_at": "2021-08-24T11:22:41.000-05:00",
+    "title": "Big O notation is simpler than you might think",
+    "url": "https://www.youtube.com/watch?v=dNorFNlDbX0",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/simo6f/big_o_notation_is_simpler_than_you_might",
+    "submitter_user": {
+      "username": "av",
+      "created_at": "2015-03-22T08:27:17.000-05:00",
+      "is_admin": false,
+      "about": "Python Enthusiast.",
+      "is_moderator": false,
+      "karma": 10137,
+      "avatar_url": "/avatars/av-100.png",
+      "invited_by_user": "kshn"
+    },
+    "tags": [
+      "compsci",
+      "math",
+      "video"
+    ]
+  },
+  {
+    "short_id": "4tvtte",
+    "short_id_url": "https://lobste.rs/s/4tvtte",
+    "created_at": "2021-08-24T11:22:17.000-05:00",
+    "title": "An Introduction to JQ",
+    "url": "https://earthly.dev/blog/jq-select/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/4tvtte/introduction_jq",
+    "submitter_user": {
+      "username": "av",
+      "created_at": "2015-03-22T08:27:17.000-05:00",
+      "is_admin": false,
+      "about": "Python Enthusiast.",
+      "is_moderator": false,
+      "karma": 10137,
+      "avatar_url": "/avatars/av-100.png",
+      "invited_by_user": "kshn"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "short_id": "c93pen",
+    "short_id_url": "https://lobste.rs/s/c93pen",
+    "created_at": "2021-08-24T11:11:41.000-05:00",
+    "title": "Apache Arrow Ballista 0.5.0 release with support for complex distributed queries",
+    "url": "https://arrow.apache.org/blog/2021/08/18/ballista-0.5.0/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/c93pen/apache_arrow_ballista_0_5_0_release_with",
+    "submitter_user": {
+      "username": "houqp",
+      "created_at": "2018-07-22T00:33:09.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 99,
+      "avatar_url": "/avatars/houqp-100.png",
+      "invited_by_user": "whatrocks"
+    },
+    "tags": [
+      "databases",
+      "rust"
+    ]
+  },
+  {
+    "short_id": "vk2gto",
+    "short_id_url": "https://lobste.rs/s/vk2gto",
+    "created_at": "2021-08-24T11:11:21.000-05:00",
+    "title": "Supercolliding a PHP array [2011]",
+    "url": "https://www.npopov.com/2011/12/28/Supercolliding-a-PHP-array.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/vk2gto/supercolliding_php_array_2011",
+    "submitter_user": {
+      "username": "friendlysock",
+      "created_at": "2014-02-20T00:43:41.000-06:00",
+      "is_admin": false,
+      "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
+      "is_moderator": false,
+      "karma": 35948,
+      "avatar_url": "/avatars/friendlysock-100.png",
+      "invited_by_user": "MasonJar"
+    },
+    "tags": [
+      "crypto",
+      "php"
+    ]
+  },
+  {
+    "short_id": "d6foxz",
+    "short_id_url": "https://lobste.rs/s/d6foxz",
+    "created_at": "2021-08-24T10:44:58.000-05:00",
+    "title": "Why it's not possible to synchronize turn signals (but also absolutely is)",
+    "url": "https://www.youtube.com/watch?v=2z5A-COlDPk",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/d6foxz/why_it_s_not_possible_synchronize_turn",
+    "submitter_user": {
+      "username": "Corbin",
+      "created_at": "2018-10-13T21:40:32.000-05:00",
+      "is_admin": false,
+      "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
+      "is_moderator": false,
+      "karma": 2758,
+      "avatar_url": "/avatars/Corbin-100.png",
+      "invited_by_user": "infinisil"
+    },
+    "tags": [
+      "a11y",
+      "hardware",
+      "historical",
+      "law",
+      "reversing",
+      "video"
+    ]
+  },
+  {
+    "short_id": "avae48",
+    "short_id_url": "https://lobste.rs/s/avae48",
+    "created_at": "2021-08-24T10:40:28.000-05:00",
+    "title": "Follow-up: Using a more purpose-made module to shorten a Perl & Raku script",
+    "url": "https://phoenixtrap.com/2021/08/24/frenemies-part-2-what-a-difference-a-perl-module-makes/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/avae48/follow_up_using_more_purpose_made_module",
+    "submitter_user": {
+      "username": "mjgardner",
+      "created_at": "2021-07-21T09:27:46.000-05:00",
+      "is_admin": false,
+      "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
+      "is_moderator": false,
+      "karma": 25,
+      "avatar_url": "/avatars/mjgardner-100.png",
+      "invited_by_user": "ngoldbaum",
+      "github_username": "mjgardner",
+      "twitter_username": "markjgardner",
+      "keybase_signatures": [
+        {
+          "kb_username": "mjgardner",
+          "sig_hash": "b2d0630c6704278f24665212cf7cf3376e11fa3aa31c0586f69728c5b45c98270f"
+        }
+      ]
+    },
+    "tags": [
+      "perl"
+    ]
+  },
+  {
     "short_id": "oqzzus",
     "short_id_url": "https://lobste.rs/s/oqzzus",
     "created_at": "2021-08-24T09:59:52.000-05:00",
@@ -30,9 +197,9 @@
     "created_at": "2021-08-24T09:54:09.000-05:00",
     "title": "Programmers Don’t Understand Hash Functions",
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 3,
+    "score": 8,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash",
     "submitter_user": {
@@ -41,7 +208,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1108,
+      "karma": 1113,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -57,9 +224,9 @@
     "created_at": "2021-08-24T09:42:12.000-05:00",
     "title": "Typed DSL in Go (or sum types and GADTs in Go)",
     "url": "https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ",
-    "score": 8,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/jomvjd/typed_dsl_go_sum_types_gadts_go",
     "submitter_user": {
@@ -68,7 +235,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1379,
+      "karma": 1383,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -111,7 +278,7 @@
     "created_at": "2021-08-24T08:45:04.000-05:00",
     "title": "Daily Rust: Iterators",
     "url": "https://adventures.michaelfbryan.com/posts/daily/iterators/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -122,7 +289,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1989,
+      "karma": 1994,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -138,7 +305,7 @@
     "url": "https://belaycpp.com/2021/08/24/best-ways-to-convert-an-enum-to-a-string/",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/t9kweu/best_ways_convert_enum_string",
     "submitter_user": {
@@ -147,7 +314,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11914,
+      "karma": 11915,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -161,9 +328,9 @@
     "created_at": "2021-08-24T07:47:58.000-05:00",
     "title": "My Journey With SerenityOS, So Far",
     "url": "https://linus.dev/posts/my-journey-with-serenityos/",
-    "score": 10,
+    "score": 13,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/3gw3hv/my_journey_with_serenityos_so_far",
     "submitter_user": {
@@ -172,7 +339,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 1989,
+      "karma": 1994,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -197,7 +364,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2677,
+      "karma": 2679,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -211,7 +378,7 @@
     "created_at": "2021-08-24T07:10:48.000-05:00",
     "title": "Windows 10’s security is easily thwarted just by plugging in a Razer peripheral",
     "url": "https://www.pcgamer.com/razer-windows-10-security-flaw-admin/",
-    "score": 3,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -222,7 +389,7 @@
       "is_admin": false,
       "about": "A sentience trapped in a prison of meat.\r\nhttp://yogthos.net/",
       "is_moderator": false,
-      "karma": 7096,
+      "karma": 7099,
       "avatar_url": "/avatars/Yogthos-100.png",
       "invited_by_user": "gered"
     },
@@ -237,7 +404,7 @@
     "created_at": "2021-08-24T04:52:36.000-05:00",
     "title": "Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git",
     "url": "https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -248,7 +415,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 282,
+      "karma": 284,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -262,9 +429,9 @@
     "created_at": "2021-08-24T04:46:19.000-05:00",
     "title": "Apple's bizarre crackdown on multicast",
     "url": "https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html",
-    "score": 15,
+    "score": 16,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/73ozkc/apple_s_bizarre_crackdown_on_multicast",
     "submitter_user": {
@@ -273,7 +440,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 457,
+      "karma": 462,
       "avatar_url": "/avatars/thombles-100.png",
       "invited_by_user": "calvin"
     },
@@ -288,9 +455,9 @@
     "created_at": "2021-08-24T04:09:13.000-05:00",
     "title": "The most underused browser feature",
     "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
-    "score": 4,
+    "score": 7,
     "flags": 1,
-    "comment_count": 5,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/hrllse/most_underused_browser_feature",
     "submitter_user": {
@@ -299,7 +466,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 173,
+      "karma": 176,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -313,7 +480,7 @@
     "created_at": "2021-08-24T03:19:14.000-05:00",
     "title": "Ement.el: A Matrix client for Emacs",
     "url": "https://github.com/alphapapa/ement.el",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -324,7 +491,7 @@
       "is_admin": false,
       "about": "I like Emacs and Org-mode.  :)",
       "is_moderator": false,
-      "karma": 11,
+      "karma": 12,
       "avatar_url": "/avatars/alphapapa-100.png",
       "invited_by_user": "abo-abo"
     },
@@ -338,9 +505,9 @@
     "created_at": "2021-08-24T02:39:38.000-05:00",
     "title": "Using Emacs in an IDE world",
     "url": "https://andrewjudson.com/emacs/2021/08/23/emacs.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/xtdtsd/using_emacs_ide_world",
     "submitter_user": {
@@ -349,7 +516,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 572,
+      "karma": 573,
       "avatar_url": "/avatars/judson-100.png",
       "invited_by_user": "baweaver",
       "github_username": "AndrewJudson",
@@ -367,7 +534,7 @@
     "url": "https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/",
     "score": 8,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 13,
     "description": "",
     "comments_url": "https://lobste.rs/s/bx4m9g/why_webkit_supports_avif_safari_does_not",
     "submitter_user": {
@@ -376,7 +543,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 173,
+      "karma": 176,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -391,9 +558,9 @@
     "created_at": "2021-08-23T22:25:11.000-05:00",
     "title": "Hiding Images in Plain Sight: The Physics Of Magic Windows",
     "url": "https://mattferraro.dev/posts/caustics-engineering",
-    "score": 24,
+    "score": 27,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/xqflkx/hiding_images_plain_sight_physics_magic",
     "submitter_user": {
@@ -402,7 +569,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3537,
+      "karma": 3540,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -419,7 +586,7 @@
     "created_at": "2021-08-23T21:40:56.000-05:00",
     "title": "An Empirical Cybersecurity Evaluation of GitHub Copilot’s Code Contributions",
     "url": "https://arxiv.org/pdf/2108.09293.pdf",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "<p><a href=\"https://arxiv.org/abs/2108.09293\" rel=\"ugc\">arXiv</a></p>\n",
@@ -430,7 +597,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82202,
+      "karma": 82204,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -474,7 +641,7 @@
     "created_at": "2021-08-23T21:30:09.000-05:00",
     "title": "Palettes in terminals: why gamma is a problem (2017)",
     "url": "http://nethack4.org/blog/gamma.html",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -485,167 +652,12 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2677,
+      "karma": 2679,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
     "tags": [
       "design"
-    ]
-  },
-  {
-    "short_id": "8nyvto",
-    "short_id_url": "https://lobste.rs/s/8nyvto",
-    "created_at": "2021-08-23T20:10:12.000-05:00",
-    "title": "The dying knight in the shiny armour",
-    "url": "https://aptw.tf/2021/08/21/killing-defender.html",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/8nyvto/dying_knight_shiny_armour",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82202,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "security",
-      "windows"
-    ]
-  },
-  {
-    "short_id": "8h0exx",
-    "short_id_url": "https://lobste.rs/s/8h0exx",
-    "created_at": "2021-08-23T16:55:51.000-05:00",
-    "title": "How I Experience Web Today",
-    "url": "https://how-i-experience-web-today.com/",
-    "score": 30,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "<p>I didn’t get what this was about until I turned off my ad blocker…</p>\n",
-    "comments_url": "https://lobste.rs/s/8h0exx/how_i_experience_web_today",
-    "submitter_user": {
-      "username": "Curiositry",
-      "created_at": "2014-04-28T21:16:48.000-05:00",
-      "is_admin": false,
-      "about": "An autodidact crafting code + content for the web. I write about amateur neuroscience on [The Autodidacts](http://autodidacts.io), and built [NeuroBB](http://neurobb.com), [Algebrarules.com](http://algebrarules.com), [Automathic.org](http://automathic.org), [EEGrunt](http://github.com/curiositry/EEGrunt), some blog themes, and more. Open-source enthusiast/evangelist. Find me [GitHub](http://github.com/curiositry) and [Twitter](http://twitter.com/curiositry).",
-      "is_moderator": false,
-      "karma": 308,
-      "avatar_url": "/avatars/Curiositry-100.png",
-      "invited_by_user": "hayk"
-    },
-    "tags": [
-      "satire",
-      "web"
-    ]
-  },
-  {
-    "short_id": "549fnv",
-    "short_id_url": "https://lobste.rs/s/549fnv",
-    "created_at": "2021-08-23T16:01:17.000-05:00",
-    "title": "Gateway Teams - a strategy for spreading development practice in organizations",
-    "url": "https://michaelfeathers.silvrback.com/gateway-teams",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/549fnv/gateway_teams_strategy_for_spreading",
-    "submitter_user": {
-      "username": "mfeathers",
-      "created_at": "2017-10-30T10:30:24.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1209,
-      "avatar_url": "/avatars/mfeathers-100.png",
-      "invited_by_user": "singpolyma"
-    },
-    "tags": [
-      "practices"
-    ]
-  },
-  {
-    "short_id": "j31knr",
-    "short_id_url": "https://lobste.rs/s/j31knr",
-    "created_at": "2021-08-23T15:23:15.000-05:00",
-    "title": "Native Commands in PowerShell - A New Approach - Part 2",
-    "url": "https://devblogs.microsoft.com/powershell/native-commands-in-powershell-a-new-approach-part-2/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/j31knr/native_commands_powershell_new_approach",
-    "submitter_user": {
-      "username": "Brekkjern",
-      "created_at": "2019-11-11T08:38:09.000-06:00",
-      "is_admin": false,
-      "about": "```X5O!P%@AP[4\\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*```",
-      "is_moderator": false,
-      "karma": 545,
-      "avatar_url": "/avatars/Brekkjern-100.png",
-      "invited_by_user": "Foxboron"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "lq1r6e",
-    "short_id_url": "https://lobste.rs/s/lq1r6e",
-    "created_at": "2021-08-23T15:12:40.000-05:00",
-    "title": "Cross compiling Windows binaries from Linux",
-    "url": "https://jake-shadle.github.io/xwin/",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lq1r6e/cross_compiling_windows_binaries_from",
-    "submitter_user": {
-      "username": "rlabrecque",
-      "created_at": "2017-08-07T14:20:10.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 361,
-      "avatar_url": "/avatars/rlabrecque-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "devops",
-      "rust",
-      "windows"
-    ]
-  },
-  {
-    "short_id": "ocd99n",
-    "short_id_url": "https://lobste.rs/s/ocd99n",
-    "created_at": "2021-08-23T13:57:31.000-05:00",
-    "title": "Fun with an ATTiny85, Liyafy HC-35 keypad with eight LEDs, and a serial to parallel shift register",
-    "url": "https://www.nu42.com/2021/01/attiny85-liyafy-hc-35-8-led-keypad-serial-in-parallel-out-shift-register.html",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ocd99n/fun_with_attiny85_liyafy_hc_35_keypad_with",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11914,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "hardware"
     ]
   }
 ]
