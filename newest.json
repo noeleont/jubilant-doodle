@@ -1,5 +1,85 @@
 [
   {
+    "short_id": "twplhx",
+    "short_id_url": "https://lobste.rs/s/twplhx",
+    "created_at": "2021-08-23T21:40:56.000-05:00",
+    "title": "An Empirical Cybersecurity Evaluation of GitHub Copilot’s Code Contributions",
+    "url": "https://arxiv.org/pdf/2108.09293.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p><a href=\"https://arxiv.org/abs/2108.09293\" rel=\"ugc\">arXiv</a></p>\n",
+    "comments_url": "https://lobste.rs/s/twplhx/empirical_cybersecurity_evaluation",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82194,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "ai",
+      "pdf",
+      "security"
+    ]
+  },
+  {
+    "short_id": "hrouoj",
+    "short_id_url": "https://lobste.rs/s/hrouoj",
+    "created_at": "2021-08-23T21:35:49.000-05:00",
+    "title": "Indented Heredocs Demo: Markdown, Textile, and BBCode in one file with no escaping",
+    "url": "https://breckyunits.com/markups/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hrouoj/indented_heredocs_demo_markdown_textile",
+    "submitter_user": {
+      "username": "breck",
+      "created_at": "2019-04-15T00:02:13.000-05:00",
+      "is_admin": false,
+      "about": "    comment This is written in Scrolldown\r\n    links\r\n     https://scroll.publicdomaincompany.com/ Scroll\r\n    \r\n    title2 Current\r\n\r\n    paragraph\r\n     Cofounder of Public Domain Publishing, Inc.\r\n\r\n    links\r\n     https://publicdomaincompany.com/ Public Domain Publishing, Inc.\r\n     https://github.com/breck7 My GitHub\r\n     https://breckyunits.com/ My Personal Scroll\r\n     https://twitter.com/breckyunits My Twitter\r\n     breck7@gmail.com\r\n     yunits@hawaii.edu\r\n\r\n    paragraph\r\n     Angel Investor investing in\r\n     1) founders I would enjoy working for\r\n     2) working on things I've been interested in for more than 10 years\r\n     3) who I think will make the world a better place if they're successful\r\n        \r\n    title2 Previous\r\n    \r\n    links\r\n     https://ourworldindata.org/\r\n     https://www.uhcancercenter.org/\r\n     http://microsoft.com/\r\n     https://breckyunits.com/#nudgepad-an-ide-in-your-browser\r\n     https://www.mozillalabs.com/webfwd/\r\n     https://www.ycombinator.com/\r\n     http://labzero.com/\r\n     http://duke.edu/\r\n    \r\n    title2 #LiberateIdeas",
+      "is_moderator": false,
+      "karma": 1022,
+      "avatar_url": "/avatars/breck-100.png",
+      "invited_by_user": "ec",
+      "github_username": "breck7",
+      "twitter_username": "breckyunits"
+    },
+    "tags": [
+      "plt"
+    ]
+  },
+  {
+    "short_id": "ym99w1",
+    "short_id_url": "https://lobste.rs/s/ym99w1",
+    "created_at": "2021-08-23T21:30:09.000-05:00",
+    "title": "Palettes in terminals: why gamma is a problem (2017)",
+    "url": "http://nethack4.org/blog/gamma.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ym99w1/palettes_terminals_why_gamma_is_problem",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2669,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "design"
+    ]
+  },
+  {
     "short_id": "8nyvto",
     "short_id_url": "https://lobste.rs/s/8nyvto",
     "created_at": "2021-08-23T20:10:12.000-05:00",
@@ -27,37 +107,12 @@
     ]
   },
   {
-    "short_id": "wquku0",
-    "short_id_url": "https://lobste.rs/s/wquku0",
-    "created_at": "2021-08-23T18:26:21.000-05:00",
-    "title": "Send Me Your Stuff",
-    "url": "https://squarism.com/2021/08/20/send-me-your-stuff/",
-    "score": 3,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "<p>This isn’t my idea but I want to share it because it keeps happening to me and others.  Send Me Your Stuff is when someone asks for [the thing] and you overwhelm someone with detail and there is no way for them to reply or consume what you sent.  Instead, continue the conversation with a lead or a follow-up.</p>\n",
-    "comments_url": "https://lobste.rs/s/wquku0/send_me_your_stuff",
-    "submitter_user": {
-      "username": "squarism",
-      "created_at": "2017-07-08T13:17:17.000-05:00",
-      "is_admin": false,
-      "about": "Code / Synthesizers / Hearing From You",
-      "is_moderator": false,
-      "karma": 266,
-      "avatar_url": "/avatars/squarism-100.png",
-      "invited_by_user": "pobrien"
-    },
-    "tags": [
-      "practices"
-    ]
-  },
-  {
     "short_id": "8h0exx",
     "short_id_url": "https://lobste.rs/s/8h0exx",
     "created_at": "2021-08-23T16:55:51.000-05:00",
     "title": "How I Experience Web Today",
     "url": "https://how-i-experience-web-today.com/",
-    "score": 1,
+    "score": 3,
     "flags": 1,
     "comment_count": 0,
     "description": "<p>I didn’t get what this was about until I turned off my ad blocker…</p>\n",
@@ -68,7 +123,7 @@
       "is_admin": false,
       "about": "An autodidact crafting code + content for the web. I write about amateur neuroscience on [The Autodidacts](http://autodidacts.io), and built [NeuroBB](http://neurobb.com), [Algebrarules.com](http://algebrarules.com), [Automathic.org](http://automathic.org), [EEGrunt](http://github.com/curiositry/EEGrunt), some blog themes, and more. Open-source enthusiast/evangelist. Find me [GitHub](http://github.com/curiositry) and [Twitter](http://twitter.com/curiositry).",
       "is_moderator": false,
-      "karma": 279,
+      "karma": 281,
       "avatar_url": "/avatars/Curiositry-100.png",
       "invited_by_user": "hayk"
     },
@@ -171,7 +226,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11898,
+      "karma": 11900,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -185,7 +240,7 @@
     "created_at": "2021-08-23T13:56:17.000-05:00",
     "title": "My favourite Raspberry Pi 4 cases",
     "url": "https://mansfield-devine.com/speculatrix/2021/08/my-favourite-raspberry-pi-4-cases/",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -196,7 +251,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11898,
+      "karma": 11900,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -268,7 +323,7 @@
     "created_at": "2021-08-23T10:49:20.000-05:00",
     "title": "The new GHC diagnostic infrastructure",
     "url": "https://well-typed.com/blog/2021/08/the-new-ghc-diagnostic-infrastructure/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -351,7 +406,7 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 59,
+    "score": 60,
     "flags": 1,
     "comment_count": 3,
     "description": "",
@@ -362,7 +417,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 113,
+      "karma": 114,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -402,7 +457,7 @@
     "created_at": "2021-08-23T09:04:11.000-05:00",
     "title": "UNIX Syscalls (2018)",
     "url": "https://john-millikin.com/unix-syscalls",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -413,7 +468,7 @@
       "is_admin": false,
       "about": "OpenBSD and Emacs hacker, always learning something new",
       "is_moderator": false,
-      "karma": 21,
+      "karma": 22,
       "avatar_url": "/avatars/dante-100.png",
       "invited_by_user": "kline"
     },
@@ -428,7 +483,7 @@
     "created_at": "2021-08-23T08:59:33.000-05:00",
     "title": "Cloudflare WARP for Linux",
     "url": "https://blog.cloudflare.com/announcing-warp-for-linux-and-proxy-mode/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -439,7 +494,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 6,
+      "karma": 7,
       "avatar_url": "/avatars/deylami-100.png",
       "invited_by_user": "badtuple"
     },
@@ -568,9 +623,9 @@
     "created_at": "2021-08-23T06:35:21.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 25,
+    "comment_count": 26,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/rzbdfr/what_are_you_doing_this_week",
     "submitter_user": {
@@ -579,7 +634,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6436,
+      "karma": 6437,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -614,61 +669,6 @@
     "tags": [
       "plt",
       "programming"
-    ]
-  },
-  {
-    "short_id": "dsgpzb",
-    "short_id_url": "https://lobste.rs/s/dsgpzb",
-    "created_at": "2021-08-23T05:21:13.000-05:00",
-    "title": "The Essence of Datalog",
-    "url": "https://dodisturb.me/posts/2018-12-25-The-Essence-of-Datalog.html",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dsgpzb/essence_datalog",
-    "submitter_user": {
-      "username": "355E3B",
-      "created_at": "2015-12-16T09:48:38.000-06:00",
-      "is_admin": false,
-      "about": "Software developer, protocol hipster\r\n\r\nOn libera.chat as \"c355e3b\"",
-      "is_moderator": false,
-      "karma": 4707,
-      "avatar_url": "/avatars/355E3B-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "hmadison",
-      "twitter_username": "355E3B"
-    },
-    "tags": [
-      "haskell",
-      "plt"
-    ]
-  },
-  {
-    "short_id": "yeqdoq",
-    "short_id_url": "https://lobste.rs/s/yeqdoq",
-    "created_at": "2021-08-23T03:11:56.000-05:00",
-    "title": "mkinitcpio v31 and UEFI stubs",
-    "url": "https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yeqdoq/mkinitcpio_v31_uefi_stubs",
-    "submitter_user": {
-      "username": "Foxboron",
-      "created_at": "2019-11-06T05:54:41.000-06:00",
-      "is_admin": false,
-      "about": "F/OSS Developer and Arch Linux Trusted User doing packaging and security.\r\n\r\nInterested in Golang, development and supply chain security.",
-      "is_moderator": false,
-      "karma": 653,
-      "avatar_url": "/avatars/Foxboron-100.png",
-      "invited_by_user": "jelly",
-      "github_username": "Foxboron",
-      "twitter_username": "MortenLinderud"
-    },
-    "tags": [
-      "linux"
     ]
   }
 ]
