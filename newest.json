@@ -1,11 +1,38 @@
 [
   {
+    "short_id": "8nyvto",
+    "short_id_url": "https://lobste.rs/s/8nyvto",
+    "created_at": "2021-08-23T20:10:12.000-05:00",
+    "title": "The dying knight in the shiny armour",
+    "url": "https://aptw.tf/2021/08/21/killing-defender.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/8nyvto/dying_knight_shiny_armour",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82194,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "security",
+      "windows"
+    ]
+  },
+  {
     "short_id": "wquku0",
     "short_id_url": "https://lobste.rs/s/wquku0",
     "created_at": "2021-08-23T18:26:21.000-05:00",
     "title": "Send Me Your Stuff",
     "url": "https://squarism.com/2021/08/20/send-me-your-stuff/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>This isn’t my idea but I want to share it because it keeps happening to me and others.  Send Me Your Stuff is when someone asks for [the thing] and you overwhelm someone with detail and there is no way for them to reply or consume what you sent.  Instead, continue the conversation with a lead or a follow-up.</p>\n",
@@ -16,7 +43,7 @@
       "is_admin": false,
       "about": "Code / Synthesizers / Hearing From You",
       "is_moderator": false,
-      "karma": 264,
+      "karma": 265,
       "avatar_url": "/avatars/squarism-100.png",
       "invited_by_user": "pobrien"
     },
@@ -144,7 +171,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11896,
+      "karma": 11897,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -158,7 +185,7 @@
     "created_at": "2021-08-23T13:56:17.000-05:00",
     "title": "My favourite Raspberry Pi 4 cases",
     "url": "https://mansfield-devine.com/speculatrix/2021/08/my-favourite-raspberry-pi-4-cases/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -169,7 +196,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11896,
+      "karma": 11897,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -324,7 +351,7 @@
     "created_at": "2021-08-23T10:14:44.000-05:00",
     "title": "I turned on CSP and all I got was this crappy lawsuit",
     "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 57,
+    "score": 58,
     "flags": 1,
     "comment_count": 3,
     "description": "",
@@ -335,7 +362,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 111,
+      "karma": 112,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -481,7 +508,7 @@
     "created_at": "2021-08-23T08:03:02.000-05:00",
     "title": "JNJ: J bindings for Janet",
     "url": "https://git.sr.ht/~subsetpark/jnj",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -492,7 +519,7 @@
       "is_admin": false,
       "about": "I'm a serious person.",
       "is_moderator": false,
-      "karma": 964,
+      "karma": 965,
       "avatar_url": "/avatars/zdsmith-100.png",
       "invited_by_user": "mjec",
       "github_username": "subsetpark",
@@ -642,32 +669,6 @@
     },
     "tags": [
       "linux"
-    ]
-  },
-  {
-    "short_id": "xd89lv",
-    "short_id_url": "https://lobste.rs/s/xd89lv",
-    "created_at": "2021-08-23T02:10:30.000-05:00",
-    "title": "anansi: A NoWeb-inspired literate programming preprocessor (2012)",
-    "url": "https://john-millikin.com/software/anansi",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xd89lv/anansi_noweb_inspired_literate",
-    "submitter_user": {
-      "username": "jmillikin",
-      "created_at": "2021-07-22T09:39:26.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 4,
-      "avatar_url": "/avatars/jmillikin-100.png",
-      "invited_by_user": "pushcx"
-    },
-    "tags": [
-      "haskell",
-      "programming"
     ]
   }
 ]
