@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "3gw3hv",
+    "short_id_url": "https://lobste.rs/s/3gw3hv",
+    "created_at": "2021-08-24T07:47:58.000-05:00",
+    "title": "My Journey With SerenityOS, So Far",
+    "url": "https://linus.dev/posts/my-journey-with-serenityos/",
+    "score": 5,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3gw3hv/my_journey_with_serenityos_so_far",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 1981,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "osdev"
+    ]
+  },
+  {
     "short_id": "lxm2rh",
     "short_id_url": "https://lobste.rs/s/lxm2rh",
     "created_at": "2021-08-24T07:11:34.000-05:00",
     "title": "Optimizing the Nethack 4.3 Save System",
     "url": "http://nethack4.org/blog/save-optimization.html",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2674,
+      "karma": 2677,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -56,7 +81,7 @@
     "created_at": "2021-08-24T04:52:36.000-05:00",
     "title": "Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git",
     "url": "https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -67,7 +92,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 275,
+      "karma": 277,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -81,9 +106,9 @@
     "created_at": "2021-08-24T04:46:19.000-05:00",
     "title": "Apple's bizarre crackdown on multicast",
     "url": "https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html",
-    "score": 9,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/73ozkc/apple_s_bizarre_crackdown_on_multicast",
     "submitter_user": {
@@ -92,7 +117,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 447,
+      "karma": 450,
       "avatar_url": "/avatars/thombles-100.png",
       "invited_by_user": "calvin"
     },
@@ -107,9 +132,9 @@
     "created_at": "2021-08-24T04:09:13.000-05:00",
     "title": "The most underused browser feature",
     "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
-    "score": 2,
+    "score": 3,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/hrllse/most_underused_browser_feature",
     "submitter_user": {
@@ -118,7 +143,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 170,
+      "karma": 171,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -132,9 +157,9 @@
     "created_at": "2021-08-24T03:19:14.000-05:00",
     "title": "Ement.el: A Matrix client for Emacs",
     "url": "https://github.com/alphapapa/ement.el",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/dzml03/ement_el_matrix_client_for_emacs",
     "submitter_user": {
@@ -143,7 +168,7 @@
       "is_admin": false,
       "about": "I like Emacs and Org-mode.  :)",
       "is_moderator": false,
-      "karma": 5,
+      "karma": 6,
       "avatar_url": "/avatars/alphapapa-100.png",
       "invited_by_user": "abo-abo"
     },
@@ -157,7 +182,7 @@
     "created_at": "2021-08-24T02:39:38.000-05:00",
     "title": "Using Emacs in an IDE world",
     "url": "https://andrewjudson.com/emacs/2021/08/23/emacs.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -168,7 +193,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 571,
+      "karma": 572,
       "avatar_url": "/avatars/judson-100.png",
       "invited_by_user": "baweaver",
       "github_username": "AndrewJudson",
@@ -195,7 +220,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 170,
+      "karma": 171,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -210,9 +235,9 @@
     "created_at": "2021-08-23T22:25:11.000-05:00",
     "title": "Hiding Images in Plain Sight: The Physics Of Magic Windows",
     "url": "https://mattferraro.dev/posts/caustics-engineering",
-    "score": 19,
+    "score": 22,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/xqflkx/hiding_images_plain_sight_physics_magic",
     "submitter_user": {
@@ -221,7 +246,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3531,
+      "karma": 3534,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -293,7 +318,7 @@
     "created_at": "2021-08-23T21:30:09.000-05:00",
     "title": "Palettes in terminals: why gamma is a problem (2017)",
     "url": "http://nethack4.org/blog/gamma.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -304,7 +329,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2674,
+      "karma": 2677,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -345,7 +370,7 @@
     "created_at": "2021-08-23T16:55:51.000-05:00",
     "title": "How I Experience Web Today",
     "url": "https://how-i-experience-web-today.com/",
-    "score": 24,
+    "score": 26,
     "flags": 1,
     "comment_count": 3,
     "description": "<p>I didn’t get what this was about until I turned off my ad blocker…</p>\n",
@@ -356,7 +381,7 @@
       "is_admin": false,
       "about": "An autodidact crafting code + content for the web. I write about amateur neuroscience on [The Autodidacts](http://autodidacts.io), and built [NeuroBB](http://neurobb.com), [Algebrarules.com](http://algebrarules.com), [Automathic.org](http://automathic.org), [EEGrunt](http://github.com/curiositry/EEGrunt), some blog themes, and more. Open-source enthusiast/evangelist. Find me [GitHub](http://github.com/curiositry) and [Twitter](http://twitter.com/curiositry).",
       "is_moderator": false,
-      "karma": 302,
+      "karma": 304,
       "avatar_url": "/avatars/Curiositry-100.png",
       "invited_by_user": "hayk"
     },
@@ -371,7 +396,7 @@
     "created_at": "2021-08-23T16:01:17.000-05:00",
     "title": "Gateway Teams - a strategy for spreading development practice in organizations",
     "url": "https://michaelfeathers.silvrback.com/gateway-teams",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -382,7 +407,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1208,
+      "karma": 1209,
       "avatar_url": "/avatars/mfeathers-100.png",
       "invited_by_user": "singpolyma"
     },
@@ -459,7 +484,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11913,
+      "karma": 11914,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -473,7 +498,7 @@
     "created_at": "2021-08-23T13:56:17.000-05:00",
     "title": "My favourite Raspberry Pi 4 cases",
     "url": "https://mansfield-devine.com/speculatrix/2021/08/my-favourite-raspberry-pi-4-cases/",
-    "score": 16,
+    "score": 17,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -484,7 +509,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11913,
+      "karma": 11914,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -498,7 +523,7 @@
     "created_at": "2021-08-23T12:15:12.000-05:00",
     "title": "The Rendering of Mafia: Definitive Edition",
     "url": "http://www.elopezr.com/the-rendering-of-mafia-definitive-edition/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -509,7 +534,7 @@
       "is_admin": false,
       "about": "Software engineer at Google (Stadia, devtools). Making your favorite games run in the cloud.",
       "is_moderator": false,
-      "karma": 153,
+      "karma": 154,
       "avatar_url": "/avatars/werat-100.png",
       "invited_by_user": "hoistbypetard"
     },
@@ -556,7 +581,7 @@
     "created_at": "2021-08-23T10:49:20.000-05:00",
     "title": "The new GHC diagnostic infrastructure",
     "url": "https://well-typed.com/blog/2021/08/the-new-ghc-diagnostic-infrastructure/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -631,31 +656,6 @@
     },
     "tags": [
       "ruby"
-    ]
-  },
-  {
-    "short_id": "odfwve",
-    "short_id_url": "https://lobste.rs/s/odfwve",
-    "created_at": "2021-08-23T10:14:44.000-05:00",
-    "title": "I turned on CSP and all I got was this crappy lawsuit",
-    "url": "https://scotthelme.co.uk/i-turned-on-csp-and-all-i-got-was-this-crappy-lawsuit/",
-    "score": 79,
-    "flags": 1,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/odfwve/i_turned_on_csp_all_i_got_was_this_crappy",
-    "submitter_user": {
-      "username": "dasm",
-      "created_at": "2020-12-02T11:44:31.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 133,
-      "avatar_url": "/avatars/dasm-100.png",
-      "invited_by_user": "gerikson"
-    },
-    "tags": [
-      "security"
     ]
   }
 ]
