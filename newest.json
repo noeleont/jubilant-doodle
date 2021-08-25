@@ -1,11 +1,146 @@
 [
   {
+    "short_id": "qzeqvn",
+    "short_id_url": "https://lobste.rs/s/qzeqvn",
+    "created_at": "2021-08-25T07:22:10.000-05:00",
+    "title": "Kobol Team Is Pulling the Plug from \"Helios64 Open Source ARM NAS\"",
+    "url": "https://blog.kobol.io/2021/08/25/we-are-pulling-the-plug/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qzeqvn/kobol_team_is_pulling_plug_from_helios64",
+    "submitter_user": {
+      "username": "nixcraft",
+      "created_at": "2017-12-19T07:46:27.000-06:00",
+      "is_admin": false,
+      "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
+      "is_moderator": false,
+      "karma": 440,
+      "avatar_url": "/avatars/nixcraft-100.png",
+      "invited_by_user": "kintoandar"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
+    "short_id": "zsphqk",
+    "short_id_url": "https://lobste.rs/s/zsphqk",
+    "created_at": "2021-08-25T07:20:49.000-05:00",
+    "title": "How to Recalculate a Spreadsheet",
+    "url": "https://lord.io/spreadsheets/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/zsphqk/how_recalculate_spreadsheet",
+    "submitter_user": {
+      "username": "pushcx",
+      "created_at": "2012-08-14T20:25:08.000-05:00",
+      "is_admin": true,
+      "about": "Hi, I'm [Peter Bhat Harkins](https://malaprop.org), a programmer and entrepreneur from Chicago. From June 2014 to winter of 2015 I typically posted a dozen stories per day to [help](https://lobste.rs/s/9pm09z/what_is_on_topic_what_is_not/comments/nie0yn#c_nie0yn) the site reach a critical mass of regular visitors. In October 2017 I became the site administrator after the site creator @jcs stepped down.\r\n\r\n * Please don’t message me for an invitation if we're complete strangers; check <a href=\"https://lobste.rs/u\">the user list</a> for someone you know or ask [in chat](https://lobste.rs/chat).\r\n * Submit a [`meta`](https://lobste.rs/t/meta) post for feature requests (including new tags) to let the community discuss. Bug reports and \"is this a bug?\" should go to [the issue tracker](https://github.com/lobsters/lobsters/issues).\r\n * [Message me](https://lobste.rs/messages?to=pushcx) for administrative and moderator things. I don't see everything and I gotta sleep sometime.\r\n * E-mail my first name @malaprop.org regarding site security or if you can't log in to message me. If I've posted or commented about something here or in the chat room, I'd almost certainly love to talk more about it.\r\n",
+      "is_moderator": true,
+      "avatar_url": "/avatars/pushcx-100.png",
+      "invited_by_user": "jcs",
+      "github_username": "pushcx",
+      "twitter_username": "pushcx",
+      "keybase_signatures": [
+        {
+          "kb_username": "pushcx",
+          "sig_hash": "de6fb28b501c211e88fabddeacc834c6b922d738efd6b4108ce871879d039e510f"
+        }
+      ]
+    },
+    "tags": [
+      "compsci"
+    ]
+  },
+  {
+    "short_id": "sirwve",
+    "short_id_url": "https://lobste.rs/s/sirwve",
+    "created_at": "2021-08-25T07:20:27.000-05:00",
+    "title": "@AppStorage explained and replicated for a better alternative",
+    "url": "https://www.avanderlee.com/swift/appstorage-explained/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/sirwve/appstorage_explained_replicated_for",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 2018,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "swift"
+    ]
+  },
+  {
+    "short_id": "huespc",
+    "short_id_url": "https://lobste.rs/s/huespc",
+    "created_at": "2021-08-25T06:59:00.000-05:00",
+    "title": "On programmer behaviours that make Scrum so bad",
+    "url": "https://www.sicpers.info/2021/08/on-programmer-behaviours-that-make-scrum-so-bad/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/huespc/on_programmer_behaviours_make_scrum_so",
+    "submitter_user": {
+      "username": "j11g",
+      "created_at": "2017-07-17T09:39:28.000-05:00",
+      "is_admin": false,
+      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
+      "is_moderator": false,
+      "karma": 4397,
+      "avatar_url": "/avatars/j11g-100.png",
+      "invited_by_user": "mischa",
+      "twitter_username": "loginn"
+    },
+    "tags": [
+      "culture",
+      "programming"
+    ]
+  },
+  {
+    "short_id": "wnsopf",
+    "short_id_url": "https://lobste.rs/s/wnsopf",
+    "created_at": "2021-08-25T06:26:21.000-05:00",
+    "title": "Introducing a GraphQL-native approach to webhooks",
+    "url": "https://sourcehut.org/blog/2021-08-25-graphql-native-webhooks/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wnsopf/introducing_graphql_native_approach",
+    "submitter_user": {
+      "username": "frenkel",
+      "created_at": "2021-01-25T10:22:40.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 201,
+      "avatar_url": "/avatars/frenkel-100.png",
+      "invited_by_user": "pushcx"
+    },
+    "tags": [
+      "api",
+      "web"
+    ]
+  },
+  {
     "short_id": "waqjg2",
     "short_id_url": "https://lobste.rs/s/waqjg2",
     "created_at": "2021-08-25T05:30:23.000-05:00",
     "title": "LibreServer Bullseye release 1",
     "url": "https://blog.libreserver.org/libreserver-bullseye-release-1",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +151,7 @@
       "is_admin": false,
       "about": "Free Software developer and maintainer of the Freedombone and Epicyon projects. Keyboard bashing rhizomatic code cultivator. He/Him.",
       "is_moderator": false,
-      "karma": 172,
+      "karma": 174,
       "avatar_url": "/avatars/bashrc-100.png",
       "invited_by_user": "Shamar"
     },
@@ -84,7 +219,7 @@
     "created_at": "2021-08-25T00:08:02.000-05:00",
     "title": "Angband in WASM",
     "url": "http://ridiculousfish.com/blog/posts/shelob-angband-in-wasm.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -95,7 +230,7 @@
       "is_admin": false,
       "about": "I work at [Stripe](https://stripe.com).",
       "is_moderator": false,
-      "karma": 3420,
+      "karma": 3421,
       "avatar_url": "/avatars/antifuchs-100.png",
       "invited_by_user": "silentbicycle"
     },
@@ -110,9 +245,9 @@
     "created_at": "2021-08-24T23:14:21.000-05:00",
     "title": "The Search for a FLOSS Mobile OS",
     "url": "https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/12g0ch/search_for_floss_mobile_os",
     "submitter_user": {
@@ -121,7 +256,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82235,
+      "karma": 82238,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -138,7 +273,7 @@
     "created_at": "2021-08-24T21:38:51.000-05:00",
     "title": "rtmp: native twitch and peertube streaming from plan 9",
     "url": "http://shithub.us/sigrid/rtmp/HEAD/info.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -149,7 +284,7 @@
       "is_admin": false,
       "about": "Ori Bernstein: http://eigenstate.org",
       "is_moderator": false,
-      "karma": 4317,
+      "karma": 4318,
       "avatar_url": "/avatars/orib-100.png",
       "invited_by_user": "vjoel"
     },
@@ -225,7 +360,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82235,
+      "karma": 82238,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -266,7 +401,7 @@
     "created_at": "2021-08-24T19:13:29.000-05:00",
     "title": "DOS haven : modern DOS games, new games for DOS",
     "url": "http://www.doshaven.eu/",
-    "score": 5,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -277,7 +412,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4896,
+      "karma": 4899,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -292,9 +427,9 @@
     "created_at": "2021-08-24T18:55:01.000-05:00",
     "title": "Nelua programming language",
     "url": "https://nelua.io/",
-    "score": 13,
+    "score": 15,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/9cmfml/nelua_programming_language",
     "submitter_user": {
@@ -303,7 +438,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1544,
+      "karma": 1546,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -329,7 +464,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82235,
+      "karma": 82238,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -356,7 +491,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1544,
+      "karma": 1546,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -371,9 +506,9 @@
     "created_at": "2021-08-24T16:43:47.000-05:00",
     "title": "API Tokens: A Tedious Survey",
     "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-    "score": 15,
+    "score": 17,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/irh204/api_tokens_tedious_survey",
     "submitter_user": {
@@ -429,9 +564,9 @@
     "created_at": "2021-08-24T15:09:03.000-05:00",
     "title": "InitWare (a systemd fork) has been ported to MacOS",
     "url": "https://anetbsduser.wordpress.com/2021/08/24/initware-comes-to-macos/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "<p>See <a href=\"https://github.com/InitWare/InitWare\" rel=\"ugc\">https://github.com/InitWare/InitWare</a> for more details.</p>\n",
     "comments_url": "https://lobste.rs/s/tbrgnh/initware_systemd_fork_has_been_ported",
     "submitter_user": {
@@ -440,7 +575,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 785,
+      "karma": 786,
       "avatar_url": "/avatars/luiz-100.png",
       "invited_by_user": "FRIGN",
       "github_username": "kori"
@@ -456,7 +591,7 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 20,
+    "score": 21,
     "flags": 2,
     "comment_count": 12,
     "description": "",
@@ -467,7 +602,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 590,
+      "karma": 591,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -492,7 +627,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10165,
+      "karma": 10167,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -508,7 +643,7 @@
     "created_at": "2021-08-24T11:22:17.000-05:00",
     "title": "An Introduction to JQ",
     "url": "https://earthly.dev/blog/jq-select/",
-    "score": 28,
+    "score": 30,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -519,149 +654,9 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10165,
+      "karma": 10167,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "c93pen",
-    "short_id_url": "https://lobste.rs/s/c93pen",
-    "created_at": "2021-08-24T11:11:41.000-05:00",
-    "title": "Apache Arrow Ballista 0.5.0 release with support for complex distributed queries",
-    "url": "https://arrow.apache.org/blog/2021/08/18/ballista-0.5.0/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/c93pen/apache_arrow_ballista_0_5_0_release_with",
-    "submitter_user": {
-      "username": "houqp",
-      "created_at": "2018-07-22T00:33:09.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 102,
-      "avatar_url": "/avatars/houqp-100.png",
-      "invited_by_user": "whatrocks"
-    },
-    "tags": [
-      "databases",
-      "rust"
-    ]
-  },
-  {
-    "short_id": "vk2gto",
-    "short_id_url": "https://lobste.rs/s/vk2gto",
-    "created_at": "2021-08-24T11:11:21.000-05:00",
-    "title": "Supercolliding a PHP array [2011]",
-    "url": "https://www.npopov.com/2011/12/28/Supercolliding-a-PHP-array.html",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/vk2gto/supercolliding_php_array_2011",
-    "submitter_user": {
-      "username": "friendlysock",
-      "created_at": "2014-02-20T00:43:41.000-06:00",
-      "is_admin": false,
-      "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
-      "is_moderator": false,
-      "karma": 35994,
-      "avatar_url": "/avatars/friendlysock-100.png",
-      "invited_by_user": "MasonJar"
-    },
-    "tags": [
-      "crypto",
-      "php"
-    ]
-  },
-  {
-    "short_id": "d6foxz",
-    "short_id_url": "https://lobste.rs/s/d6foxz",
-    "created_at": "2021-08-24T10:44:58.000-05:00",
-    "title": "Why it's not possible to synchronize turn signals (but also absolutely is)",
-    "url": "https://www.youtube.com/watch?v=2z5A-COlDPk",
-    "score": 8,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/d6foxz/why_it_s_not_possible_synchronize_turn",
-    "submitter_user": {
-      "username": "Corbin",
-      "created_at": "2018-10-13T21:40:32.000-05:00",
-      "is_admin": false,
-      "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
-      "is_moderator": false,
-      "karma": 2780,
-      "avatar_url": "/avatars/Corbin-100.png",
-      "invited_by_user": "infinisil"
-    },
-    "tags": [
-      "a11y",
-      "hardware",
-      "historical",
-      "law",
-      "reversing",
-      "video"
-    ]
-  },
-  {
-    "short_id": "avae48",
-    "short_id_url": "https://lobste.rs/s/avae48",
-    "created_at": "2021-08-24T10:40:28.000-05:00",
-    "title": "Follow-up: Using a more purpose-made module to shorten a Perl & Raku script",
-    "url": "https://phoenixtrap.com/2021/08/24/frenemies-part-2-what-a-difference-a-perl-module-makes/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/avae48/follow_up_using_more_purpose_made_module",
-    "submitter_user": {
-      "username": "mjgardner",
-      "created_at": "2021-07-21T09:27:46.000-05:00",
-      "is_admin": false,
-      "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
-      "is_moderator": false,
-      "karma": 28,
-      "avatar_url": "/avatars/mjgardner-100.png",
-      "invited_by_user": "ngoldbaum",
-      "github_username": "mjgardner",
-      "twitter_username": "markjgardner",
-      "keybase_signatures": [
-        {
-          "kb_username": "mjgardner",
-          "sig_hash": "b2d0630c6704278f24665212cf7cf3376e11fa3aa31c0586f69728c5b45c98270f"
-        }
-      ]
-    },
-    "tags": [
-      "perl"
-    ]
-  },
-  {
-    "short_id": "oqzzus",
-    "short_id_url": "https://lobste.rs/s/oqzzus",
-    "created_at": "2021-08-24T09:59:52.000-05:00",
-    "title": "Hacking a Polish TTS to (mostly) speak Esperanto",
-    "url": "https://parol.martinrue.com",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/oqzzus/hacking_polish_tts_mostly_speak",
-    "submitter_user": {
-      "username": "martinrue",
-      "created_at": "2020-01-24T07:39:41.000-06:00",
-      "is_admin": false,
-      "about": "Making things. Languages. Building a language learning app: https://yakk.app. ",
-      "is_moderator": false,
-      "karma": 265,
-      "avatar_url": "/avatars/martinrue-100.png",
-      "invited_by_user": "caius"
     },
     "tags": [
       "programming"
