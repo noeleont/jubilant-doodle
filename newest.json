@@ -1,5 +1,110 @@
 [
   {
+    "short_id": "l6lk5f",
+    "short_id_url": "https://lobste.rs/s/l6lk5f",
+    "created_at": "2021-08-24T19:47:01.000-05:00",
+    "title": "SQL vs NoSQL is the Wrong Distinction",
+    "url": "https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/l6lk5f/sql_vs_nosql_is_wrong_distinction",
+    "submitter_user": {
+      "username": "utsav",
+      "created_at": "2020-06-10T18:44:30.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 130,
+      "avatar_url": "/avatars/utsav-100.png",
+      "invited_by_user": "jamwt",
+      "twitter_username": "utsav_sha"
+    },
+    "tags": [
+      "databases"
+    ]
+  },
+  {
+    "short_id": "467twg",
+    "short_id_url": "https://lobste.rs/s/467twg",
+    "created_at": "2021-08-24T19:13:29.000-05:00",
+    "title": "DOS haven : modern DOS games, new games for DOS",
+    "url": "http://www.doshaven.eu/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/467twg/dos_haven_modern_dos_games_new_games_for",
+    "submitter_user": {
+      "username": "zem",
+      "created_at": "2014-03-22T03:23:01.000-05:00",
+      "is_admin": false,
+      "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
+      "is_moderator": false,
+      "karma": 4892,
+      "avatar_url": "/avatars/zem-100.png",
+      "invited_by_user": "vjoel",
+      "github_username": "martindemello"
+    },
+    "tags": [
+      "games"
+    ]
+  },
+  {
+    "short_id": "9cmfml",
+    "short_id_url": "https://lobste.rs/s/9cmfml",
+    "created_at": "2021-08-24T18:55:01.000-05:00",
+    "title": "Nelua programming language",
+    "url": "https://nelua.io/",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/9cmfml/nelua_programming_language",
+    "submitter_user": {
+      "username": "classichasclass",
+      "created_at": "2018-11-05T18:45:47.000-06:00",
+      "is_admin": false,
+      "about": "mostly harmless",
+      "is_moderator": false,
+      "karma": 1530,
+      "avatar_url": "/avatars/classichasclass-100.png",
+      "invited_by_user": "sevan"
+    },
+    "tags": [
+      "lua",
+      "plt"
+    ]
+  },
+  {
+    "short_id": "1vwneq",
+    "short_id_url": "https://lobste.rs/s/1vwneq",
+    "created_at": "2021-08-24T18:47:10.000-05:00",
+    "title": "32-bit Stack-based Buffer Overflow",
+    "url": "https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/stack-based-buffer-overflow",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/1vwneq/32_bit_stack_based_buffer_overflow",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82219,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "debugging",
+      "security"
+    ]
+  },
+  {
     "short_id": "sb72xs",
     "short_id_url": "https://lobste.rs/s/sb72xs",
     "created_at": "2021-08-24T18:00:14.000-05:00",
@@ -16,7 +121,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1526,
+      "karma": 1530,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -31,7 +136,7 @@
     "created_at": "2021-08-24T16:43:47.000-05:00",
     "title": "API Tokens: A Tedious Survey",
     "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-    "score": 3,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -63,7 +168,7 @@
     "created_at": "2021-08-24T15:21:35.000-05:00",
     "title": "How Discord Stores Billions of Messages (2017)",
     "url": "https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -74,7 +179,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 609,
+      "karma": 611,
       "avatar_url": "/avatars/indigo-100.png",
       "invited_by_user": "tluyben2"
     },
@@ -89,7 +194,7 @@
     "created_at": "2021-08-24T15:09:03.000-05:00",
     "title": "InitWare (a systemd fork) has been ported to MacOS",
     "url": "https://anetbsduser.wordpress.com/2021/08/24/initware-comes-to-macos/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 2,
     "description": "<p>See <a href=\"https://github.com/InitWare/InitWare\" rel=\"ugc\">https://github.com/InitWare/InitWare</a> for more details.</p>\n",
@@ -100,7 +205,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 783,
+      "karma": 784,
       "avatar_url": "/avatars/luiz-100.png",
       "invited_by_user": "FRIGN",
       "github_username": "kori"
@@ -116,9 +221,9 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 8,
+    "score": 9,
     "flags": 2,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/lwdmoh/razer_bug_lets_you_become_windows_10_admin",
     "submitter_user": {
@@ -127,7 +232,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 578,
+      "karma": 579,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -230,7 +335,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35977,
+      "karma": 35978,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -245,7 +350,7 @@
     "created_at": "2021-08-24T10:44:58.000-05:00",
     "title": "Why it's not possible to synchronize turn signals (but also absolutely is)",
     "url": "https://www.youtube.com/watch?v=2z5A-COlDPk",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -256,7 +361,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2770,
+      "karma": 2773,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -333,7 +438,7 @@
     "created_at": "2021-08-24T09:54:09.000-05:00",
     "title": "Programmers Don’t Understand Hash Functions",
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 30,
+    "score": 32,
     "flags": 0,
     "comment_count": 17,
     "description": "",
@@ -344,7 +449,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1151,
+      "karma": 1154,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -360,9 +465,9 @@
     "created_at": "2021-08-24T09:42:12.000-05:00",
     "title": "Typed DSL in Go (or sum types and GADTs in Go)",
     "url": "https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ",
-    "score": 22,
+    "score": 24,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/jomvjd/typed_dsl_go_sum_types_gadts_go",
     "submitter_user": {
@@ -371,7 +476,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1396,
+      "karma": 1400,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -425,7 +530,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2011,
+      "karma": 2012,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -464,9 +569,9 @@
     "created_at": "2021-08-24T07:47:58.000-05:00",
     "title": "My Journey With SerenityOS, So Far",
     "url": "https://linus.dev/posts/my-journey-with-serenityos/",
-    "score": 26,
+    "score": 27,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/3gw3hv/my_journey_with_serenityos_so_far",
     "submitter_user": {
@@ -475,7 +580,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2011,
+      "karma": 2012,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -489,7 +594,7 @@
     "created_at": "2021-08-24T07:11:34.000-05:00",
     "title": "Optimizing the Nethack 4.3 Save System",
     "url": "http://nethack4.org/blog/save-optimization.html",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -500,7 +605,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2681,
+      "karma": 2683,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -541,7 +646,7 @@
     "url": "https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html",
     "score": 23,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/73ozkc/apple_s_bizarre_crackdown_on_multicast",
     "submitter_user": {
@@ -550,116 +655,13 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 473,
+      "karma": 476,
       "avatar_url": "/avatars/thombles-100.png",
       "invited_by_user": "calvin"
     },
     "tags": [
       "ios",
       "rant"
-    ]
-  },
-  {
-    "short_id": "hrllse",
-    "short_id_url": "https://lobste.rs/s/hrllse",
-    "created_at": "2021-08-24T04:09:13.000-05:00",
-    "title": "The most underused browser feature",
-    "url": "https://frankgroeneveld.nl/2021/08/24/most-underused-browser-feature/",
-    "score": 20,
-    "flags": 1,
-    "comment_count": 15,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hrllse/most_underused_browser_feature",
-    "submitter_user": {
-      "username": "frenkel",
-      "created_at": "2021-01-25T10:22:40.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 192,
-      "avatar_url": "/avatars/frenkel-100.png",
-      "invited_by_user": "pushcx"
-    },
-    "tags": [
-      "browsers"
-    ]
-  },
-  {
-    "short_id": "dzml03",
-    "short_id_url": "https://lobste.rs/s/dzml03",
-    "created_at": "2021-08-24T03:19:14.000-05:00",
-    "title": "Ement.el: A Matrix client for Emacs",
-    "url": "https://github.com/alphapapa/ement.el",
-    "score": 20,
-    "flags": 0,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dzml03/ement_el_matrix_client_for_emacs",
-    "submitter_user": {
-      "username": "alphapapa",
-      "created_at": "2021-08-23T13:00:42.000-05:00",
-      "is_admin": false,
-      "about": "I like Emacs and Org-mode.  :)",
-      "is_moderator": false,
-      "karma": 19,
-      "avatar_url": "/avatars/alphapapa-100.png",
-      "invited_by_user": "abo-abo"
-    },
-    "tags": [
-      "emacs"
-    ]
-  },
-  {
-    "short_id": "xtdtsd",
-    "short_id_url": "https://lobste.rs/s/xtdtsd",
-    "created_at": "2021-08-24T02:39:38.000-05:00",
-    "title": "Using Emacs in an IDE world",
-    "url": "https://andrewjudson.com/emacs/2021/08/23/emacs.html",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/xtdtsd/using_emacs_ide_world",
-    "submitter_user": {
-      "username": "judson",
-      "created_at": "2019-04-08T14:58:07.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 575,
-      "avatar_url": "/avatars/judson-100.png",
-      "invited_by_user": "baweaver",
-      "github_username": "AndrewJudson",
-      "twitter_username": "andrewljudson"
-    },
-    "tags": [
-      "emacs"
-    ]
-  },
-  {
-    "short_id": "bx4m9g",
-    "short_id_url": "https://lobste.rs/s/bx4m9g",
-    "created_at": "2021-08-24T01:09:44.000-05:00",
-    "title": "Why WebKit supports AVIF but Safari does not",
-    "url": "https://www.coywolf.news/webmaster/why-webkit-supports-avif-but-safari-does-not/",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 15,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bx4m9g/why_webkit_supports_avif_safari_does_not",
-    "submitter_user": {
-      "username": "frenkel",
-      "created_at": "2021-01-25T10:22:40.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 192,
-      "avatar_url": "/avatars/frenkel-100.png",
-      "invited_by_user": "pushcx"
-    },
-    "tags": [
-      "browsers",
-      "web"
     ]
   }
 ]
