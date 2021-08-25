@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "rsegoz",
+    "short_id_url": "https://lobste.rs/s/rsegoz",
+    "created_at": "2021-08-25T02:44:26.000-05:00",
+    "title": "Introduction to Datalog(Bashlog) in Python",
+    "url": "https://blog.rajivabraham.com/posts/bashlog",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/rsegoz/introduction_datalog_bashlog_python",
+    "submitter_user": {
+      "username": "Sietsebb",
+      "created_at": "2017-01-03T08:32:51.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 2383,
+      "avatar_url": "/avatars/Sietsebb-100.png",
+      "invited_by_user": "asthasr"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "jll7zi",
     "short_id_url": "https://lobste.rs/s/jll7zi",
     "created_at": "2021-08-25T00:08:02.000-05:00",
@@ -31,7 +56,7 @@
     "created_at": "2021-08-24T23:14:21.000-05:00",
     "title": "The Search for a FLOSS Mobile OS",
     "url": "https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82228,
+      "karma": 82231,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -135,7 +160,7 @@
     "created_at": "2021-08-24T20:52:59.000-05:00",
     "title": "Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representations",
     "url": "https://dl.acm.org/doi/pdf/10.1145/3473596",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "<p><a href=\"https://dl.acm.org/doi/10.1145/3473596\" rel=\"ugc\">ACM DL</a></p>\n",
@@ -146,7 +171,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82228,
+      "karma": 82231,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -250,7 +275,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82228,
+      "karma": 82231,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -292,9 +317,9 @@
     "created_at": "2021-08-24T16:43:47.000-05:00",
     "title": "API Tokens: A Tedious Survey",
     "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/irh204/api_tokens_tedious_survey",
     "submitter_user": {
@@ -377,7 +402,7 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 14,
+    "score": 15,
     "flags": 2,
     "comment_count": 8,
     "description": "",
@@ -388,7 +413,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 584,
+      "karma": 585,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -454,7 +479,7 @@
     "created_at": "2021-08-24T11:11:41.000-05:00",
     "title": "Apache Arrow Ballista 0.5.0 release with support for complex distributed queries",
     "url": "https://arrow.apache.org/blog/2021/08/18/ballista-0.5.0/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -465,7 +490,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 101,
+      "karma": 102,
       "avatar_url": "/avatars/houqp-100.png",
       "invited_by_user": "whatrocks"
     },
@@ -517,7 +542,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2777,
+      "karma": 2778,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -594,7 +619,7 @@
     "created_at": "2021-08-24T09:54:09.000-05:00",
     "title": "Programmers Don’t Understand Hash Functions",
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 38,
+    "score": 40,
     "flags": 1,
     "comment_count": 24,
     "description": "",
@@ -605,7 +630,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1166,
+      "karma": 1168,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -623,7 +648,7 @@
     "url": "https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ",
     "score": 27,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/jomvjd/typed_dsl_go_sum_types_gadts_go",
     "submitter_user": {
@@ -632,41 +657,13 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1408,
+      "karma": 1409,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
     "tags": [
       "go",
       "plt"
-    ]
-  },
-  {
-    "short_id": "agwsvu",
-    "short_id_url": "https://lobste.rs/s/agwsvu",
-    "created_at": "2021-08-24T09:29:23.000-05:00",
-    "title": "TLA+: Viewed from 40,000 Feet and Ground Level",
-    "url": "https://www.youtube.com/watch?v=Ocxczi-CvRQ",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/agwsvu/tla_viewed_from_40_000_feet_ground_level",
-    "submitter_user": {
-      "username": "lemmster",
-      "created_at": "2019-05-15T11:13:54.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 94,
-      "avatar_url": "/avatars/lemmster-100.png",
-      "invited_by_user": "molloy"
-    },
-    "tags": [
-      "compsci",
-      "distributed",
-      "formalmethods",
-      "video"
     ]
   }
 ]
