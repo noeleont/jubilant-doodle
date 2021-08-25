@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "waqjg2",
+    "short_id_url": "https://lobste.rs/s/waqjg2",
+    "created_at": "2021-08-25T05:30:23.000-05:00",
+    "title": "LibreServer Bullseye release 1",
+    "url": "https://blog.libreserver.org/libreserver-bullseye-release-1",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/waqjg2/libreserver_bullseye_release_1",
+    "submitter_user": {
+      "username": "bashrc",
+      "created_at": "2018-07-03T05:31:28.000-05:00",
+      "is_admin": false,
+      "about": "Free Software developer and maintainer of the Freedombone and Epicyon projects. Keyboard bashing rhizomatic code cultivator. He/Him.",
+      "is_moderator": false,
+      "karma": 172,
+      "avatar_url": "/avatars/bashrc-100.png",
+      "invited_by_user": "Shamar"
+    },
+    "tags": [
+      "linux",
+      "networking",
+      "release",
+      "web"
+    ]
+  },
+  {
     "short_id": "w3pa4b",
     "short_id_url": "https://lobste.rs/s/w3pa4b",
     "created_at": "2021-08-25T04:48:56.000-05:00",
@@ -31,7 +59,7 @@
     "created_at": "2021-08-25T02:44:26.000-05:00",
     "title": "Introduction to Datalog(Bashlog) in Python",
     "url": "https://blog.rajivabraham.com/posts/bashlog",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +70,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2383,
+      "karma": 2384,
       "avatar_url": "/avatars/Sietsebb-100.png",
       "invited_by_user": "asthasr"
     },
@@ -93,7 +121,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82234,
+      "karma": 82235,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -136,7 +164,7 @@
     "created_at": "2021-08-24T21:12:13.000-05:00",
     "title": "A Brief Introduction to termios (2009)",
     "url": "https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 3,
     "description": "<p>Part 2: <a href=\"https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios-termios3-and-stty/\" rel=\"ugc\">A Brief Introduction to termios: termios(3) and stty</a></p>\n",
@@ -147,7 +175,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 55,
+      "karma": 56,
       "avatar_url": "/avatars/shah-100.png",
       "invited_by_user": "guiraldelli"
     },
@@ -197,7 +225,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82234,
+      "karma": 82235,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -264,7 +292,7 @@
     "created_at": "2021-08-24T18:55:01.000-05:00",
     "title": "Nelua programming language",
     "url": "https://nelua.io/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -275,7 +303,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1543,
+      "karma": 1544,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -301,7 +329,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82234,
+      "karma": 82235,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -328,7 +356,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1543,
+      "karma": 1544,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -401,7 +429,7 @@
     "created_at": "2021-08-24T15:09:03.000-05:00",
     "title": "InitWare (a systemd fork) has been ported to MacOS",
     "url": "https://anetbsduser.wordpress.com/2021/08/24/initware-comes-to-macos/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 2,
     "description": "<p>See <a href=\"https://github.com/InitWare/InitWare\" rel=\"ugc\">https://github.com/InitWare/InitWare</a> for more details.</p>\n",
@@ -412,7 +440,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 784,
+      "karma": 785,
       "avatar_url": "/avatars/luiz-100.png",
       "invited_by_user": "FRIGN",
       "github_username": "kori"
@@ -428,9 +456,9 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 19,
+    "score": 20,
     "flags": 2,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/lwdmoh/razer_bug_lets_you_become_windows_10_admin",
     "submitter_user": {
@@ -439,7 +467,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 589,
+      "karma": 590,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -542,7 +570,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35990,
+      "karma": 35994,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -559,7 +587,7 @@
     "url": "https://www.youtube.com/watch?v=2z5A-COlDPk",
     "score": 8,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/d6foxz/why_it_s_not_possible_synchronize_turn",
     "submitter_user": {
@@ -568,7 +596,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2779,
+      "karma": 2780,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -637,33 +665,6 @@
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "l3tyc2",
-    "short_id_url": "https://lobste.rs/s/l3tyc2",
-    "created_at": "2021-08-24T09:54:09.000-05:00",
-    "title": "Programmers Don’t Understand Hash Functions",
-    "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 42,
-    "flags": 1,
-    "comment_count": 27,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash",
-    "submitter_user": {
-      "username": "soatok",
-      "created_at": "2020-10-09T21:36:56.000-05:00",
-      "is_admin": false,
-      "about": "I'm a furry and I blog about cryptography stuff.",
-      "is_moderator": false,
-      "karma": 1170,
-      "avatar_url": "/avatars/soatok-100.png",
-      "invited_by_user": "sarciszewski",
-      "github_username": "soatok",
-      "twitter_username": "SoatokDhole"
-    },
-    "tags": [
-      "crypto"
     ]
   }
 ]
