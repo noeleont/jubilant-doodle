@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "w3pa4b",
+    "short_id_url": "https://lobste.rs/s/w3pa4b",
+    "created_at": "2021-08-25T04:48:56.000-05:00",
+    "title": "Advanced Cohort Engine for searching longitudinal patient records",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8279796/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/w3pa4b/advanced_cohort_engine_for_searching",
+    "submitter_user": {
+      "username": "shusson",
+      "created_at": "2021-08-25T02:21:45.000-05:00",
+      "is_admin": false,
+      "about": "https://shusson.info/about",
+      "is_moderator": false,
+      "karma": 0,
+      "avatar_url": "/avatars/shusson-100.png",
+      "invited_by_user": "gerikson",
+      "github_username": "shusson"
+    },
+    "tags": [
+      "databases"
+    ]
+  },
+  {
     "short_id": "rsegoz",
     "short_id_url": "https://lobste.rs/s/rsegoz",
     "created_at": "2021-08-25T02:44:26.000-05:00",
@@ -110,7 +136,7 @@
     "created_at": "2021-08-24T21:12:13.000-05:00",
     "title": "A Brief Introduction to termios (2009)",
     "url": "https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 3,
     "description": "<p>Part 2: <a href=\"https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios-termios3-and-stty/\" rel=\"ugc\">A Brief Introduction to termios: termios(3) and stty</a></p>\n",
@@ -121,7 +147,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 54,
+      "karma": 55,
       "avatar_url": "/avatars/shah-100.png",
       "invited_by_user": "guiraldelli"
     },
@@ -317,7 +343,7 @@
     "created_at": "2021-08-24T16:43:47.000-05:00",
     "title": "API Tokens: A Tedious Survey",
     "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -402,9 +428,9 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 17,
+    "score": 19,
     "flags": 2,
-    "comment_count": 8,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/lwdmoh/razer_bug_lets_you_become_windows_10_admin",
     "submitter_user": {
@@ -413,7 +439,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 587,
+      "karma": 589,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -516,7 +542,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35987,
+      "karma": 35990,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -542,7 +568,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2778,
+      "karma": 2779,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -596,7 +622,7 @@
     "url": "https://parol.martinrue.com",
     "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/oqzzus/hacking_polish_tts_mostly_speak",
     "submitter_user": {
@@ -619,9 +645,9 @@
     "created_at": "2021-08-24T09:54:09.000-05:00",
     "title": "Programmers Don’t Understand Hash Functions",
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 40,
+    "score": 42,
     "flags": 1,
-    "comment_count": 24,
+    "comment_count": 27,
     "description": "",
     "comments_url": "https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash",
     "submitter_user": {
@@ -630,7 +656,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1168,
+      "karma": 1170,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -638,32 +664,6 @@
     },
     "tags": [
       "crypto"
-    ]
-  },
-  {
-    "short_id": "jomvjd",
-    "short_id_url": "https://lobste.rs/s/jomvjd",
-    "created_at": "2021-08-24T09:42:12.000-05:00",
-    "title": "Typed DSL in Go (or sum types and GADTs in Go)",
-    "url": "https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ",
-    "score": 29,
-    "flags": 0,
-    "comment_count": 7,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jomvjd/typed_dsl_go_sum_types_gadts_go",
-    "submitter_user": {
-      "username": "4ad",
-      "created_at": "2016-10-19T06:31:11.000-05:00",
-      "is_admin": false,
-      "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
-      "is_moderator": false,
-      "karma": 1412,
-      "avatar_url": "/avatars/4ad-100.png",
-      "invited_by_user": "LeahNeukirchen"
-    },
-    "tags": [
-      "go",
-      "plt"
     ]
   }
 ]
