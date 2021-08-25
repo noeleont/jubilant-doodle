@@ -1,5 +1,62 @@
 [
   {
+    "short_id": "jig9re",
+    "short_id_url": "https://lobste.rs/s/jig9re",
+    "created_at": "2021-08-25T08:43:14.000-05:00",
+    "title": "Using Rust with Elixir for code reuse and performance",
+    "url": "https://blog.doctave.com/2021/08/19/using-rust-with-elixir-for-code-reuse-and-performance.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/jig9re/using_rust_with_elixir_for_code_reuse",
+    "submitter_user": {
+      "username": "yonkeltron",
+      "created_at": "2018-07-09T19:03:57.000-05:00",
+      "is_admin": false,
+      "about": "https://twitter.com/yonkeltron",
+      "is_moderator": false,
+      "karma": 1581,
+      "avatar_url": "/avatars/yonkeltron-100.png",
+      "invited_by_user": "rocx",
+      "github_username": "yonkeltron",
+      "twitter_username": "yonkeltron"
+    },
+    "tags": [
+      "elixir",
+      "performance",
+      "rust"
+    ]
+  },
+  {
+    "short_id": "htcrls",
+    "short_id_url": "https://lobste.rs/s/htcrls",
+    "created_at": "2021-08-25T08:36:02.000-05:00",
+    "title": "Friendship ended with the garbage collector",
+    "url": "https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/htcrls/friendship_ended_with_garbage_collector",
+    "submitter_user": {
+      "username": "yorickpeterse",
+      "created_at": "2019-06-10T09:26:43.000-05:00",
+      "is_admin": false,
+      "about": "Staff Backend Engineer at [GitLab](https://about.gitlab.com). Author of the [Inko programming language](https://inko-lang.org/).",
+      "is_moderator": false,
+      "karma": 463,
+      "avatar_url": "/avatars/yorickpeterse-100.png",
+      "invited_by_user": "benlovell",
+      "github_username": "YorickPeterse"
+    },
+    "tags": [
+      "compilers",
+      "plt",
+      "programming"
+    ]
+  },
+  {
     "short_id": "h0gubg",
     "short_id_url": "https://lobste.rs/s/h0gubg",
     "created_at": "2021-08-25T07:49:55.000-05:00",
@@ -16,7 +73,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2018,
+      "karma": 2019,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -30,7 +87,7 @@
     "created_at": "2021-08-25T07:22:10.000-05:00",
     "title": "Kobol Team Is Pulling the Plug from \"Helios64 Open Source ARM NAS\"",
     "url": "https://blog.kobol.io/2021/08/25/we-are-pulling-the-plug/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +98,7 @@
       "is_admin": false,
       "about": "Long time Linux/Unix/FreeBSD/OpenBSD user, a seasoned sysadmin, blogger and a trainer for the Linux operating system/Unix shell scripting. [Home page](https://www.cyberciti.biz/), [nixCraft forum](https://www.nixcraft.com/), [Twitter](https://twitter.com/nixcraft), [Github](https://github.com/nixcraft).",
       "is_moderator": false,
-      "karma": 440,
+      "karma": 441,
       "avatar_url": "/avatars/nixcraft-100.png",
       "invited_by_user": "kintoandar"
     },
@@ -55,7 +112,7 @@
     "created_at": "2021-08-25T07:20:49.000-05:00",
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/spreadsheets/",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -98,7 +155,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2018,
+      "karma": 2019,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -139,7 +196,7 @@
     "created_at": "2021-08-25T06:26:21.000-05:00",
     "title": "Introducing a GraphQL-native approach to webhooks",
     "url": "https://sourcehut.org/blog/2021-08-25-graphql-native-webhooks/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -150,7 +207,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 204,
+      "karma": 205,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -165,7 +222,7 @@
     "created_at": "2021-08-25T05:30:23.000-05:00",
     "title": "LibreServer Bullseye release 1",
     "url": "https://blog.libreserver.org/libreserver-bullseye-release-1",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -176,7 +233,7 @@
       "is_admin": false,
       "about": "Free Software developer and maintainer of the Freedombone and Epicyon projects. Keyboard bashing rhizomatic code cultivator. He/Him.",
       "is_moderator": false,
-      "karma": 177,
+      "karma": 178,
       "avatar_url": "/avatars/bashrc-100.png",
       "invited_by_user": "Shamar"
     },
@@ -219,7 +276,7 @@
     "created_at": "2021-08-25T02:44:26.000-05:00",
     "title": "Introduction to Datalog(Bashlog) in Python",
     "url": "https://blog.rajivabraham.com/posts/bashlog",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -230,7 +287,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2384,
+      "karma": 2385,
       "avatar_url": "/avatars/Sietsebb-100.png",
       "invited_by_user": "asthasr"
     },
@@ -246,7 +303,7 @@
     "url": "http://ridiculousfish.com/blog/posts/shelob-angband-in-wasm.html",
     "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/jll7zi/angband_wasm",
     "submitter_user": {
@@ -270,9 +327,9 @@
     "created_at": "2021-08-24T23:14:21.000-05:00",
     "title": "The Search for a FLOSS Mobile OS",
     "url": "https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/12g0ch/search_for_floss_mobile_os",
     "submitter_user": {
@@ -281,7 +338,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82240,
+      "karma": 82244,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -385,7 +442,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82240,
+      "karma": 82244,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -400,9 +457,9 @@
     "created_at": "2021-08-24T19:47:01.000-05:00",
     "title": "SQL vs NoSQL is the Wrong Distinction",
     "url": "https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction",
-    "score": 2,
+    "score": 3,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/l6lk5f/sql_vs_nosql_is_wrong_distinction",
     "submitter_user": {
@@ -411,7 +468,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 131,
+      "karma": 132,
       "avatar_url": "/avatars/utsav-100.png",
       "invited_by_user": "jamwt",
       "twitter_username": "utsav_sha"
@@ -426,7 +483,7 @@
     "created_at": "2021-08-24T19:13:29.000-05:00",
     "title": "DOS haven : modern DOS games, new games for DOS",
     "url": "http://www.doshaven.eu/",
-    "score": 10,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -437,7 +494,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4901,
+      "karma": 4904,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -452,7 +509,7 @@
     "created_at": "2021-08-24T18:55:01.000-05:00",
     "title": "Nelua programming language",
     "url": "https://nelua.io/",
-    "score": 18,
+    "score": 20,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -463,7 +520,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1549,
+      "karma": 1551,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -489,7 +546,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82240,
+      "karma": 82244,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -516,7 +573,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1549,
+      "karma": 1551,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -531,7 +588,7 @@
     "created_at": "2021-08-24T16:43:47.000-05:00",
     "title": "API Tokens: A Tedious Survey",
     "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-    "score": 18,
+    "score": 22,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -608,58 +665,6 @@
     "tags": [
       "mac",
       "systemd"
-    ]
-  },
-  {
-    "short_id": "lwdmoh",
-    "short_id_url": "https://lobste.rs/s/lwdmoh",
-    "created_at": "2021-08-24T12:04:39.000-05:00",
-    "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
-    "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 21,
-    "flags": 2,
-    "comment_count": 12,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lwdmoh/razer_bug_lets_you_become_windows_10_admin",
-    "submitter_user": {
-      "username": "fernplus",
-      "created_at": "2018-12-21T09:13:34.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 591,
-      "avatar_url": "/avatars/fernplus-100.png",
-      "invited_by_user": "premysl"
-    },
-    "tags": [
-      "security"
-    ]
-  },
-  {
-    "short_id": "simo6f",
-    "short_id_url": "https://lobste.rs/s/simo6f",
-    "created_at": "2021-08-24T11:22:41.000-05:00",
-    "title": "Big O notation is simpler than you might think",
-    "url": "https://www.youtube.com/watch?v=dNorFNlDbX0",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/simo6f/big_o_notation_is_simpler_than_you_might",
-    "submitter_user": {
-      "username": "av",
-      "created_at": "2015-03-22T08:27:17.000-05:00",
-      "is_admin": false,
-      "about": "Python Enthusiast.",
-      "is_moderator": false,
-      "karma": 10167,
-      "avatar_url": "/avatars/av-100.png",
-      "invited_by_user": "kshn"
-    },
-    "tags": [
-      "compsci",
-      "math",
-      "video"
     ]
   }
 ]
