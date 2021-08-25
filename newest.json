@@ -1,5 +1,80 @@
 [
   {
+    "short_id": "oado1g",
+    "short_id_url": "https://lobste.rs/s/oado1g",
+    "created_at": "2021-08-24T21:13:58.000-05:00",
+    "title": "A Brief Introduction to termios: termios(3) and stty (2009)",
+    "url": "https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios-termios3-and-stty/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Part 1 is (cached) here: <a href=\"https://lobste.rs/s/fr7wir/brief_introduction_termios_2009\" rel=\"ugc\">https://lobste.rs/s/fr7wir/brief_introduction_termios_2009</a></p>\n",
+    "comments_url": "https://lobste.rs/s/oado1g/brief_introduction_termios_termios_3",
+    "submitter_user": {
+      "username": "shah",
+      "created_at": "2019-08-14T09:26:17.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 51,
+      "avatar_url": "/avatars/shah-100.png",
+      "invited_by_user": "guiraldelli"
+    },
+    "tags": [
+      "unix"
+    ]
+  },
+  {
+    "short_id": "fr7wir",
+    "short_id_url": "https://lobste.rs/s/fr7wir",
+    "created_at": "2021-08-24T21:12:13.000-05:00",
+    "title": "A Brief Introduction to termios (2009)",
+    "url": "https://blog.nelhage.com/2009/12/a-brief-introduction-to-termios/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>Part 2 is (cached) here: <a href=\"https://lobste.rs/s/oado1g/brief_introduction_termios_termios_3\" rel=\"ugc\">https://lobste.rs/s/oado1g/brief_introduction_termios_termios_3</a></p>\n",
+    "comments_url": "https://lobste.rs/s/fr7wir/brief_introduction_termios_2009",
+    "submitter_user": {
+      "username": "shah",
+      "created_at": "2019-08-14T09:26:17.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 51,
+      "avatar_url": "/avatars/shah-100.png",
+      "invited_by_user": "guiraldelli"
+    },
+    "tags": [
+      "unix"
+    ]
+  },
+  {
+    "short_id": "bw4mij",
+    "short_id_url": "https://lobste.rs/s/bw4mij",
+    "created_at": "2021-08-24T21:08:43.000-05:00",
+    "title": "HackGT 8 - a college hackathon with an open source track :)",
+    "url": "https://2021.hack.gt/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bw4mij/hackgt_8_college_hackathon_with_open",
+    "submitter_user": {
+      "username": "1ntEgr8",
+      "created_at": "2020-08-06T07:52:35.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 108,
+      "avatar_url": "/avatars/1ntEgr8-100.png",
+      "invited_by_user": "saiprashanth93"
+    },
+    "tags": [
+      "education"
+    ]
+  },
+  {
     "short_id": "p72nwz",
     "short_id_url": "https://lobste.rs/s/p72nwz",
     "created_at": "2021-08-24T20:52:59.000-05:00",
@@ -31,7 +106,7 @@
     "created_at": "2021-08-24T19:47:01.000-05:00",
     "title": "SQL vs NoSQL is the Wrong Distinction",
     "url": "https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +117,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 130,
+      "karma": 131,
       "avatar_url": "/avatars/utsav-100.png",
       "invited_by_user": "jamwt",
       "twitter_username": "utsav_sha"
@@ -57,7 +132,7 @@
     "created_at": "2021-08-24T19:13:29.000-05:00",
     "title": "DOS haven : modern DOS games, new games for DOS",
     "url": "http://www.doshaven.eu/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +143,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4893,
+      "karma": 4894,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -94,7 +169,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1533,
+      "karma": 1534,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -147,7 +222,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1533,
+      "karma": 1534,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -162,7 +237,7 @@
     "created_at": "2021-08-24T16:43:47.000-05:00",
     "title": "API Tokens: A Tedious Survey",
     "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -249,7 +324,7 @@
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
     "score": 10,
     "flags": 2,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/lwdmoh/razer_bug_lets_you_become_windows_10_admin",
     "submitter_user": {
@@ -361,7 +436,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35977,
+      "karma": 35980,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -464,7 +539,7 @@
     "created_at": "2021-08-24T09:54:09.000-05:00",
     "title": "Programmers Don’t Understand Hash Functions",
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
-    "score": 32,
+    "score": 33,
     "flags": 0,
     "comment_count": 18,
     "description": "",
@@ -475,7 +550,7 @@
       "is_admin": false,
       "about": "I'm a furry and I blog about cryptography stuff.",
       "is_moderator": false,
-      "karma": 1154,
+      "karma": 1155,
       "avatar_url": "/avatars/soatok-100.png",
       "invited_by_user": "sarciszewski",
       "github_username": "soatok",
@@ -587,81 +662,6 @@
     },
     "tags": [
       "c++"
-    ]
-  },
-  {
-    "short_id": "3gw3hv",
-    "short_id_url": "https://lobste.rs/s/3gw3hv",
-    "created_at": "2021-08-24T07:47:58.000-05:00",
-    "title": "My Journey With SerenityOS, So Far",
-    "url": "https://linus.dev/posts/my-journey-with-serenityos/",
-    "score": 28,
-    "flags": 0,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3gw3hv/my_journey_with_serenityos_so_far",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 2013,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "osdev"
-    ]
-  },
-  {
-    "short_id": "lxm2rh",
-    "short_id_url": "https://lobste.rs/s/lxm2rh",
-    "created_at": "2021-08-24T07:11:34.000-05:00",
-    "title": "Optimizing the Nethack 4.3 Save System",
-    "url": "http://nethack4.org/blog/save-optimization.html",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lxm2rh/optimizing_nethack_4_3_save_system",
-    "submitter_user": {
-      "username": "technetium",
-      "created_at": "2020-02-06T19:52:39.000-06:00",
-      "is_admin": false,
-      "about": "A sentient lump of a certain high-density material",
-      "is_moderator": false,
-      "karma": 2684,
-      "avatar_url": "/avatars/technetium-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "performance"
-    ]
-  },
-  {
-    "short_id": "oyp1qw",
-    "short_id_url": "https://lobste.rs/s/oyp1qw",
-    "created_at": "2021-08-24T04:52:36.000-05:00",
-    "title": "Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git",
-    "url": "https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html",
-    "score": 18,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/oyp1qw/track_changes_excel_word_powerpoint_pdfs",
-    "submitter_user": {
-      "username": "marklit",
-      "created_at": "2017-02-21T09:57:14.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 290,
-      "avatar_url": "/avatars/marklit-100.png",
-      "invited_by_user": "vdm"
-    },
-    "tags": [
-      "vcs"
     ]
   }
 ]
