@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "p72nwz",
+    "short_id_url": "https://lobste.rs/s/p72nwz",
+    "created_at": "2021-08-24T20:52:59.000-05:00",
+    "title": "Efficient Tree-Traversals: Reconciling Parallelism and Dense Data Representations",
+    "url": "https://dl.acm.org/doi/pdf/10.1145/3473596",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p><a href=\"https://dl.acm.org/doi/10.1145/3473596\" rel=\"ugc\">ACM DL</a></p>\n",
+    "comments_url": "https://lobste.rs/s/p72nwz/efficient_tree_traversals_reconciling",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82220,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "compsci"
+    ]
+  },
+  {
     "short_id": "l6lk5f",
     "short_id_url": "https://lobste.rs/s/l6lk5f",
     "created_at": "2021-08-24T19:47:01.000-05:00",
@@ -31,7 +57,7 @@
     "created_at": "2021-08-24T19:13:29.000-05:00",
     "title": "DOS haven : modern DOS games, new games for DOS",
     "url": "http://www.doshaven.eu/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4892,
+      "karma": 4893,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -57,7 +83,7 @@
     "created_at": "2021-08-24T18:55:01.000-05:00",
     "title": "Nelua programming language",
     "url": "https://nelua.io/",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +94,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1530,
+      "karma": 1533,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -94,7 +120,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82219,
+      "karma": 82220,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -121,7 +147,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1530,
+      "karma": 1533,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -136,7 +162,7 @@
     "created_at": "2021-08-24T16:43:47.000-05:00",
     "title": "API Tokens: A Tedious Survey",
     "url": "https://fly.io/blog/api-tokens-a-tedious-survey/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -221,7 +247,7 @@
     "created_at": "2021-08-24T12:04:39.000-05:00",
     "title": "Razer bug lets you become a Windows 10 admin by plugging in a mouse",
     "url": "https://www.bleepingcomputer.com/news/security/razer-bug-lets-you-become-a-windows-10-admin-by-plugging-in-a-mouse/",
-    "score": 9,
+    "score": 10,
     "flags": 2,
     "comment_count": 6,
     "description": "",
@@ -232,7 +258,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 579,
+      "karma": 580,
       "avatar_url": "/avatars/fernplus-100.png",
       "invited_by_user": "premysl"
     },
@@ -257,7 +283,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10160,
+      "karma": 10161,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -273,7 +299,7 @@
     "created_at": "2021-08-24T11:22:17.000-05:00",
     "title": "An Introduction to JQ",
     "url": "https://earthly.dev/blog/jq-select/",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -284,7 +310,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10160,
+      "karma": 10161,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -335,7 +361,7 @@
       "is_admin": false,
       "about": "*Literally* full of ants.\r\n\r\nFriendly engineer and human being.\r\n\r\nStrong opinions held weakly, sometimes weekly.\r\n\r\n> Gentrification is the process by which nebulous threats are pacified and alchemised into money. \r\n",
       "is_moderator": false,
-      "karma": 35978,
+      "karma": 35977,
       "avatar_url": "/avatars/friendlysock-100.png",
       "invited_by_user": "MasonJar"
     },
@@ -350,7 +376,7 @@
     "created_at": "2021-08-24T10:44:58.000-05:00",
     "title": "Why it's not possible to synchronize turn signals (but also absolutely is)",
     "url": "https://www.youtube.com/watch?v=2z5A-COlDPk",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -361,7 +387,7 @@
       "is_admin": false,
       "about": "Secure distributed computation should not be hard.\r\n\r\nmi pu'i tavla fo lo jbobau .i mi'e la korvo",
       "is_moderator": false,
-      "karma": 2773,
+      "karma": 2774,
       "avatar_url": "/avatars/Corbin-100.png",
       "invited_by_user": "infinisil"
     },
@@ -380,7 +406,7 @@
     "created_at": "2021-08-24T10:40:28.000-05:00",
     "title": "Follow-up: Using a more purpose-made module to shorten a Perl & Raku script",
     "url": "https://phoenixtrap.com/2021/08/24/frenemies-part-2-what-a-difference-a-perl-module-makes/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -391,7 +417,7 @@
       "is_admin": false,
       "about": "I help Perl devel­op­ers build mod­ern, disciplined appli­ca­tions by writing easy-​to-​main­tain code with con­fi­dence. Blogging at [phoenixtrap.com/](https://phoenixtrap.com/). Objectivist.",
       "is_moderator": false,
-      "karma": 27,
+      "karma": 28,
       "avatar_url": "/avatars/mjgardner-100.png",
       "invited_by_user": "ngoldbaum",
       "github_username": "mjgardner",
@@ -440,7 +466,7 @@
     "url": "https://soatok.blog/2021/08/24/programmers-dont-understand-hash-functions/",
     "score": 32,
     "flags": 0,
-    "comment_count": 17,
+    "comment_count": 18,
     "description": "",
     "comments_url": "https://lobste.rs/s/l3tyc2/programmers_don_t_understand_hash",
     "submitter_user": {
@@ -465,7 +491,7 @@
     "created_at": "2021-08-24T09:42:12.000-05:00",
     "title": "Typed DSL in Go (or sum types and GADTs in Go)",
     "url": "https://groups.google.com/g/golang-nuts/c/81MlWAgkXd8/m/b0JC2l70BwAJ",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -476,7 +502,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1400,
+      "karma": 1402,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -530,7 +556,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2012,
+      "karma": 2013,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -569,7 +595,7 @@
     "created_at": "2021-08-24T07:47:58.000-05:00",
     "title": "My Journey With SerenityOS, So Far",
     "url": "https://linus.dev/posts/my-journey-with-serenityos/",
-    "score": 27,
+    "score": 28,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -580,7 +606,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2012,
+      "karma": 2013,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -594,7 +620,7 @@
     "created_at": "2021-08-24T07:11:34.000-05:00",
     "title": "Optimizing the Nethack 4.3 Save System",
     "url": "http://nethack4.org/blog/save-optimization.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -605,7 +631,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2683,
+      "karma": 2684,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -619,7 +645,7 @@
     "created_at": "2021-08-24T04:52:36.000-05:00",
     "title": "Track changes in Excel, Word, PowerPoint, PDFs, Images & Videos with Git",
     "url": "https://tech.marksblogg.com/git-track-changes-in-media-office-documents.html",
-    "score": 17,
+    "score": 18,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -630,38 +656,12 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 289,
+      "karma": 290,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
     "tags": [
       "vcs"
-    ]
-  },
-  {
-    "short_id": "73ozkc",
-    "short_id_url": "https://lobste.rs/s/73ozkc",
-    "created_at": "2021-08-24T04:46:19.000-05:00",
-    "title": "Apple's bizarre crackdown on multicast",
-    "url": "https://thomask.sdf.org/blog/2021/08/24/apples-bizarre-crackdown-on-multicast.html",
-    "score": 23,
-    "flags": 0,
-    "comment_count": 16,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/73ozkc/apple_s_bizarre_crackdown_on_multicast",
-    "submitter_user": {
-      "username": "thombles",
-      "created_at": "2019-02-15T04:50:34.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 476,
-      "avatar_url": "/avatars/thombles-100.png",
-      "invited_by_user": "calvin"
-    },
-    "tags": [
-      "ios",
-      "rant"
     ]
   }
 ]
