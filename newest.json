@@ -1,13 +1,38 @@
 [
   {
+    "short_id": "wmznbt",
+    "short_id_url": "https://lobste.rs/s/wmznbt",
+    "created_at": "2021-08-25T10:32:19.000-05:00",
+    "title": "Discovery vs. Documentation",
+    "url": "https://svpg.com/discovery-vs-documentation/",
+    "score": 1,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/wmznbt/discovery_vs_documentation",
+    "submitter_user": {
+      "username": "squadette",
+      "created_at": "2014-03-04T11:25:26.000-06:00",
+      "is_admin": false,
+      "about": "...of ghost, of flame, and ashes.",
+      "is_moderator": false,
+      "karma": 440,
+      "avatar_url": "/avatars/squadette-100.png",
+      "invited_by_user": "lauris"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "uwfv7s",
     "short_id_url": "https://lobste.rs/s/uwfv7s",
     "created_at": "2021-08-25T10:14:41.000-05:00",
     "title": "Linear Clock: Solar, a clock for a looser experience of time",
     "url": "https://jmw.name/projects/linear-clock/",
-    "score": 1,
+    "score": 8,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/uwfv7s/linear_clock_solar_clock_for_looser",
     "submitter_user": {
@@ -16,9 +41,10 @@
       "is_admin": false,
       "about": "https://www.jmw.name",
       "is_moderator": false,
-      "karma": 21,
+      "karma": 28,
       "avatar_url": "/avatars/jmw-100.png",
-      "invited_by_user": "sleffy"
+      "invited_by_user": "sleffy",
+      "github_username": "jmwilson"
     },
     "tags": [
       "design",
@@ -33,8 +59,8 @@
     "title": "Faster Top Level Domain Name Extraction with Rust",
     "url": "https://tech.marksblogg.com/rdns-domain-name-tld-extract-rust.html",
     "score": 3,
-    "flags": 0,
-    "comment_count": 0,
+    "flags": 1,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/a1jbrq/faster_top_level_domain_name_extraction",
     "submitter_user": {
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 294,
+      "karma": 295,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -113,7 +139,7 @@
     "created_at": "2021-08-25T08:36:02.000-05:00",
     "title": "Friendship ended with the garbage collector",
     "url": "https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -124,7 +150,7 @@
       "is_admin": false,
       "about": "Staff Backend Engineer at [GitLab](https://about.gitlab.com). Author of the [Inko programming language](https://inko-lang.org/).",
       "is_moderator": false,
-      "karma": 463,
+      "karma": 464,
       "avatar_url": "/avatars/yorickpeterse-100.png",
       "invited_by_user": "benlovell",
       "github_username": "YorickPeterse"
@@ -191,7 +217,7 @@
     "created_at": "2021-08-25T07:20:49.000-05:00",
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/spreadsheets/",
-    "score": 9,
+    "score": 14,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -286,7 +312,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 206,
+      "karma": 207,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
@@ -301,7 +327,7 @@
     "created_at": "2021-08-25T05:30:23.000-05:00",
     "title": "LibreServer Bullseye release 1",
     "url": "https://blog.libreserver.org/libreserver-bullseye-release-1",
-    "score": 8,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -312,7 +338,7 @@
       "is_admin": false,
       "about": "Free Software developer and maintainer of the Freedombone and Epicyon projects. Keyboard bashing rhizomatic code cultivator. He/Him.",
       "is_moderator": false,
-      "karma": 179,
+      "karma": 183,
       "avatar_url": "/avatars/bashrc-100.png",
       "invited_by_user": "Shamar"
     },
@@ -340,7 +366,7 @@
       "is_admin": false,
       "about": "https://shusson.info/about",
       "is_moderator": false,
-      "karma": 0,
+      "karma": 1,
       "avatar_url": "/avatars/shusson-100.png",
       "invited_by_user": "gerikson",
       "github_username": "shusson"
@@ -380,7 +406,7 @@
     "created_at": "2021-08-25T00:08:02.000-05:00",
     "title": "Angband in WASM",
     "url": "http://ridiculousfish.com/blog/posts/shelob-angband-in-wasm.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -391,7 +417,7 @@
       "is_admin": false,
       "about": "I work at [Stripe](https://stripe.com).",
       "is_moderator": false,
-      "karma": 3422,
+      "karma": 3423,
       "avatar_url": "/avatars/antifuchs-100.png",
       "invited_by_user": "silentbicycle"
     },
@@ -406,7 +432,7 @@
     "created_at": "2021-08-24T23:14:21.000-05:00",
     "title": "The Search for a FLOSS Mobile OS",
     "url": "https://blog.emacsen.net/blog/2021/08/23/floss-mobile-os-aug-2021/",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -417,7 +443,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82248,
+      "karma": 82251,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -521,7 +547,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82248,
+      "karma": 82251,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -536,9 +562,9 @@
     "created_at": "2021-08-24T19:47:01.000-05:00",
     "title": "SQL vs NoSQL is the Wrong Distinction",
     "url": "https://www.softwareatscale.dev/p/sql-vs-nosql-is-the-wrong-distinction",
-    "score": 4,
+    "score": 6,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/l6lk5f/sql_vs_nosql_is_wrong_distinction",
     "submitter_user": {
@@ -547,7 +573,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 133,
+      "karma": 135,
       "avatar_url": "/avatars/utsav-100.png",
       "invited_by_user": "jamwt",
       "twitter_username": "utsav_sha"
@@ -562,7 +588,7 @@
     "created_at": "2021-08-24T19:13:29.000-05:00",
     "title": "DOS haven : modern DOS games, new games for DOS",
     "url": "http://www.doshaven.eu/",
-    "score": 14,
+    "score": 16,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -573,7 +599,7 @@
       "is_admin": false,
       "about": "* martindemello@gmail.com\r\n\r\n* http://www.github.com/martindemello\r\n\r\n* http://www.twitter.com/zem42",
       "is_moderator": false,
-      "karma": 4905,
+      "karma": 4907,
       "avatar_url": "/avatars/zem-100.png",
       "invited_by_user": "vjoel",
       "github_username": "martindemello"
@@ -588,7 +614,7 @@
     "created_at": "2021-08-24T18:55:01.000-05:00",
     "title": "Nelua programming language",
     "url": "https://nelua.io/",
-    "score": 20,
+    "score": 22,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -599,7 +625,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1551,
+      "karma": 1553,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -625,7 +651,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82248,
+      "karma": 82251,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -633,32 +659,6 @@
     "tags": [
       "debugging",
       "security"
-    ]
-  },
-  {
-    "short_id": "sb72xs",
-    "short_id_url": "https://lobste.rs/s/sb72xs",
-    "created_at": "2021-08-24T18:00:14.000-05:00",
-    "title": "Sprott's Fractal Gallery",
-    "url": "http://sprott.physics.wisc.edu/FRACTALS.HTM",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sb72xs/sprott_s_fractal_gallery",
-    "submitter_user": {
-      "username": "classichasclass",
-      "created_at": "2018-11-05T18:45:47.000-06:00",
-      "is_admin": false,
-      "about": "mostly harmless",
-      "is_moderator": false,
-      "karma": 1551,
-      "avatar_url": "/avatars/classichasclass-100.png",
-      "invited_by_user": "sevan"
-    },
-    "tags": [
-      "graphics",
-      "math"
     ]
   }
 ]
