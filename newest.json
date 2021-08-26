@@ -1,11 +1,39 @@
 [
   {
+    "short_id": "29q0no",
+    "short_id_url": "https://lobste.rs/s/29q0no",
+    "created_at": "2021-08-26T16:10:35.000-05:00",
+    "title": "Writing a simple JSON library from scratch: a tour through modern C++",
+    "url": "https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/29q0no/writing_simple_json_library_from_scratch",
+    "submitter_user": {
+      "username": "eatonphil",
+      "created_at": "2019-09-01T20:23:02.000-05:00",
+      "is_admin": false,
+      "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
+      "is_moderator": false,
+      "karma": 1271,
+      "avatar_url": "/avatars/eatonphil-100.png",
+      "invited_by_user": "calvin",
+      "github_username": "eatonphil",
+      "twitter_username": "phil_eaton"
+    },
+    "tags": [
+      "c++",
+      "plt"
+    ]
+  },
+  {
     "short_id": "e7nwwb",
     "short_id_url": "https://lobste.rs/s/e7nwwb",
     "created_at": "2021-08-26T15:05:20.000-05:00",
     "title": "The 74,000 numbers of Barclays Bank",
     "url": "https://shkspr.mobi/blog/2021/05/the-74000-numbers-of-barclays-bank/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +44,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 611,
+      "karma": 612,
       "avatar_url": "/avatars/indigo-100.png",
       "invited_by_user": "tluyben2"
     },
@@ -113,7 +141,7 @@
     "created_at": "2021-08-26T10:41:36.000-05:00",
     "title": "Nix/NixOS package version diff tool",
     "url": "https://gitlab.com/khumba/nvd",
-    "score": 12,
+    "score": 13,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -124,7 +152,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 20,
+      "karma": 21,
       "avatar_url": "/avatars/deylami-100.png",
       "invited_by_user": "badtuple"
     },
@@ -141,7 +169,7 @@
     "created_at": "2021-08-26T08:52:12.000-05:00",
     "title": "prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data",
     "url": "https://github.com/marceloprates/prettymaps",
-    "score": 10,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -152,7 +180,7 @@
       "is_admin": false,
       "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
       "is_moderator": false,
-      "karma": 1527,
+      "karma": 1530,
       "avatar_url": "/avatars/learnbyexample-100.png",
       "invited_by_user": "ngoldbaum",
       "twitter_username": "learn_byexample"
@@ -217,7 +245,7 @@
     "created_at": "2021-08-26T08:07:16.000-05:00",
     "title": "Linux in a Pixel Shader - A RISC-V Emulator for VRChat",
     "url": "https://blog.pimaker.at/texts/rvc1/",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -228,7 +256,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82373,
+      "karma": 82375,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -271,8 +299,8 @@
     "created_at": "2021-08-26T07:30:34.000-05:00",
     "title": "Learning by rewriting - bash, jq and fzf details",
     "url": "http://qmacro.org/2021/08/26/learning-by-rewriting/",
-    "score": 14,
-    "flags": 0,
+    "score": 13,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/a1uqbz/learning_by_rewriting_bash_jq_fzf_details",
@@ -282,7 +310,7 @@
       "is_admin": false,
       "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
       "is_moderator": false,
-      "karma": 331,
+      "karma": 330,
       "avatar_url": "/avatars/qmacro-100.png",
       "invited_by_user": "martinrue",
       "github_username": "qmacro",
@@ -325,9 +353,9 @@
     "created_at": "2021-08-26T04:05:38.000-05:00",
     "title": "there is no such thing as a “glibc based alpine image”",
     "url": "https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/",
-    "score": 48,
+    "score": 51,
     "flags": 1,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/6tgmsr/there_is_no_such_thing_as_glibc_based",
     "submitter_user": {
@@ -336,7 +364,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10670,
+      "karma": 10673,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -383,7 +411,7 @@
     "created_at": "2021-08-26T01:14:09.000-05:00",
     "title": "SAT/SMT by Example",
     "url": "https://sat-smt.codes/SAT_SMT_by_example.pdf",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -394,7 +422,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 454,
+      "karma": 455,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -463,7 +491,7 @@
     "url": "https://www.jelmer.uk/fresh-builds.html",
     "score": 10,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ggxo1x/thousands_debian_packages_updated_from",
     "submitter_user": {
@@ -472,7 +500,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82373,
+      "karma": 82375,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -498,7 +526,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82373,
+      "karma": 82375,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -513,9 +541,9 @@
     "created_at": "2021-08-25T19:33:00.000-05:00",
     "title": "Rudra: a static analyzer to detect common undefined behaviors in Rust programs",
     "url": "https://github.com/sslab-gatech/Rudra",
-    "score": 16,
+    "score": 17,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/essxzj/rudra_static_analyzer_detect_common",
     "submitter_user": {
@@ -524,7 +552,7 @@
       "is_admin": false,
       "about": "I made the initial port of Rust to ARM and Android.",
       "is_moderator": false,
-      "karma": 8369,
+      "karma": 8370,
       "avatar_url": "/avatars/sanxiyn-100.png",
       "invited_by_user": "steveklabnik",
       "github_username": "sanxiyn",
@@ -607,7 +635,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3590,
+      "karma": 3591,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -628,7 +656,7 @@
     "created_at": "2021-08-25T14:43:14.000-05:00",
     "title": "New internet service calls for a new router",
     "url": "https://medium.com/@sdier/new-internet-service-calls-for-a-new-router-4dbebbdc6dbd",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -639,7 +667,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3590,
+      "karma": 3591,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -653,38 +681,6 @@
     "tags": [
       "hardware",
       "networking"
-    ]
-  },
-  {
-    "short_id": "dpqrnf",
-    "short_id_url": "https://lobste.rs/s/dpqrnf",
-    "created_at": "2021-08-25T14:23:06.000-05:00",
-    "title": "Protecting more with Site Isolation",
-    "url": "https://security.googleblog.com/2021/07/protecting-more-with-site-isolation.html",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dpqrnf/protecting_more_with_site_isolation",
-    "submitter_user": {
-      "username": "freddyb",
-      "created_at": "2017-02-02T09:12:16.000-06:00",
-      "is_admin": false,
-      "about": "Security. Mostly in Browsers, but not exclusively.",
-      "is_moderator": false,
-      "karma": 5941,
-      "avatar_url": "/avatars/freddyb-100.png",
-      "invited_by_user": "stas",
-      "keybase_signatures": [
-        {
-          "kb_username": "freddyb",
-          "sig_hash": "550e2f5b27d4b5d558c02dfb2b23a628e90635183c93f993eeea4e16b20c51150f"
-        }
-      ]
-    },
-    "tags": [
-      "browsers",
-      "security"
     ]
   }
 ]
