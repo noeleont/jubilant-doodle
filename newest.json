@@ -1,5 +1,56 @@
 [
   {
+    "short_id": "bxl9ba",
+    "short_id_url": "https://lobste.rs/s/bxl9ba",
+    "created_at": "2021-08-26T08:52:12.000-05:00",
+    "title": "prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data",
+    "url": "https://github.com/marceloprates/prettymaps",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/bxl9ba/prettymaps_small_set_python_functions",
+    "submitter_user": {
+      "username": "learnbyexample",
+      "created_at": "2020-06-15T09:51:10.000-05:00",
+      "is_admin": false,
+      "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
+      "is_moderator": false,
+      "karma": 1518,
+      "avatar_url": "/avatars/learnbyexample-100.png",
+      "invited_by_user": "ngoldbaum",
+      "twitter_username": "learn_byexample"
+    },
+    "tags": [
+      "python"
+    ]
+  },
+  {
+    "short_id": "0oz7gw",
+    "short_id_url": "https://lobste.rs/s/0oz7gw",
+    "created_at": "2021-08-26T08:28:51.000-05:00",
+    "title": "Haiku activity report - Summer 2021",
+    "url": "https://www.haiku-os.org/blog/pulkomandy/2021-08-24-haiku_activity_report_summer_2021/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/0oz7gw/haiku_activity_report_summer_2021",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 2025,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "osdev"
+    ]
+  },
+  {
     "short_id": "dbv481",
     "short_id_url": "https://lobste.rs/s/dbv481",
     "created_at": "2021-08-26T08:15:07.000-05:00",
@@ -21,7 +72,7 @@
       "invited_by_user": "lauris"
     },
     "tags": [
-      "databases"
+      "practices"
     ]
   },
   {
@@ -41,7 +92,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82337,
+      "karma": 82342,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -112,7 +163,7 @@
     "created_at": "2021-08-26T07:05:25.000-05:00",
     "title": "Postgres Extensions in Rust",
     "url": "https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -123,7 +174,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2021,
+      "karma": 2025,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -138,7 +189,7 @@
     "created_at": "2021-08-26T04:05:38.000-05:00",
     "title": "there is no such thing as a “glibc based alpine image”",
     "url": "https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/",
-    "score": 17,
+    "score": 20,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -149,7 +200,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10639,
+      "karma": 10642,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -222,7 +273,7 @@
     "created_at": "2021-08-25T23:12:58.000-05:00",
     "title": "C++20 Concepts",
     "url": "https://vorbrodt.blog/2021/08/25/c20-concepts/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -233,7 +284,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11928,
+      "karma": 11929,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -285,7 +336,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82337,
+      "karma": 82342,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -311,7 +362,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82337,
+      "karma": 82342,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -326,7 +377,7 @@
     "created_at": "2021-08-25T19:33:00.000-05:00",
     "title": "Rudra: a static analyzer to detect common undefined behaviors in Rust programs",
     "url": "https://github.com/sslab-gatech/Rudra",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -337,7 +388,7 @@
       "is_admin": false,
       "about": "I made the initial port of Rust to ARM and Android.",
       "is_moderator": false,
-      "karma": 8360,
+      "karma": 8362,
       "avatar_url": "/avatars/sanxiyn-100.png",
       "invited_by_user": "steveklabnik",
       "github_username": "sanxiyn",
@@ -564,7 +615,7 @@
     "created_at": "2021-08-25T13:34:35.000-05:00",
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "score": 45,
+    "score": 48,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -575,7 +626,7 @@
       "is_admin": false,
       "about": "Illuminati developer",
       "is_moderator": false,
-      "karma": 451,
+      "karma": 454,
       "avatar_url": "/avatars/aarroyoc-100.png",
       "invited_by_user": "zxtx"
     },
@@ -632,58 +683,6 @@
     },
     "tags": [
       "culture",
-      "practices"
-    ]
-  },
-  {
-    "short_id": "w5ider",
-    "short_id_url": "https://lobste.rs/s/w5ider",
-    "created_at": "2021-08-25T12:31:57.000-05:00",
-    "title": "Vulnerability in Bumble dating app reveals any user's exact location",
-    "url": "https://robertheaton.com/bumble-vulnerability/",
-    "score": 60,
-    "flags": 0,
-    "comment_count": 10,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/w5ider/vulnerability_bumble_dating_app_reveals",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82337,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "privacy",
-      "security"
-    ]
-  },
-  {
-    "short_id": "wmznbt",
-    "short_id_url": "https://lobste.rs/s/wmznbt",
-    "created_at": "2021-08-25T10:32:19.000-05:00",
-    "title": "Discovery vs. Documentation",
-    "url": "https://svpg.com/discovery-vs-documentation/",
-    "score": 1,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wmznbt/discovery_vs_documentation",
-    "submitter_user": {
-      "username": "squadette",
-      "created_at": "2014-03-04T11:25:26.000-06:00",
-      "is_admin": false,
-      "about": "...of ghost, of flame, and ashes.",
-      "is_moderator": false,
-      "karma": 439,
-      "avatar_url": "/avatars/squadette-100.png",
-      "invited_by_user": "lauris"
-    },
-    "tags": [
       "practices"
     ]
   }
