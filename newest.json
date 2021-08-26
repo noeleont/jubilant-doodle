@@ -1,12 +1,38 @@
 [
   {
+    "short_id": "a2j9ya",
+    "short_id_url": "https://lobste.rs/s/a2j9ya",
+    "created_at": "2021-08-26T07:05:25.000-05:00",
+    "title": "Postgres Extensions in Rust",
+    "url": "https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/a2j9ya/postgres_extensions_rust",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 2021,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "databases",
+      "rust"
+    ]
+  },
+  {
     "short_id": "6tgmsr",
     "short_id_url": "https://lobste.rs/s/6tgmsr",
     "created_at": "2021-08-26T04:05:38.000-05:00",
     "title": "there is no such thing as a “glibc based alpine image”",
     "url": "https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/",
-    "score": 8,
-    "flags": 0,
+    "score": 14,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/6tgmsr/there_is_no_such_thing_as_glibc_based",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10629,
+      "karma": 10635,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -43,7 +69,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5936,
+      "karma": 5937,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -63,7 +89,7 @@
     "created_at": "2021-08-26T01:14:09.000-05:00",
     "title": "SAT/SMT by Example",
     "url": "https://sat-smt.codes/SAT_SMT_by_example.pdf",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -74,7 +100,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 445,
+      "karma": 447,
       "avatar_url": "/avatars/adaszko-100.png",
       "invited_by_user": "bobbywilson0"
     },
@@ -152,7 +178,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82328,
+      "karma": 82335,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -167,7 +193,7 @@
     "created_at": "2021-08-25T20:04:58.000-05:00",
     "title": "Solving Martin Gardner's chess problem using simulated annealing",
     "url": "https://yurichev.com/news/20200224_Martin_Gardner_and_chess/",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -178,7 +204,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82328,
+      "karma": 82335,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -193,7 +219,7 @@
     "created_at": "2021-08-25T19:33:00.000-05:00",
     "title": "Rudra: a static analyzer to detect common undefined behaviors in Rust programs",
     "url": "https://github.com/sslab-gatech/Rudra",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -204,7 +230,7 @@
       "is_admin": false,
       "about": "I made the initial port of Rust to ARM and Android.",
       "is_moderator": false,
-      "karma": 8358,
+      "karma": 8359,
       "avatar_url": "/avatars/sanxiyn-100.png",
       "invited_by_user": "steveklabnik",
       "github_username": "sanxiyn",
@@ -341,7 +367,7 @@
     "created_at": "2021-08-25T14:23:06.000-05:00",
     "title": "Protecting more with Site Isolation",
     "url": "https://security.googleblog.com/2021/07/protecting-more-with-site-isolation.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -352,7 +378,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5936,
+      "karma": 5937,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -373,7 +399,7 @@
     "created_at": "2021-08-25T13:44:41.000-05:00",
     "title": "Useful and Useless Code Comments",
     "url": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
-    "score": 11,
+    "score": 13,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -384,7 +410,7 @@
       "is_admin": false,
       "about": "I blog at <https://binyam.in/blog>, and study Computer Science at [CCBC MD](https://www.ccbcmd.edu/).",
       "is_moderator": false,
-      "karma": 184,
+      "karma": 186,
       "avatar_url": "/avatars/binyamin-100.png",
       "invited_by_user": "innovati",
       "keybase_signatures": [
@@ -431,7 +457,7 @@
     "created_at": "2021-08-25T13:34:35.000-05:00",
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "score": 44,
+    "score": 45,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -442,7 +468,7 @@
       "is_admin": false,
       "about": "Illuminati developer",
       "is_moderator": false,
-      "karma": 450,
+      "karma": 451,
       "avatar_url": "/avatars/aarroyoc-100.png",
       "invited_by_user": "zxtx"
     },
@@ -508,9 +534,9 @@
     "created_at": "2021-08-25T12:31:57.000-05:00",
     "title": "Vulnerability in Bumble dating app reveals any user's exact location",
     "url": "https://robertheaton.com/bumble-vulnerability/",
-    "score": 56,
+    "score": 60,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/w5ider/vulnerability_bumble_dating_app_reveals",
     "submitter_user": {
@@ -519,7 +545,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82328,
+      "karma": 82335,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -661,34 +687,6 @@
       "elixir",
       "performance",
       "rust"
-    ]
-  },
-  {
-    "short_id": "htcrls",
-    "short_id_url": "https://lobste.rs/s/htcrls",
-    "created_at": "2021-08-25T08:36:02.000-05:00",
-    "title": "Friendship ended with the garbage collector",
-    "url": "https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/",
-    "score": 21,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/htcrls/friendship_ended_with_garbage_collector",
-    "submitter_user": {
-      "username": "yorickpeterse",
-      "created_at": "2019-06-10T09:26:43.000-05:00",
-      "is_admin": false,
-      "about": "Staff Backend Engineer at [GitLab](https://about.gitlab.com). Author of the [Inko programming language](https://inko-lang.org/).",
-      "is_moderator": false,
-      "karma": 484,
-      "avatar_url": "/avatars/yorickpeterse-100.png",
-      "invited_by_user": "benlovell",
-      "github_username": "YorickPeterse"
-    },
-    "tags": [
-      "compilers",
-      "plt",
-      "programming"
     ]
   }
 ]
