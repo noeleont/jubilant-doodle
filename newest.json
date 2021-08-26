@@ -1,5 +1,112 @@
 [
   {
+    "short_id": "dbv481",
+    "short_id_url": "https://lobste.rs/s/dbv481",
+    "created_at": "2021-08-26T08:15:07.000-05:00",
+    "title": "Database modeling, stakeholders and their concerns",
+    "url": "https://minimalmodeling.substack.com/p/stakeholders-and-their-concerns",
+    "score": 0,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dbv481/database_modeling_stakeholders_their",
+    "submitter_user": {
+      "username": "squadette",
+      "created_at": "2014-03-04T11:25:26.000-06:00",
+      "is_admin": false,
+      "about": "...of ghost, of flame, and ashes.",
+      "is_moderator": false,
+      "karma": 439,
+      "avatar_url": "/avatars/squadette-100.png",
+      "invited_by_user": "lauris"
+    },
+    "tags": [
+      "databases"
+    ]
+  },
+  {
+    "short_id": "etmbbf",
+    "short_id_url": "https://lobste.rs/s/etmbbf",
+    "created_at": "2021-08-26T08:07:16.000-05:00",
+    "title": "Linux in a Pixel Shader - A RISC-V Emulator for VRChat",
+    "url": "https://blog.pimaker.at/texts/rvc1/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/etmbbf/linux_pixel_shader_risc_v_emulator_for",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82337,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "assembly",
+      "graphics"
+    ]
+  },
+  {
+    "short_id": "ze3cg7",
+    "short_id_url": "https://lobste.rs/s/ze3cg7",
+    "created_at": "2021-08-26T07:54:51.000-05:00",
+    "title": "Easily Send your git commits to skype group chats using skpy",
+    "url": "https://github.com/abbbi/git2skype",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ze3cg7/easily_send_your_git_commits_skype_group",
+    "submitter_user": {
+      "username": "abi",
+      "created_at": "2019-10-01T13:50:36.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 110,
+      "avatar_url": "/avatars/abi-100.png",
+      "invited_by_user": "JordiGH"
+    },
+    "tags": [
+      "devops",
+      "practices",
+      "python"
+    ]
+  },
+  {
+    "short_id": "a1uqbz",
+    "short_id_url": "https://lobste.rs/s/a1uqbz",
+    "created_at": "2021-08-26T07:30:34.000-05:00",
+    "title": "Learning by rewriting - bash, jq and fzf details",
+    "url": "http://qmacro.org/2021/08/26/learning-by-rewriting/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/a1uqbz/learning_by_rewriting_bash_jq_fzf_details",
+    "submitter_user": {
+      "username": "qmacro",
+      "created_at": "2020-01-24T10:48:42.000-06:00",
+      "is_admin": false,
+      "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
+      "is_moderator": false,
+      "karma": 319,
+      "avatar_url": "/avatars/qmacro-100.png",
+      "invited_by_user": "martinrue",
+      "github_username": "qmacro",
+      "twitter_username": "qmacro"
+    },
+    "tags": [
+      "linux",
+      "practices"
+    ]
+  },
+  {
     "short_id": "a2j9ya",
     "short_id_url": "https://lobste.rs/s/a2j9ya",
     "created_at": "2021-08-26T07:05:25.000-05:00",
@@ -31,7 +138,7 @@
     "created_at": "2021-08-26T04:05:38.000-05:00",
     "title": "there is no such thing as a “glibc based alpine image”",
     "url": "https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/",
-    "score": 14,
+    "score": 17,
     "flags": 1,
     "comment_count": 0,
     "description": "",
@@ -42,7 +149,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10635,
+      "karma": 10639,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -58,7 +165,7 @@
     "created_at": "2021-08-26T02:58:36.000-05:00",
     "title": "Web API Deprecation Metrics",
     "url": "https://deprecate.it/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +176,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5937,
+      "karma": 5938,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -151,7 +258,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1561,
+      "karma": 1562,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -167,9 +274,9 @@
     "created_at": "2021-08-25T20:58:41.000-05:00",
     "title": "Thousands of Debian packages updated from their upstream Git repository",
     "url": "https://www.jelmer.uk/fresh-builds.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ggxo1x/thousands_debian_packages_updated_from",
     "submitter_user": {
@@ -178,7 +285,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82335,
+      "karma": 82337,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -193,7 +300,7 @@
     "created_at": "2021-08-25T20:04:58.000-05:00",
     "title": "Solving Martin Gardner's chess problem using simulated annealing",
     "url": "https://yurichev.com/news/20200224_Martin_Gardner_and_chess/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -204,7 +311,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82335,
+      "karma": 82337,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -219,7 +326,7 @@
     "created_at": "2021-08-25T19:33:00.000-05:00",
     "title": "Rudra: a static analyzer to detect common undefined behaviors in Rust programs",
     "url": "https://github.com/sslab-gatech/Rudra",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -230,7 +337,7 @@
       "is_admin": false,
       "about": "I made the initial port of Rust to ARM and Android.",
       "is_moderator": false,
-      "karma": 8359,
+      "karma": 8360,
       "avatar_url": "/avatars/sanxiyn-100.png",
       "invited_by_user": "steveklabnik",
       "github_username": "sanxiyn",
@@ -275,7 +382,7 @@
     "created_at": "2021-08-25T14:54:58.000-05:00",
     "title": "Diggin’ and Fetchin’ with TruffleRuby",
     "url": "https://shopify.engineering/dig-fetch-truffleruby",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -286,7 +393,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2084,
+      "karma": 2085,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -313,7 +420,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3585,
+      "karma": 3586,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -334,7 +441,7 @@
     "created_at": "2021-08-25T14:43:14.000-05:00",
     "title": "New internet service calls for a new router",
     "url": "https://medium.com/@sdier/new-internet-service-calls-for-a-new-router-4dbebbdc6dbd",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -345,7 +452,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3585,
+      "karma": 3586,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -378,7 +485,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5937,
+      "karma": 5938,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -431,7 +538,7 @@
     "created_at": "2021-08-25T13:34:54.000-05:00",
     "title": "Bosch FGS-4000 demo",
     "url": "https://www.youtube.com/watch?v=9oyGaEu7D7s",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "<p>Used in “Money for nothing” by Dire Straits, but also made by the guys who brought you ReBoot (my favorite childhood show ever.)</p>\n",
@@ -442,7 +549,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1730,
+      "karma": 1732,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -545,7 +652,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82335,
+      "karma": 82337,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -572,121 +679,12 @@
       "is_admin": false,
       "about": "...of ghost, of flame, and ashes.",
       "is_moderator": false,
-      "karma": 440,
+      "karma": 439,
       "avatar_url": "/avatars/squadette-100.png",
       "invited_by_user": "lauris"
     },
     "tags": [
       "practices"
-    ]
-  },
-  {
-    "short_id": "uwfv7s",
-    "short_id_url": "https://lobste.rs/s/uwfv7s",
-    "created_at": "2021-08-25T10:14:41.000-05:00",
-    "title": "Linear Clock: Solar, a clock for a looser experience of time",
-    "url": "https://jmw.name/projects/linear-clock/",
-    "score": 42,
-    "flags": 2,
-    "comment_count": 18,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uwfv7s/linear_clock_solar_clock_for_looser",
-    "submitter_user": {
-      "username": "jmw",
-      "created_at": "2018-12-10T01:41:37.000-06:00",
-      "is_admin": false,
-      "about": "San Francisco-based software and electronics engineering generalist. Formerly @ Facebook, Oracle.",
-      "is_moderator": false,
-      "karma": 85,
-      "avatar_url": "/avatars/jmw-100.png",
-      "invited_by_user": "sleffy",
-      "github_username": "jmwilson"
-    },
-    "tags": [
-      "design",
-      "hardware",
-      "show"
-    ]
-  },
-  {
-    "short_id": "a1jbrq",
-    "short_id_url": "https://lobste.rs/s/a1jbrq",
-    "created_at": "2021-08-25T09:48:36.000-05:00",
-    "title": "Faster Top Level Domain Name Extraction with Rust",
-    "url": "https://tech.marksblogg.com/rdns-domain-name-tld-extract-rust.html",
-    "score": 16,
-    "flags": 2,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/a1jbrq/faster_top_level_domain_name_extraction",
-    "submitter_user": {
-      "username": "marklit",
-      "created_at": "2017-02-21T09:57:14.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 320,
-      "avatar_url": "/avatars/marklit-100.png",
-      "invited_by_user": "vdm"
-    },
-    "tags": [
-      "rust"
-    ]
-  },
-  {
-    "short_id": "zdrqir",
-    "short_id_url": "https://lobste.rs/s/zdrqir",
-    "created_at": "2021-08-25T09:33:53.000-05:00",
-    "title": "Efficient Implementation of Java Interfaces: Invokeinterface Considered Harmless (2001)",
-    "url": "https://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=D2E23939503D6F7B6D2017CA19A0667F?doi=10.1.1.21.7133&rep=rep1&type=pdf",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p>Single superclass inheritance enables simple and efficient table-driven virtual method dispatcj. However, virtual method table dispatch does not handle multiple inheritance and interfaces. This complication has led to a widespread misimpression that interface method dispatch is inherently inefficient. This paper argues that with proper implementation techniques, Java interfaces need not be a source of significant performance degradation.</p>\n",
-    "comments_url": "https://lobste.rs/s/zdrqir/efficient_implementation_java",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 2084,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "compilers",
-      "pdf"
-    ]
-  },
-  {
-    "short_id": "jig9re",
-    "short_id_url": "https://lobste.rs/s/jig9re",
-    "created_at": "2021-08-25T08:43:14.000-05:00",
-    "title": "Using Rust with Elixir for code reuse and performance",
-    "url": "https://blog.doctave.com/2021/08/19/using-rust-with-elixir-for-code-reuse-and-performance.html",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jig9re/using_rust_with_elixir_for_code_reuse",
-    "submitter_user": {
-      "username": "yonkeltron",
-      "created_at": "2018-07-09T19:03:57.000-05:00",
-      "is_admin": false,
-      "about": "https://twitter.com/yonkeltron",
-      "is_moderator": false,
-      "karma": 1582,
-      "avatar_url": "/avatars/yonkeltron-100.png",
-      "invited_by_user": "rocx",
-      "github_username": "yonkeltron",
-      "twitter_username": "yonkeltron"
-    },
-    "tags": [
-      "elixir",
-      "performance",
-      "rust"
     ]
   }
 ]
