@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "essxzj",
+    "short_id_url": "https://lobste.rs/s/essxzj",
+    "created_at": "2021-08-25T19:33:00.000-05:00",
+    "title": "Rudra: a static analyzer to detect common undefined behaviors in Rust programs",
+    "url": "https://github.com/sslab-gatech/Rudra",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/essxzj/rudra_static_analyzer_detect_common",
+    "submitter_user": {
+      "username": "sanxiyn",
+      "created_at": "2015-01-21T09:51:34.000-06:00",
+      "is_admin": false,
+      "about": "I made the initial port of Rust to ARM and Android.",
+      "is_moderator": false,
+      "karma": 8354,
+      "avatar_url": "/avatars/sanxiyn-100.png",
+      "invited_by_user": "steveklabnik",
+      "github_username": "sanxiyn",
+      "twitter_username": "sanxiyn"
+    },
+    "tags": [
+      "formalmethods",
+      "rust"
+    ]
+  },
+  {
     "short_id": "brhioi",
     "short_id_url": "https://lobste.rs/s/brhioi",
     "created_at": "2021-08-25T15:25:12.000-05:00",
@@ -33,7 +61,7 @@
     "created_at": "2021-08-25T14:54:58.000-05:00",
     "title": "Diggin’ and Fetchin’ with TruffleRuby",
     "url": "https://shopify.engineering/dig-fetch-truffleruby",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -44,7 +72,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2082,
+      "karma": 2083,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -71,7 +99,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3573,
+      "karma": 3575,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -92,7 +120,7 @@
     "created_at": "2021-08-25T14:43:14.000-05:00",
     "title": "New internet service calls for a new router",
     "url": "https://medium.com/@sdier/new-internet-service-calls-for-a-new-router-4dbebbdc6dbd",
-    "score": 5,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -103,7 +131,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3573,
+      "karma": 3575,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -157,9 +185,9 @@
     "created_at": "2021-08-25T13:44:41.000-05:00",
     "title": "Useful and Useless Code Comments",
     "url": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
-    "score": 6,
+    "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/ogk6hw/useful_useless_code_comments",
     "submitter_user": {
@@ -168,7 +196,7 @@
       "is_admin": false,
       "about": "I blog at <https://binyam.in/blog>, and study Computer Science at [CCBC MD](https://www.ccbcmd.edu/).",
       "is_moderator": false,
-      "karma": 179,
+      "karma": 182,
       "avatar_url": "/avatars/binyamin-100.png",
       "invited_by_user": "innovati",
       "keybase_signatures": [
@@ -189,7 +217,7 @@
     "created_at": "2021-08-25T13:34:54.000-05:00",
     "title": "Bosch FGS-4000 demo",
     "url": "https://www.youtube.com/watch?v=9oyGaEu7D7s",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "<p>Used in “Money for nothing” by Dire Straits, but also made by the guys who brought you ReBoot (my favorite childhood show ever.)</p>\n",
@@ -200,7 +228,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1726,
+      "karma": 1727,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -215,7 +243,7 @@
     "created_at": "2021-08-25T13:34:35.000-05:00",
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "score": 23,
+    "score": 26,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -226,7 +254,7 @@
       "is_admin": false,
       "about": "Illuminati developer",
       "is_moderator": false,
-      "karma": 429,
+      "karma": 432,
       "avatar_url": "/avatars/aarroyoc-100.png",
       "invited_by_user": "zxtx"
     },
@@ -266,7 +294,7 @@
     "created_at": "2021-08-25T12:44:47.000-05:00",
     "title": "A list of public tech migrations with technical explanations from the companies",
     "url": "https://github.com/kokizzu/list-of-tech-migrations",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -277,7 +305,7 @@
       "is_admin": false,
       "about": "I am doing stuff on computers.  \r\nSometimes it compiles.  \r\nA few times it works.",
       "is_moderator": false,
-      "karma": 15,
+      "karma": 16,
       "avatar_url": "/avatars/k0pernicus-100.png",
       "invited_by_user": "jstoja"
     },
@@ -292,9 +320,9 @@
     "created_at": "2021-08-25T12:31:57.000-05:00",
     "title": "Vulnerability in Bumble dating app reveals any user's exact location",
     "url": "https://robertheaton.com/bumble-vulnerability/",
-    "score": 31,
+    "score": 36,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/w5ider/vulnerability_bumble_dating_app_reveals",
     "submitter_user": {
@@ -303,7 +331,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82290,
+      "karma": 82295,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -344,7 +372,7 @@
     "created_at": "2021-08-25T10:14:41.000-05:00",
     "title": "Linear Clock: Solar, a clock for a looser experience of time",
     "url": "https://jmw.name/projects/linear-clock/",
-    "score": 30,
+    "score": 32,
     "flags": 1,
     "comment_count": 8,
     "description": "",
@@ -355,7 +383,7 @@
       "is_admin": false,
       "about": "https://www.jmw.name",
       "is_moderator": false,
-      "karma": 59,
+      "karma": 62,
       "avatar_url": "/avatars/jmw-100.png",
       "invited_by_user": "sleffy",
       "github_username": "jmwilson"
@@ -372,7 +400,7 @@
     "created_at": "2021-08-25T09:48:36.000-05:00",
     "title": "Faster Top Level Domain Name Extraction with Rust",
     "url": "https://tech.marksblogg.com/rdns-domain-name-tld-extract-rust.html",
-    "score": 9,
+    "score": 10,
     "flags": 2,
     "comment_count": 4,
     "description": "",
@@ -383,7 +411,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 310,
+      "karma": 312,
       "avatar_url": "/avatars/marklit-100.png",
       "invited_by_user": "vdm"
     },
@@ -408,7 +436,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2082,
+      "karma": 2083,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -453,7 +481,7 @@
     "created_at": "2021-08-25T08:36:02.000-05:00",
     "title": "Friendship ended with the garbage collector",
     "url": "https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/",
-    "score": 13,
+    "score": 15,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -464,7 +492,7 @@
       "is_admin": false,
       "about": "Staff Backend Engineer at [GitLab](https://about.gitlab.com). Author of the [Inko programming language](https://inko-lang.org/).",
       "is_moderator": false,
-      "karma": 476,
+      "karma": 478,
       "avatar_url": "/avatars/yorickpeterse-100.png",
       "invited_by_user": "benlovell",
       "github_username": "YorickPeterse"
@@ -531,9 +559,9 @@
     "created_at": "2021-08-25T07:20:49.000-05:00",
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/spreadsheets/",
-    "score": 28,
+    "score": 29,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/zsphqk/how_recalculate_spreadsheet",
     "submitter_user": {
@@ -643,7 +671,7 @@
     "url": "https://blog.libreserver.org/libreserver-bullseye-release-1",
     "score": 22,
     "flags": 1,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/waqjg2/libreserver_bullseye_release_1",
     "submitter_user": {
@@ -661,32 +689,6 @@
       "networking",
       "release",
       "web"
-    ]
-  },
-  {
-    "short_id": "w3pa4b",
-    "short_id_url": "https://lobste.rs/s/w3pa4b",
-    "created_at": "2021-08-25T04:48:56.000-05:00",
-    "title": "Advanced Cohort Engine for searching longitudinal patient records",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8279796/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/w3pa4b/advanced_cohort_engine_for_searching",
-    "submitter_user": {
-      "username": "shusson",
-      "created_at": "2021-08-25T02:21:45.000-05:00",
-      "is_admin": false,
-      "about": "https://shusson.info/about",
-      "is_moderator": false,
-      "karma": 1,
-      "avatar_url": "/avatars/shusson-100.png",
-      "invited_by_user": "gerikson",
-      "github_username": "shusson"
-    },
-    "tags": [
-      "databases"
     ]
   }
 ]
