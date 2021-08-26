@@ -1,11 +1,63 @@
 [
   {
+    "short_id": "3zxvhn",
+    "short_id_url": "https://lobste.rs/s/3zxvhn",
+    "created_at": "2021-08-25T23:12:58.000-05:00",
+    "title": "C++20 Concepts",
+    "url": "https://vorbrodt.blog/2021/08/25/c20-concepts/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3zxvhn/c_20_concepts",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11923,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++"
+    ]
+  },
+  {
+    "short_id": "kd7gdm",
+    "short_id_url": "https://lobste.rs/s/kd7gdm",
+    "created_at": "2021-08-25T22:37:52.000-05:00",
+    "title": "Pixar Image Computer Demo (1988)",
+    "url": "https://www.youtube.com/watch?v=PhhGfdkK9Ek",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kd7gdm/pixar_image_computer_demo_1988",
+    "submitter_user": {
+      "username": "classichasclass",
+      "created_at": "2018-11-05T18:45:47.000-06:00",
+      "is_admin": false,
+      "about": "mostly harmless",
+      "is_moderator": false,
+      "karma": 1556,
+      "avatar_url": "/avatars/classichasclass-100.png",
+      "invited_by_user": "sevan"
+    },
+    "tags": [
+      "graphics",
+      "historical",
+      "video"
+    ]
+  },
+  {
     "short_id": "ggxo1x",
     "short_id_url": "https://lobste.rs/s/ggxo1x",
     "created_at": "2021-08-25T20:58:41.000-05:00",
     "title": "Thousands of Debian packages updated from their upstream Git repository",
     "url": "https://www.jelmer.uk/fresh-builds.html",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82303,
+      "karma": 82310,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -42,7 +94,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82303,
+      "karma": 82310,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -85,8 +137,8 @@
     "created_at": "2021-08-25T15:25:12.000-05:00",
     "title": "How to unit test machine learning code?",
     "url": "https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code",
-    "score": 1,
-    "flags": 0,
+    "score": 0,
+    "flags": 1,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/brhioi/how_unit_test_machine_learning_code",
@@ -96,7 +148,7 @@
       "is_admin": false,
       "about": "Machine Learning Expert / CEO",
       "is_moderator": false,
-      "karma": 15,
+      "karma": 14,
       "avatar_url": "/avatars/GChevalier-100.png",
       "invited_by_user": "davidjpeacock",
       "github_username": "guillaume-chevalier",
@@ -151,7 +203,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3576,
+      "karma": 3579,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -172,7 +224,7 @@
     "created_at": "2021-08-25T14:43:14.000-05:00",
     "title": "New internet service calls for a new router",
     "url": "https://medium.com/@sdier/new-internet-service-calls-for-a-new-router-4dbebbdc6dbd",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -183,7 +235,7 @@
       "is_admin": false,
       "about": "Senior software engineer specialized in distributed systems and low latency, high frequency trading infrastructure.",
       "is_moderator": false,
-      "karma": 3576,
+      "karma": 3579,
       "avatar_url": "/avatars/knl-100.png",
       "invited_by_user": "james",
       "github_username": "knl",
@@ -295,7 +347,7 @@
     "created_at": "2021-08-25T13:34:35.000-05:00",
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "score": 29,
+    "score": 30,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -306,7 +358,7 @@
       "is_admin": false,
       "about": "Illuminati developer",
       "is_moderator": false,
-      "karma": 435,
+      "karma": 436,
       "avatar_url": "/avatars/aarroyoc-100.png",
       "invited_by_user": "zxtx"
     },
@@ -372,7 +424,7 @@
     "created_at": "2021-08-25T12:31:57.000-05:00",
     "title": "Vulnerability in Bumble dating app reveals any user's exact location",
     "url": "https://robertheaton.com/bumble-vulnerability/",
-    "score": 41,
+    "score": 44,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -383,7 +435,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82303,
+      "karma": 82310,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -424,7 +476,7 @@
     "created_at": "2021-08-25T10:14:41.000-05:00",
     "title": "Linear Clock: Solar, a clock for a looser experience of time",
     "url": "https://jmw.name/projects/linear-clock/",
-    "score": 33,
+    "score": 34,
     "flags": 1,
     "comment_count": 11,
     "description": "",
@@ -435,7 +487,7 @@
       "is_admin": false,
       "about": "San Francisco-based software and electronics engineering generalist. Formerly @ Facebook, Oracle.",
       "is_moderator": false,
-      "karma": 66,
+      "karma": 70,
       "avatar_url": "/avatars/jmw-100.png",
       "invited_by_user": "sleffy",
       "github_username": "jmwilson"
@@ -533,7 +585,7 @@
     "created_at": "2021-08-25T08:36:02.000-05:00",
     "title": "Friendship ended with the garbage collector",
     "url": "https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/",
-    "score": 17,
+    "score": 18,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -544,7 +596,7 @@
       "is_admin": false,
       "about": "Staff Backend Engineer at [GitLab](https://about.gitlab.com). Author of the [Inko programming language](https://inko-lang.org/).",
       "is_moderator": false,
-      "karma": 480,
+      "karma": 481,
       "avatar_url": "/avatars/yorickpeterse-100.png",
       "invited_by_user": "benlovell",
       "github_username": "YorickPeterse"
@@ -572,7 +624,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2019,
+      "karma": 2020,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -635,58 +687,6 @@
     },
     "tags": [
       "compsci"
-    ]
-  },
-  {
-    "short_id": "sirwve",
-    "short_id_url": "https://lobste.rs/s/sirwve",
-    "created_at": "2021-08-25T07:20:27.000-05:00",
-    "title": "@AppStorage explained and replicated for a better alternative",
-    "url": "https://www.avanderlee.com/swift/appstorage-explained/",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/sirwve/appstorage_explained_replicated_for",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 2019,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "swift"
-    ]
-  },
-  {
-    "short_id": "huespc",
-    "short_id_url": "https://lobste.rs/s/huespc",
-    "created_at": "2021-08-25T06:59:00.000-05:00",
-    "title": "On programmer behaviours that make Scrum so bad",
-    "url": "https://www.sicpers.info/2021/08/on-programmer-behaviours-that-make-scrum-so-bad/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/huespc/on_programmer_behaviours_make_scrum_so",
-    "submitter_user": {
-      "username": "j11g",
-      "created_at": "2017-07-17T09:39:28.000-05:00",
-      "is_admin": false,
-      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
-      "is_moderator": false,
-      "karma": 4400,
-      "avatar_url": "/avatars/j11g-100.png",
-      "invited_by_user": "mischa",
-      "twitter_username": "loginn"
-    },
-    "tags": [
-      "culture",
-      "programming"
     ]
   }
 ]
