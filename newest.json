@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "ggxo1x",
+    "short_id_url": "https://lobste.rs/s/ggxo1x",
+    "created_at": "2021-08-25T20:58:41.000-05:00",
+    "title": "Thousands of Debian packages updated from their upstream Git repository",
+    "url": "https://www.jelmer.uk/fresh-builds.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ggxo1x/thousands_debian_packages_updated_from",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82300,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "linux"
+    ]
+  },
+  {
     "short_id": "8mjujj",
     "short_id_url": "https://lobste.rs/s/8mjujj",
     "created_at": "2021-08-25T20:04:58.000-05:00",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82297,
+      "karma": 82300,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -87,7 +113,7 @@
     "created_at": "2021-08-25T14:54:58.000-05:00",
     "title": "Diggin’ and Fetchin’ with TruffleRuby",
     "url": "https://shopify.engineering/dig-fetch-truffleruby",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -98,7 +124,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2083,
+      "karma": 2084,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -211,7 +237,7 @@
     "created_at": "2021-08-25T13:44:41.000-05:00",
     "title": "Useful and Useless Code Comments",
     "url": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -222,7 +248,7 @@
       "is_admin": false,
       "about": "I blog at <https://binyam.in/blog>, and study Computer Science at [CCBC MD](https://www.ccbcmd.edu/).",
       "is_moderator": false,
-      "karma": 183,
+      "karma": 184,
       "avatar_url": "/avatars/binyamin-100.png",
       "invited_by_user": "innovati",
       "keybase_signatures": [
@@ -243,9 +269,9 @@
     "created_at": "2021-08-25T13:34:54.000-05:00",
     "title": "Bosch FGS-4000 demo",
     "url": "https://www.youtube.com/watch?v=9oyGaEu7D7s",
-    "score": 3,
+    "score": 4,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "<p>Used in “Money for nothing” by Dire Straits, but also made by the guys who brought you ReBoot (my favorite childhood show ever.)</p>\n",
     "comments_url": "https://lobste.rs/s/cgqioe/bosch_fgs_4000_demo",
     "submitter_user": {
@@ -254,7 +280,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1727,
+      "karma": 1728,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -269,7 +295,7 @@
     "created_at": "2021-08-25T13:34:35.000-05:00",
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "score": 28,
+    "score": 29,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -280,7 +306,7 @@
       "is_admin": false,
       "about": "Illuminati developer",
       "is_moderator": false,
-      "karma": 434,
+      "karma": 435,
       "avatar_url": "/avatars/aarroyoc-100.png",
       "invited_by_user": "zxtx"
     },
@@ -346,7 +372,7 @@
     "created_at": "2021-08-25T12:31:57.000-05:00",
     "title": "Vulnerability in Bumble dating app reveals any user's exact location",
     "url": "https://robertheaton.com/bumble-vulnerability/",
-    "score": 38,
+    "score": 39,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -357,7 +383,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82297,
+      "karma": 82300,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -409,7 +435,7 @@
       "is_admin": false,
       "about": "https://www.jmw.name",
       "is_moderator": false,
-      "karma": 63,
+      "karma": 64,
       "avatar_url": "/avatars/jmw-100.png",
       "invited_by_user": "sleffy",
       "github_username": "jmwilson"
@@ -462,7 +488,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2083,
+      "karma": 2084,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -507,7 +533,7 @@
     "created_at": "2021-08-25T08:36:02.000-05:00",
     "title": "Friendship ended with the garbage collector",
     "url": "https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/",
-    "score": 16,
+    "score": 17,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -518,7 +544,7 @@
       "is_admin": false,
       "about": "Staff Backend Engineer at [GitLab](https://about.gitlab.com). Author of the [Inko programming language](https://inko-lang.org/).",
       "is_moderator": false,
-      "karma": 479,
+      "karma": 480,
       "avatar_url": "/avatars/yorickpeterse-100.png",
       "invited_by_user": "benlovell",
       "github_username": "YorickPeterse"
@@ -661,32 +687,6 @@
     "tags": [
       "culture",
       "programming"
-    ]
-  },
-  {
-    "short_id": "wnsopf",
-    "short_id_url": "https://lobste.rs/s/wnsopf",
-    "created_at": "2021-08-25T06:26:21.000-05:00",
-    "title": "Introducing a GraphQL-native approach to webhooks",
-    "url": "https://sourcehut.org/blog/2021-08-25-graphql-native-webhooks/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wnsopf/introducing_graphql_native_approach",
-    "submitter_user": {
-      "username": "frenkel",
-      "created_at": "2021-01-25T10:22:40.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 214,
-      "avatar_url": "/avatars/frenkel-100.png",
-      "invited_by_user": "pushcx"
-    },
-    "tags": [
-      "api",
-      "web"
     ]
   }
 ]
