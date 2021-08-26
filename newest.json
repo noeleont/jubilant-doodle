@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "8mjujj",
+    "short_id_url": "https://lobste.rs/s/8mjujj",
+    "created_at": "2021-08-25T20:04:58.000-05:00",
+    "title": "Solving Martin Gardner's chess problem using simulated annealing",
+    "url": "https://yurichev.com/news/20200224_Martin_Gardner_and_chess/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/8mjujj/solving_martin_gardner_s_chess_problem",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82297,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "essxzj",
     "short_id_url": "https://lobste.rs/s/essxzj",
     "created_at": "2021-08-25T19:33:00.000-05:00",
     "title": "Rudra: a static analyzer to detect common undefined behaviors in Rust programs",
     "url": "https://github.com/sslab-gatech/Rudra",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "I made the initial port of Rust to ARM and Android.",
       "is_moderator": false,
-      "karma": 8354,
+      "karma": 8355,
       "avatar_url": "/avatars/sanxiyn-100.png",
       "invited_by_user": "steveklabnik",
       "github_username": "sanxiyn",
@@ -185,7 +211,7 @@
     "created_at": "2021-08-25T13:44:41.000-05:00",
     "title": "Useful and Useless Code Comments",
     "url": "https://blog.jim-nielsen.com/2021/useful-and-usless-code-comments/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -196,7 +222,7 @@
       "is_admin": false,
       "about": "I blog at <https://binyam.in/blog>, and study Computer Science at [CCBC MD](https://www.ccbcmd.edu/).",
       "is_moderator": false,
-      "karma": 182,
+      "karma": 183,
       "avatar_url": "/avatars/binyamin-100.png",
       "invited_by_user": "innovati",
       "keybase_signatures": [
@@ -243,7 +269,7 @@
     "created_at": "2021-08-25T13:34:35.000-05:00",
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "score": 26,
+    "score": 28,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -254,7 +280,7 @@
       "is_admin": false,
       "about": "Illuminati developer",
       "is_moderator": false,
-      "karma": 432,
+      "karma": 434,
       "avatar_url": "/avatars/aarroyoc-100.png",
       "invited_by_user": "zxtx"
     },
@@ -320,7 +346,7 @@
     "created_at": "2021-08-25T12:31:57.000-05:00",
     "title": "Vulnerability in Bumble dating app reveals any user's exact location",
     "url": "https://robertheaton.com/bumble-vulnerability/",
-    "score": 36,
+    "score": 38,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -331,7 +357,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82295,
+      "karma": 82297,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -372,9 +398,9 @@
     "created_at": "2021-08-25T10:14:41.000-05:00",
     "title": "Linear Clock: Solar, a clock for a looser experience of time",
     "url": "https://jmw.name/projects/linear-clock/",
-    "score": 32,
+    "score": 33,
     "flags": 1,
-    "comment_count": 8,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/uwfv7s/linear_clock_solar_clock_for_looser",
     "submitter_user": {
@@ -383,7 +409,7 @@
       "is_admin": false,
       "about": "https://www.jmw.name",
       "is_moderator": false,
-      "karma": 62,
+      "karma": 63,
       "avatar_url": "/avatars/jmw-100.png",
       "invited_by_user": "sleffy",
       "github_username": "jmwilson"
@@ -402,7 +428,7 @@
     "url": "https://tech.marksblogg.com/rdns-domain-name-tld-extract-rust.html",
     "score": 10,
     "flags": 2,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/a1jbrq/faster_top_level_domain_name_extraction",
     "submitter_user": {
@@ -481,7 +507,7 @@
     "created_at": "2021-08-25T08:36:02.000-05:00",
     "title": "Friendship ended with the garbage collector",
     "url": "https://yorickpeterse.com/articles/friendship-ended-with-the-garbage-collector/",
-    "score": 15,
+    "score": 16,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -492,7 +518,7 @@
       "is_admin": false,
       "about": "Staff Backend Engineer at [GitLab](https://about.gitlab.com). Author of the [Inko programming language](https://inko-lang.org/).",
       "is_moderator": false,
-      "karma": 478,
+      "karma": 479,
       "avatar_url": "/avatars/yorickpeterse-100.png",
       "invited_by_user": "benlovell",
       "github_username": "YorickPeterse"
@@ -559,7 +585,7 @@
     "created_at": "2021-08-25T07:20:49.000-05:00",
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/spreadsheets/",
-    "score": 29,
+    "score": 31,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -616,7 +642,7 @@
     "created_at": "2021-08-25T06:59:00.000-05:00",
     "title": "On programmer behaviours that make Scrum so bad",
     "url": "https://www.sicpers.info/2021/08/on-programmer-behaviours-that-make-scrum-so-bad/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -627,7 +653,7 @@
       "is_admin": false,
       "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
       "is_moderator": false,
-      "karma": 4399,
+      "karma": 4400,
       "avatar_url": "/avatars/j11g-100.png",
       "invited_by_user": "mischa",
       "twitter_username": "loginn"
@@ -643,7 +669,7 @@
     "created_at": "2021-08-25T06:26:21.000-05:00",
     "title": "Introducing a GraphQL-native approach to webhooks",
     "url": "https://sourcehut.org/blog/2021-08-25-graphql-native-webhooks/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -654,40 +680,12 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 213,
+      "karma": 214,
       "avatar_url": "/avatars/frenkel-100.png",
       "invited_by_user": "pushcx"
     },
     "tags": [
       "api",
-      "web"
-    ]
-  },
-  {
-    "short_id": "waqjg2",
-    "short_id_url": "https://lobste.rs/s/waqjg2",
-    "created_at": "2021-08-25T05:30:23.000-05:00",
-    "title": "LibreServer Bullseye release 1",
-    "url": "https://blog.libreserver.org/libreserver-bullseye-release-1",
-    "score": 22,
-    "flags": 1,
-    "comment_count": 6,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/waqjg2/libreserver_bullseye_release_1",
-    "submitter_user": {
-      "username": "bashrc",
-      "created_at": "2018-07-03T05:31:28.000-05:00",
-      "is_admin": false,
-      "about": "Free Software developer and maintainer of the Freedombone and Epicyon projects. Keyboard bashing rhizomatic code cultivator. He/Him.",
-      "is_moderator": false,
-      "karma": 195,
-      "avatar_url": "/avatars/bashrc-100.png",
-      "invited_by_user": "Shamar"
-    },
-    "tags": [
-      "linux",
-      "networking",
-      "release",
       "web"
     ]
   }
