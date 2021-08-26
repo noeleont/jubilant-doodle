@@ -68,7 +68,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82310,
+      "karma": 82311,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -94,7 +94,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82310,
+      "karma": 82311,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -347,9 +347,9 @@
     "created_at": "2021-08-25T13:34:35.000-05:00",
     "title": "Haiku has hired an existing contributor to work on Haiku full-time",
     "url": "https://www.haiku-os.org/news/2021-08-25_hiring_waddlesplash/",
-    "score": 30,
+    "score": 32,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/lwzwcz/haiku_has_hired_existing_contributor",
     "submitter_user": {
@@ -358,7 +358,7 @@
       "is_admin": false,
       "about": "Illuminati developer",
       "is_moderator": false,
-      "karma": 436,
+      "karma": 438,
       "avatar_url": "/avatars/aarroyoc-100.png",
       "invited_by_user": "zxtx"
     },
@@ -426,7 +426,7 @@
     "url": "https://robertheaton.com/bumble-vulnerability/",
     "score": 44,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/w5ider/vulnerability_bumble_dating_app_reveals",
     "submitter_user": {
@@ -435,7 +435,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82310,
+      "karma": 82311,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -476,7 +476,7 @@
     "created_at": "2021-08-25T10:14:41.000-05:00",
     "title": "Linear Clock: Solar, a clock for a looser experience of time",
     "url": "https://jmw.name/projects/linear-clock/",
-    "score": 34,
+    "score": 37,
     "flags": 1,
     "comment_count": 11,
     "description": "",
@@ -487,7 +487,7 @@
       "is_admin": false,
       "about": "San Francisco-based software and electronics engineering generalist. Formerly @ Facebook, Oracle.",
       "is_moderator": false,
-      "karma": 70,
+      "karma": 74,
       "avatar_url": "/avatars/jmw-100.png",
       "invited_by_user": "sleffy",
       "github_username": "jmwilson"
@@ -663,7 +663,7 @@
     "created_at": "2021-08-25T07:20:49.000-05:00",
     "title": "How to Recalculate a Spreadsheet",
     "url": "https://lord.io/spreadsheets/",
-    "score": 31,
+    "score": 32,
     "flags": 0,
     "comment_count": 2,
     "description": "",
