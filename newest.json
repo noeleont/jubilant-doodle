@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "3kt7o5",
+    "short_id_url": "https://lobste.rs/s/3kt7o5",
+    "created_at": "2021-08-27T08:47:20.000-05:00",
+    "title": "Install NetBSD 9.2 on a DEC Alpha CPU with AXPBox",
+    "url": "https://raymii.org/s/articles/NetBSD_Alpha_AXPbox.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3kt7o5/install_netbsd_9_2_on_dec_alpha_cpu_with",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11936,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "netbsd",
+      "virtualization"
+    ]
+  },
+  {
     "short_id": "w7jzyy",
     "short_id_url": "https://lobste.rs/s/w7jzyy",
     "created_at": "2021-08-27T08:19:38.000-05:00",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82418,
+      "karma": 82421,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -31,7 +57,7 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 1,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 314,
+      "karma": 320,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -141,7 +167,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 1,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -152,7 +178,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3590,
+      "karma": 3593,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -166,7 +192,7 @@
     "created_at": "2021-08-27T04:05:41.000-05:00",
     "title": "ICFP 2021 - OCaml Workshop Live Stream",
     "url": "https://www.youtube.com/watch?v=SJXaY3nlMss",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -177,7 +203,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1165,
+      "karma": 1166,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -336,7 +362,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82418,
+      "karma": 82421,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -352,7 +378,7 @@
     "created_at": "2021-08-26T20:14:23.000-05:00",
     "title": "Recent and not so recent changes in OpenBSD that make life better (and may turn up elsewhere too)",
     "url": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -363,7 +389,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82418,
+      "karma": 82421,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -378,7 +404,7 @@
     "created_at": "2021-08-26T19:40:03.000-05:00",
     "title": "Technical explanation of the Québec vaccination passport",
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -389,7 +415,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1739,
+      "karma": 1740,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -405,7 +431,7 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 30,
+    "score": 32,
     "flags": 1,
     "comment_count": 7,
     "description": "",
@@ -416,7 +442,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2717,
+      "karma": 2719,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -431,7 +457,7 @@
     "created_at": "2021-08-26T16:10:35.000-05:00",
     "title": "Writing a simple JSON library from scratch: a tour through modern C++",
     "url": "https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -442,7 +468,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1279,
+      "karma": 1280,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -459,7 +485,7 @@
     "created_at": "2021-08-26T15:05:20.000-05:00",
     "title": "The 74,000 numbers of Barclays Bank",
     "url": "https://shkspr.mobi/blog/2021/05/the-74000-numbers-of-barclays-bank/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -470,7 +496,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 620,
+      "karma": 621,
       "avatar_url": "/avatars/indigo-100.png",
       "invited_by_user": "tluyben2"
     },
@@ -486,7 +512,7 @@
     "url": "https://www.youtube.com/watch?v=9vZnkongoHs",
     "score": 4,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/laelma/icfp_2021_tutorials_programming_with",
     "submitter_user": {
@@ -567,7 +593,7 @@
     "created_at": "2021-08-26T10:41:36.000-05:00",
     "title": "Nix/NixOS package version diff tool",
     "url": "https://gitlab.com/khumba/nvd",
-    "score": 21,
+    "score": 22,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -578,7 +604,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 29,
+      "karma": 30,
       "avatar_url": "/avatars/deylami-100.png",
       "invited_by_user": "badtuple"
     },
@@ -597,7 +623,7 @@
     "url": "https://github.com/marceloprates/prettymaps",
     "score": 25,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/bxl9ba/prettymaps_small_set_python_functions",
     "submitter_user": {
@@ -638,31 +664,6 @@
     },
     "tags": [
       "osdev"
-    ]
-  },
-  {
-    "short_id": "dbv481",
-    "short_id_url": "https://lobste.rs/s/dbv481",
-    "created_at": "2021-08-26T08:15:07.000-05:00",
-    "title": "Database modeling, stakeholders and their concerns",
-    "url": "https://minimalmodeling.substack.com/p/stakeholders-and-their-concerns",
-    "score": 2,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/dbv481/database_modeling_stakeholders_their",
-    "submitter_user": {
-      "username": "squadette",
-      "created_at": "2014-03-04T11:25:26.000-06:00",
-      "is_admin": false,
-      "about": "...of ghost, of flame, and ashes.",
-      "is_moderator": false,
-      "karma": 441,
-      "avatar_url": "/avatars/squadette-100.png",
-      "invited_by_user": "lauris"
-    },
-    "tags": [
-      "practices"
     ]
   }
 ]
