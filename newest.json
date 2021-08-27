@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "lg91es",
+    "short_id_url": "https://lobste.rs/s/lg91es",
+    "created_at": "2021-08-26T22:49:49.000-05:00",
+    "title": "Qt Creator 5.0 released",
+    "url": "https://www.qt.io/blog/qt-creator-5.0-released",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lg91es/qt_creator_5_0_released",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11933,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++",
+      "release"
+    ]
+  },
+  {
     "short_id": "fkr9xv",
     "short_id_url": "https://lobste.rs/s/fkr9xv",
     "created_at": "2021-08-26T21:42:03.000-05:00",
     "title": "NetBSD wifi project status update",
     "url": "https://blog.netbsd.org/tnf/entry/wifi_project_status_update",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 464,
+      "karma": 465,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -32,7 +58,7 @@
     "created_at": "2021-08-26T21:09:54.000-05:00",
     "title": "Software Crisis 2.0",
     "url": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,12 +69,13 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 491,
+      "karma": 493,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
     "tags": [
-      "practices"
+      "practices",
+      "rant"
     ]
   },
   {
@@ -68,7 +95,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82385,
+      "karma": 82386,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -95,7 +122,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82385,
+      "karma": 82386,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -137,9 +164,9 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 10,
+    "score": 13,
     "flags": 1,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/pdookk/why_are_hyperlinks_blue",
     "submitter_user": {
@@ -148,7 +175,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2696,
+      "karma": 2699,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -299,7 +326,7 @@
     "created_at": "2021-08-26T10:41:36.000-05:00",
     "title": "Nix/NixOS package version diff tool",
     "url": "https://gitlab.com/khumba/nvd",
-    "score": 17,
+    "score": 18,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -310,7 +337,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 25,
+      "karma": 26,
       "avatar_url": "/avatars/deylami-100.png",
       "invited_by_user": "badtuple"
     },
@@ -403,7 +430,7 @@
     "created_at": "2021-08-26T08:07:16.000-05:00",
     "title": "Linux in a Pixel Shader - A RISC-V Emulator for VRChat",
     "url": "https://blog.pimaker.at/texts/rvc1/",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -414,7 +441,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82385,
+      "karma": 82386,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -511,7 +538,7 @@
     "created_at": "2021-08-26T04:05:38.000-05:00",
     "title": "there is no such thing as a “glibc based alpine image”",
     "url": "https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/",
-    "score": 58,
+    "score": 59,
     "flags": 1,
     "comment_count": 17,
     "description": "",
@@ -522,7 +549,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10680,
+      "karma": 10681,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -549,7 +576,7 @@
       "is_admin": false,
       "about": "Security. Mostly in Browsers, but not exclusively.",
       "is_moderator": false,
-      "karma": 5941,
+      "karma": 5942,
       "avatar_url": "/avatars/freddyb-100.png",
       "invited_by_user": "stas",
       "keybase_signatures": [
@@ -606,7 +633,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11932,
+      "karma": 11933,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -639,32 +666,6 @@
       "graphics",
       "historical",
       "video"
-    ]
-  },
-  {
-    "short_id": "ggxo1x",
-    "short_id_url": "https://lobste.rs/s/ggxo1x",
-    "created_at": "2021-08-25T20:58:41.000-05:00",
-    "title": "Thousands of Debian packages updated from their upstream Git repository",
-    "url": "https://www.jelmer.uk/fresh-builds.html",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ggxo1x/thousands_debian_packages_updated_from",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82385,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "linux"
     ]
   }
 ]
