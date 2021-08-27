@@ -1,11 +1,88 @@
 [
   {
+    "short_id": "8p6i7s",
+    "short_id_url": "https://lobste.rs/s/8p6i7s",
+    "created_at": "2021-08-27T09:57:13.000-05:00",
+    "title": "Pin, Unpin, and why Rust needs them",
+    "url": "https://blog.cloudflare.com/pin-and-unpin-in-rust/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/8p6i7s/pin_unpin_why_rust_needs_them",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 2048,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "rust"
+    ]
+  },
+  {
+    "short_id": "j9u0e1",
+    "short_id_url": "https://lobste.rs/s/j9u0e1",
+    "created_at": "2021-08-27T09:41:44.000-05:00",
+    "title": "An Interview with Laguna of Tax Badger, LLC",
+    "url": "https://opguides.info/interviews/taxbadger/",
+    "score": -2,
+    "flags": 3,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/j9u0e1/interview_with_laguna_tax_badger_llc",
+    "submitter_user": {
+      "username": "Vega",
+      "created_at": "2021-03-13T09:38:14.000-06:00",
+      "is_admin": false,
+      "about": "I program guitars and play computers",
+      "is_moderator": false,
+      "karma": 84,
+      "avatar_url": "/avatars/Vega-100.png",
+      "invited_by_user": "cadey"
+    },
+    "tags": [
+      "person"
+    ]
+  },
+  {
+    "short_id": "7ronpw",
+    "short_id_url": "https://lobste.rs/s/7ronpw",
+    "created_at": "2021-08-27T09:27:48.000-05:00",
+    "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
+    "url": "",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 4,
+    "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
+    "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
+    "submitter_user": {
+      "username": "epilys",
+      "created_at": "2017-05-09T09:29:51.000-05:00",
+      "is_admin": false,
+      "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
+      "is_moderator": false,
+      "karma": 791,
+      "avatar_url": "/avatars/epilys-100.png",
+      "invited_by_user": "river",
+      "github_username": "epilys"
+    },
+    "tags": [
+      "ask",
+      "programming"
+    ]
+  },
+  {
     "short_id": "3kt7o5",
     "short_id_url": "https://lobste.rs/s/3kt7o5",
     "created_at": "2021-08-27T08:47:20.000-05:00",
     "title": "Install NetBSD 9.2 on a DEC Alpha CPU with AXPBox",
     "url": "https://raymii.org/s/articles/NetBSD_Alpha_AXPbox.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +93,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11936,
+      "karma": 11938,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -31,7 +108,7 @@
     "created_at": "2021-08-27T08:19:38.000-05:00",
     "title": "A Vim Guide For Experts",
     "url": "https://thevaluable.dev/vim-expert/",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -42,7 +119,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82421,
+      "karma": 82425,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -57,7 +134,7 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +145,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 320,
+      "karma": 321,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -101,7 +178,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2047,
+      "karma": 2048,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -167,7 +244,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 4,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -178,7 +255,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3593,
+      "karma": 3597,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -272,7 +349,7 @@
     "created_at": "2021-08-26T22:49:49.000-05:00",
     "title": "Qt Creator 5.0 released",
     "url": "https://www.qt.io/blog/qt-creator-5.0-released",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -283,7 +360,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11936,
+      "karma": 11938,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -362,7 +439,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82421,
+      "karma": 82425,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -378,7 +455,7 @@
     "created_at": "2021-08-26T20:14:23.000-05:00",
     "title": "Recent and not so recent changes in OpenBSD that make life better (and may turn up elsewhere too)",
     "url": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -389,7 +466,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82421,
+      "karma": 82425,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -404,7 +481,7 @@
     "created_at": "2021-08-26T19:40:03.000-05:00",
     "title": "Technical explanation of the Québec vaccination passport",
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 8,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -415,7 +492,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1740,
+      "karma": 1743,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -431,7 +508,7 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 32,
+    "score": 34,
     "flags": 1,
     "comment_count": 7,
     "description": "",
@@ -442,7 +519,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2719,
+      "karma": 2721,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -459,7 +536,7 @@
     "url": "https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html",
     "score": 10,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/29q0no/writing_simple_json_library_from_scratch",
     "submitter_user": {
@@ -521,7 +598,7 @@
       "is_admin": false,
       "about": "My name is Janus Troelsen, I like to work on open source stuff, especially in Haskell and development tools.",
       "is_moderator": false,
-      "karma": 314,
+      "karma": 315,
       "avatar_url": "/avatars/janus-100.png",
       "invited_by_user": "singpolyma",
       "github_username": "ysangkok",
@@ -585,85 +662,6 @@
     "tags": [
       "compilers",
       "pdf"
-    ]
-  },
-  {
-    "short_id": "uvxkh5",
-    "short_id_url": "https://lobste.rs/s/uvxkh5",
-    "created_at": "2021-08-26T10:41:36.000-05:00",
-    "title": "Nix/NixOS package version diff tool",
-    "url": "https://gitlab.com/khumba/nvd",
-    "score": 22,
-    "flags": 1,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/uvxkh5/nix_nixos_package_version_diff_tool",
-    "submitter_user": {
-      "username": "deylami",
-      "created_at": "2021-08-12T13:24:24.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 30,
-      "avatar_url": "/avatars/deylami-100.png",
-      "invited_by_user": "badtuple"
-    },
-    "tags": [
-      "linux",
-      "osdev",
-      "programming",
-      "unix"
-    ]
-  },
-  {
-    "short_id": "bxl9ba",
-    "short_id_url": "https://lobste.rs/s/bxl9ba",
-    "created_at": "2021-08-26T08:52:12.000-05:00",
-    "title": "prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data",
-    "url": "https://github.com/marceloprates/prettymaps",
-    "score": 25,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bxl9ba/prettymaps_small_set_python_functions",
-    "submitter_user": {
-      "username": "learnbyexample",
-      "created_at": "2020-06-15T09:51:10.000-05:00",
-      "is_admin": false,
-      "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
-      "is_moderator": false,
-      "karma": 1542,
-      "avatar_url": "/avatars/learnbyexample-100.png",
-      "invited_by_user": "ngoldbaum",
-      "twitter_username": "learn_byexample"
-    },
-    "tags": [
-      "python"
-    ]
-  },
-  {
-    "short_id": "0oz7gw",
-    "short_id_url": "https://lobste.rs/s/0oz7gw",
-    "created_at": "2021-08-26T08:28:51.000-05:00",
-    "title": "Haiku activity report - Summer 2021",
-    "url": "https://www.haiku-os.org/blog/pulkomandy/2021-08-24-haiku_activity_report_summer_2021/",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/0oz7gw/haiku_activity_report_summer_2021",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 2047,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "osdev"
     ]
   }
 ]
