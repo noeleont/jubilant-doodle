@@ -5,7 +5,7 @@
     "created_at": "2021-08-27T09:57:13.000-05:00",
     "title": "Pin, Unpin, and why Rust needs them",
     "url": "https://blog.cloudflare.com/pin-and-unpin-in-rust/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +16,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2048,
+      "karma": 2049,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -25,39 +25,14 @@
     ]
   },
   {
-    "short_id": "j9u0e1",
-    "short_id_url": "https://lobste.rs/s/j9u0e1",
-    "created_at": "2021-08-27T09:41:44.000-05:00",
-    "title": "An Interview with Laguna of Tax Badger, LLC",
-    "url": "https://opguides.info/interviews/taxbadger/",
-    "score": -2,
-    "flags": 3,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/j9u0e1/interview_with_laguna_tax_badger_llc",
-    "submitter_user": {
-      "username": "Vega",
-      "created_at": "2021-03-13T09:38:14.000-06:00",
-      "is_admin": false,
-      "about": "I program guitars and play computers",
-      "is_moderator": false,
-      "karma": 84,
-      "avatar_url": "/avatars/Vega-100.png",
-      "invited_by_user": "cadey"
-    },
-    "tags": [
-      "person"
-    ]
-  },
-  {
     "short_id": "7ronpw",
     "short_id_url": "https://lobste.rs/s/7ronpw",
     "created_at": "2021-08-27T09:27:48.000-05:00",
     "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
     "url": "",
-    "score": 1,
+    "score": 3,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -66,7 +41,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 791,
+      "karma": 793,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -82,7 +57,7 @@
     "created_at": "2021-08-27T08:47:20.000-05:00",
     "title": "Install NetBSD 9.2 on a DEC Alpha CPU with AXPBox",
     "url": "https://raymii.org/s/articles/NetBSD_Alpha_AXPbox.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -93,7 +68,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11938,
+      "karma": 11939,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -108,7 +83,7 @@
     "created_at": "2021-08-27T08:19:38.000-05:00",
     "title": "A Vim Guide For Experts",
     "url": "https://thevaluable.dev/vim-expert/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -119,7 +94,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82425,
+      "karma": 82432,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -134,9 +109,9 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 8,
+    "score": 12,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq",
     "submitter_user": {
@@ -145,7 +120,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 321,
+      "karma": 325,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -178,7 +153,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2048,
+      "karma": 2049,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -192,9 +167,9 @@
     "created_at": "2021-08-27T06:57:43.000-05:00",
     "title": "GitFinder - git client with Finder integration",
     "url": "https://gitfinder.com/",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
+    "score": 3,
+    "flags": 1,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/3bgb5o/gitfinder_git_client_with_finder",
     "submitter_user": {
@@ -203,7 +178,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1129,
+      "karma": 1130,
       "avatar_url": "/avatars/idrougge-100.png",
       "invited_by_user": "gerikson"
     },
@@ -218,7 +193,7 @@
     "created_at": "2021-08-27T06:56:03.000-05:00",
     "title": "The Hidden Skill and Art of Naming Things",
     "url": "https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -229,7 +204,7 @@
       "is_admin": false,
       "about": "Unicyclist. Artist. Developer.",
       "is_moderator": false,
-      "karma": 6,
+      "karma": 7,
       "avatar_url": "/avatars/gossi-100.png",
       "invited_by_user": "chriskrycho"
     },
@@ -244,7 +219,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 8,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -255,7 +230,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3597,
+      "karma": 3599,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -321,7 +296,7 @@
     "created_at": "2021-08-27T01:22:01.000-05:00",
     "title": "Quantum Photonics — Strawberry Fields",
     "url": "https://strawberryfields.ai/photonics/index.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -332,7 +307,7 @@
       "is_admin": false,
       "about": "Software Engineer, SysAdmin, CompSci Student\r\n\r\n[Website](https://jadon.io) | [GitHub](https://github.com/phase) | [LinkedIn](https://www.linkedin.com/in/jado/)",
       "is_moderator": false,
-      "karma": 237,
+      "karma": 238,
       "avatar_url": "/avatars/jado-100.png",
       "invited_by_user": "BruceM",
       "github_username": "phase"
@@ -360,7 +335,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11938,
+      "karma": 11939,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -402,7 +377,7 @@
     "created_at": "2021-08-26T21:09:54.000-05:00",
     "title": "Software Crisis 2.0",
     "url": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -413,7 +388,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 496,
+      "karma": 497,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -428,7 +403,7 @@
     "created_at": "2021-08-26T20:41:07.000-05:00",
     "title": "My love-hate affair with technology",
     "url": "https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/",
-    "score": 3,
+    "score": 4,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -439,7 +414,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82425,
+      "karma": 82432,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -455,7 +430,7 @@
     "created_at": "2021-08-26T20:14:23.000-05:00",
     "title": "Recent and not so recent changes in OpenBSD that make life better (and may turn up elsewhere too)",
     "url": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -466,7 +441,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82425,
+      "karma": 82432,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -481,7 +456,7 @@
     "created_at": "2021-08-26T19:40:03.000-05:00",
     "title": "Technical explanation of the Québec vaccination passport",
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -492,7 +467,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1743,
+      "karma": 1744,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -508,7 +483,7 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 34,
+    "score": 36,
     "flags": 1,
     "comment_count": 7,
     "description": "",
@@ -519,7 +494,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2721,
+      "karma": 2723,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -536,7 +511,7 @@
     "url": "https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html",
     "score": 10,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/29q0no/writing_simple_json_library_from_scratch",
     "submitter_user": {
@@ -662,6 +637,34 @@
     "tags": [
       "compilers",
       "pdf"
+    ]
+  },
+  {
+    "short_id": "uvxkh5",
+    "short_id_url": "https://lobste.rs/s/uvxkh5",
+    "created_at": "2021-08-26T10:41:36.000-05:00",
+    "title": "Nix/NixOS package version diff tool",
+    "url": "https://gitlab.com/khumba/nvd",
+    "score": 23,
+    "flags": 1,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/uvxkh5/nix_nixos_package_version_diff_tool",
+    "submitter_user": {
+      "username": "deylami",
+      "created_at": "2021-08-12T13:24:24.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 31,
+      "avatar_url": "/avatars/deylami-100.png",
+      "invited_by_user": "badtuple"
+    },
+    "tags": [
+      "linux",
+      "osdev",
+      "programming",
+      "unix"
     ]
   }
 ]
