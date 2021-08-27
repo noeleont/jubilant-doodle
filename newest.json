@@ -1,5 +1,64 @@
 [
   {
+    "short_id": "w7jzyy",
+    "short_id_url": "https://lobste.rs/s/w7jzyy",
+    "created_at": "2021-08-27T08:19:38.000-05:00",
+    "title": "A Vim Guide For Experts",
+    "url": "https://thevaluable.dev/vim-expert/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/w7jzyy/vim_guide_for_experts",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82418,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "vim"
+    ]
+  },
+  {
+    "short_id": "uid8v2",
+    "short_id_url": "https://lobste.rs/s/uid8v2",
+    "created_at": "2021-08-27T08:17:23.000-05:00",
+    "title": "IPv4 vs. IPv6 FAQ",
+    "url": "https://tailscale.com/kb/1134/ipv6-faq/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq",
+    "submitter_user": {
+      "username": "kbknapp",
+      "created_at": "2017-08-02T10:22:45.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 314,
+      "avatar_url": "/avatars/kbknapp-100.png",
+      "invited_by_user": "alilleybrinker",
+      "github_username": "kbknapp",
+      "twitter_username": "thekbknapp",
+      "keybase_signatures": [
+        {
+          "kb_username": "kbknapp",
+          "sig_hash": "3578857e4296c9692b81f980044b5a56ae264abe6edf07e0963be5f17ac37da70f"
+        }
+      ]
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
     "short_id": "z8trl5",
     "short_id_url": "https://lobste.rs/s/z8trl5",
     "created_at": "2021-08-27T07:15:45.000-05:00",
@@ -16,7 +75,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2045,
+      "karma": 2047,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -30,7 +89,7 @@
     "created_at": "2021-08-27T06:57:43.000-05:00",
     "title": "GitFinder - git client with Finder integration",
     "url": "https://gitfinder.com/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +100,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1128,
+      "karma": 1129,
       "avatar_url": "/avatars/idrougge-100.png",
       "invited_by_user": "gerikson"
     },
@@ -107,7 +166,7 @@
     "created_at": "2021-08-27T04:05:41.000-05:00",
     "title": "ICFP 2021 - OCaml Workshop Live Stream",
     "url": "https://www.youtube.com/watch?v=SJXaY3nlMss",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -118,7 +177,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1164,
+      "karma": 1165,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -213,7 +272,7 @@
     "created_at": "2021-08-26T21:42:03.000-05:00",
     "title": "NetBSD wifi project status update",
     "url": "https://blog.netbsd.org/tnf/entry/wifi_project_status_update",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -224,7 +283,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 469,
+      "karma": 470,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -240,9 +299,9 @@
     "created_at": "2021-08-26T21:09:54.000-05:00",
     "title": "Software Crisis 2.0",
     "url": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/qs1uu4/software_crisis_2_0",
     "submitter_user": {
@@ -251,7 +310,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 495,
+      "karma": 496,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -266,7 +325,7 @@
     "created_at": "2021-08-26T20:41:07.000-05:00",
     "title": "My love-hate affair with technology",
     "url": "https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/",
-    "score": 2,
+    "score": 3,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -277,7 +336,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82415,
+      "karma": 82418,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -293,7 +352,7 @@
     "created_at": "2021-08-26T20:14:23.000-05:00",
     "title": "Recent and not so recent changes in OpenBSD that make life better (and may turn up elsewhere too)",
     "url": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -304,7 +363,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82415,
+      "karma": 82418,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -346,9 +405,9 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 28,
+    "score": 30,
     "flags": 1,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/pdookk/why_are_hyperlinks_blue",
     "submitter_user": {
@@ -357,7 +416,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2715,
+      "karma": 2717,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -400,9 +459,9 @@
     "created_at": "2021-08-26T15:05:20.000-05:00",
     "title": "The 74,000 numbers of Barclays Bank",
     "url": "https://shkspr.mobi/blog/2021/05/the-74000-numbers-of-barclays-bank/",
-    "score": 9,
+    "score": 10,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/e7nwwb/74_000_numbers_barclays_bank",
     "submitter_user": {
@@ -411,7 +470,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 619,
+      "karma": 620,
       "avatar_url": "/avatars/indigo-100.png",
       "invited_by_user": "tluyben2"
     },
@@ -536,7 +595,7 @@
     "created_at": "2021-08-26T08:52:12.000-05:00",
     "title": "prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data",
     "url": "https://github.com/marceloprates/prettymaps",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -547,7 +606,7 @@
       "is_admin": false,
       "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
       "is_moderator": false,
-      "karma": 1541,
+      "karma": 1542,
       "avatar_url": "/avatars/learnbyexample-100.png",
       "invited_by_user": "ngoldbaum",
       "twitter_username": "learn_byexample"
@@ -562,7 +621,7 @@
     "created_at": "2021-08-26T08:28:51.000-05:00",
     "title": "Haiku activity report - Summer 2021",
     "url": "https://www.haiku-os.org/blog/pulkomandy/2021-08-24-haiku_activity_report_summer_2021/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -573,7 +632,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2045,
+      "karma": 2047,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -604,60 +663,6 @@
     },
     "tags": [
       "practices"
-    ]
-  },
-  {
-    "short_id": "etmbbf",
-    "short_id_url": "https://lobste.rs/s/etmbbf",
-    "created_at": "2021-08-26T08:07:16.000-05:00",
-    "title": "Linux in a Pixel Shader - A RISC-V Emulator for VRChat",
-    "url": "https://blog.pimaker.at/texts/rvc1/",
-    "score": 33,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/etmbbf/linux_pixel_shader_risc_v_emulator_for",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82415,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "assembly",
-      "graphics"
-    ]
-  },
-  {
-    "short_id": "ze3cg7",
-    "short_id_url": "https://lobste.rs/s/ze3cg7",
-    "created_at": "2021-08-26T07:54:51.000-05:00",
-    "title": "Easily Send your git commits to skype group chats using skpy",
-    "url": "https://github.com/abbbi/git2skype",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ze3cg7/easily_send_your_git_commits_skype_group",
-    "submitter_user": {
-      "username": "abi",
-      "created_at": "2019-10-01T13:50:36.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 111,
-      "avatar_url": "/avatars/abi-100.png",
-      "invited_by_user": "JordiGH"
-    },
-    "tags": [
-      "devops",
-      "practices",
-      "python"
     ]
   }
 ]
