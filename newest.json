@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "b3kldf",
+    "short_id_url": "https://lobste.rs/s/b3kldf",
+    "created_at": "2021-08-27T14:34:30.000-05:00",
+    "title": "Hashing Techniques: A Survey and Taxonomy (2017)",
+    "url": "https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/b3kldf/hashing_techniques_survey_taxonomy_2017",
+    "submitter_user": {
+      "username": "itamarst",
+      "created_at": "2016-04-28T10:05:47.000-05:00",
+      "is_admin": false,
+      "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
+      "is_moderator": false,
+      "karma": 3610,
+      "avatar_url": "/avatars/itamarst-100.png",
+      "invited_by_user": "0x2ba22e11"
+    },
+    "tags": [
+      "compsci",
+      "pdf"
+    ]
+  },
+  {
     "short_id": "nixc4z",
     "short_id_url": "https://lobste.rs/s/nixc4z",
     "created_at": "2021-08-27T11:35:53.000-05:00",
     "title": "FreeBSD Journal - July/August 2021 - Desktop/Wireless",
     "url": "https://freebsdfoundation.org/past-issues/desktop-wireless/",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.\r\n\r\nOn the VERMADEN.WORDPRESS.COM I share knowledge and experience that I gathered by working 10+ years as sysadmin (now architect) at IT industry.\r\n\r\nCountless times various articles or blog posts helped me, so its time to give back.\r\n",
       "is_moderator": false,
-      "karma": 3521,
+      "karma": 3523,
       "avatar_url": "/avatars/vermaden-100.png",
       "invited_by_user": "gerikson"
     },
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2053,
+      "karma": 2054,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -56,9 +82,9 @@
     "created_at": "2021-08-27T09:27:48.000-05:00",
     "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
     "url": "",
-    "score": 6,
+    "score": 9,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 16,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -67,7 +93,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 796,
+      "karma": 799,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -109,7 +135,7 @@
     "created_at": "2021-08-27T08:19:38.000-05:00",
     "title": "A Vim Guide For Experts",
     "url": "https://thevaluable.dev/vim-expert/",
-    "score": 7,
+    "score": 10,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -120,7 +146,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82440,
+      "karma": 82445,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -135,9 +161,9 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 25,
+    "score": 31,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq",
     "submitter_user": {
@@ -146,7 +172,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 338,
+      "karma": 344,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -179,7 +205,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2053,
+      "karma": 2054,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -245,7 +271,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 16,
+    "score": 21,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -256,7 +282,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3605,
+      "karma": 3610,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -297,7 +323,7 @@
     "created_at": "2021-08-27T02:59:06.000-05:00",
     "title": "Agile Workplace",
     "url": "https://newleftreview.org/sidecar/posts/agile-workplace",
-    "score": 3,
+    "score": 4,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -308,7 +334,7 @@
       "is_admin": false,
       "about": "Graphics coder",
       "is_moderator": false,
-      "karma": 486,
+      "karma": 487,
       "avatar_url": "/avatars/pekkavaa-100.png",
       "invited_by_user": "mikejstenberg"
     },
@@ -376,7 +402,7 @@
     "created_at": "2021-08-26T21:42:03.000-05:00",
     "title": "NetBSD wifi project status update",
     "url": "https://blog.netbsd.org/tnf/entry/wifi_project_status_update",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -387,7 +413,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 470,
+      "karma": 471,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -440,7 +466,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82440,
+      "karma": 82445,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -456,7 +482,7 @@
     "created_at": "2021-08-26T20:14:23.000-05:00",
     "title": "Recent and not so recent changes in OpenBSD that make life better (and may turn up elsewhere too)",
     "url": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -467,7 +493,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82440,
+      "karma": 82445,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -482,9 +508,9 @@
     "created_at": "2021-08-26T19:40:03.000-05:00",
     "title": "Technical explanation of the Québec vaccination passport",
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 14,
+    "score": 16,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/bstipe/technical_explanation_quebec",
     "submitter_user": {
@@ -493,7 +519,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1746,
+      "karma": 1748,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -511,7 +537,7 @@
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
     "score": 38,
     "flags": 1,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/pdookk/why_are_hyperlinks_blue",
     "submitter_user": {
@@ -636,33 +662,6 @@
     "tags": [
       "math",
       "performance"
-    ]
-  },
-  {
-    "short_id": "wfx5rq",
-    "short_id_url": "https://lobste.rs/s/wfx5rq",
-    "created_at": "2021-08-26T13:36:52.000-05:00",
-    "title": "Fast and Effective Optimization of Statically Typed Object-Oriented Languages (1997)",
-    "url": "https://www2.eecs.berkeley.edu/Pubs/TechRpts/1998/CSD-98-1017.pdf",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p>In this dissertation, we show how a relatively and extremely fast interprocedural optimization algorithm can be used to optimize many of the expensive features of statically typed object-oriented languages - in particular,  C++ and Java.<br>\nWe present a new program analysis algorithm, Rapid Type Analysis, and show that it is fast both in theory and in practice, and significantly outperforms other “fast” algorithms for virtual function call resolution.<br>\nWe present optimization algorithms for the resolution of virtual function calls, conversion of virtual inheritance to direct inheritance, elimination of dynamic casts and dynamic type checks, and removal of object synchronization. These algorithms are all presented within a common framework that allows them to be driven by the information collected by Rapid Type Analysis, or by some other type analysis algorithm.<br>\nCollectively, the optimizations in this dissertation free the programmer from having to sacrifice modularity and extensibility for performance. Instead, the programmer can freely make use of the most powerful features of object-oriented programming, since the optimizer will remove unnecessary extensibility from the program.</p>\n",
-    "comments_url": "https://lobste.rs/s/wfx5rq/fast_effective_optimization_statically",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 2094,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "compilers",
-      "pdf"
     ]
   }
 ]
