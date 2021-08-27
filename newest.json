@@ -175,7 +175,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82408,
+      "karma": 82409,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -202,7 +202,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82408,
+      "karma": 82409,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -217,7 +217,7 @@
     "created_at": "2021-08-26T19:40:03.000-05:00",
     "title": "Technical explanation of the Québec vaccination passport",
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -228,7 +228,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1735,
+      "karma": 1736,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -298,9 +298,9 @@
     "created_at": "2021-08-26T15:05:20.000-05:00",
     "title": "The 74,000 numbers of Barclays Bank",
     "url": "https://shkspr.mobi/blog/2021/05/the-74000-numbers-of-barclays-bank/",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/e7nwwb/74_000_numbers_barclays_bank",
     "submitter_user": {
@@ -309,7 +309,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 618,
+      "karma": 619,
       "avatar_url": "/avatars/indigo-100.png",
       "invited_by_user": "tluyben2"
     },
@@ -406,7 +406,7 @@
     "created_at": "2021-08-26T10:41:36.000-05:00",
     "title": "Nix/NixOS package version diff tool",
     "url": "https://gitlab.com/khumba/nvd",
-    "score": 19,
+    "score": 20,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -417,7 +417,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 27,
+      "karma": 28,
       "avatar_url": "/avatars/deylami-100.png",
       "invited_by_user": "badtuple"
     },
@@ -521,7 +521,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82408,
+      "karma": 82409,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
