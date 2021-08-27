@@ -1,5 +1,83 @@
 [
   {
+    "short_id": "qs1uu4",
+    "short_id_url": "https://lobste.rs/s/qs1uu4",
+    "created_at": "2021-08-26T21:09:54.000-05:00",
+    "title": "Software Crisis 2.0",
+    "url": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qs1uu4/software_crisis_2_0",
+    "submitter_user": {
+      "username": "nolan",
+      "created_at": "2018-01-06T13:39:52.000-06:00",
+      "is_admin": false,
+      "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
+      "is_moderator": false,
+      "karma": 490,
+      "avatar_url": "/avatars/nolan-100.png",
+      "invited_by_user": "calvin"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
+    "short_id": "d3rnyo",
+    "short_id_url": "https://lobste.rs/s/d3rnyo",
+    "created_at": "2021-08-26T20:41:07.000-05:00",
+    "title": "My love-hate affair with technology",
+    "url": "https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/",
+    "score": 1,
+    "flags": 1,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/d3rnyo/my_love_hate_affair_with_technology",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82381,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "culture",
+      "rant"
+    ]
+  },
+  {
+    "short_id": "jhu5nx",
+    "short_id_url": "https://lobste.rs/s/jhu5nx",
+    "created_at": "2021-08-26T20:14:23.000-05:00",
+    "title": "Recent and not so recent changes in OpenBSD that make life better (and may turn up elsewhere too)",
+    "url": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/jhu5nx/recent_not_so_recent_changes_openbsd_make",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82381,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "openbsd"
+    ]
+  },
+  {
     "short_id": "bstipe",
     "short_id_url": "https://lobste.rs/s/bstipe",
     "created_at": "2021-08-26T19:40:03.000-05:00",
@@ -8,7 +86,7 @@
     "score": 1,
     "flags": 0,
     "comment_count": 0,
-    "description": "<p>The information is pretty everywhere, so I wrote it in one place. Figured others may find it interesting.</p>\n",
+    "description": "",
     "comments_url": "https://lobste.rs/s/bstipe/technical_explanation_quebec",
     "submitter_user": {
       "username": "LenFalken",
@@ -32,9 +110,9 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 4,
+    "score": 7,
     "flags": 1,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/pdookk/why_are_hyperlinks_blue",
     "submitter_user": {
@@ -43,7 +121,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2690,
+      "karma": 2693,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -111,8 +189,8 @@
     "created_at": "2021-08-26T15:03:32.000-05:00",
     "title": "ICFP 2021 Tutorials: Programming with Effect Handlers and FBIP in Koka",
     "url": "https://www.youtube.com/watch?v=9vZnkongoHs",
-    "score": 3,
-    "flags": 0,
+    "score": 2,
+    "flags": 1,
     "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/laelma/icfp_2021_tutorials_programming_with",
@@ -122,7 +200,7 @@
       "is_admin": false,
       "about": "My name is Janus Troelsen, I like to work on open source stuff, especially in Haskell and development tools.",
       "is_moderator": false,
-      "karma": 313,
+      "karma": 312,
       "avatar_url": "/avatars/janus-100.png",
       "invited_by_user": "singpolyma",
       "github_username": "ysangkok",
@@ -140,7 +218,7 @@
     "created_at": "2021-08-26T13:53:23.000-05:00",
     "title": "High Performance Correctly Rounded Math Libraries for 32-bit Floating Point Representations",
     "url": "https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -151,7 +229,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2088,
+      "karma": 2089,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -178,7 +256,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2088,
+      "karma": 2089,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -194,7 +272,7 @@
     "created_at": "2021-08-26T10:41:36.000-05:00",
     "title": "Nix/NixOS package version diff tool",
     "url": "https://gitlab.com/khumba/nvd",
-    "score": 14,
+    "score": 16,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -205,7 +283,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 22,
+      "karma": 24,
       "avatar_url": "/avatars/deylami-100.png",
       "invited_by_user": "badtuple"
     },
@@ -222,7 +300,7 @@
     "created_at": "2021-08-26T08:52:12.000-05:00",
     "title": "prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data",
     "url": "https://github.com/marceloprates/prettymaps",
-    "score": 19,
+    "score": 20,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -233,7 +311,7 @@
       "is_admin": false,
       "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
       "is_moderator": false,
-      "karma": 1536,
+      "karma": 1537,
       "avatar_url": "/avatars/learnbyexample-100.png",
       "invited_by_user": "ngoldbaum",
       "twitter_username": "learn_byexample"
@@ -300,7 +378,7 @@
     "url": "https://blog.pimaker.at/texts/rvc1/",
     "score": 20,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/etmbbf/linux_pixel_shader_risc_v_emulator_for",
     "submitter_user": {
@@ -309,7 +387,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82380,
+      "karma": 82381,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -406,9 +484,9 @@
     "created_at": "2021-08-26T04:05:38.000-05:00",
     "title": "there is no such thing as a “glibc based alpine image”",
     "url": "https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/",
-    "score": 56,
+    "score": 58,
     "flags": 1,
-    "comment_count": 12,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/6tgmsr/there_is_no_such_thing_as_glibc_based",
     "submitter_user": {
@@ -417,7 +495,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10678,
+      "karma": 10680,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -553,7 +631,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82380,
+      "karma": 82381,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -579,96 +657,13 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82380,
+      "karma": 82381,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "essxzj",
-    "short_id_url": "https://lobste.rs/s/essxzj",
-    "created_at": "2021-08-25T19:33:00.000-05:00",
-    "title": "Rudra: a static analyzer to detect common undefined behaviors in Rust programs",
-    "url": "https://github.com/sslab-gatech/Rudra",
-    "score": 18,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/essxzj/rudra_static_analyzer_detect_common",
-    "submitter_user": {
-      "username": "sanxiyn",
-      "created_at": "2015-01-21T09:51:34.000-06:00",
-      "is_admin": false,
-      "about": "I made the initial port of Rust to ARM and Android.",
-      "is_moderator": false,
-      "karma": 8371,
-      "avatar_url": "/avatars/sanxiyn-100.png",
-      "invited_by_user": "steveklabnik",
-      "github_username": "sanxiyn",
-      "twitter_username": "sanxiyn"
-    },
-    "tags": [
-      "formalmethods",
-      "rust"
-    ]
-  },
-  {
-    "short_id": "brhioi",
-    "short_id_url": "https://lobste.rs/s/brhioi",
-    "created_at": "2021-08-25T15:25:12.000-05:00",
-    "title": "How to unit test machine learning code?",
-    "url": "https://www.neuraxio.com/blogs/news/how-to-unit-test-machine-learning-code",
-    "score": 0,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/brhioi/how_unit_test_machine_learning_code",
-    "submitter_user": {
-      "username": "GChevalier",
-      "created_at": "2017-08-02T13:02:33.000-05:00",
-      "is_admin": false,
-      "about": "Machine Learning Expert / CEO",
-      "is_moderator": false,
-      "karma": 14,
-      "avatar_url": "/avatars/GChevalier-100.png",
-      "invited_by_user": "davidjpeacock",
-      "github_username": "guillaume-chevalier",
-      "twitter_username": "guillaume_che"
-    },
-    "tags": [
-      "ai",
-      "testing"
-    ]
-  },
-  {
-    "short_id": "jx1yis",
-    "short_id_url": "https://lobste.rs/s/jx1yis",
-    "created_at": "2021-08-25T14:54:58.000-05:00",
-    "title": "Diggin’ and Fetchin’ with TruffleRuby",
-    "url": "https://shopify.engineering/dig-fetch-truffleruby",
-    "score": 6,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jx1yis/diggin_fetchin_with_truffleruby",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 2088,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "performance",
-      "ruby"
     ]
   }
 ]
