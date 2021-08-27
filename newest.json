@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "yufove",
+    "short_id_url": "https://lobste.rs/s/yufove",
+    "created_at": "2021-08-27T16:07:34.000-05:00",
+    "title": "A Kubernetes engineer's guide to mTLS",
+    "url": "https://buoyant.io/mtls-guide/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/yufove/kubernetes_engineer_s_guide_mtls",
+    "submitter_user": {
+      "username": "shishy",
+      "created_at": "2019-01-24T19:35:35.000-06:00",
+      "is_admin": false,
+      "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
+      "is_moderator": false,
+      "karma": 374,
+      "avatar_url": "/avatars/shishy-100.png",
+      "invited_by_user": "awal"
+    },
+    "tags": [
+      "networking",
+      "security"
+    ]
+  },
+  {
+    "short_id": "3r15nj",
+    "short_id_url": "https://lobste.rs/s/3r15nj",
+    "created_at": "2021-08-27T15:38:11.000-05:00",
+    "title": "What do you call the parts of a story? Or: why can’t journalists spell “lead”?",
+    "url": "https://blog.carlmjohnson.net/post/2020/article-bits/",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3r15nj/what_do_you_call_parts_story_why_can_t",
+    "submitter_user": {
+      "username": "carlmjohnson",
+      "created_at": "2021-07-19T11:55:18.000-05:00",
+      "is_admin": false,
+      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
+      "is_moderator": false,
+      "karma": 358,
+      "avatar_url": "/avatars/carlmjohnson-100.png",
+      "invited_by_user": "peterbourgon",
+      "github_username": "carlmjohnson",
+      "twitter_username": "carlmjohnson"
+    },
+    "tags": [
+      "web"
+    ]
+  },
+  {
     "short_id": "b3kldf",
     "short_id_url": "https://lobste.rs/s/b3kldf",
     "created_at": "2021-08-27T14:34:30.000-05:00",
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3610,
+      "karma": 3611,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -31,7 +84,7 @@
     "created_at": "2021-08-27T11:35:53.000-05:00",
     "title": "FreeBSD Journal - July/August 2021 - Desktop/Wireless",
     "url": "https://freebsdfoundation.org/past-issues/desktop-wireless/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -42,7 +95,7 @@
       "is_admin": false,
       "about": "Another ${RANDOM} sysadmin sharing his experiences of work at IT industry.\r\n\r\nOn the VERMADEN.WORDPRESS.COM I share knowledge and experience that I gathered by working 10+ years as sysadmin (now architect) at IT industry.\r\n\r\nCountless times various articles or blog posts helped me, so its time to give back.\r\n",
       "is_moderator": false,
-      "karma": 3523,
+      "karma": 3524,
       "avatar_url": "/avatars/vermaden-100.png",
       "invited_by_user": "gerikson"
     },
@@ -57,7 +110,7 @@
     "created_at": "2021-08-27T09:57:13.000-05:00",
     "title": "Pin, Unpin, and why Rust needs them",
     "url": "https://blog.cloudflare.com/pin-and-unpin-in-rust/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +121,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2054,
+      "karma": 2055,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -82,9 +135,9 @@
     "created_at": "2021-08-27T09:27:48.000-05:00",
     "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
     "url": "",
-    "score": 9,
+    "score": 12,
     "flags": 0,
-    "comment_count": 16,
+    "comment_count": 20,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -93,7 +146,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 799,
+      "karma": 802,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -135,7 +188,7 @@
     "created_at": "2021-08-27T08:19:38.000-05:00",
     "title": "A Vim Guide For Experts",
     "url": "https://thevaluable.dev/vim-expert/",
-    "score": 10,
+    "score": 12,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -146,7 +199,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82445,
+      "karma": 82447,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -161,9 +214,9 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 31,
+    "score": 32,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq",
     "submitter_user": {
@@ -172,7 +225,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 344,
+      "karma": 345,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -205,7 +258,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2054,
+      "karma": 2055,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -247,7 +300,7 @@
     "url": "https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/",
     "score": 3,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/tzcvmi/hidden_skill_art_naming_things",
     "submitter_user": {
@@ -271,7 +324,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 21,
+    "score": 22,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -282,7 +335,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3610,
+      "karma": 3611,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -298,7 +351,7 @@
     "url": "https://www.youtube.com/watch?v=SJXaY3nlMss",
     "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/0qr1qg/icfp_2021_ocaml_workshop_live_stream",
     "submitter_user": {
@@ -323,7 +376,7 @@
     "created_at": "2021-08-27T02:59:06.000-05:00",
     "title": "Agile Workplace",
     "url": "https://newleftreview.org/sidecar/posts/agile-workplace",
-    "score": 4,
+    "score": 5,
     "flags": 1,
     "comment_count": 2,
     "description": "",
@@ -334,7 +387,7 @@
       "is_admin": false,
       "about": "Graphics coder",
       "is_moderator": false,
-      "karma": 487,
+      "karma": 488,
       "avatar_url": "/avatars/pekkavaa-100.png",
       "invited_by_user": "mikejstenberg"
     },
@@ -429,7 +482,7 @@
     "created_at": "2021-08-26T21:09:54.000-05:00",
     "title": "Software Crisis 2.0",
     "url": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -440,7 +493,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 501,
+      "karma": 502,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -466,7 +519,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82445,
+      "karma": 82447,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -493,7 +546,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82445,
+      "karma": 82447,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -510,7 +563,7 @@
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
     "score": 16,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/bstipe/technical_explanation_quebec",
     "submitter_user": {
@@ -606,62 +659,6 @@
     },
     "tags": [
       "web"
-    ]
-  },
-  {
-    "short_id": "laelma",
-    "short_id_url": "https://lobste.rs/s/laelma",
-    "created_at": "2021-08-26T15:03:32.000-05:00",
-    "title": "ICFP 2021 Tutorials: Programming with Effect Handlers and FBIP in Koka",
-    "url": "https://www.youtube.com/watch?v=9vZnkongoHs",
-    "score": 4,
-    "flags": 1,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/laelma/icfp_2021_tutorials_programming_with",
-    "submitter_user": {
-      "username": "janus",
-      "created_at": "2017-09-04T12:41:26.000-05:00",
-      "is_admin": false,
-      "about": "My name is Janus Troelsen, I like to work on open source stuff, especially in Haskell and development tools.",
-      "is_moderator": false,
-      "karma": 315,
-      "avatar_url": "/avatars/janus-100.png",
-      "invited_by_user": "singpolyma",
-      "github_username": "ysangkok",
-      "twitter_username": "ysangkok"
-    },
-    "tags": [
-      "api",
-      "plt",
-      "video"
-    ]
-  },
-  {
-    "short_id": "q19vy8",
-    "short_id_url": "https://lobste.rs/s/q19vy8",
-    "created_at": "2021-08-26T13:53:23.000-05:00",
-    "title": "High Performance Correctly Rounded Math Libraries for 32-bit Floating Point Representations",
-    "url": "https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/",
-    "score": 7,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/q19vy8/high_performance_correctly_rounded_math",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 2094,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "math",
-      "performance"
     ]
   }
 ]
