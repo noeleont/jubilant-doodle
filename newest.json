@@ -1,5 +1,107 @@
 [
   {
+    "short_id": "z8trl5",
+    "short_id_url": "https://lobste.rs/s/z8trl5",
+    "created_at": "2021-08-27T07:15:45.000-05:00",
+    "title": "Async sequences, streams, and Combine",
+    "url": "https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/z8trl5/async_sequences_streams_combine",
+    "submitter_user": {
+      "username": "napkindrawing",
+      "created_at": "2014-05-14T10:03:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad. Tinkerer. Software developer. he/they.",
+      "is_moderator": false,
+      "karma": 2045,
+      "avatar_url": "/avatars/napkindrawing-100.png",
+      "invited_by_user": "howdoipython"
+    },
+    "tags": [
+      "swift"
+    ]
+  },
+  {
+    "short_id": "3bgb5o",
+    "short_id_url": "https://lobste.rs/s/3bgb5o",
+    "created_at": "2021-08-27T06:57:43.000-05:00",
+    "title": "GitFinder - git client with Finder integration",
+    "url": "https://gitfinder.com/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/3bgb5o/gitfinder_git_client_with_finder",
+    "submitter_user": {
+      "username": "idrougge",
+      "created_at": "2020-03-20T09:40:53.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1128,
+      "avatar_url": "/avatars/idrougge-100.png",
+      "invited_by_user": "gerikson"
+    },
+    "tags": [
+      "mac",
+      "vcs"
+    ]
+  },
+  {
+    "short_id": "tzcvmi",
+    "short_id_url": "https://lobste.rs/s/tzcvmi",
+    "created_at": "2021-08-27T06:56:03.000-05:00",
+    "title": "The Hidden Skill and Art of Naming Things",
+    "url": "https://gos.si/blog/the-hidden-skill-and-art-of-naming-things/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/tzcvmi/hidden_skill_art_naming_things",
+    "submitter_user": {
+      "username": "gossi",
+      "created_at": "2021-04-20T10:58:31.000-05:00",
+      "is_admin": false,
+      "about": "Unicyclist. Artist. Developer.",
+      "is_moderator": false,
+      "karma": 6,
+      "avatar_url": "/avatars/gossi-100.png",
+      "invited_by_user": "chriskrycho"
+    },
+    "tags": [
+      "culture",
+      "design"
+    ]
+  },
+  {
+    "short_id": "2l2cfl",
+    "short_id_url": "https://lobste.rs/s/2l2cfl",
+    "created_at": "2021-08-27T06:50:49.000-05:00",
+    "title": "Some reasons to measure",
+    "url": "https://danluu.com/why-benchmark/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/2l2cfl/some_reasons_measure",
+    "submitter_user": {
+      "username": "itamarst",
+      "created_at": "2016-04-28T10:05:47.000-05:00",
+      "is_admin": false,
+      "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
+      "is_moderator": false,
+      "karma": 3590,
+      "avatar_url": "/avatars/itamarst-100.png",
+      "invited_by_user": "0x2ba22e11"
+    },
+    "tags": [
+      "practices"
+    ]
+  },
+  {
     "short_id": "0qr1qg",
     "short_id_url": "https://lobste.rs/s/0qr1qg",
     "created_at": "2021-08-27T04:05:41.000-05:00",
@@ -32,7 +134,7 @@
     "created_at": "2021-08-27T02:59:06.000-05:00",
     "title": "Agile Workplace",
     "url": "https://newleftreview.org/sidecar/posts/agile-workplace",
-    "score": 1,
+    "score": 2,
     "flags": 1,
     "comment_count": 1,
     "description": "",
@@ -43,7 +145,7 @@
       "is_admin": false,
       "about": "Graphics coder",
       "is_moderator": false,
-      "karma": 484,
+      "karma": 485,
       "avatar_url": "/avatars/pekkavaa-100.png",
       "invited_by_user": "mikejstenberg"
     },
@@ -85,7 +187,7 @@
     "created_at": "2021-08-26T22:49:49.000-05:00",
     "title": "Qt Creator 5.0 released",
     "url": "https://www.qt.io/blog/qt-creator-5.0-released",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -96,7 +198,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11935,
+      "karma": 11936,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -111,7 +213,7 @@
     "created_at": "2021-08-26T21:42:03.000-05:00",
     "title": "NetBSD wifi project status update",
     "url": "https://blog.netbsd.org/tnf/entry/wifi_project_status_update",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -122,7 +224,7 @@
       "is_admin": false,
       "about": "BSD hobbyist. NetBSD/OS108 user",
       "is_moderator": false,
-      "karma": 468,
+      "karma": 469,
       "avatar_url": "/avatars/jaypatelani-100.png",
       "invited_by_user": "qbit"
     },
@@ -175,7 +277,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82414,
+      "karma": 82415,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -202,7 +304,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82414,
+      "karma": 82415,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -217,7 +319,7 @@
     "created_at": "2021-08-26T19:40:03.000-05:00",
     "title": "Technical explanation of the Québec vaccination passport",
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 4,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -228,7 +330,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1736,
+      "karma": 1739,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -244,7 +346,7 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 26,
+    "score": 28,
     "flags": 1,
     "comment_count": 6,
     "description": "",
@@ -255,7 +357,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2713,
+      "karma": 2715,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -270,9 +372,9 @@
     "created_at": "2021-08-26T16:10:35.000-05:00",
     "title": "Writing a simple JSON library from scratch: a tour through modern C++",
     "url": "https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/29q0no/writing_simple_json_library_from_scratch",
     "submitter_user": {
@@ -281,7 +383,7 @@
       "is_admin": false,
       "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
       "is_moderator": false,
-      "karma": 1278,
+      "karma": 1279,
       "avatar_url": "/avatars/eatonphil-100.png",
       "invited_by_user": "calvin",
       "github_username": "eatonphil",
@@ -352,7 +454,7 @@
     "created_at": "2021-08-26T13:53:23.000-05:00",
     "title": "High Performance Correctly Rounded Math Libraries for 32-bit Floating Point Representations",
     "url": "https://blog.sigplan.org/2021/08/26/high-performance-correctly-rounded-math-libraries-for-32-bit-floating-point-representations/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -363,7 +465,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2093,
+      "karma": 2094,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -390,7 +492,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2093,
+      "karma": 2094,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -434,7 +536,7 @@
     "created_at": "2021-08-26T08:52:12.000-05:00",
     "title": "prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data",
     "url": "https://github.com/marceloprates/prettymaps",
-    "score": 23,
+    "score": 24,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -445,7 +547,7 @@
       "is_admin": false,
       "about": "Sundeep Agarwal is a freelance trainer, [author](https://learnbyexample.github.io/books/) and mentor. You can find his works, primarily focused on Linux command line, text processing, scripting languages and curated lists, at [https://github.com/learnbyexample](https://github.com/learnbyexample).",
       "is_moderator": false,
-      "karma": 1540,
+      "karma": 1541,
       "avatar_url": "/avatars/learnbyexample-100.png",
       "invited_by_user": "ngoldbaum",
       "twitter_username": "learn_byexample"
@@ -471,7 +573,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2044,
+      "karma": 2045,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -521,7 +623,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82414,
+      "karma": 82415,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -556,118 +658,6 @@
       "devops",
       "practices",
       "python"
-    ]
-  },
-  {
-    "short_id": "a1uqbz",
-    "short_id_url": "https://lobste.rs/s/a1uqbz",
-    "created_at": "2021-08-26T07:30:34.000-05:00",
-    "title": "Learning by rewriting - bash, jq and fzf details",
-    "url": "http://qmacro.org/2021/08/26/learning-by-rewriting/",
-    "score": 19,
-    "flags": 1,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/a1uqbz/learning_by_rewriting_bash_jq_fzf_details",
-    "submitter_user": {
-      "username": "qmacro",
-      "created_at": "2020-01-24T10:48:42.000-06:00",
-      "is_admin": false,
-      "about": "[Developer, author, teacher, speaker](https://qmacro.org). And fascinated by all sorts of stuff.",
-      "is_moderator": false,
-      "karma": 336,
-      "avatar_url": "/avatars/qmacro-100.png",
-      "invited_by_user": "martinrue",
-      "github_username": "qmacro",
-      "twitter_username": "qmacro"
-    },
-    "tags": [
-      "linux",
-      "practices"
-    ]
-  },
-  {
-    "short_id": "a2j9ya",
-    "short_id_url": "https://lobste.rs/s/a2j9ya",
-    "created_at": "2021-08-26T07:05:25.000-05:00",
-    "title": "Postgres Extensions in Rust",
-    "url": "https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/a2j9ya/postgres_extensions_rust",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 2044,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "databases",
-      "rust"
-    ]
-  },
-  {
-    "short_id": "6tgmsr",
-    "short_id_url": "https://lobste.rs/s/6tgmsr",
-    "created_at": "2021-08-26T04:05:38.000-05:00",
-    "title": "there is no such thing as a “glibc based alpine image”",
-    "url": "https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/",
-    "score": 65,
-    "flags": 1,
-    "comment_count": 18,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/6tgmsr/there_is_no_such_thing_as_glibc_based",
-    "submitter_user": {
-      "username": "gerikson",
-      "created_at": "2017-01-13T03:16:10.000-06:00",
-      "is_admin": false,
-      "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
-      "is_moderator": false,
-      "karma": 10687,
-      "avatar_url": "/avatars/gerikson-100.png",
-      "invited_by_user": "varjag",
-      "github_username": "gustafe",
-      "twitter_username": "gerikson"
-    },
-    "tags": [
-      "linux"
-    ]
-  },
-  {
-    "short_id": "vkqxw4",
-    "short_id_url": "https://lobste.rs/s/vkqxw4",
-    "created_at": "2021-08-26T02:58:36.000-05:00",
-    "title": "Web API Deprecation Metrics",
-    "url": "https://deprecate.it/",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/vkqxw4/web_api_deprecation_metrics",
-    "submitter_user": {
-      "username": "freddyb",
-      "created_at": "2017-02-02T09:12:16.000-06:00",
-      "is_admin": false,
-      "about": "Security. Mostly in Browsers, but not exclusively.",
-      "is_moderator": false,
-      "karma": 5942,
-      "avatar_url": "/avatars/freddyb-100.png",
-      "invited_by_user": "stas",
-      "keybase_signatures": [
-        {
-          "kb_username": "freddyb",
-          "sig_hash": "550e2f5b27d4b5d558c02dfb2b23a628e90635183c93f993eeea4e16b20c51150f"
-        }
-      ]
-    },
-    "tags": [
-      "web"
     ]
   }
 ]
