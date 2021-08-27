@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "y9gzcy",
+    "short_id_url": "https://lobste.rs/s/y9gzcy",
+    "created_at": "2021-08-27T16:48:27.000-05:00",
+    "title": "The Semiconductor Heist Of The Century",
+    "url": "https://semianalysis.com/the-semiconductor-heist-of-the-century-arm-china-has-gone-completely-rogue-operating-as-an-independent-company-with-their-own-ip/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/y9gzcy/semiconductor_heist_century",
+    "submitter_user": {
+      "username": "fcbsd",
+      "created_at": "2014-01-15T14:55:15.000-06:00",
+      "is_admin": false,
+      "about": "**Fred Crowson**\r\n\r\n*BSD user, sys admin, BMX & MTB Coach*\r\n\r\nRunning on an [OpenBSD](https://www.openbsd.org/) Desktop since 2001 :~)\r\n\r\nhttp://www.schoolio.co.uk/",
+      "is_moderator": false,
+      "karma": 4569,
+      "avatar_url": "/avatars/fcbsd-100.png",
+      "invited_by_user": "jm"
+    },
+    "tags": [
+      "hardware"
+    ]
+  },
+  {
     "short_id": "yufove",
     "short_id_url": "https://lobste.rs/s/yufove",
     "created_at": "2021-08-27T16:07:34.000-05:00",
@@ -26,33 +51,6 @@
     ]
   },
   {
-    "short_id": "3r15nj",
-    "short_id_url": "https://lobste.rs/s/3r15nj",
-    "created_at": "2021-08-27T15:38:11.000-05:00",
-    "title": "What do you call the parts of a story? Or: why can’t journalists spell “lead”?",
-    "url": "https://blog.carlmjohnson.net/post/2020/article-bits/",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3r15nj/what_do_you_call_parts_story_why_can_t",
-    "submitter_user": {
-      "username": "carlmjohnson",
-      "created_at": "2021-07-19T11:55:18.000-05:00",
-      "is_admin": false,
-      "about": "Carl M. Johnson is a philosopher and programmer, currently employed as the Director of Technology for Spotlight PA.",
-      "is_moderator": false,
-      "karma": 358,
-      "avatar_url": "/avatars/carlmjohnson-100.png",
-      "invited_by_user": "peterbourgon",
-      "github_username": "carlmjohnson",
-      "twitter_username": "carlmjohnson"
-    },
-    "tags": [
-      "web"
-    ]
-  },
-  {
     "short_id": "b3kldf",
     "short_id_url": "https://lobste.rs/s/b3kldf",
     "created_at": "2021-08-27T14:34:30.000-05:00",
@@ -69,7 +67,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3611,
+      "karma": 3614,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -110,7 +108,7 @@
     "created_at": "2021-08-27T09:57:13.000-05:00",
     "title": "Pin, Unpin, and why Rust needs them",
     "url": "https://blog.cloudflare.com/pin-and-unpin-in-rust/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -121,7 +119,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2055,
+      "karma": 2056,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -135,9 +133,9 @@
     "created_at": "2021-08-27T09:27:48.000-05:00",
     "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
     "url": "",
-    "score": 12,
+    "score": 13,
     "flags": 0,
-    "comment_count": 20,
+    "comment_count": 23,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -146,7 +144,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 802,
+      "karma": 804,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -188,7 +186,7 @@
     "created_at": "2021-08-27T08:19:38.000-05:00",
     "title": "A Vim Guide For Experts",
     "url": "https://thevaluable.dev/vim-expert/",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -199,7 +197,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82447,
+      "karma": 82448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -214,7 +212,7 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 32,
+    "score": 35,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -225,7 +223,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 345,
+      "karma": 348,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -258,7 +256,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2055,
+      "karma": 2056,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -324,7 +322,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 22,
+    "score": 25,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -335,7 +333,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3611,
+      "karma": 3614,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -349,7 +347,7 @@
     "created_at": "2021-08-27T04:05:41.000-05:00",
     "title": "ICFP 2021 - OCaml Workshop Live Stream",
     "url": "https://www.youtube.com/watch?v=SJXaY3nlMss",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -360,7 +358,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1167,
+      "karma": 1168,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -482,7 +480,7 @@
     "created_at": "2021-08-26T21:09:54.000-05:00",
     "title": "Software Crisis 2.0",
     "url": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
-    "score": 13,
+    "score": 14,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -493,7 +491,7 @@
       "is_admin": false,
       "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
       "is_moderator": false,
-      "karma": 502,
+      "karma": 503,
       "avatar_url": "/avatars/nolan-100.png",
       "invited_by_user": "calvin"
     },
@@ -519,7 +517,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82447,
+      "karma": 82448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -546,7 +544,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82447,
+      "karma": 82448,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -561,8 +559,8 @@
     "created_at": "2021-08-26T19:40:03.000-05:00",
     "title": "Technical explanation of the Québec vaccination passport",
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 16,
-    "flags": 0,
+    "score": 15,
+    "flags": 1,
     "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/bstipe/technical_explanation_quebec",
@@ -572,7 +570,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1748,
+      "karma": 1747,
       "avatar_url": "/avatars/LenFalken-100.png",
       "invited_by_user": "ngoldbaum"
     },
@@ -588,7 +586,7 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 38,
+    "score": 39,
     "flags": 1,
     "comment_count": 8,
     "description": "",
@@ -599,7 +597,7 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2725,
+      "karma": 2726,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
