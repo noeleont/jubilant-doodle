@@ -1,5 +1,59 @@
 [
   {
+    "short_id": "fqwr3b",
+    "short_id_url": "https://lobste.rs/s/fqwr3b",
+    "created_at": "2021-08-28T00:20:48.000-05:00",
+    "title": "Latency Sneaks Up On You",
+    "url": "https://brooker.co.za/blog/2021/08/05/utilization.html",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/fqwr3b/latency_sneaks_up_on_you",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82464,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "short_id": "ratjnq",
+    "short_id_url": "https://lobste.rs/s/ratjnq",
+    "created_at": "2021-08-28T00:20:16.000-05:00",
+    "title": "The Future of discord.py",
+    "url": "https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 1,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ratjnq/future_discord_py",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82464,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "api",
+      "practices",
+      "rant"
+    ]
+  },
+  {
     "short_id": "agm5nv",
     "short_id_url": "https://lobste.rs/s/agm5nv",
     "created_at": "2021-08-28T00:06:36.000-05:00",
@@ -35,7 +89,7 @@
     "url": "https://www.hackerfactor.com/blog/?/archives/432-Looks-Like-It.html",
     "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/ltyivv/perceptual_hash_algorithms",
     "submitter_user": {
@@ -191,7 +245,7 @@
     "created_at": "2021-08-27T09:57:13.000-05:00",
     "title": "Pin, Unpin, and why Rust needs them",
     "url": "https://blog.cloudflare.com/pin-and-unpin-in-rust/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -202,7 +256,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2063,
+      "karma": 2065,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -216,9 +270,9 @@
     "created_at": "2021-08-27T09:27:48.000-05:00",
     "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
     "url": "",
-    "score": 22,
+    "score": 23,
     "flags": 0,
-    "comment_count": 29,
+    "comment_count": 31,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -227,7 +281,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 816,
+      "karma": 818,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -280,7 +334,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82459,
+      "karma": 82464,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -339,7 +393,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2063,
+      "karma": 2065,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -600,7 +654,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82459,
+      "karma": 82464,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -608,59 +662,6 @@
     "tags": [
       "culture",
       "rant"
-    ]
-  },
-  {
-    "short_id": "jhu5nx",
-    "short_id_url": "https://lobste.rs/s/jhu5nx",
-    "created_at": "2021-08-26T20:14:23.000-05:00",
-    "title": "Recent and not so recent changes in OpenBSD that make life better (and may turn up elsewhere too)",
-    "url": "https://bsdly.blogspot.com/2021/08/recent-and-not-so-recent-changes-in.html",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/jhu5nx/recent_not_so_recent_changes_openbsd_make",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82459,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "openbsd"
-    ]
-  },
-  {
-    "short_id": "bstipe",
-    "short_id_url": "https://lobste.rs/s/bstipe",
-    "created_at": "2021-08-26T19:40:03.000-05:00",
-    "title": "Technical explanation of the Québec vaccination passport",
-    "url": "http://len.falken.ink/misc/smart-health-card.txt",
-    "score": 15,
-    "flags": 1,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/bstipe/technical_explanation_quebec",
-    "submitter_user": {
-      "username": "LenFalken",
-      "created_at": "2016-03-07T10:51:31.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1749,
-      "avatar_url": "/avatars/LenFalken-100.png",
-      "invited_by_user": "ngoldbaum"
-    },
-    "tags": [
-      "crypto",
-      "programming",
-      "reversing"
     ]
   }
 ]
