@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "pnfkzp",
+    "short_id_url": "https://lobste.rs/s/pnfkzp",
+    "created_at": "2021-08-28T12:25:51.000-05:00",
+    "title": "Kaitai Struct: declarative binary format parsing language",
+    "url": "https://kaitai.io/",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format",
+    "submitter_user": {
+      "username": "av",
+      "created_at": "2015-03-22T08:27:17.000-05:00",
+      "is_admin": false,
+      "about": "Python Enthusiast.",
+      "is_moderator": false,
+      "karma": 10175,
+      "avatar_url": "/avatars/av-100.png",
+      "invited_by_user": "kshn"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "hmbepl",
     "short_id_url": "https://lobste.rs/s/hmbepl",
     "created_at": "2021-08-28T08:22:53.000-05:00",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 569,
+      "karma": 570,
       "avatar_url": "/avatars/stapelberg-100.png",
       "invited_by_user": "pl",
       "github_username": "stapelberg"
@@ -31,9 +56,9 @@
     "created_at": "2021-08-28T06:12:27.000-05:00",
     "title": "My tiny side project has had more impact than my decade in the software industry",
     "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-    "score": 25,
+    "score": 31,
     "flags": 1,
-    "comment_count": 6,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact",
     "submitter_user": {
@@ -42,7 +67,7 @@
       "is_admin": false,
       "about": "https://fedi.9til.de/@julienxx",
       "is_moderator": false,
-      "karma": 2832,
+      "karma": 2838,
       "avatar_url": "/avatars/julienxx-100.png",
       "invited_by_user": "SeanTAllen",
       "github_username": "julienXX",
@@ -89,7 +114,7 @@
     "created_at": "2021-08-28T03:42:59.000-05:00",
     "title": "RBAC like it was meant to be",
     "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
-    "score": 7,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -100,7 +125,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6450,
+      "karma": 6453,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -143,7 +168,7 @@
     "created_at": "2021-08-28T00:20:48.000-05:00",
     "title": "Latency Sneaks Up On You",
     "url": "https://brooker.co.za/blog/2021/08/05/utilization.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -154,7 +179,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82500,
+      "karma": 82501,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -180,7 +205,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82500,
+      "karma": 82501,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -199,7 +224,7 @@
     "url": "https://furbo.org/2021/08/25/jsc-my-new-best-friend/",
     "score": 12,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 4,
     "description": "",
     "comments_url": "https://lobste.rs/s/agm5nv/jsc_my_new_best_friend",
     "submitter_user": {
@@ -251,9 +276,9 @@
     "created_at": "2021-08-27T18:07:33.000-05:00",
     "title": "Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel",
     "url": "https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/8lv20m/utilizing_msg_msg_objects_for_arbitrary",
     "submitter_user": {
@@ -262,7 +287,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1370,
+      "karma": 1371,
       "avatar_url": "/avatars/fro-100.png",
       "invited_by_user": "xero"
     },
@@ -277,9 +302,9 @@
     "created_at": "2021-08-27T18:05:09.000-05:00",
     "title": "What are you doing this weekend?",
     "url": "",
-    "score": 5,
+    "score": 6,
     "flags": 1,
-    "comment_count": 21,
+    "comment_count": 22,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/amaxic/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -288,7 +313,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6450,
+      "karma": 6453,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -408,7 +433,7 @@
     "created_at": "2021-08-27T09:27:48.000-05:00",
     "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
     "url": "",
-    "score": 28,
+    "score": 29,
     "flags": 0,
     "comment_count": 38,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
@@ -419,7 +444,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 827,
+      "karma": 828,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -472,7 +497,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82500,
+      "karma": 82501,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -487,9 +512,9 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 43,
+    "score": 44,
     "flags": 0,
-    "comment_count": 6,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq",
     "submitter_user": {
@@ -498,7 +523,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 356,
+      "karma": 357,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -641,31 +666,6 @@
       "ml",
       "plt",
       "video"
-    ]
-  },
-  {
-    "short_id": "byrmrm",
-    "short_id_url": "https://lobste.rs/s/byrmrm",
-    "created_at": "2021-08-27T02:59:06.000-05:00",
-    "title": "Agile Workplace",
-    "url": "https://newleftreview.org/sidecar/posts/agile-workplace",
-    "score": 5,
-    "flags": 1,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/byrmrm/agile_workplace",
-    "submitter_user": {
-      "username": "pekkavaa",
-      "created_at": "2018-06-26T00:46:17.000-05:00",
-      "is_admin": false,
-      "about": "Graphics coder",
-      "is_moderator": false,
-      "karma": 488,
-      "avatar_url": "/avatars/pekkavaa-100.png",
-      "invited_by_user": "mikejstenberg"
-    },
-    "tags": [
-      "practices"
     ]
   }
 ]
