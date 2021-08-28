@@ -1,13 +1,66 @@
 [
   {
+    "short_id": "ivboce",
+    "short_id_url": "https://lobste.rs/s/ivboce",
+    "created_at": "2021-08-28T17:15:52.000-05:00",
+    "title": "Making Reasonable Use of Computer Resources: Part 2",
+    "url": "http://vfoley.xyz/reasonable-use-2/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ivboce/making_reasonable_use_computer",
+    "submitter_user": {
+      "username": "wezm",
+      "created_at": "2017-03-13T19:52:34.000-05:00",
+      "is_admin": false,
+      "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
+      "is_moderator": false,
+      "karma": 2614,
+      "avatar_url": "/avatars/wezm-100.png",
+      "invited_by_user": "alfiedotwtf",
+      "github_username": "wezm",
+      "twitter_username": "wezm"
+    },
+    "tags": [
+      "performance"
+    ]
+  },
+  {
+    "short_id": "lztgne",
+    "short_id_url": "https://lobste.rs/s/lztgne",
+    "created_at": "2021-08-28T16:37:58.000-05:00",
+    "title": "Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions",
+    "url": "https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lztgne/dynamic_content_for_github_repository",
+    "submitter_user": {
+      "username": "simonw",
+      "created_at": "2021-07-29T15:43:15.000-05:00",
+      "is_admin": false,
+      "about": "Creator of https://datasette.io",
+      "is_moderator": false,
+      "karma": 91,
+      "avatar_url": "/avatars/simonw-100.png",
+      "invited_by_user": "scoates",
+      "github_username": "simonw"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "htj8ix",
     "short_id_url": "https://lobste.rs/s/htj8ix",
     "created_at": "2021-08-28T15:25:05.000-05:00",
     "title": "Introduction to Homotopy Type Theory and Univalent Foundations (HoTT/UF) with Agda",
     "url": "https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html",
-    "score": 1,
+    "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/htj8ix/introduction_homotopy_type_theory",
     "submitter_user": {
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1429,
+      "karma": 1431,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -57,7 +110,7 @@
     "created_at": "2021-08-28T13:23:54.000-05:00",
     "title": "Why I will stay Janet",
     "url": "https://pan.earth/posts/why-i-will-stay-janet.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +121,7 @@
       "is_admin": false,
       "about": "I am a loving husband and father, cosmopolitan, programmer, janeteer, and party animal.",
       "is_moderator": false,
-      "karma": 306,
+      "karma": 307,
       "avatar_url": "/avatars/pp-100.png",
       "invited_by_user": "ac"
     },
@@ -82,7 +135,7 @@
     "created_at": "2021-08-28T12:25:51.000-05:00",
     "title": "Kaitai Struct: declarative binary format parsing language",
     "url": "https://kaitai.io/",
-    "score": 11,
+    "score": 12,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -93,7 +146,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10182,
+      "karma": 10183,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -107,7 +160,7 @@
     "created_at": "2021-08-28T08:22:53.000-05:00",
     "title": "Silent HP Z440 workstation: replacing noisy fans",
     "url": "https://michael.stapelberg.ch/posts/2021-08-28-silent-hp-z440-workstation/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -118,7 +171,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 573,
+      "karma": 574,
       "avatar_url": "/avatars/stapelberg-100.png",
       "invited_by_user": "pl",
       "github_username": "stapelberg"
@@ -133,9 +186,9 @@
     "created_at": "2021-08-28T06:12:27.000-05:00",
     "title": "My tiny side project has had more impact than my decade in the software industry",
     "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-    "score": 41,
+    "score": 46,
     "flags": 1,
-    "comment_count": 11,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact",
     "submitter_user": {
@@ -144,7 +197,7 @@
       "is_admin": false,
       "about": "https://fedi.9til.de/@julienxx",
       "is_moderator": false,
-      "karma": 2848,
+      "karma": 2853,
       "avatar_url": "/avatars/julienxx-100.png",
       "invited_by_user": "SeanTAllen",
       "github_username": "julienXX",
@@ -191,9 +244,9 @@
     "created_at": "2021-08-28T03:42:59.000-05:00",
     "title": "RBAC like it was meant to be",
     "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/i2ngzq/rbac_like_it_was_meant_be",
     "submitter_user": {
@@ -202,7 +255,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6458,
+      "karma": 6459,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -273,7 +326,7 @@
     "url": "https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1",
     "score": 27,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/ratjnq/future_discord_py",
     "submitter_user": {
@@ -299,7 +352,7 @@
     "created_at": "2021-08-28T00:06:36.000-05:00",
     "title": "jsc: My New Best Friend",
     "url": "https://furbo.org/2021/08/25/jsc-my-new-best-friend/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 8,
     "description": "",
@@ -310,7 +363,7 @@
       "is_admin": false,
       "about": "CEO at Xfaang, WarsawJS Community Leader",
       "is_moderator": false,
-      "karma": 156,
+      "karma": 157,
       "avatar_url": "/avatars/tuhaj-100.png",
       "invited_by_user": "andrzejkrzywda",
       "github_username": "Tuhaj",
@@ -390,7 +443,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6458,
+      "karma": 6459,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -512,7 +565,7 @@
     "url": "",
     "score": 29,
     "flags": 0,
-    "comment_count": 39,
+    "comment_count": 40,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -537,7 +590,7 @@
     "created_at": "2021-08-27T08:47:20.000-05:00",
     "title": "Install NetBSD 9.2 on a DEC Alpha CPU with AXPBox",
     "url": "https://raymii.org/s/articles/NetBSD_Alpha_AXPbox.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -548,7 +601,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11940,
+      "karma": 11941,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -589,7 +642,7 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 45,
+    "score": 46,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -600,7 +653,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 358,
+      "karma": 359,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -614,57 +667,6 @@
     },
     "tags": [
       "networking"
-    ]
-  },
-  {
-    "short_id": "z8trl5",
-    "short_id_url": "https://lobste.rs/s/z8trl5",
-    "created_at": "2021-08-27T07:15:45.000-05:00",
-    "title": "Async sequences, streams, and Combine",
-    "url": "https://www.swiftbysundell.com/articles/async-sequences-streams-and-combine",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/z8trl5/async_sequences_streams_combine",
-    "submitter_user": {
-      "username": "napkindrawing",
-      "created_at": "2014-05-14T10:03:04.000-05:00",
-      "is_admin": false,
-      "about": "Dad. Tinkerer. Software developer. he/they.",
-      "is_moderator": false,
-      "karma": 2073,
-      "avatar_url": "/avatars/napkindrawing-100.png",
-      "invited_by_user": "howdoipython"
-    },
-    "tags": [
-      "swift"
-    ]
-  },
-  {
-    "short_id": "3bgb5o",
-    "short_id_url": "https://lobste.rs/s/3bgb5o",
-    "created_at": "2021-08-27T06:57:43.000-05:00",
-    "title": "GitFinder - git client with Finder integration",
-    "url": "https://gitfinder.com/",
-    "score": -1,
-    "flags": 4,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/3bgb5o/gitfinder_git_client_with_finder",
-    "submitter_user": {
-      "username": "idrougge",
-      "created_at": "2020-03-20T09:40:53.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1126,
-      "avatar_url": "/avatars/idrougge-100.png",
-      "invited_by_user": "gerikson"
-    },
-    "tags": [
-      "mac",
-      "vcs"
     ]
   }
 ]
