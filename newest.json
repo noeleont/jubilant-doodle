@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "ltyivv",
+    "short_id_url": "https://lobste.rs/s/ltyivv",
+    "created_at": "2021-08-27T19:15:29.000-05:00",
+    "title": "Perceptual hash algorithms",
+    "url": "https://www.hackerfactor.com/blog/?/archives/432-Looks-Like-It.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ltyivv/perceptual_hash_algorithms",
+    "submitter_user": {
+      "username": "jcrabbit",
+      "created_at": "2020-09-09T12:40:04.000-05:00",
+      "is_admin": false,
+      "about": "Dad, husband, amateur programmer",
+      "is_moderator": false,
+      "karma": 273,
+      "avatar_url": "/avatars/jcrabbit-100.png",
+      "invited_by_user": "JordiGH"
+    },
+    "tags": [
+      "privacy",
+      "programming"
+    ]
+  },
+  {
     "short_id": "8lv20m",
     "short_id_url": "https://lobste.rs/s/8lv20m",
     "created_at": "2021-08-27T18:07:33.000-05:00",
@@ -31,9 +57,9 @@
     "created_at": "2021-08-27T18:05:09.000-05:00",
     "title": "What are you doing this weekend?",
     "url": "",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/amaxic/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6439,
+      "karma": 6440,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -96,7 +122,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3615,
+      "karma": 3616,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -137,7 +163,7 @@
     "created_at": "2021-08-27T09:57:13.000-05:00",
     "title": "Pin, Unpin, and why Rust needs them",
     "url": "https://blog.cloudflare.com/pin-and-unpin-in-rust/",
-    "score": 9,
+    "score": 11,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -148,7 +174,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2058,
+      "karma": 2060,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -162,9 +188,9 @@
     "created_at": "2021-08-27T09:27:48.000-05:00",
     "title": "Have you ever experienced Tetris syndrome with programming? What was your experience?",
     "url": "",
-    "score": 14,
+    "score": 17,
     "flags": 0,
-    "comment_count": 25,
+    "comment_count": 26,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -173,7 +199,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 805,
+      "karma": 810,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -215,7 +241,7 @@
     "created_at": "2021-08-27T08:19:38.000-05:00",
     "title": "A Vim Guide For Experts",
     "url": "https://thevaluable.dev/vim-expert/",
-    "score": 14,
+    "score": 15,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -226,7 +252,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82449,
+      "karma": 82454,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -285,7 +311,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2058,
+      "karma": 2060,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -351,7 +377,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 26,
+    "score": 27,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -362,7 +388,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3615,
+      "karma": 3616,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -376,7 +402,7 @@
     "created_at": "2021-08-27T04:05:41.000-05:00",
     "title": "ICFP 2021 - OCaml Workshop Live Stream",
     "url": "https://www.youtube.com/watch?v=SJXaY3nlMss",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -387,7 +413,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1168,
+      "karma": 1169,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -546,7 +572,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82449,
+      "karma": 82454,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -573,7 +599,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82449,
+      "karma": 82454,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -590,7 +616,7 @@
     "url": "http://len.falken.ink/misc/smart-health-card.txt",
     "score": 15,
     "flags": 1,
-    "comment_count": 5,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/bstipe/technical_explanation_quebec",
     "submitter_user": {
@@ -615,7 +641,7 @@
     "created_at": "2021-08-26T18:45:19.000-05:00",
     "title": "Why are hyperlinks blue?",
     "url": "https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/",
-    "score": 39,
+    "score": 40,
     "flags": 1,
     "comment_count": 8,
     "description": "",
@@ -626,41 +652,13 @@
       "is_admin": false,
       "about": "A sentient lump of a certain high-density material",
       "is_moderator": false,
-      "karma": 2726,
+      "karma": 2728,
       "avatar_url": "/avatars/technetium-100.png",
       "invited_by_user": "ngoldbaum"
     },
     "tags": [
       "design",
       "web"
-    ]
-  },
-  {
-    "short_id": "29q0no",
-    "short_id_url": "https://lobste.rs/s/29q0no",
-    "created_at": "2021-08-26T16:10:35.000-05:00",
-    "title": "Writing a simple JSON library from scratch: a tour through modern C++",
-    "url": "https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html",
-    "score": 10,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/29q0no/writing_simple_json_library_from_scratch",
-    "submitter_user": {
-      "username": "eatonphil",
-      "created_at": "2019-09-01T20:23:02.000-05:00",
-      "is_admin": false,
-      "about": "Looking for what's next! Previously Oracle, Capsule8, Linode.\r\n\r\nBuilding an open-source data IDE at github.com/multiprocessio/datastation.\r\n\r\nTech writing at notes.eatonphil.com.\r\n\r\nSay hi! phil at eatonphil.com.",
-      "is_moderator": false,
-      "karma": 1280,
-      "avatar_url": "/avatars/eatonphil-100.png",
-      "invited_by_user": "calvin",
-      "github_username": "eatonphil",
-      "twitter_username": "phil_eaton"
-    },
-    "tags": [
-      "c++",
-      "plt"
     ]
   }
 ]
