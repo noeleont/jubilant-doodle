@@ -1,5 +1,31 @@
 [
   {
+    "short_id": "c8llil",
+    "short_id_url": "https://lobste.rs/s/c8llil",
+    "created_at": "2021-08-28T02:16:15.000-05:00",
+    "title": "Computers should expose their internal workings as a 6th sense",
+    "url": "https://interconnected.org/home/2021/08/27/data_sense",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/c8llil/computers_should_expose_their_internal",
+    "submitter_user": {
+      "username": "j11g",
+      "created_at": "2017-07-17T09:39:28.000-05:00",
+      "is_admin": false,
+      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
+      "is_moderator": false,
+      "karma": 4400,
+      "avatar_url": "/avatars/j11g-100.png",
+      "invited_by_user": "mischa",
+      "twitter_username": "loginn"
+    },
+    "tags": [
+      "culture"
+    ]
+  },
+  {
     "short_id": "fqwr3b",
     "short_id_url": "https://lobste.rs/s/fqwr3b",
     "created_at": "2021-08-28T00:20:48.000-05:00",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82464,
+      "karma": 82467,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -31,7 +57,7 @@
     "created_at": "2021-08-28T00:20:16.000-05:00",
     "title": "The Future of discord.py",
     "url": "https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1",
-    "score": 4,
+    "score": 7,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -42,7 +68,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82464,
+      "karma": 82467,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -85,20 +111,20 @@
     "short_id": "ltyivv",
     "short_id_url": "https://lobste.rs/s/ltyivv",
     "created_at": "2021-08-27T19:15:29.000-05:00",
-    "title": "Perceptual hash algorithms",
+    "title": "Perceptual hash algorithms (2011)",
     "url": "https://www.hackerfactor.com/blog/?/archives/432-Looks-Like-It.html",
-    "score": 2,
+    "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 3,
     "description": "",
-    "comments_url": "https://lobste.rs/s/ltyivv/perceptual_hash_algorithms",
+    "comments_url": "https://lobste.rs/s/ltyivv/perceptual_hash_algorithms_2011",
     "submitter_user": {
       "username": "jcrabbit",
       "created_at": "2020-09-09T12:40:04.000-05:00",
       "is_admin": false,
       "about": "Dad, husband, amateur programmer",
       "is_moderator": false,
-      "karma": 274,
+      "karma": 276,
       "avatar_url": "/avatars/jcrabbit-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -334,7 +360,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82464,
+      "karma": 82467,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -484,7 +510,7 @@
     "created_at": "2021-08-27T04:05:41.000-05:00",
     "title": "ICFP 2021 - OCaml Workshop Live Stream",
     "url": "https://www.youtube.com/watch?v=SJXaY3nlMss",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -495,7 +521,7 @@
       "is_admin": false,
       "about": "Lifetime hacker, Mathematician and happy Maker :)",
       "is_moderator": false,
-      "karma": 1169,
+      "karma": 1170,
       "avatar_url": "/avatars/mseri-100.png",
       "invited_by_user": "orliesaurus"
     },
@@ -634,33 +660,6 @@
     },
     "tags": [
       "practices",
-      "rant"
-    ]
-  },
-  {
-    "short_id": "d3rnyo",
-    "short_id_url": "https://lobste.rs/s/d3rnyo",
-    "created_at": "2021-08-26T20:41:07.000-05:00",
-    "title": "My love-hate affair with technology",
-    "url": "https://nolanlawson.com/2021/08/26/my-love-hate-affair-with-technology/",
-    "score": 5,
-    "flags": 1,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/d3rnyo/my_love_hate_affair_with_technology",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82464,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "culture",
       "rant"
     ]
   }
