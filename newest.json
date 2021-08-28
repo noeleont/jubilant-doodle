@@ -1,5 +1,63 @@
 [
   {
+    "short_id": "kyaoqk",
+    "short_id_url": "https://lobste.rs/s/kyaoqk",
+    "created_at": "2021-08-28T06:12:27.000-05:00",
+    "title": "My tiny side project has had more impact than my decade in the software industry",
+    "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact",
+    "submitter_user": {
+      "username": "julienxx",
+      "created_at": "2014-05-16T15:01:50.000-05:00",
+      "is_admin": false,
+      "about": "https://fedi.9til.de/@julienxx",
+      "is_moderator": false,
+      "karma": 2808,
+      "avatar_url": "/avatars/julienxx-100.png",
+      "invited_by_user": "SeanTAllen",
+      "github_username": "julienXX",
+      "keybase_signatures": [
+        {
+          "kb_username": "julienxx",
+          "sig_hash": "73e48989269397a2bce306fde9b1131beeeb9ff7b7f7e01532dd92553c4e78510f"
+        }
+      ]
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "short_id": "siibpv",
+    "short_id_url": "https://lobste.rs/s/siibpv",
+    "created_at": "2021-08-28T06:03:51.000-05:00",
+    "title": "10 ways GNU Guile is 10x better",
+    "url": "https://www.draketo.de/software/guile-10x.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/siibpv/10_ways_gnu_guile_is_10x_better",
+    "submitter_user": {
+      "username": "kir0ul",
+      "created_at": "2021-02-06T13:51:10.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 107,
+      "avatar_url": "/avatars/kir0ul-100.png",
+      "invited_by_user": "Lomanic",
+      "github_username": "kir0ul"
+    },
+    "tags": [
+      "lisp"
+    ]
+  },
+  {
     "short_id": "i2ngzq",
     "short_id_url": "https://lobste.rs/s/i2ngzq",
     "created_at": "2021-08-28T03:42:59.000-05:00",
@@ -70,7 +128,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82474,
+      "karma": 82475,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -96,7 +154,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82474,
+      "karma": 82475,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -111,20 +169,20 @@
     "short_id": "agm5nv",
     "short_id_url": "https://lobste.rs/s/agm5nv",
     "created_at": "2021-08-28T00:06:36.000-05:00",
-    "title": "jsc: My New Best Friend • furbo.org",
+    "title": "jsc: My New Best Friend",
     "url": "https://furbo.org/2021/08/25/jsc-my-new-best-friend/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
-    "comments_url": "https://lobste.rs/s/agm5nv/jsc_my_new_best_friend_furbo_org",
+    "comments_url": "https://lobste.rs/s/agm5nv/jsc_my_new_best_friend",
     "submitter_user": {
       "username": "tuhaj",
       "created_at": "2020-06-18T18:14:48.000-05:00",
       "is_admin": false,
       "about": "CEO at Xfaang, WarsawJS Community Leader",
       "is_moderator": false,
-      "karma": 144,
+      "karma": 145,
       "avatar_url": "/avatars/tuhaj-100.png",
       "invited_by_user": "andrzejkrzywda",
       "github_username": "Tuhaj",
@@ -195,7 +253,7 @@
     "url": "",
     "score": 4,
     "flags": 1,
-    "comment_count": 15,
+    "comment_count": 17,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/amaxic/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -258,7 +316,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3623,
+      "karma": 3624,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -299,7 +357,7 @@
     "created_at": "2021-08-27T09:57:13.000-05:00",
     "title": "Pin, Unpin, and why Rust needs them",
     "url": "https://blog.cloudflare.com/pin-and-unpin-in-rust/",
-    "score": 16,
+    "score": 18,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -310,7 +368,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2066,
+      "karma": 2068,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -388,7 +446,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82474,
+      "karma": 82475,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -403,9 +461,9 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 39,
+    "score": 40,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/uid8v2/ipv4_vs_ipv6_faq",
     "submitter_user": {
@@ -414,7 +472,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 352,
+      "karma": 353,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -447,7 +505,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2066,
+      "karma": 2068,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -513,7 +571,7 @@
     "created_at": "2021-08-27T06:50:49.000-05:00",
     "title": "Some reasons to measure",
     "url": "https://danluu.com/why-benchmark/",
-    "score": 34,
+    "score": 35,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -524,7 +582,7 @@
       "is_admin": false,
       "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
       "is_moderator": false,
-      "karma": 3623,
+      "karma": 3624,
       "avatar_url": "/avatars/itamarst-100.png",
       "invited_by_user": "0x2ba22e11"
     },
@@ -610,59 +668,6 @@
       "ai",
       "compsci",
       "python"
-    ]
-  },
-  {
-    "short_id": "lg91es",
-    "short_id_url": "https://lobste.rs/s/lg91es",
-    "created_at": "2021-08-26T22:49:49.000-05:00",
-    "title": "Qt Creator 5.0 released",
-    "url": "https://www.qt.io/blog/qt-creator-5.0-released",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/lg91es/qt_creator_5_0_released",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11939,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "c++",
-      "release"
-    ]
-  },
-  {
-    "short_id": "fkr9xv",
-    "short_id_url": "https://lobste.rs/s/fkr9xv",
-    "created_at": "2021-08-26T21:42:03.000-05:00",
-    "title": "NetBSD wifi project status update",
-    "url": "https://blog.netbsd.org/tnf/entry/wifi_project_status_update",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fkr9xv/netbsd_wifi_project_status_update",
-    "submitter_user": {
-      "username": "jaypatelani",
-      "created_at": "2020-08-26T22:43:27.000-05:00",
-      "is_admin": false,
-      "about": "BSD hobbyist. NetBSD/OS108 user",
-      "is_moderator": false,
-      "karma": 472,
-      "avatar_url": "/avatars/jaypatelani-100.png",
-      "invited_by_user": "qbit"
-    },
-    "tags": [
-      "netbsd",
-      "osdev",
-      "unix"
     ]
   }
 ]
