@@ -1,5 +1,33 @@
 [
   {
+    "short_id": "i2ngzq",
+    "short_id_url": "https://lobste.rs/s/i2ngzq",
+    "created_at": "2021-08-28T03:42:59.000-05:00",
+    "title": "RBAC like it was meant to be",
+    "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/i2ngzq/rbac_like_it_was_meant_be",
+    "submitter_user": {
+      "username": "caius",
+      "created_at": "2014-05-13T06:58:30.000-05:00",
+      "is_admin": false,
+      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
+      "is_moderator": false,
+      "karma": 6443,
+      "avatar_url": "/avatars/caius-100.png",
+      "invited_by_user": "lauris",
+      "github_username": "caius",
+      "twitter_username": "Caius"
+    },
+    "tags": [
+      "historical",
+      "security"
+    ]
+  },
+  {
     "short_id": "c8llil",
     "short_id_url": "https://lobste.rs/s/c8llil",
     "created_at": "2021-08-28T02:16:15.000-05:00",
@@ -42,7 +70,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82468,
+      "karma": 82469,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -57,7 +85,7 @@
     "created_at": "2021-08-28T00:20:16.000-05:00",
     "title": "The Future of discord.py",
     "url": "https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -68,7 +96,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82468,
+      "karma": 82469,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -113,7 +141,7 @@
     "created_at": "2021-08-27T19:15:29.000-05:00",
     "title": "Perceptual hash algorithms (2011)",
     "url": "https://www.hackerfactor.com/blog/?/archives/432-Looks-Like-It.html",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -124,7 +152,7 @@
       "is_admin": false,
       "about": "Dad, husband, amateur programmer",
       "is_moderator": false,
-      "karma": 276,
+      "karma": 278,
       "avatar_url": "/avatars/jcrabbit-100.png",
       "invited_by_user": "JordiGH"
     },
@@ -167,7 +195,7 @@
     "url": "",
     "score": 4,
     "flags": 1,
-    "comment_count": 13,
+    "comment_count": 15,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/amaxic/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -193,7 +221,7 @@
     "created_at": "2021-08-27T16:07:34.000-05:00",
     "title": "A Kubernetes engineer's guide to mTLS",
     "url": "https://buoyant.io/mtls-guide/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -204,7 +232,7 @@
       "is_admin": false,
       "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
       "is_moderator": false,
-      "karma": 375,
+      "karma": 376,
       "avatar_url": "/avatars/shishy-100.png",
       "invited_by_user": "awal"
     },
@@ -247,7 +275,7 @@
     "url": "https://freebsdfoundation.org/past-issues/desktop-wireless/",
     "score": 6,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/nixc4z/freebsd_journal_july_august_2021_desktop",
     "submitter_user": {
@@ -298,7 +326,7 @@
     "url": "",
     "score": 25,
     "flags": 0,
-    "comment_count": 32,
+    "comment_count": 33,
     "description": "<p><a href=\"https://en.wikipedia.org/wiki/Tetris_effect\" rel=\"ugc\">https://en.wikipedia.org/wiki/Tetris_effect</a></p>\n<p>“The Tetris effect (also known as Tetris syndrome) occurs when people devote so much time and attention to an activity that it begins to pattern their thoughts, mental images, and dreams”</p>\n",
     "comments_url": "https://lobste.rs/s/7ronpw/have_you_ever_experienced_tetris",
     "submitter_user": {
@@ -360,7 +388,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82468,
+      "karma": 82469,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -375,7 +403,7 @@
     "created_at": "2021-08-27T08:17:23.000-05:00",
     "title": "IPv4 vs. IPv6 FAQ",
     "url": "https://tailscale.com/kb/1134/ipv6-faq/",
-    "score": 37,
+    "score": 38,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -386,7 +414,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 350,
+      "karma": 351,
       "avatar_url": "/avatars/kbknapp-100.png",
       "invited_by_user": "alilleybrinker",
       "github_username": "kbknapp",
@@ -635,32 +663,6 @@
       "netbsd",
       "osdev",
       "unix"
-    ]
-  },
-  {
-    "short_id": "qs1uu4",
-    "short_id_url": "https://lobste.rs/s/qs1uu4",
-    "created_at": "2021-08-26T21:09:54.000-05:00",
-    "title": "Software Crisis 2.0",
-    "url": "https://www.baldurbjarnason.com/2021/software-crisis-2/",
-    "score": 16,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/qs1uu4/software_crisis_2_0",
-    "submitter_user": {
-      "username": "nolan",
-      "created_at": "2018-01-06T13:39:52.000-06:00",
-      "is_admin": false,
-      "about": "Website: https://nolanlawson.com/\r\nMastodon: https://toot.cafe/@nolan",
-      "is_moderator": false,
-      "karma": 505,
-      "avatar_url": "/avatars/nolan-100.png",
-      "invited_by_user": "calvin"
-    },
-    "tags": [
-      "practices",
-      "rant"
     ]
   }
 ]
