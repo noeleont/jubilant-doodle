@@ -1,13 +1,66 @@
 [
   {
+    "short_id": "d7ztvr",
+    "short_id_url": "https://lobste.rs/s/d7ztvr",
+    "created_at": "2021-08-29T13:19:02.000-05:00",
+    "title": "wuffs: Wrangling Untrusted File Formats Safely",
+    "url": "https://github.com/google/wuffs",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/d7ztvr/wuffs_wrangling_untrusted_file_formats",
+    "submitter_user": {
+      "username": "GrayGnome",
+      "created_at": "2014-04-15T02:38:02.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1521,
+      "avatar_url": "/avatars/GrayGnome-100.png",
+      "invited_by_user": "kev009"
+    },
+    "tags": [
+      "plt",
+      "security"
+    ]
+  },
+  {
+    "short_id": "ei4ij2",
+    "short_id_url": "https://lobste.rs/s/ei4ij2",
+    "created_at": "2021-08-29T12:49:43.000-05:00",
+    "title": "AlphaFold, a tentative review",
+    "url": "https://cerebralab.com/AlpahFold,_a_tentative_review",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "<p>I tried to do a thorough~ish overview/review of the alpha fold paper that doesn’t require <em>a lot</em> of machine learning of molecular biology expertise to understand and can be read in 10 minutes.</p>\n<p>I’m not sure I succeeded, it may well staddle the line poorly enough that it’s both uninteresting to someone familiar with the subject and unpenetrable to someone that isn’t.</p>\n<p>But I almost wasted a whole day reading, writing, arguing, and editing to get this done. So I decided I have to post it somewhere to see what people think.</p>\n<p>If you believe it’s too unrelated/abstract/bad than do let me know and I’ll delete it, I think I’ve been posting some mediocre articles here lately and I feel bad about it and want to stop, I appreciate the relative qualiy of this board as much as anyone. But it’s kind of hard to tell before I see people’s reactions, especially with stuff that you spend a lot of time writing.</p>\n",
+    "comments_url": "https://lobste.rs/s/ei4ij2/alphafold_tentative_review",
+    "submitter_user": {
+      "username": "George3d6",
+      "created_at": "2018-10-11T11:43:39.000-05:00",
+      "is_admin": false,
+      "about": "I like biology, sociology, writing code and machine learning.\r\n\r\nI often write stuff on my blog: blog.cerebralab.com\r\nI also run a youtube channel with some educational videos: https://www.youtube.com/channel/UCh4W-xpYq9Y2QOFVKLE6lkg?view_as=subscriber\r\n\r\nI work on an open source generic machine learning solution based on ensemblee learning + black box model analysis called mindsdb: (https://www.mindsdb.com/)\r\n\r\nI also part time as the Chief Data Engineer of a TV propaganda, data collection & analysis company called Adscribe (http://www.adscribe.tv/)\r\n\r\nI sometimes work as a contractor with other companies through my own 1-man contracting company Cerebralab.",
+      "is_moderator": false,
+      "karma": 322,
+      "avatar_url": "/avatars/George3d6-100.png",
+      "invited_by_user": "pja",
+      "github_username": "George3d6",
+      "twitter_username": "Cerebralab2"
+    },
+    "tags": [
+      "ai"
+    ]
+  },
+  {
     "short_id": "hgvtpd",
     "short_id_url": "https://lobste.rs/s/hgvtpd",
     "created_at": "2021-08-29T11:15:42.000-05:00",
     "title": "Moving to modern Neovim",
     "url": "https://toroid.org/modern-neovim",
-    "score": 1,
+    "score": 3,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/hgvtpd/moving_modern_neovim",
     "submitter_user": {
@@ -16,7 +69,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 100,
+      "karma": 102,
       "avatar_url": "/avatars/ams-100.png",
       "invited_by_user": "selenamarie"
     },
@@ -82,8 +135,8 @@
     "created_at": "2021-08-29T09:51:51.000-05:00",
     "title": "xmake v2.5.7 released, Use lockfile to freeze package dependencies and Vala Metal language support",
     "url": "https://github.com/xmake-io/xmake/wiki/xmake-v2.5.7-released,-Use-lockfile-to-freeze-package-dependencies-and-Vala-Metal-language-support",
-    "score": 1,
-    "flags": 1,
+    "score": -1,
+    "flags": 3,
     "comment_count": 0,
     "description": "",
     "comments_url": "https://lobste.rs/s/cvhfb8/xmake_v2_5_7_released_use_lockfile_freeze",
@@ -93,7 +146,7 @@
       "is_admin": false,
       "about": "C/C++,Lua,Java,Python,Android,iOS,Reverse Engineering\r\n\r\nContacts:\r\n--------------------------------------------------------\r\nGithub: https://github.com/waruqi\r\nWebsite: https://tboox.org\r\nXMake: https://xmake.io\r\nEmail: waruqi@gmail.com",
       "is_moderator": false,
-      "karma": 370,
+      "karma": 368,
       "avatar_url": "/avatars/ruki-100.png",
       "invited_by_user": "friendlysock",
       "github_username": "waruqi",
@@ -140,7 +193,7 @@
     "created_at": "2021-08-29T09:33:29.000-05:00",
     "title": "Reverse engineering software licencing from early-2000s abandonware – Part 1",
     "url": "https://yingtongli.me/blog/2021/08/29/drm5-1.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -151,7 +204,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82539,
+      "karma": 82541,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -218,7 +271,7 @@
     "created_at": "2021-08-29T06:43:32.000-05:00",
     "title": "Running Awk in parallel to process 256M records",
     "url": "https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -229,7 +282,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10701,
+      "karma": 10702,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -271,7 +324,7 @@
     "created_at": "2021-08-29T04:31:31.000-05:00",
     "title": "A new way of blogging about Golang",
     "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -282,7 +335,7 @@
       "is_admin": false,
       "about": "Clojure developer. Author of [Data-Oriented programming](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7).",
       "is_moderator": false,
-      "karma": 115,
+      "karma": 116,
       "avatar_url": "/avatars/viebel-100.png",
       "invited_by_user": "nbardiuk",
       "github_username": "viebel",
@@ -300,7 +353,7 @@
     "url": "https://github.com/taviso/nntpit",
     "score": 9,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 8,
     "description": "",
     "comments_url": "https://lobste.rs/s/m0ozw1/taviso_nntpit_minimalist_reddit2nntp",
     "submitter_user": {
@@ -309,7 +362,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 841,
+      "karma": 842,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -324,7 +377,7 @@
     "created_at": "2021-08-29T02:01:19.000-05:00",
     "title": "Hell Is Other REPLs",
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
-    "score": 21,
+    "score": 23,
     "flags": 0,
     "comment_count": 14,
     "description": "",
@@ -335,7 +388,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1712,
+      "karma": 1714,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -360,7 +413,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82539,
+      "karma": 82541,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -437,7 +490,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82539,
+      "karma": 82541,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -513,7 +566,7 @@
     "created_at": "2021-08-28T17:15:52.000-05:00",
     "title": "Making Reasonable Use of Computer Resources: Part 2",
     "url": "http://vfoley.xyz/reasonable-use-2/",
-    "score": 43,
+    "score": 44,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -524,7 +577,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2657,
+      "karma": 2658,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -566,7 +619,7 @@
     "created_at": "2021-08-28T15:25:05.000-05:00",
     "title": "Introduction to Homotopy Type Theory and Univalent Foundations (HoTT/UF) with Agda",
     "url": "https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html",
-    "score": 12,
+    "score": 13,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -577,7 +630,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1440,
+      "karma": 1441,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -607,56 +660,6 @@
       "avatar_url": "/avatars/cyplo-100.png",
       "invited_by_user": "ekaitz",
       "github_username": "cyplo"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "falxep",
-    "short_id_url": "https://lobste.rs/s/falxep",
-    "created_at": "2021-08-28T13:23:54.000-05:00",
-    "title": "Why I will stay Janet",
-    "url": "https://pan.earth/posts/why-i-will-stay-janet.html",
-    "score": 22,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/falxep/why_i_will_stay_janet",
-    "submitter_user": {
-      "username": "pp",
-      "created_at": "2019-11-26T04:26:09.000-06:00",
-      "is_admin": false,
-      "about": "I am a loving husband and father, cosmopolitan, programmer, janeteer, and party animal.",
-      "is_moderator": false,
-      "karma": 321,
-      "avatar_url": "/avatars/pp-100.png",
-      "invited_by_user": "ac"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "pnfkzp",
-    "short_id_url": "https://lobste.rs/s/pnfkzp",
-    "created_at": "2021-08-28T12:25:51.000-05:00",
-    "title": "Kaitai Struct: declarative binary format parsing language",
-    "url": "https://kaitai.io/",
-    "score": 28,
-    "flags": 0,
-    "comment_count": 5,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format",
-    "submitter_user": {
-      "username": "av",
-      "created_at": "2015-03-22T08:27:17.000-05:00",
-      "is_admin": false,
-      "about": "Python Enthusiast.",
-      "is_moderator": false,
-      "karma": 10199,
-      "avatar_url": "/avatars/av-100.png",
-      "invited_by_user": "kshn"
     },
     "tags": [
       "programming"
