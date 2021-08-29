@@ -1,11 +1,36 @@
 [
   {
+    "short_id": "dxquiu",
+    "short_id_url": "https://lobste.rs/s/dxquiu",
+    "created_at": "2021-08-29T02:01:19.000-05:00",
+    "title": "Hell Is Other REPLs",
+    "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dxquiu/hell_is_other_repls",
+    "submitter_user": {
+      "username": "agent281",
+      "created_at": "2017-04-15T20:12:16.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 1692,
+      "avatar_url": "/avatars/agent281-100.png",
+      "invited_by_user": "numberten"
+    },
+    "tags": [
+      "lisp"
+    ]
+  },
+  {
     "short_id": "6ktisa",
     "short_id_url": "https://lobste.rs/s/6ktisa",
     "created_at": "2021-08-29T00:54:18.000-05:00",
     "title": "Let's get hands-on with QBE",
     "url": "https://briancallahan.net/blog/20210829.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +41,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82517,
+      "karma": 82518,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -67,7 +92,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1565,
+      "karma": 1566,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -93,7 +118,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82517,
+      "karma": 82518,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -350,7 +375,7 @@
     "created_at": "2021-08-28T06:12:27.000-05:00",
     "title": "My tiny side project has had more impact than my decade in the software industry",
     "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-    "score": 56,
+    "score": 57,
     "flags": 1,
     "comment_count": 9,
     "description": "",
@@ -361,7 +386,7 @@
       "is_admin": false,
       "about": "https://fedi.9til.de/@julienxx",
       "is_moderator": false,
-      "karma": 2863,
+      "karma": 2864,
       "avatar_url": "/avatars/julienxx-100.png",
       "invited_by_user": "SeanTAllen",
       "github_username": "julienXX",
@@ -408,7 +433,7 @@
     "created_at": "2021-08-28T03:42:59.000-05:00",
     "title": "RBAC like it was meant to be",
     "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
-    "score": 18,
+    "score": 19,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -419,7 +444,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6462,
+      "karma": 6463,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -473,7 +498,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82517,
+      "karma": 82518,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -499,7 +524,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82517,
+      "karma": 82518,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -598,7 +623,7 @@
     "url": "",
     "score": 6,
     "flags": 1,
-    "comment_count": 23,
+    "comment_count": 24,
     "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
     "comments_url": "https://lobste.rs/s/amaxic/what_are_you_doing_this_weekend",
     "submitter_user": {
@@ -607,7 +632,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6462,
+      "karma": 6463,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -642,32 +667,6 @@
     "tags": [
       "networking",
       "security"
-    ]
-  },
-  {
-    "short_id": "b3kldf",
-    "short_id_url": "https://lobste.rs/s/b3kldf",
-    "created_at": "2021-08-27T14:34:30.000-05:00",
-    "title": "Hashing Techniques: A Survey and Taxonomy (2017)",
-    "url": "https://www.cse.fau.edu/~xqzhu/papers/ACS.Chi.2017.Hashing.pdf",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/b3kldf/hashing_techniques_survey_taxonomy_2017",
-    "submitter_user": {
-      "username": "itamarst",
-      "created_at": "2016-04-28T10:05:47.000-05:00",
-      "is_admin": false,
-      "about": "Writing about Python performance and faster development at https://pythonspeed.com, as well as offering consulting services. Writing about work/life balance and other software engineering skills at https://codewithoutrules.com.\r\n",
-      "is_moderator": false,
-      "karma": 3634,
-      "avatar_url": "/avatars/itamarst-100.png",
-      "invited_by_user": "0x2ba22e11"
-    },
-    "tags": [
-      "compsci",
-      "pdf"
     ]
   }
 ]
