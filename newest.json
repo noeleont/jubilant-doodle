@@ -1,11 +1,37 @@
 [
   {
+    "short_id": "m0ozw1",
+    "short_id_url": "https://lobste.rs/s/m0ozw1",
+    "created_at": "2021-08-29T02:53:55.000-05:00",
+    "title": "taviso/nntpit: minimalist reddit2nntp gateway",
+    "url": "https://github.com/taviso/nntpit",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/m0ozw1/taviso_nntpit_minimalist_reddit2nntp",
+    "submitter_user": {
+      "username": "epilys",
+      "created_at": "2017-05-09T09:29:51.000-05:00",
+      "is_admin": false,
+      "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
+      "is_moderator": false,
+      "karma": 831,
+      "avatar_url": "/avatars/epilys-100.png",
+      "invited_by_user": "river",
+      "github_username": "epilys"
+    },
+    "tags": [
+      "c"
+    ]
+  },
+  {
     "short_id": "dxquiu",
     "short_id_url": "https://lobste.rs/s/dxquiu",
     "created_at": "2021-08-29T02:01:19.000-05:00",
     "title": "Hell Is Other REPLs",
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
-    "score": 1,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +42,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1692,
+      "karma": 1694,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -30,7 +56,7 @@
     "created_at": "2021-08-29T00:54:18.000-05:00",
     "title": "Let's get hands-on with QBE",
     "url": "https://briancallahan.net/blog/20210829.html",
-    "score": 2,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -41,7 +67,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82518,
+      "karma": 82523,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -118,7 +144,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82518,
+      "karma": 82523,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -194,7 +220,7 @@
     "created_at": "2021-08-28T17:15:52.000-05:00",
     "title": "Making Reasonable Use of Computer Resources: Part 2",
     "url": "http://vfoley.xyz/reasonable-use-2/",
-    "score": 26,
+    "score": 30,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -205,7 +231,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2640,
+      "karma": 2644,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -221,7 +247,7 @@
     "created_at": "2021-08-28T16:37:58.000-05:00",
     "title": "Dynamic content for GitHub repository templates using cookiecutter and GitHub Actions",
     "url": "https://simonwillison.net/2021/Aug/28/dynamic-github-repository-templates/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -232,7 +258,7 @@
       "is_admin": false,
       "about": "Creator of https://datasette.io",
       "is_moderator": false,
-      "karma": 92,
+      "karma": 93,
       "avatar_url": "/avatars/simonw-100.png",
       "invited_by_user": "scoates",
       "github_username": "simonw"
@@ -299,7 +325,7 @@
     "created_at": "2021-08-28T13:23:54.000-05:00",
     "title": "Why I will stay Janet",
     "url": "https://pan.earth/posts/why-i-will-stay-janet.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -310,7 +336,7 @@
       "is_admin": false,
       "about": "I am a loving husband and father, cosmopolitan, programmer, janeteer, and party animal.",
       "is_moderator": false,
-      "karma": 315,
+      "karma": 316,
       "avatar_url": "/avatars/pp-100.png",
       "invited_by_user": "ac"
     },
@@ -324,9 +350,9 @@
     "created_at": "2021-08-28T12:25:51.000-05:00",
     "title": "Kaitai Struct: declarative binary format parsing language",
     "url": "https://kaitai.io/",
-    "score": 22,
+    "score": 24,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/pnfkzp/kaitai_struct_declarative_binary_format",
     "submitter_user": {
@@ -335,7 +361,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10193,
+      "karma": 10195,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -375,7 +401,7 @@
     "created_at": "2021-08-28T06:12:27.000-05:00",
     "title": "My tiny side project has had more impact than my decade in the software industry",
     "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-    "score": 57,
+    "score": 62,
     "flags": 1,
     "comment_count": 9,
     "description": "",
@@ -386,7 +412,7 @@
       "is_admin": false,
       "about": "https://fedi.9til.de/@julienxx",
       "is_moderator": false,
-      "karma": 2864,
+      "karma": 2869,
       "avatar_url": "/avatars/julienxx-100.png",
       "invited_by_user": "SeanTAllen",
       "github_username": "julienXX",
@@ -498,7 +524,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82518,
+      "karma": 82523,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -513,7 +539,7 @@
     "created_at": "2021-08-28T00:20:16.000-05:00",
     "title": "The Future of discord.py",
     "url": "https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1",
-    "score": 31,
+    "score": 33,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -524,7 +550,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82518,
+      "karma": 82523,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -641,32 +667,6 @@
     "tags": [
       "ask",
       "programming"
-    ]
-  },
-  {
-    "short_id": "yufove",
-    "short_id_url": "https://lobste.rs/s/yufove",
-    "created_at": "2021-08-27T16:07:34.000-05:00",
-    "title": "A Kubernetes engineer's guide to mTLS",
-    "url": "https://buoyant.io/mtls-guide/",
-    "score": 5,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yufove/kubernetes_engineer_s_guide_mtls",
-    "submitter_user": {
-      "username": "shishy",
-      "created_at": "2019-01-24T19:35:35.000-06:00",
-      "is_admin": false,
-      "about": "I'm very interested in open science and privacy preserving technologies.\r\n\r\nCurrently working at scite (https://scite.ai)",
-      "is_moderator": false,
-      "karma": 378,
-      "avatar_url": "/avatars/shishy-100.png",
-      "invited_by_user": "awal"
-    },
-    "tags": [
-      "networking",
-      "security"
     ]
   }
 ]
