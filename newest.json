@@ -1,5 +1,32 @@
 [
   {
+    "short_id": "iafayu",
+    "short_id_url": "https://lobste.rs/s/iafayu",
+    "created_at": "2021-08-29T07:57:48.000-05:00",
+    "title": "Followup Measuring BGP Stacks Performance",
+    "url": "https://elegantnetwork.github.io/posts/followup-measuring-BGP-stacks/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/iafayu/followup_measuring_bgp_stacks",
+    "submitter_user": {
+      "username": "dmbaturin",
+      "created_at": "2018-08-08T16:44:02.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 2524,
+      "avatar_url": "/avatars/dmbaturin-100.png",
+      "invited_by_user": "Lulu",
+      "github_username": "dmbaturin",
+      "twitter_username": "dmbaturin"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
     "short_id": "vxbaoj",
     "short_id_url": "https://lobste.rs/s/vxbaoj",
     "created_at": "2021-08-29T06:43:32.000-05:00",
@@ -33,7 +60,7 @@
     "created_at": "2021-08-29T04:45:53.000-05:00",
     "title": "ISPs | The Human Side of ISPs",
     "url": "https://www.daryllswer.com/the-human-side-of-isps/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -44,7 +71,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 66,
+      "karma": 67,
       "avatar_url": "/avatars/jummo-100.png",
       "invited_by_user": "icy"
     },
@@ -58,7 +85,7 @@
     "created_at": "2021-08-29T04:31:31.000-05:00",
     "title": "A new way of blogging about Golang",
     "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
-    "score": 8,
+    "score": 13,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -69,7 +96,7 @@
       "is_admin": false,
       "about": "Clojure developer. Author of [Data-Oriented programming](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7).",
       "is_moderator": false,
-      "karma": 99,
+      "karma": 104,
       "avatar_url": "/avatars/viebel-100.png",
       "invited_by_user": "nbardiuk",
       "github_username": "viebel",
@@ -111,9 +138,9 @@
     "created_at": "2021-08-29T02:01:19.000-05:00",
     "title": "Hell Is Other REPLs",
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
-    "score": 12,
+    "score": 15,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 10,
     "description": "",
     "comments_url": "https://lobste.rs/s/dxquiu/hell_is_other_repls",
     "submitter_user": {
@@ -122,7 +149,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1703,
+      "karma": 1706,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -300,7 +327,7 @@
     "created_at": "2021-08-28T17:15:52.000-05:00",
     "title": "Making Reasonable Use of Computer Resources: Part 2",
     "url": "http://vfoley.xyz/reasonable-use-2/",
-    "score": 36,
+    "score": 38,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -311,7 +338,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2650,
+      "karma": 2652,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -353,7 +380,7 @@
     "created_at": "2021-08-28T15:25:05.000-05:00",
     "title": "Introduction to Homotopy Type Theory and Univalent Foundations (HoTT/UF) with Agda",
     "url": "https://www.cs.bham.ac.uk/~mhe/HoTT-UF-in-Agda-Lecture-Notes/index.html",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -364,7 +391,7 @@
       "is_admin": false,
       "about": "JSR PC, @(R6)+\r\n\r\nI wrote and maintain the Go arm64, sparc64, and Solaris ports.\r\n",
       "is_moderator": false,
-      "karma": 1438,
+      "karma": 1439,
       "avatar_url": "/avatars/4ad-100.png",
       "invited_by_user": "LeahNeukirchen"
     },
@@ -379,7 +406,7 @@
     "created_at": "2021-08-28T13:24:35.000-05:00",
     "title": "Taming the ‘stat’ storm with a loader cache",
     "url": "https://guix.gnu.org/blog/2021/taming-the-stat-storm-with-a-loader-cache/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -390,7 +417,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 243,
+      "karma": 244,
       "avatar_url": "/avatars/cyplo-100.png",
       "invited_by_user": "ekaitz",
       "github_username": "cyplo"
@@ -466,7 +493,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 579,
+      "karma": 580,
       "avatar_url": "/avatars/stapelberg-100.png",
       "invited_by_user": "pl",
       "github_username": "stapelberg"
@@ -481,9 +508,9 @@
     "created_at": "2021-08-28T06:12:27.000-05:00",
     "title": "My tiny side project has had more impact than my decade in the software industry",
     "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-    "score": 69,
+    "score": 70,
     "flags": 1,
-    "comment_count": 13,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact",
     "submitter_user": {
@@ -492,7 +519,7 @@
       "is_admin": false,
       "about": "https://fedi.9til.de/@julienxx",
       "is_moderator": false,
-      "karma": 2876,
+      "karma": 2877,
       "avatar_url": "/avatars/julienxx-100.png",
       "invited_by_user": "SeanTAllen",
       "github_username": "julienXX",
@@ -513,9 +540,9 @@
     "created_at": "2021-08-28T06:03:51.000-05:00",
     "title": "10 ways GNU Guile is 10x better",
     "url": "https://www.draketo.de/software/guile-10x.html",
-    "score": 14,
+    "score": 15,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/siibpv/10_ways_gnu_guile_is_10x_better",
     "submitter_user": {
@@ -524,7 +551,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 120,
+      "karma": 121,
       "avatar_url": "/avatars/kir0ul-100.png",
       "invited_by_user": "Lomanic",
       "github_username": "kir0ul"
@@ -639,34 +666,6 @@
       "api",
       "practices",
       "rant"
-    ]
-  },
-  {
-    "short_id": "agm5nv",
-    "short_id_url": "https://lobste.rs/s/agm5nv",
-    "created_at": "2021-08-28T00:06:36.000-05:00",
-    "title": "jsc: My New Best Friend",
-    "url": "https://furbo.org/2021/08/25/jsc-my-new-best-friend/",
-    "score": 19,
-    "flags": 0,
-    "comment_count": 11,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/agm5nv/jsc_my_new_best_friend",
-    "submitter_user": {
-      "username": "tuhaj",
-      "created_at": "2020-06-18T18:14:48.000-05:00",
-      "is_admin": false,
-      "about": "CEO at Xfaang, WarsawJS Community Leader",
-      "is_moderator": false,
-      "karma": 160,
-      "avatar_url": "/avatars/tuhaj-100.png",
-      "invited_by_user": "andrzejkrzywda",
-      "github_username": "Tuhaj",
-      "twitter_username": "Piotr_Zientara"
-    },
-    "tags": [
-      "javascript",
-      "mac"
     ]
   }
 ]
