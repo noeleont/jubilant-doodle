@@ -1,5 +1,141 @@
 [
   {
+    "short_id": "sajukb",
+    "short_id_url": "https://lobste.rs/s/sajukb",
+    "created_at": "2021-08-29T10:08:00.000-05:00",
+    "title": "JSON Schema bundling finally formalised",
+    "url": "https://json-schema.org/blog/posts/bundling-json-schema-compound-documents",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/sajukb/json_schema_bundling_finally_formalised",
+    "submitter_user": {
+      "username": "yonkeltron",
+      "created_at": "2018-07-09T19:03:57.000-05:00",
+      "is_admin": false,
+      "about": "https://twitter.com/yonkeltron",
+      "is_moderator": false,
+      "karma": 1584,
+      "avatar_url": "/avatars/yonkeltron-100.png",
+      "invited_by_user": "rocx",
+      "github_username": "yonkeltron",
+      "twitter_username": "yonkeltron"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
+    "short_id": "cvhfb8",
+    "short_id_url": "https://lobste.rs/s/cvhfb8",
+    "created_at": "2021-08-29T09:51:51.000-05:00",
+    "title": "xmake v2.5.7 released, Use lockfile to freeze package dependencies and Vala Metal language support",
+    "url": "https://github.com/xmake-io/xmake/wiki/xmake-v2.5.7-released,-Use-lockfile-to-freeze-package-dependencies-and-Vala-Metal-language-support",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/cvhfb8/xmake_v2_5_7_released_use_lockfile_freeze",
+    "submitter_user": {
+      "username": "ruki",
+      "created_at": "2016-06-21T20:26:22.000-05:00",
+      "is_admin": false,
+      "about": "C/C++,Lua,Java,Python,Android,iOS,Reverse Engineering\r\n\r\nContacts:\r\n--------------------------------------------------------\r\nGithub: https://github.com/waruqi\r\nWebsite: https://tboox.org\r\nXMake: https://xmake.io\r\nEmail: waruqi@gmail.com",
+      "is_moderator": false,
+      "karma": 370,
+      "avatar_url": "/avatars/ruki-100.png",
+      "invited_by_user": "friendlysock",
+      "github_username": "waruqi",
+      "twitter_username": "waruqi"
+    },
+    "tags": [
+      "c",
+      "c++",
+      "ios",
+      "lua",
+      "programming",
+      "release"
+    ]
+  },
+  {
+    "short_id": "9davhk",
+    "short_id_url": "https://lobste.rs/s/9davhk",
+    "created_at": "2021-08-29T09:40:08.000-05:00",
+    "title": "Compressed GPU texture formats – a review and compute shader decoders – part 3/3",
+    "url": "https://themaister.net/blog/2021/08/29/compressed-gpu-texture-formats-a-review-and-compute-shader-decoders-part-3-3/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/9davhk/compressed_gpu_texture_formats_review",
+    "submitter_user": {
+      "username": "crazyloglad",
+      "created_at": "2016-09-06T15:12:29.000-05:00",
+      "is_admin": false,
+      "about": "Doing debugging and reversing for coins. Got an unhealthy interest in the interplay between system level graphics, emulators and virtual machines. Can be found lurking on freenode in #arcan, at github.com/letoram and arcan-fe.com",
+      "is_moderator": false,
+      "karma": 1833,
+      "avatar_url": "/avatars/crazyloglad-100.png",
+      "invited_by_user": "nc",
+      "github_username": "letoram"
+    },
+    "tags": [
+      "graphics"
+    ]
+  },
+  {
+    "short_id": "dmne96",
+    "short_id_url": "https://lobste.rs/s/dmne96",
+    "created_at": "2021-08-29T09:33:29.000-05:00",
+    "title": "Reverse engineering software licencing from early-2000s abandonware – Part 1",
+    "url": "https://yingtongli.me/blog/2021/08/29/drm5-1.html",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/dmne96/reverse_engineering_software_licencing",
+    "submitter_user": {
+      "username": "calvin",
+      "created_at": "2014-07-01T06:47:13.000-05:00",
+      "is_admin": false,
+      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
+      "is_moderator": false,
+      "karma": 82535,
+      "avatar_url": "/avatars/calvin-100.png",
+      "invited_by_user": "nbyouri",
+      "github_username": "NattyNarwhal"
+    },
+    "tags": [
+      "reversing"
+    ]
+  },
+  {
+    "short_id": "8tjuc5",
+    "short_id_url": "https://lobste.rs/s/8tjuc5",
+    "created_at": "2021-08-29T09:23:43.000-05:00",
+    "title": "Building solutions to problems that no one knows exist yet",
+    "url": "https://web.eecs.utk.edu/~azh/blog/solvingunknownproblems.html",
+    "score": 3,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/8tjuc5/building_solutions_problems_no_one_knows",
+    "submitter_user": {
+      "username": "dasm",
+      "created_at": "2020-12-02T11:44:31.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 143,
+      "avatar_url": "/avatars/dasm-100.png",
+      "invited_by_user": "gerikson"
+    },
+    "tags": [
+      "compsci"
+    ]
+  },
+  {
     "short_id": "iafayu",
     "short_id_url": "https://lobste.rs/s/iafayu",
     "created_at": "2021-08-29T07:57:48.000-05:00",
@@ -58,13 +194,13 @@
     "short_id": "ooomgb",
     "short_id_url": "https://lobste.rs/s/ooomgb",
     "created_at": "2021-08-29T04:45:53.000-05:00",
-    "title": "ISPs | The Human Side of ISPs",
+    "title": "The Human Side of ISPs",
     "url": "https://www.daryllswer.com/the-human-side-of-isps/",
     "score": 3,
     "flags": 0,
     "comment_count": 1,
     "description": "",
-    "comments_url": "https://lobste.rs/s/ooomgb/isps_human_side_isps",
+    "comments_url": "https://lobste.rs/s/ooomgb/human_side_isps",
     "submitter_user": {
       "username": "jummo",
       "created_at": "2020-11-02T05:12:41.000-06:00",
@@ -85,7 +221,7 @@
     "created_at": "2021-08-29T04:31:31.000-05:00",
     "title": "A new way of blogging about Golang",
     "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
-    "score": 18,
+    "score": 20,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -96,7 +232,7 @@
       "is_admin": false,
       "about": "Clojure developer. Author of [Data-Oriented programming](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7).",
       "is_moderator": false,
-      "karma": 109,
+      "karma": 111,
       "avatar_url": "/avatars/viebel-100.png",
       "invited_by_user": "nbardiuk",
       "github_username": "viebel",
@@ -114,7 +250,7 @@
     "url": "https://github.com/taviso/nntpit",
     "score": 7,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/m0ozw1/taviso_nntpit_minimalist_reddit2nntp",
     "submitter_user": {
@@ -138,9 +274,9 @@
     "created_at": "2021-08-29T02:01:19.000-05:00",
     "title": "Hell Is Other REPLs",
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
-    "score": 17,
+    "score": 18,
     "flags": 0,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/dxquiu/hell_is_other_repls",
     "submitter_user": {
@@ -149,7 +285,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1708,
+      "karma": 1709,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -163,7 +299,7 @@
     "created_at": "2021-08-29T00:54:18.000-05:00",
     "title": "Let's get hands-on with QBE",
     "url": "https://briancallahan.net/blog/20210829.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -174,7 +310,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82530,
+      "karma": 82535,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -189,7 +325,7 @@
     "created_at": "2021-08-29T00:52:33.000-05:00",
     "title": "The (too) many pitfalls of VLA in C",
     "url": "https://blog.joren.ga/vla-bad",
-    "score": 3,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -200,7 +336,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11943,
+      "karma": 11945,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -251,7 +387,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82530,
+      "karma": 82535,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -310,7 +446,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2094,
+      "karma": 2095,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -327,7 +463,7 @@
     "created_at": "2021-08-28T17:15:52.000-05:00",
     "title": "Making Reasonable Use of Computer Resources: Part 2",
     "url": "http://vfoley.xyz/reasonable-use-2/",
-    "score": 39,
+    "score": 40,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -338,7 +474,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2653,
+      "karma": 2654,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -408,7 +544,7 @@
     "url": "https://guix.gnu.org/blog/2021/taming-the-stat-storm-with-a-loader-cache/",
     "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/0c22hs/taming_stat_storm_with_loader_cache",
     "submitter_user": {
@@ -457,7 +593,7 @@
     "created_at": "2021-08-28T12:25:51.000-05:00",
     "title": "Kaitai Struct: declarative binary format parsing language",
     "url": "https://kaitai.io/",
-    "score": 24,
+    "score": 28,
     "flags": 0,
     "comment_count": 5,
     "description": "",
@@ -468,7 +604,7 @@
       "is_admin": false,
       "about": "Python Enthusiast.",
       "is_moderator": false,
-      "karma": 10195,
+      "karma": 10199,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
     },
@@ -482,7 +618,7 @@
     "created_at": "2021-08-28T08:22:53.000-05:00",
     "title": "Silent HP Z440 workstation: replacing noisy fans",
     "url": "https://michael.stapelberg.ch/posts/2021-08-28-silent-hp-z440-workstation/",
-    "score": 10,
+    "score": 11,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -493,7 +629,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 580,
+      "karma": 581,
       "avatar_url": "/avatars/stapelberg-100.png",
       "invited_by_user": "pl",
       "github_username": "stapelberg"
@@ -532,140 +668,6 @@
     },
     "tags": [
       "programming"
-    ]
-  },
-  {
-    "short_id": "siibpv",
-    "short_id_url": "https://lobste.rs/s/siibpv",
-    "created_at": "2021-08-28T06:03:51.000-05:00",
-    "title": "10 ways GNU Guile is 10x better",
-    "url": "https://www.draketo.de/software/guile-10x.html",
-    "score": 16,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/siibpv/10_ways_gnu_guile_is_10x_better",
-    "submitter_user": {
-      "username": "kir0ul",
-      "created_at": "2021-02-06T13:51:10.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 122,
-      "avatar_url": "/avatars/kir0ul-100.png",
-      "invited_by_user": "Lomanic",
-      "github_username": "kir0ul"
-    },
-    "tags": [
-      "lisp"
-    ]
-  },
-  {
-    "short_id": "i2ngzq",
-    "short_id_url": "https://lobste.rs/s/i2ngzq",
-    "created_at": "2021-08-28T03:42:59.000-05:00",
-    "title": "RBAC like it was meant to be",
-    "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
-    "score": 22,
-    "flags": 0,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/i2ngzq/rbac_like_it_was_meant_be",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6466,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "historical",
-      "security"
-    ]
-  },
-  {
-    "short_id": "c8llil",
-    "short_id_url": "https://lobste.rs/s/c8llil",
-    "created_at": "2021-08-28T02:16:15.000-05:00",
-    "title": "Computers should expose their internal workings as a 6th sense",
-    "url": "https://interconnected.org/home/2021/08/27/data_sense",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/c8llil/computers_should_expose_their_internal",
-    "submitter_user": {
-      "username": "j11g",
-      "created_at": "2017-07-17T09:39:28.000-05:00",
-      "is_admin": false,
-      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
-      "is_moderator": false,
-      "karma": 4410,
-      "avatar_url": "/avatars/j11g-100.png",
-      "invited_by_user": "mischa",
-      "twitter_username": "loginn"
-    },
-    "tags": [
-      "culture"
-    ]
-  },
-  {
-    "short_id": "fqwr3b",
-    "short_id_url": "https://lobste.rs/s/fqwr3b",
-    "created_at": "2021-08-28T00:20:48.000-05:00",
-    "title": "Latency Sneaks Up On You",
-    "url": "https://brooker.co.za/blog/2021/08/05/utilization.html",
-    "score": 13,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/fqwr3b/latency_sneaks_up_on_you",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82530,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "performance"
-    ]
-  },
-  {
-    "short_id": "ratjnq",
-    "short_id_url": "https://lobste.rs/s/ratjnq",
-    "created_at": "2021-08-28T00:20:16.000-05:00",
-    "title": "The Future of discord.py",
-    "url": "https://gist.github.com/Rapptz/4a2f62751b9600a31a0d3c78100287f1",
-    "score": 35,
-    "flags": 0,
-    "comment_count": 3,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/ratjnq/future_discord_py",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82530,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "api",
-      "practices",
-      "rant"
     ]
   }
 ]
