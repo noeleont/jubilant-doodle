@@ -1,5 +1,55 @@
 [
   {
+    "short_id": "hgvtpd",
+    "short_id_url": "https://lobste.rs/s/hgvtpd",
+    "created_at": "2021-08-29T11:15:42.000-05:00",
+    "title": "Moving to modern Neovim",
+    "url": "https://toroid.org/modern-neovim",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/hgvtpd/moving_modern_neovim",
+    "submitter_user": {
+      "username": "ams",
+      "created_at": "2012-12-18T21:46:54.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 100,
+      "avatar_url": "/avatars/ams-100.png",
+      "invited_by_user": "selenamarie"
+    },
+    "tags": [
+      "vim"
+    ]
+  },
+  {
+    "short_id": "7zi5fu",
+    "short_id_url": "https://lobste.rs/s/7zi5fu",
+    "created_at": "2021-08-29T10:42:07.000-05:00",
+    "title": "VERSION, SOVERSION, and Tiny x86 Minds",
+    "url": "https://www.logikalsolutions.com/wordpress/information-technology/soversion/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/7zi5fu/version_soversion_tiny_x86_minds",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11946,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "programming"
+    ]
+  },
+  {
     "short_id": "sajukb",
     "short_id_url": "https://lobste.rs/s/sajukb",
     "created_at": "2021-08-29T10:08:00.000-05:00",
@@ -90,9 +140,9 @@
     "created_at": "2021-08-29T09:33:29.000-05:00",
     "title": "Reverse engineering software licencing from early-2000s abandonware – Part 1",
     "url": "https://yingtongli.me/blog/2021/08/29/drm5-1.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/dmne96/reverse_engineering_software_licencing",
     "submitter_user": {
@@ -101,7 +151,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82535,
+      "karma": 82538,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -116,7 +166,7 @@
     "created_at": "2021-08-29T09:23:43.000-05:00",
     "title": "Building solutions to problems that no one knows exist yet",
     "url": "https://web.eecs.utk.edu/~azh/blog/solvingunknownproblems.html",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -127,7 +177,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 143,
+      "karma": 144,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -221,7 +271,7 @@
     "created_at": "2021-08-29T04:31:31.000-05:00",
     "title": "A new way of blogging about Golang",
     "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
-    "score": 20,
+    "score": 22,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -232,7 +282,7 @@
       "is_admin": false,
       "about": "Clojure developer. Author of [Data-Oriented programming](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7).",
       "is_moderator": false,
-      "karma": 111,
+      "karma": 113,
       "avatar_url": "/avatars/viebel-100.png",
       "invited_by_user": "nbardiuk",
       "github_username": "viebel",
@@ -248,9 +298,9 @@
     "created_at": "2021-08-29T02:53:55.000-05:00",
     "title": "taviso/nntpit: minimalist reddit2nntp gateway",
     "url": "https://github.com/taviso/nntpit",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/m0ozw1/taviso_nntpit_minimalist_reddit2nntp",
     "submitter_user": {
@@ -259,7 +309,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 839,
+      "karma": 840,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -276,7 +326,7 @@
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
     "score": 18,
     "flags": 0,
-    "comment_count": 12,
+    "comment_count": 14,
     "description": "",
     "comments_url": "https://lobste.rs/s/dxquiu/hell_is_other_repls",
     "submitter_user": {
@@ -299,7 +349,7 @@
     "created_at": "2021-08-29T00:54:18.000-05:00",
     "title": "Let's get hands-on with QBE",
     "url": "https://briancallahan.net/blog/20210829.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -310,7 +360,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82535,
+      "karma": 82538,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -325,7 +375,7 @@
     "created_at": "2021-08-29T00:52:33.000-05:00",
     "title": "The (too) many pitfalls of VLA in C",
     "url": "https://blog.joren.ga/vla-bad",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -336,7 +386,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11945,
+      "karma": 11946,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -350,9 +400,9 @@
     "created_at": "2021-08-28T21:29:10.000-05:00",
     "title": "vm86-based Venix emulator",
     "url": "http://bsdimp.blogspot.com/2021/08/a-new-path-vm86-based-venix-emulator.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/9rarxw/vm86_based_venix_emulator",
     "submitter_user": {
@@ -361,7 +411,7 @@
       "is_admin": false,
       "about": "mostly harmless",
       "is_moderator": false,
-      "karma": 1566,
+      "karma": 1567,
       "avatar_url": "/avatars/classichasclass-100.png",
       "invited_by_user": "sevan"
     },
@@ -387,7 +437,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82535,
+      "karma": 82538,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -435,7 +485,7 @@
     "created_at": "2021-08-28T19:01:09.000-05:00",
     "title": "Lambdas in Java: A Peek under the Hood (2013)",
     "url": "https://www.youtube.com/watch?v=MLksirK9nnE",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -446,7 +496,7 @@
       "is_admin": false,
       "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
       "is_moderator": false,
-      "karma": 2095,
+      "karma": 2096,
       "avatar_url": "/avatars/dbremner-100.png",
       "invited_by_user": "pushcx",
       "github_username": "dbremner"
@@ -463,7 +513,7 @@
     "created_at": "2021-08-28T17:15:52.000-05:00",
     "title": "Making Reasonable Use of Computer Resources: Part 2",
     "url": "http://vfoley.xyz/reasonable-use-2/",
-    "score": 40,
+    "score": 41,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -474,7 +524,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2654,
+      "karma": 2655,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -542,7 +592,7 @@
     "created_at": "2021-08-28T13:24:35.000-05:00",
     "title": "Taming the ‘stat’ storm with a loader cache",
     "url": "https://guix.gnu.org/blog/2021/taming-the-stat-storm-with-a-loader-cache/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -553,7 +603,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 245,
+      "karma": 246,
       "avatar_url": "/avatars/cyplo-100.png",
       "invited_by_user": "ekaitz",
       "github_username": "cyplo"
@@ -607,64 +657,6 @@
       "karma": 10199,
       "avatar_url": "/avatars/av-100.png",
       "invited_by_user": "kshn"
-    },
-    "tags": [
-      "programming"
-    ]
-  },
-  {
-    "short_id": "hmbepl",
-    "short_id_url": "https://lobste.rs/s/hmbepl",
-    "created_at": "2021-08-28T08:22:53.000-05:00",
-    "title": "Silent HP Z440 workstation: replacing noisy fans",
-    "url": "https://michael.stapelberg.ch/posts/2021-08-28-silent-hp-z440-workstation/",
-    "score": 11,
-    "flags": 0,
-    "comment_count": 4,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hmbepl/silent_hp_z440_workstation_replacing",
-    "submitter_user": {
-      "username": "stapelberg",
-      "created_at": "2019-08-17T15:13:01.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 581,
-      "avatar_url": "/avatars/stapelberg-100.png",
-      "invited_by_user": "pl",
-      "github_username": "stapelberg"
-    },
-    "tags": [
-      "hardware"
-    ]
-  },
-  {
-    "short_id": "kyaoqk",
-    "short_id_url": "https://lobste.rs/s/kyaoqk",
-    "created_at": "2021-08-28T06:12:27.000-05:00",
-    "title": "My tiny side project has had more impact than my decade in the software industry",
-    "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-    "score": 71,
-    "flags": 1,
-    "comment_count": 15,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact",
-    "submitter_user": {
-      "username": "julienxx",
-      "created_at": "2014-05-16T15:01:50.000-05:00",
-      "is_admin": false,
-      "about": "https://fedi.9til.de/@julienxx",
-      "is_moderator": false,
-      "karma": 2878,
-      "avatar_url": "/avatars/julienxx-100.png",
-      "invited_by_user": "SeanTAllen",
-      "github_username": "julienXX",
-      "keybase_signatures": [
-        {
-          "kb_username": "julienxx",
-          "sig_hash": "73e48989269397a2bce306fde9b1131beeeb9ff7b7f7e01532dd92553c4e78510f"
-        }
-      ]
     },
     "tags": [
       "programming"
