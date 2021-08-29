@@ -1,11 +1,63 @@
 [
   {
+    "short_id": "ooomgb",
+    "short_id_url": "https://lobste.rs/s/ooomgb",
+    "created_at": "2021-08-29T04:45:53.000-05:00",
+    "title": "ISPs | The Human Side of ISPs",
+    "url": "https://www.daryllswer.com/the-human-side-of-isps/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ooomgb/isps_human_side_isps",
+    "submitter_user": {
+      "username": "jummo",
+      "created_at": "2020-11-02T05:12:41.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 65,
+      "avatar_url": "/avatars/jummo-100.png",
+      "invited_by_user": "icy"
+    },
+    "tags": [
+      "networking"
+    ]
+  },
+  {
+    "short_id": "qd94zg",
+    "short_id_url": "https://lobste.rs/s/qd94zg",
+    "created_at": "2021-08-29T04:31:31.000-05:00",
+    "title": "A new way of blogging about Golang",
+    "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
+    "score": 4,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/qd94zg/new_way_blogging_about_golang",
+    "submitter_user": {
+      "username": "viebel",
+      "created_at": "2021-03-01T11:02:52.000-06:00",
+      "is_admin": false,
+      "about": "Clojure developer. Author of [Data-Oriented programming](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7).",
+      "is_moderator": false,
+      "karma": 95,
+      "avatar_url": "/avatars/viebel-100.png",
+      "invited_by_user": "nbardiuk",
+      "github_username": "viebel",
+      "twitter_username": "viebel"
+    },
+    "tags": [
+      "go"
+    ]
+  },
+  {
     "short_id": "m0ozw1",
     "short_id_url": "https://lobste.rs/s/m0ozw1",
     "created_at": "2021-08-29T02:53:55.000-05:00",
     "title": "taviso/nntpit: minimalist reddit2nntp gateway",
     "url": "https://github.com/taviso/nntpit",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
       "is_moderator": false,
-      "karma": 831,
+      "karma": 834,
       "avatar_url": "/avatars/epilys-100.png",
       "invited_by_user": "river",
       "github_username": "epilys"
@@ -31,7 +83,7 @@
     "created_at": "2021-08-29T02:01:19.000-05:00",
     "title": "Hell Is Other REPLs",
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
-    "score": 4,
+    "score": 6,
     "flags": 0,
     "comment_count": 3,
     "description": "",
@@ -42,7 +94,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 1695,
+      "karma": 1697,
       "avatar_url": "/avatars/agent281-100.png",
       "invited_by_user": "numberten"
     },
@@ -67,7 +119,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82523,
+      "karma": 82525,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -144,7 +196,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82523,
+      "karma": 82525,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -220,7 +272,7 @@
     "created_at": "2021-08-28T17:15:52.000-05:00",
     "title": "Making Reasonable Use of Computer Resources: Part 2",
     "url": "http://vfoley.xyz/reasonable-use-2/",
-    "score": 34,
+    "score": 35,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -231,7 +283,7 @@
       "is_admin": false,
       "about": "Programmer originally from Melbourne, Australia, now living in the Sunshine Coast, Queensland. I'm interested in Rust and operating systems. Currently running Arch Linux on the desktop, Alpine Linux on the server. BSD observer, mechanical keyboard hoarder. Writes at [wezm.net](https://www.wezm.net/) and [bitcannon.net](https://bitcannon.net/).",
       "is_moderator": false,
-      "karma": 2648,
+      "karma": 2649,
       "avatar_url": "/avatars/wezm-100.png",
       "invited_by_user": "alfiedotwtf",
       "github_username": "wezm",
@@ -401,9 +453,9 @@
     "created_at": "2021-08-28T06:12:27.000-05:00",
     "title": "My tiny side project has had more impact than my decade in the software industry",
     "url": "https://mike.zwobble.org/2021/08/side-projects-vs-industry/",
-    "score": 64,
+    "score": 65,
     "flags": 1,
-    "comment_count": 11,
+    "comment_count": 12,
     "description": "",
     "comments_url": "https://lobste.rs/s/kyaoqk/my_tiny_side_project_has_had_more_impact",
     "submitter_user": {
@@ -412,7 +464,7 @@
       "is_admin": false,
       "about": "https://fedi.9til.de/@julienxx",
       "is_moderator": false,
-      "karma": 2871,
+      "karma": 2872,
       "avatar_url": "/avatars/julienxx-100.png",
       "invited_by_user": "SeanTAllen",
       "github_username": "julienXX",
@@ -459,9 +511,9 @@
     "created_at": "2021-08-28T03:42:59.000-05:00",
     "title": "RBAC like it was meant to be",
     "url": "https://tailscale.com/blog/rbac-like-it-was-meant-to-be/",
-    "score": 19,
+    "score": 21,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/i2ngzq/rbac_like_it_was_meant_be",
     "submitter_user": {
@@ -470,7 +522,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6463,
+      "karma": 6465,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -524,7 +576,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82523,
+      "karma": 82525,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -550,7 +602,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82523,
+      "karma": 82525,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -612,60 +664,6 @@
     },
     "tags": [
       "privacy",
-      "programming"
-    ]
-  },
-  {
-    "short_id": "8lv20m",
-    "short_id_url": "https://lobste.rs/s/8lv20m",
-    "created_at": "2021-08-27T18:07:33.000-05:00",
-    "title": "Utilizing msg_msg Objects for Arbitrary Read and Arbitrary Write in the Linux Kernel",
-    "url": "https://www.willsroot.io/2021/08/corctf-2021-fire-of-salvation-writeup.html",
-    "score": 2,
-    "flags": 0,
-    "comment_count": 1,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/8lv20m/utilizing_msg_msg_objects_for_arbitrary",
-    "submitter_user": {
-      "username": "fro",
-      "created_at": "2016-04-13T15:27:31.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1371,
-      "avatar_url": "/avatars/fro-100.png",
-      "invited_by_user": "xero"
-    },
-    "tags": [
-      "linux",
-      "security"
-    ]
-  },
-  {
-    "short_id": "amaxic",
-    "short_id_url": "https://lobste.rs/s/amaxic",
-    "created_at": "2021-08-27T18:05:09.000-05:00",
-    "title": "What are you doing this weekend?",
-    "url": "",
-    "score": 6,
-    "flags": 1,
-    "comment_count": 24,
-    "description": "<p>Feel free to tell what you plan on doing this weekend and even ask for help or feedback.</p>\n<p>Please keep in mind it’s more than OK to do nothing at all too!</p>\n",
-    "comments_url": "https://lobste.rs/s/amaxic/what_are_you_doing_this_weekend",
-    "submitter_user": {
-      "username": "caius",
-      "created_at": "2014-05-13T06:58:30.000-05:00",
-      "is_admin": false,
-      "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
-      "is_moderator": false,
-      "karma": 6463,
-      "avatar_url": "/avatars/caius-100.png",
-      "invited_by_user": "lauris",
-      "github_username": "caius",
-      "twitter_username": "Caius"
-    },
-    "tags": [
-      "ask",
       "programming"
     ]
   }
