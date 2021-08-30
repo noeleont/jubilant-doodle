@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "ifnyci",
+    "short_id_url": "https://lobste.rs/s/ifnyci",
+    "created_at": "2021-08-30T12:11:46.000-05:00",
+    "title": "An Analysis of Feed URLs",
+    "url": "https://blog.jim-nielsen.com/2021/feed-urls/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ifnyci/analysis_feed_urls",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11952,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "web"
+    ]
+  },
+  {
     "short_id": "btyiuq",
     "short_id_url": "https://lobste.rs/s/btyiuq",
     "created_at": "2021-08-30T11:26:26.000-05:00",
@@ -32,7 +57,7 @@
     "created_at": "2021-08-30T11:00:35.000-05:00",
     "title": "constexpr vector and string in C++20 and One Big Limitation",
     "url": "https://www.cppstories.com/2021/constexpr-vecstr-cpp20/",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -43,7 +68,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11951,
+      "karma": 11952,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -91,7 +116,7 @@
     "url": "",
     "score": 4,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 6,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/wjd7tu/what_are_you_doing_this_week",
     "submitter_user": {
@@ -183,7 +208,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2085,
+      "karma": 2086,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -197,7 +222,7 @@
     "created_at": "2021-08-30T08:40:17.000-05:00",
     "title": "Hexagonal architecture in Rust #1",
     "url": "https://alexis-lozano.com/hexagonal-architecture-in-rust-1/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -208,7 +233,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2085,
+      "karma": 2086,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -222,7 +247,7 @@
     "created_at": "2021-08-30T08:38:45.000-05:00",
     "title": "Reflective Towers of Interpreters",
     "url": "https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -233,7 +258,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82579,
+      "karma": 82581,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -248,7 +273,7 @@
     "created_at": "2021-08-30T08:36:06.000-05:00",
     "title": "Data-first API design",
     "url": "https://cuddly-octo-palm-tree.com/posts/2021-08-29-data-api/",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -259,7 +284,7 @@
       "is_admin": false,
       "about": "Ultrafast spectroscopy by day, programming by night",
       "is_moderator": false,
-      "karma": 588,
+      "karma": 589,
       "avatar_url": "/avatars/zmitchell-100.png",
       "invited_by_user": "btbytes"
     },
@@ -284,7 +309,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2085,
+      "karma": 2086,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -309,7 +334,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2085,
+      "karma": 2086,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -335,7 +360,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2085,
+      "karma": 2086,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -350,7 +375,7 @@
     "created_at": "2021-08-30T08:07:28.000-05:00",
     "title": "Why Lying About Storage Products Is Bad: An IBM DeskStar Story",
     "url": "https://www.extremetech.com/computing/326292-why-lying-about-storage-products-is-bad-an-ibm-deskstar-story",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -361,7 +386,7 @@
       "is_admin": false,
       "about": "Post-post-modern renaissance man\r\n",
       "is_moderator": false,
-      "karma": 836,
+      "karma": 838,
       "avatar_url": "/avatars/jkirchartz-100.png",
       "invited_by_user": "aleph",
       "github_username": "JKirchartz",
@@ -378,9 +403,9 @@
     "created_at": "2021-08-30T07:25:15.000-05:00",
     "title": "I’m not sure that UNIX won",
     "url": "https://rubenerd.com/im-not-sure-that-unix-won/",
-    "score": 8,
+    "score": 12,
     "flags": 0,
-    "comment_count": 9,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/ezqjv5/i_m_not_sure_unix_won",
     "submitter_user": {
@@ -389,7 +414,7 @@
       "is_admin": false,
       "about": "Ori Bernstein: http://eigenstate.org",
       "is_moderator": false,
-      "karma": 4332,
+      "karma": 4337,
       "avatar_url": "/avatars/orib-100.png",
       "invited_by_user": "vjoel"
     },
@@ -429,9 +454,9 @@
     "created_at": "2021-08-30T06:13:21.000-05:00",
     "title": "Firefox Containers for Increased Privacy",
     "url": "https://www.thechiefmeat.com/guides/containers.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
-    "comment_count": 5,
+    "comment_count": 6,
     "description": "",
     "comments_url": "https://lobste.rs/s/5kmvyh/firefox_containers_for_increased",
     "submitter_user": {
@@ -440,7 +465,7 @@
       "is_admin": false,
       "about": "Incoming lecturer (equivalent to an assistant prof. in the U.S.) at the University of Sydney\r\n\r\nhttp://rahul.gopinath.org\r\n\r\nTwitter: [@_rahulgopinath](https://twitter.com/_rahulgopinath)\r\n\r\n(I usually only browse lobste.rs and other social media on weekends. Hence I may not respond immediately to replies.)",
       "is_moderator": false,
-      "karma": 1079,
+      "karma": 1080,
       "avatar_url": "/avatars/vrthra-100.png",
       "invited_by_user": "derek-jones",
       "twitter_username": "_rahulgopinath"
@@ -481,9 +506,9 @@
     "created_at": "2021-08-30T04:46:23.000-05:00",
     "title": "Go is pass-by-value — but it might not always feel like it",
     "url": "https://neilalexander.dev/2021/08/29/go-pass-by-value.html",
-    "score": 8,
+    "score": 9,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/lfidmh/go_is_pass_by_value_it_might_not_always_feel",
     "submitter_user": {
@@ -492,7 +517,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 350,
+      "karma": 351,
       "avatar_url": "/avatars/neilalexander-100.png",
       "invited_by_user": "Famicoman",
       "github_username": "neilalexander"
@@ -507,9 +532,9 @@
     "created_at": "2021-08-30T03:51:54.000-05:00",
     "title": "Software Development Waste",
     "url": "https://neverworkintheory.org/2021/08/29/software-development-waste.html",
-    "score": 14,
+    "score": 15,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 2,
     "description": "",
     "comments_url": "https://lobste.rs/s/4urnpr/software_development_waste",
     "submitter_user": {
@@ -518,7 +543,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2804,
+      "karma": 2805,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -534,7 +559,7 @@
     "url": "https://dotplan.online",
     "score": 8,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/4mgjqg/dotplan_online_modern_decentralized_re",
     "submitter_user": {
@@ -630,38 +655,6 @@
       "networking",
       "pdf",
       "security"
-    ]
-  },
-  {
-    "short_id": "hhpvwe",
-    "short_id_url": "https://lobste.rs/s/hhpvwe",
-    "created_at": "2021-08-29T16:41:44.000-05:00",
-    "title": "Application Isolation using NixOS Containers",
-    "url": "https://msucharski.eu/posts/application-isolation-nixos-containers/",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/hhpvwe/application_isolation_using_nixos",
-    "submitter_user": {
-      "username": "vifon",
-      "created_at": "2018-12-13T04:55:48.000-06:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 185,
-      "avatar_url": "/avatars/vifon-100.png",
-      "invited_by_user": "tadzik",
-      "github_username": "vifon",
-      "keybase_signatures": [
-        {
-          "kb_username": "vifon",
-          "sig_hash": "2a3a6ef7a07591525f1996668a03461c2b6d50b0299e37af24cbfda4d882476e0f"
-        }
-      ]
-    },
-    "tags": [
-      "unix"
     ]
   }
 ]
