@@ -1,5 +1,56 @@
 [
   {
+    "short_id": "ezqjv5",
+    "short_id_url": "https://lobste.rs/s/ezqjv5",
+    "created_at": "2021-08-30T07:25:15.000-05:00",
+    "title": "I’m not sure that UNIX won",
+    "url": "https://rubenerd.com/im-not-sure-that-unix-won/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/ezqjv5/i_m_not_sure_unix_won",
+    "submitter_user": {
+      "username": "orib",
+      "created_at": "2014-02-27T19:29:36.000-06:00",
+      "is_admin": false,
+      "about": "Ori Bernstein: http://eigenstate.org",
+      "is_moderator": false,
+      "karma": 4326,
+      "avatar_url": "/avatars/orib-100.png",
+      "invited_by_user": "vjoel"
+    },
+    "tags": [
+      "philosophy",
+      "unix"
+    ]
+  },
+  {
+    "short_id": "nq3lt0",
+    "short_id_url": "https://lobste.rs/s/nq3lt0",
+    "created_at": "2021-08-30T06:29:28.000-05:00",
+    "title": "DevOps Crash Course - Section 2: Servers",
+    "url": "https://matduggan.com/devops-crash-course-section-2/",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/nq3lt0/devops_crash_course_section_2_servers",
+    "submitter_user": {
+      "username": "maduggan",
+      "created_at": "2019-03-13T08:43:38.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 162,
+      "avatar_url": "/avatars/maduggan-100.png",
+      "invited_by_user": "stephen"
+    },
+    "tags": [
+      "devops"
+    ]
+  },
+  {
     "short_id": "5kmvyh",
     "short_id_url": "https://lobste.rs/s/5kmvyh",
     "created_at": "2021-08-30T06:13:21.000-05:00",
@@ -7,7 +58,7 @@
     "url": "https://www.thechiefmeat.com/guides/containers.html",
     "score": 1,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/5kmvyh/thechiefmeat",
     "submitter_user": {
@@ -57,7 +108,7 @@
     "created_at": "2021-08-30T04:46:23.000-05:00",
     "title": "Go is pass-by-value — but it might not always feel like it",
     "url": "https://neilalexander.dev/2021/08/29/go-pass-by-value.html",
-    "score": 2,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -68,7 +119,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 344,
+      "karma": 346,
       "avatar_url": "/avatars/neilalexander-100.png",
       "invited_by_user": "Famicoman",
       "github_username": "neilalexander"
@@ -83,7 +134,7 @@
     "created_at": "2021-08-30T03:51:54.000-05:00",
     "title": "Software Development Waste",
     "url": "https://neverworkintheory.org/2021/08/29/software-development-waste.html",
-    "score": 2,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -94,7 +145,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2791,
+      "karma": 2795,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -108,7 +159,7 @@
     "created_at": "2021-08-30T00:06:39.000-05:00",
     "title": "Dotplan Online: A modern, decentralized re-imagining of the Unix plan file",
     "url": "https://dotplan.online",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -119,7 +170,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 174,
+      "karma": 175,
       "avatar_url": "/avatars/Rudism-100.png",
       "invited_by_user": "cgrinds"
     },
@@ -134,7 +185,7 @@
     "created_at": "2021-08-30T00:03:10.000-05:00",
     "title": "All about Global Offset Table",
     "url": "https://maskray.me/blog/2021-08-29-all-about-global-offset-table",
-    "score": 4,
+    "score": 5,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -145,7 +196,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 49,
+      "karma": 50,
       "avatar_url": "/avatars/MaskRay-100.png",
       "invited_by_user": "bc",
       "github_username": "MaskRay"
@@ -197,7 +248,7 @@
       "is_admin": false,
       "about": "Mobile Architect at Couchbase. Apple veteran, 1991-2007 (iChat, Safari, Java, OpenDoc, AppleScript.)\r\nBragging rights: I came up with the speech bubbles that most chat GUIs use nowadays.\r\nIn my spare time I play guitar and buy synthesizers.",
       "is_moderator": false,
-      "karma": 3562,
+      "karma": 3563,
       "avatar_url": "/avatars/snej-100.png",
       "invited_by_user": "bbrks",
       "github_username": "snej"
@@ -273,7 +324,7 @@
     "created_at": "2021-08-29T15:00:21.000-05:00",
     "title": "Big company tale: six months for a list and a button",
     "url": "https://rachelbythebay.com/w/2021/08/28/big/",
-    "score": 27,
+    "score": 28,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -284,7 +335,7 @@
       "is_admin": false,
       "about": "I build supercomputers. Currently located in Denver, CO.",
       "is_moderator": false,
-      "karma": 685,
+      "karma": 686,
       "avatar_url": "/avatars/ajdecon-100.png",
       "invited_by_user": "roryokane",
       "twitter_username": "ajdecon"
@@ -352,9 +403,9 @@
     "created_at": "2021-08-29T11:15:42.000-05:00",
     "title": "Moving to modern Neovim",
     "url": "https://toroid.org/modern-neovim",
-    "score": 39,
+    "score": 40,
     "flags": 0,
-    "comment_count": 15,
+    "comment_count": 16,
     "description": "",
     "comments_url": "https://lobste.rs/s/hgvtpd/moving_modern_neovim",
     "submitter_user": {
@@ -363,7 +414,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 138,
+      "karma": 139,
       "avatar_url": "/avatars/ams-100.png",
       "invited_by_user": "selenamarie"
     },
@@ -487,7 +538,7 @@
     "created_at": "2021-08-29T09:33:29.000-05:00",
     "title": "Reverse engineering software licencing from early-2000s abandonware – Part 1",
     "url": "https://yingtongli.me/blog/2021/08/29/drm5-1.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -498,7 +549,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82565,
+      "karma": 82567,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -576,7 +627,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10708,
+      "karma": 10709,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -610,59 +661,6 @@
     },
     "tags": [
       "networking"
-    ]
-  },
-  {
-    "short_id": "qd94zg",
-    "short_id_url": "https://lobste.rs/s/qd94zg",
-    "created_at": "2021-08-29T04:31:31.000-05:00",
-    "title": "A new way of blogging about Golang",
-    "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
-    "score": 37,
-    "flags": 0,
-    "comment_count": 13,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/qd94zg/new_way_blogging_about_golang",
-    "submitter_user": {
-      "username": "viebel",
-      "created_at": "2021-03-01T11:02:52.000-06:00",
-      "is_admin": false,
-      "about": "Clojure developer. Author of [Data-Oriented programming](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7).",
-      "is_moderator": false,
-      "karma": 130,
-      "avatar_url": "/avatars/viebel-100.png",
-      "invited_by_user": "nbardiuk",
-      "github_username": "viebel",
-      "twitter_username": "viebel"
-    },
-    "tags": [
-      "go"
-    ]
-  },
-  {
-    "short_id": "m0ozw1",
-    "short_id_url": "https://lobste.rs/s/m0ozw1",
-    "created_at": "2021-08-29T02:53:55.000-05:00",
-    "title": "taviso/nntpit: minimalist reddit2nntp gateway",
-    "url": "https://github.com/taviso/nntpit",
-    "score": 12,
-    "flags": 0,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/m0ozw1/taviso_nntpit_minimalist_reddit2nntp",
-    "submitter_user": {
-      "username": "epilys",
-      "created_at": "2017-05-09T09:29:51.000-05:00",
-      "is_admin": false,
-      "about": "general interest link aggregator (lobste.rs but not computing focused) https://sic.pm \r\n\r\nMastodon: https://chaos.social/@epilys\r\nhttps://github.com/epilys\r\n\r\nmeli terminal mail client https://meli.delivery",
-      "is_moderator": false,
-      "karma": 845,
-      "avatar_url": "/avatars/epilys-100.png",
-      "invited_by_user": "river",
-      "github_username": "epilys"
-    },
-    "tags": [
-      "c"
     ]
   }
 ]
