@@ -1,5 +1,58 @@
 [
   {
+    "short_id": "4mgjqg",
+    "short_id_url": "https://lobste.rs/s/4mgjqg",
+    "created_at": "2021-08-30T00:06:39.000-05:00",
+    "title": "Dotplan Online: A modern, decentralized re-imagining of the Unix plan file",
+    "url": "https://dotplan.online",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/4mgjqg/dotplan_online_modern_decentralized_re",
+    "submitter_user": {
+      "username": "Rudism",
+      "created_at": "2016-11-29T14:47:51.000-06:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 173,
+      "avatar_url": "/avatars/Rudism-100.png",
+      "invited_by_user": "cgrinds"
+    },
+    "tags": [
+      "culture",
+      "show"
+    ]
+  },
+  {
+    "short_id": "arugpn",
+    "short_id_url": "https://lobste.rs/s/arugpn",
+    "created_at": "2021-08-30T00:03:10.000-05:00",
+    "title": "All about Global Offset Table",
+    "url": "https://maskray.me/blog/2021-08-29-all-about-global-offset-table",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/arugpn/all_about_global_offset_table",
+    "submitter_user": {
+      "username": "MaskRay",
+      "created_at": "2019-10-15T05:08:05.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 46,
+      "avatar_url": "/avatars/MaskRay-100.png",
+      "invited_by_user": "bc",
+      "github_username": "MaskRay"
+    },
+    "tags": [
+      "assembly",
+      "compilers"
+    ]
+  },
+  {
     "short_id": "mdowa3",
     "short_id_url": "https://lobste.rs/s/mdowa3",
     "created_at": "2021-08-29T23:09:03.000-05:00",
@@ -119,7 +172,7 @@
     "url": "https://rachelbythebay.com/w/2021/08/28/big/",
     "score": 16,
     "flags": 0,
-    "comment_count": 2,
+    "comment_count": 3,
     "description": "",
     "comments_url": "https://lobste.rs/s/eppfwf/big_company_tale_six_months_for_list",
     "submitter_user": {
@@ -196,9 +249,9 @@
     "created_at": "2021-08-29T11:15:42.000-05:00",
     "title": "Moving to modern Neovim",
     "url": "https://toroid.org/modern-neovim",
-    "score": 30,
+    "score": 31,
     "flags": 0,
-    "comment_count": 4,
+    "comment_count": 7,
     "description": "",
     "comments_url": "https://lobste.rs/s/hgvtpd/moving_modern_neovim",
     "submitter_user": {
@@ -207,7 +260,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 129,
+      "karma": 130,
       "avatar_url": "/avatars/ams-100.png",
       "invited_by_user": "selenamarie"
     },
@@ -221,7 +274,7 @@
     "created_at": "2021-08-29T10:42:07.000-05:00",
     "title": "VERSION, SOVERSION, and Tiny x86 Minds",
     "url": "https://www.logikalsolutions.com/wordpress/information-technology/soversion/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -232,7 +285,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11950,
+      "karma": 11951,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -409,7 +462,7 @@
     "created_at": "2021-08-29T06:43:32.000-05:00",
     "title": "Running Awk in parallel to process 256M records",
     "url": "https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -420,7 +473,7 @@
       "is_admin": false,
       "about": "Swede, father and husband. \r\n\r\nhttps://gerikson.com/blog/\r\n\r\nhttps://gerikson.com/hnlo/\r\n",
       "is_moderator": false,
-      "karma": 10704,
+      "karma": 10705,
       "avatar_url": "/avatars/gerikson-100.png",
       "invited_by_user": "varjag",
       "github_username": "gustafe",
@@ -464,7 +517,7 @@
     "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
     "score": 33,
     "flags": 0,
-    "comment_count": 10,
+    "comment_count": 11,
     "description": "",
     "comments_url": "https://lobste.rs/s/qd94zg/new_way_blogging_about_golang",
     "submitter_user": {
@@ -577,7 +630,7 @@
       "is_admin": false,
       "about": "🐋\r\nhttps://raymii.org",
       "is_moderator": false,
-      "karma": 11950,
+      "karma": 11951,
       "avatar_url": "/avatars/raymii-100.png",
       "invited_by_user": "journeysquid"
     },
@@ -609,65 +662,6 @@
     "tags": [
       "unix",
       "virtualization"
-    ]
-  },
-  {
-    "short_id": "rtvw8v",
-    "short_id_url": "https://lobste.rs/s/rtvw8v",
-    "created_at": "2021-08-28T21:28:08.000-05:00",
-    "title": "Cracking simple LCG PRNG",
-    "url": "https://yurichev.com/blog/LCG/",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/rtvw8v/cracking_simple_lcg_prng",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82563,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "crypto"
-    ]
-  },
-  {
-    "short_id": "rf7dhb",
-    "short_id_url": "https://lobste.rs/s/rf7dhb",
-    "created_at": "2021-08-28T19:54:55.000-05:00",
-    "title": "How to Make Best Use of the Most Important Tool in a Software Developer’s Toolkit: Your Brain",
-    "url": "https://www.youtube.com/watch?v=XOIDnNA9N7c&t=189",
-    "score": 1,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "<p>It’s a great video explaining why and how our habits impede learning process and what to do to help our brain to learn new things faster, understand them deeper and retain longer.</p>\n<p>Professor of engineering <a href=\"https://en.m.wikipedia.org/wiki/Barbara_Oakley\" rel=\"ugc\">Barbara Oakley</a> with Sr.SWE Zach Caceres walk through steps of neural processes of knowledge acquisition and its subsequent application.</p>\n<p>The talk outlines how exactly learning can be changed in order ease the process of knowledge acquisition (and its application) for students and professionals in SW development.</p>\n",
-    "comments_url": "https://lobste.rs/s/rf7dhb/how_make_best_use_most_important_tool",
-    "submitter_user": {
-      "username": "vs",
-      "created_at": "2020-08-14T16:51:02.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 32,
-      "avatar_url": "/avatars/vs-100.png",
-      "invited_by_user": "Brekkjern",
-      "keybase_signatures": [
-        {
-          "kb_username": "sirenko",
-          "sig_hash": "0b0c684b81ff524bebaa272a7d2b01d2d7a26f70dfcec6f7fe02d0cf2b106ef50f"
-        }
-      ]
-    },
-    "tags": [
-      "cogsci",
-      "practices",
-      "video"
     ]
   }
 ]
