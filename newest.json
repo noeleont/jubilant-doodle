@@ -1,11 +1,63 @@
 [
   {
+    "short_id": "prjvfl",
+    "short_id_url": "https://lobste.rs/s/prjvfl",
+    "created_at": "2021-08-30T05:15:15.000-05:00",
+    "title": "Three Clocks are Better than One",
+    "url": "https://www.tigerbeetle.com/post/three-clocks-are-better-than-one",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/prjvfl/three_clocks_are_better_than_one",
+    "submitter_user": {
+      "username": "kristoff",
+      "created_at": "2020-02-10T11:11:41.000-06:00",
+      "is_admin": false,
+      "about": "Host of Zig SHOWTIME (https://zig.show)\r\n\r\ntwitter: https://twitter.com/croloris\r\ngithub: https://github.com/kristoff-it",
+      "is_moderator": false,
+      "karma": 1772,
+      "avatar_url": "/avatars/kristoff-100.png",
+      "invited_by_user": "guyroyse"
+    },
+    "tags": [
+      "databases",
+      "distributed"
+    ]
+  },
+  {
+    "short_id": "lfidmh",
+    "short_id_url": "https://lobste.rs/s/lfidmh",
+    "created_at": "2021-08-30T04:46:23.000-05:00",
+    "title": "Go is pass-by-value — but it might not always feel like it",
+    "url": "https://neilalexander.dev/2021/08/29/go-pass-by-value.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/lfidmh/go_is_pass_by_value_it_might_not_always_feel",
+    "submitter_user": {
+      "username": "neilalexander",
+      "created_at": "2018-07-13T05:50:08.000-05:00",
+      "is_admin": false,
+      "about": "",
+      "is_moderator": false,
+      "karma": 343,
+      "avatar_url": "/avatars/neilalexander-100.png",
+      "invited_by_user": "Famicoman",
+      "github_username": "neilalexander"
+    },
+    "tags": [
+      "go"
+    ]
+  },
+  {
     "short_id": "4urnpr",
     "short_id_url": "https://lobste.rs/s/4urnpr",
     "created_at": "2021-08-30T03:51:54.000-05:00",
     "title": "Software Development Waste",
     "url": "https://neverworkintheory.org/2021/08/29/software-development-waste.html",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -16,7 +68,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2789,
+      "karma": 2790,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -56,7 +108,7 @@
     "created_at": "2021-08-30T00:03:10.000-05:00",
     "title": "All about Global Offset Table",
     "url": "https://maskray.me/blog/2021-08-29-all-about-global-offset-table",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -67,7 +119,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 48,
+      "karma": 49,
       "avatar_url": "/avatars/MaskRay-100.png",
       "invited_by_user": "bc",
       "github_username": "MaskRay"
@@ -195,7 +247,7 @@
     "created_at": "2021-08-29T15:00:21.000-05:00",
     "title": "Big company tale: six months for a list and a button",
     "url": "https://rachelbythebay.com/w/2021/08/28/big/",
-    "score": 24,
+    "score": 25,
     "flags": 0,
     "comment_count": 6,
     "description": "",
@@ -206,7 +258,7 @@
       "is_admin": false,
       "about": "I build supercomputers. Currently located in Denver, CO.",
       "is_moderator": false,
-      "karma": 682,
+      "karma": 683,
       "avatar_url": "/avatars/ajdecon-100.png",
       "invited_by_user": "roryokane",
       "twitter_username": "ajdecon"
@@ -274,9 +326,9 @@
     "created_at": "2021-08-29T11:15:42.000-05:00",
     "title": "Moving to modern Neovim",
     "url": "https://toroid.org/modern-neovim",
-    "score": 37,
+    "score": 38,
     "flags": 0,
-    "comment_count": 13,
+    "comment_count": 15,
     "description": "",
     "comments_url": "https://lobste.rs/s/hgvtpd/moving_modern_neovim",
     "submitter_user": {
@@ -285,7 +337,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 136,
+      "karma": 137,
       "avatar_url": "/avatars/ams-100.png",
       "invited_by_user": "selenamarie"
     },
@@ -435,7 +487,7 @@
     "created_at": "2021-08-29T09:23:43.000-05:00",
     "title": "Building solutions to problems that no one knows exist yet",
     "url": "https://web.eecs.utk.edu/~azh/blog/solvingunknownproblems.html",
-    "score": 9,
+    "score": 10,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -446,7 +498,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 149,
+      "karma": 150,
       "avatar_url": "/avatars/dasm-100.png",
       "invited_by_user": "gerikson"
     },
@@ -460,7 +512,7 @@
     "created_at": "2021-08-29T07:57:48.000-05:00",
     "title": "Followup Measuring BGP Stacks Performance",
     "url": "https://elegantnetwork.github.io/posts/followup-measuring-BGP-stacks/",
-    "score": 6,
+    "score": 7,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -471,7 +523,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 2528,
+      "karma": 2529,
       "avatar_url": "/avatars/dmbaturin-100.png",
       "invited_by_user": "Lulu",
       "github_username": "dmbaturin",
@@ -610,57 +662,6 @@
     },
     "tags": [
       "lisp"
-    ]
-  },
-  {
-    "short_id": "6ktisa",
-    "short_id_url": "https://lobste.rs/s/6ktisa",
-    "created_at": "2021-08-29T00:54:18.000-05:00",
-    "title": "Let's get hands-on with QBE",
-    "url": "https://briancallahan.net/blog/20210829.html",
-    "score": 17,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/6ktisa/let_s_get_hands_on_with_qbe",
-    "submitter_user": {
-      "username": "calvin",
-      "created_at": "2014-07-01T06:47:13.000-05:00",
-      "is_admin": false,
-      "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
-      "is_moderator": false,
-      "karma": 82564,
-      "avatar_url": "/avatars/calvin-100.png",
-      "invited_by_user": "nbyouri",
-      "github_username": "NattyNarwhal"
-    },
-    "tags": [
-      "compilers"
-    ]
-  },
-  {
-    "short_id": "aghxgw",
-    "short_id_url": "https://lobste.rs/s/aghxgw",
-    "created_at": "2021-08-29T00:52:33.000-05:00",
-    "title": "The (too) many pitfalls of VLA in C",
-    "url": "https://blog.joren.ga/vla-bad",
-    "score": 9,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/aghxgw/too_many_pitfalls_vla_c",
-    "submitter_user": {
-      "username": "raymii",
-      "created_at": "2013-11-20T11:58:43.000-06:00",
-      "is_admin": false,
-      "about": "🐋\r\nhttps://raymii.org",
-      "is_moderator": false,
-      "karma": 11951,
-      "avatar_url": "/avatars/raymii-100.png",
-      "invited_by_user": "journeysquid"
-    },
-    "tags": [
-      "c"
     ]
   }
 ]
