@@ -1,5 +1,30 @@
 [
   {
+    "short_id": "mdowa3",
+    "short_id_url": "https://lobste.rs/s/mdowa3",
+    "created_at": "2021-08-29T23:09:03.000-05:00",
+    "title": "In Go, pointers (mostly) don't go with slices in practice",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/GoSlicesVsPointers",
+    "score": 2,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/mdowa3/go_pointers_mostly_don_t_go_with_slices",
+    "submitter_user": {
+      "username": "technetium",
+      "created_at": "2020-02-06T19:52:39.000-06:00",
+      "is_admin": false,
+      "about": "A sentient lump of a certain high-density material",
+      "is_moderator": false,
+      "karma": 2750,
+      "avatar_url": "/avatars/technetium-100.png",
+      "invited_by_user": "ngoldbaum"
+    },
+    "tags": [
+      "go"
+    ]
+  },
+  {
     "short_id": "ooyzv4",
     "short_id_url": "https://lobste.rs/s/ooyzv4",
     "created_at": "2021-08-29T19:01:00.000-05:00",
@@ -33,7 +58,7 @@
     "created_at": "2021-08-29T16:41:44.000-05:00",
     "title": "Application Isolation using NixOS Containers",
     "url": "https://msucharski.eu/posts/application-isolation-nixos-containers/",
-    "score": 5,
+    "score": 6,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -44,7 +69,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 178,
+      "karma": 179,
       "avatar_url": "/avatars/vifon-100.png",
       "invited_by_user": "tadzik",
       "github_username": "vifon",
@@ -92,7 +117,7 @@
     "created_at": "2021-08-29T15:00:21.000-05:00",
     "title": "Big company tale: six months for a list and a button",
     "url": "https://rachelbythebay.com/w/2021/08/28/big/",
-    "score": 15,
+    "score": 16,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -103,7 +128,7 @@
       "is_admin": false,
       "about": "I build supercomputers. Currently located in Denver, CO.",
       "is_moderator": false,
-      "karma": 673,
+      "karma": 674,
       "avatar_url": "/avatars/ajdecon-100.png",
       "invited_by_user": "roryokane",
       "twitter_username": "ajdecon"
@@ -171,7 +196,7 @@
     "created_at": "2021-08-29T11:15:42.000-05:00",
     "title": "Moving to modern Neovim",
     "url": "https://toroid.org/modern-neovim",
-    "score": 27,
+    "score": 30,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -182,7 +207,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 126,
+      "karma": 129,
       "avatar_url": "/avatars/ams-100.png",
       "invited_by_user": "selenamarie"
     },
@@ -306,7 +331,7 @@
     "created_at": "2021-08-29T09:33:29.000-05:00",
     "title": "Reverse engineering software licencing from early-2000s abandonware – Part 1",
     "url": "https://yingtongli.me/blog/2021/08/29/drm5-1.html",
-    "score": 13,
+    "score": 15,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -317,7 +342,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82560,
+      "karma": 82563,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -437,7 +462,7 @@
     "created_at": "2021-08-29T04:31:31.000-05:00",
     "title": "A new way of blogging about Golang",
     "url": "https://blog.klipse.tech/golang/2021/08/29/blog-go.html",
-    "score": 31,
+    "score": 33,
     "flags": 0,
     "comment_count": 10,
     "description": "",
@@ -448,7 +473,7 @@
       "is_admin": false,
       "about": "Clojure developer. Author of [Data-Oriented programming](https://www.manning.com/books/data-oriented-programming?utm_source=viebel&utm_medium=affiliate&utm_campaign=book_sharvit2_data_1_29_21&a_aid=viebel&a_bid=d5b546b7).",
       "is_moderator": false,
-      "karma": 123,
+      "karma": 125,
       "avatar_url": "/avatars/viebel-100.png",
       "invited_by_user": "nbardiuk",
       "github_username": "viebel",
@@ -492,7 +517,7 @@
     "url": "https://hyperthings.garden/posts/2021-06-20/hell-is-other-repls.html",
     "score": 26,
     "flags": 0,
-    "comment_count": 35,
+    "comment_count": 37,
     "description": "",
     "comments_url": "https://lobste.rs/s/dxquiu/hell_is_other_repls",
     "submitter_user": {
@@ -515,7 +540,7 @@
     "created_at": "2021-08-29T00:54:18.000-05:00",
     "title": "Let's get hands-on with QBE",
     "url": "https://briancallahan.net/blog/20210829.html",
-    "score": 16,
+    "score": 17,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -526,7 +551,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82560,
+      "karma": 82563,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -603,7 +628,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82560,
+      "karma": 82563,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -642,34 +667,6 @@
     "tags": [
       "cogsci",
       "practices",
-      "video"
-    ]
-  },
-  {
-    "short_id": "wjt6cz",
-    "short_id_url": "https://lobste.rs/s/wjt6cz",
-    "created_at": "2021-08-28T19:01:09.000-05:00",
-    "title": "Lambdas in Java: A Peek under the Hood (2013)",
-    "url": "https://www.youtube.com/watch?v=MLksirK9nnE",
-    "score": 3,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/wjt6cz/lambdas_java_peek_under_hood_2013",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 2099,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "compilers",
-      "java",
       "video"
     ]
   }
