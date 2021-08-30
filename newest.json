@@ -1,13 +1,97 @@
 [
   {
+    "short_id": "btyiuq",
+    "short_id_url": "https://lobste.rs/s/btyiuq",
+    "created_at": "2021-08-30T11:26:26.000-05:00",
+    "title": "Analyzing a High Rate of Paging",
+    "url": "https://www.brendangregg.com/blog/2021-08-30/high-rate-of-paging.html",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/btyiuq/analyzing_high_rate_paging",
+    "submitter_user": {
+      "username": "j11g",
+      "created_at": "2017-07-17T09:39:28.000-05:00",
+      "is_admin": false,
+      "about": "I am Jan van den Berg (numeronym: j11g). I blog here https://j11g.com and here https://piks.nl and co-host a Dutch podcast: https://brug.info",
+      "is_moderator": false,
+      "karma": 4412,
+      "avatar_url": "/avatars/j11g-100.png",
+      "invited_by_user": "mischa",
+      "twitter_username": "loginn"
+    },
+    "tags": [
+      "debugging",
+      "performance"
+    ]
+  },
+  {
+    "short_id": "8pd1yp",
+    "short_id_url": "https://lobste.rs/s/8pd1yp",
+    "created_at": "2021-08-30T11:00:35.000-05:00",
+    "title": "constexpr vector and string in C++20 and One Big Limitation",
+    "url": "https://www.cppstories.com/2021/constexpr-vecstr-cpp20/",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/8pd1yp/constexpr_vector_string_c_20_one_big",
+    "submitter_user": {
+      "username": "raymii",
+      "created_at": "2013-11-20T11:58:43.000-06:00",
+      "is_admin": false,
+      "about": "🐋\r\nhttps://raymii.org",
+      "is_moderator": false,
+      "karma": 11951,
+      "avatar_url": "/avatars/raymii-100.png",
+      "invited_by_user": "journeysquid"
+    },
+    "tags": [
+      "c++"
+    ]
+  },
+  {
+    "short_id": "oejaze",
+    "short_id_url": "https://lobste.rs/s/oejaze",
+    "created_at": "2021-08-30T10:37:01.000-05:00",
+    "title": "Docker with IPv6 and Network Isolation",
+    "url": "https://battlepenguin.com/tech/docker-with-ipv6-and-network-isolation",
+    "score": 1,
+    "flags": 0,
+    "comment_count": 0,
+    "description": "",
+    "comments_url": "https://lobste.rs/s/oejaze/docker_with_ipv6_network_isolation",
+    "submitter_user": {
+      "username": "djsumdog",
+      "created_at": "2017-08-09T11:25:47.000-05:00",
+      "is_admin": false,
+      "about": "Mastodon: @djsumdog@hitchhiker.social\r\n\r\nWebsite: https://battlepenguin.com",
+      "is_moderator": false,
+      "karma": 2301,
+      "avatar_url": "/avatars/djsumdog-100.png",
+      "invited_by_user": "codebam",
+      "keybase_signatures": [
+        {
+          "kb_username": "djsumdog",
+          "sig_hash": "6f1fadfe49caa6509d02bad7a12fce7d5f2d4ad1d3ef440dd2e2ff82994e7a580f"
+        }
+      ]
+    },
+    "tags": [
+      "devops",
+      "networking"
+    ]
+  },
+  {
     "short_id": "wjd7tu",
     "short_id_url": "https://lobste.rs/s/wjd7tu",
     "created_at": "2021-08-30T09:35:47.000-05:00",
     "title": "What are you doing this week?",
     "url": "",
-    "score": 1,
+    "score": 4,
     "flags": 0,
-    "comment_count": 1,
+    "comment_count": 4,
     "description": "<p>What are you doing this week? Feel free to share!</p>\n<p>Keep in mind it’s OK to do nothing at all, too.</p>\n",
     "comments_url": "https://lobste.rs/s/wjd7tu/what_are_you_doing_this_week",
     "submitter_user": {
@@ -16,7 +100,7 @@
       "is_admin": false,
       "about": "Compulsive Geek, Ale Connoisseur, Occasionally Responsible Adult.",
       "is_moderator": false,
-      "karma": 6469,
+      "karma": 6472,
       "avatar_url": "/avatars/caius-100.png",
       "invited_by_user": "lauris",
       "github_username": "caius",
@@ -33,8 +117,8 @@
     "created_at": "2021-08-30T09:35:37.000-05:00",
     "title": "STOP WAITING FOR GODOT",
     "url": "https://itch.io/jam/stop-waiting-for-godot",
-    "score": 1,
-    "flags": 0,
+    "score": 0,
+    "flags": 2,
     "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/eb9ku9/stop_waiting_for_godot",
@@ -44,7 +128,7 @@
       "is_admin": false,
       "about": "seg_lol@protonmail.com",
       "is_moderator": false,
-      "karma": 123,
+      "karma": 122,
       "avatar_url": "/avatars/seg_lol-100.png",
       "invited_by_user": "animatronic"
     },
@@ -59,7 +143,7 @@
     "created_at": "2021-08-30T09:23:02.000-05:00",
     "title": "Phoenix 1.6.0-rc.0 Released",
     "url": "https://www.phoenixframework.org/blog/phoenix-1.6-released",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -70,7 +154,7 @@
       "is_admin": false,
       "about": "https://twitter.com/yonkeltron",
       "is_moderator": false,
-      "karma": 1588,
+      "karma": 1589,
       "avatar_url": "/avatars/yonkeltron-100.png",
       "invited_by_user": "rocx",
       "github_username": "yonkeltron",
@@ -88,7 +172,7 @@
     "created_at": "2021-08-30T08:51:38.000-05:00",
     "title": "Rust for Data Science: Tutorial 1",
     "url": "https://dev.to/davidedelpapa/rust-for-data-science-tutorial-1-4g5j",
-    "score": 1,
+    "score": 2,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -99,7 +183,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2082,
+      "karma": 2085,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -113,7 +197,7 @@
     "created_at": "2021-08-30T08:40:17.000-05:00",
     "title": "Hexagonal architecture in Rust #1",
     "url": "https://alexis-lozano.com/hexagonal-architecture-in-rust-1/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 2,
     "description": "",
@@ -124,7 +208,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2082,
+      "karma": 2085,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -138,7 +222,7 @@
     "created_at": "2021-08-30T08:38:45.000-05:00",
     "title": "Reflective Towers of Interpreters",
     "url": "https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -149,7 +233,7 @@
       "is_admin": false,
       "about": "Soon we will all have special names... names designed to make the cathode ray tube resonate.",
       "is_moderator": false,
-      "karma": 82575,
+      "karma": 82579,
       "avatar_url": "/avatars/calvin-100.png",
       "invited_by_user": "nbyouri",
       "github_username": "NattyNarwhal"
@@ -164,7 +248,7 @@
     "created_at": "2021-08-30T08:36:06.000-05:00",
     "title": "Data-first API design",
     "url": "https://cuddly-octo-palm-tree.com/posts/2021-08-29-data-api/",
-    "score": 3,
+    "score": 4,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -175,7 +259,7 @@
       "is_admin": false,
       "about": "Ultrafast spectroscopy by day, programming by night",
       "is_moderator": false,
-      "karma": 587,
+      "karma": 588,
       "avatar_url": "/avatars/zmitchell-100.png",
       "invited_by_user": "btbytes"
     },
@@ -200,7 +284,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2082,
+      "karma": 2085,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -214,7 +298,7 @@
     "created_at": "2021-08-30T08:09:52.000-05:00",
     "title": "zkat/miette: Fancy upgrade to std: :Error",
     "url": "https://github.com/zkat/miette",
-    "score": 2,
+    "score": 3,
     "flags": 0,
     "comment_count": 0,
     "description": "",
@@ -225,7 +309,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2082,
+      "karma": 2085,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -251,7 +335,7 @@
       "is_admin": false,
       "about": "Dad. Tinkerer. Software developer. he/they.",
       "is_moderator": false,
-      "karma": 2082,
+      "karma": 2085,
       "avatar_url": "/avatars/napkindrawing-100.png",
       "invited_by_user": "howdoipython"
     },
@@ -266,9 +350,9 @@
     "created_at": "2021-08-30T08:07:28.000-05:00",
     "title": "Why Lying About Storage Products Is Bad: An IBM DeskStar Story",
     "url": "https://www.extremetech.com/computing/326292-why-lying-about-storage-products-is-bad-an-ibm-deskstar-story",
-    "score": 5,
+    "score": 6,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/grwlhx/why_lying_about_storage_products_is_bad",
     "submitter_user": {
@@ -277,7 +361,7 @@
       "is_admin": false,
       "about": "Post-post-modern renaissance man\r\n",
       "is_moderator": false,
-      "karma": 835,
+      "karma": 836,
       "avatar_url": "/avatars/jkirchartz-100.png",
       "invited_by_user": "aleph",
       "github_username": "JKirchartz",
@@ -294,9 +378,9 @@
     "created_at": "2021-08-30T07:25:15.000-05:00",
     "title": "I’m not sure that UNIX won",
     "url": "https://rubenerd.com/im-not-sure-that-unix-won/",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 7,
+    "comment_count": 9,
     "description": "",
     "comments_url": "https://lobste.rs/s/ezqjv5/i_m_not_sure_unix_won",
     "submitter_user": {
@@ -305,7 +389,7 @@
       "is_admin": false,
       "about": "Ori Bernstein: http://eigenstate.org",
       "is_moderator": false,
-      "karma": 4331,
+      "karma": 4332,
       "avatar_url": "/avatars/orib-100.png",
       "invited_by_user": "vjoel"
     },
@@ -345,9 +429,9 @@
     "created_at": "2021-08-30T06:13:21.000-05:00",
     "title": "Firefox Containers for Increased Privacy",
     "url": "https://www.thechiefmeat.com/guides/containers.html",
-    "score": 4,
+    "score": 5,
     "flags": 0,
-    "comment_count": 3,
+    "comment_count": 5,
     "description": "",
     "comments_url": "https://lobste.rs/s/5kmvyh/firefox_containers_for_increased",
     "submitter_user": {
@@ -356,7 +440,7 @@
       "is_admin": false,
       "about": "Incoming lecturer (equivalent to an assistant prof. in the U.S.) at the University of Sydney\r\n\r\nhttp://rahul.gopinath.org\r\n\r\nTwitter: [@_rahulgopinath](https://twitter.com/_rahulgopinath)\r\n\r\n(I usually only browse lobste.rs and other social media on weekends. Hence I may not respond immediately to replies.)",
       "is_moderator": false,
-      "karma": 1078,
+      "karma": 1079,
       "avatar_url": "/avatars/vrthra-100.png",
       "invited_by_user": "derek-jones",
       "twitter_username": "_rahulgopinath"
@@ -397,9 +481,9 @@
     "created_at": "2021-08-30T04:46:23.000-05:00",
     "title": "Go is pass-by-value — but it might not always feel like it",
     "url": "https://neilalexander.dev/2021/08/29/go-pass-by-value.html",
-    "score": 7,
+    "score": 8,
     "flags": 0,
-    "comment_count": 0,
+    "comment_count": 1,
     "description": "",
     "comments_url": "https://lobste.rs/s/lfidmh/go_is_pass_by_value_it_might_not_always_feel",
     "submitter_user": {
@@ -408,7 +492,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 349,
+      "karma": 350,
       "avatar_url": "/avatars/neilalexander-100.png",
       "invited_by_user": "Famicoman",
       "github_username": "neilalexander"
@@ -423,7 +507,7 @@
     "created_at": "2021-08-30T03:51:54.000-05:00",
     "title": "Software Development Waste",
     "url": "https://neverworkintheory.org/2021/08/29/software-development-waste.html",
-    "score": 11,
+    "score": 14,
     "flags": 0,
     "comment_count": 1,
     "description": "",
@@ -434,7 +518,7 @@
       "is_admin": false,
       "about": "Scheme enthusiast from the Netherlands. Core maintainer of CHICKEN Scheme. Check out [my blog](https://www.more-magic.net/) for more information.",
       "is_moderator": false,
-      "karma": 2801,
+      "karma": 2804,
       "avatar_url": "/avatars/sjamaan-100.png",
       "invited_by_user": "evhan"
     },
@@ -448,7 +532,7 @@
     "created_at": "2021-08-30T00:06:39.000-05:00",
     "title": "Dotplan Online: A modern, decentralized re-imagining of the Unix plan file",
     "url": "https://dotplan.online",
-    "score": 6,
+    "score": 8,
     "flags": 0,
     "comment_count": 4,
     "description": "",
@@ -459,7 +543,7 @@
       "is_admin": false,
       "about": "",
       "is_moderator": false,
-      "karma": 178,
+      "karma": 180,
       "avatar_url": "/avatars/Rudism-100.png",
       "invited_by_user": "cgrinds"
     },
@@ -578,85 +662,6 @@
     },
     "tags": [
       "unix"
-    ]
-  },
-  {
-    "short_id": "yrwqow",
-    "short_id_url": "https://lobste.rs/s/yrwqow",
-    "created_at": "2021-08-29T16:40:53.000-05:00",
-    "title": "Accelerating ML Recommendation with over a thousand RISC-V Processors",
-    "url": "https://www.esperanto.ai/wp-content/uploads/2021/08/HC2021.Esperanto.Ditzel.Final_.pdf",
-    "score": 4,
-    "flags": 0,
-    "comment_count": 0,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/yrwqow/accelerating_ml_recommendation_with",
-    "submitter_user": {
-      "username": "dbremner",
-      "created_at": "2012-09-06T19:01:18.000-05:00",
-      "is_admin": false,
-      "about": "C, C++, C#, and recently Python, Swift, and Objective-C.  \r\nLearning Scala.",
-      "is_moderator": false,
-      "karma": 2100,
-      "avatar_url": "/avatars/dbremner-100.png",
-      "invited_by_user": "pushcx",
-      "github_username": "dbremner"
-    },
-    "tags": [
-      "hardware",
-      "pdf"
-    ]
-  },
-  {
-    "short_id": "eppfwf",
-    "short_id_url": "https://lobste.rs/s/eppfwf",
-    "created_at": "2021-08-29T15:00:21.000-05:00",
-    "title": "Big company tale: six months for a list and a button",
-    "url": "https://rachelbythebay.com/w/2021/08/28/big/",
-    "score": 33,
-    "flags": 0,
-    "comment_count": 8,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/eppfwf/big_company_tale_six_months_for_list",
-    "submitter_user": {
-      "username": "ajdecon",
-      "created_at": "2012-09-04T12:22:18.000-05:00",
-      "is_admin": false,
-      "about": "I build supercomputers. Currently located in Denver, CO.",
-      "is_moderator": false,
-      "karma": 691,
-      "avatar_url": "/avatars/ajdecon-100.png",
-      "invited_by_user": "roryokane",
-      "twitter_username": "ajdecon"
-    },
-    "tags": [
-      "culture"
-    ]
-  },
-  {
-    "short_id": "d7ztvr",
-    "short_id_url": "https://lobste.rs/s/d7ztvr",
-    "created_at": "2021-08-29T13:19:02.000-05:00",
-    "title": "wuffs: Wrangling Untrusted File Formats Safely",
-    "url": "https://github.com/google/wuffs",
-    "score": 10,
-    "flags": 1,
-    "comment_count": 2,
-    "description": "",
-    "comments_url": "https://lobste.rs/s/d7ztvr/wuffs_wrangling_untrusted_file_formats",
-    "submitter_user": {
-      "username": "GrayGnome",
-      "created_at": "2014-04-15T02:38:02.000-05:00",
-      "is_admin": false,
-      "about": "",
-      "is_moderator": false,
-      "karma": 1530,
-      "avatar_url": "/avatars/GrayGnome-100.png",
-      "invited_by_user": "kev009"
-    },
-    "tags": [
-      "plt",
-      "security"
     ]
   }
 ]
